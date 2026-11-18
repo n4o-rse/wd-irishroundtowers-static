@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "attacked by Vikings"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q355$BE32E8A7-9ADF-535F-B493-3B4585046F53",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q142082031"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q142082031"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "narrative motif in Irish folklore about Vikings attacking settlements, mostly monastic sites"
+    }
+  },
+  "id": "Q355",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "attacked by Danes"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

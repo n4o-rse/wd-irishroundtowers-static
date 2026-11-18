@@ -1,0 +1,79 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "round arch"
+      },
+      {
+        "language": "en",
+        "value": "semi-circular arch"
+      },
+      {
+        "language": "en",
+        "value": "arcs renaissance"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q280$CCCFA138-A20E-5FEF-8CC1-A5220DD0A832",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1898821"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q1898821"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Bauteil"
+    },
+    "en": {
+      "language": "en",
+      "value": "arches with intradoses that are full semicircles; shape common in ancient Roman architecture"
+    }
+  },
+  "id": "Q280",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Rundbogen"
+    },
+    "en": {
+      "language": "en",
+      "value": "semicircular arch"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

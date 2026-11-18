@@ -1,0 +1,113 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "möglicherweise"
+      },
+      {
+        "language": "de",
+        "value": "vielleicht"
+      },
+      {
+        "language": "de",
+        "value": "eventuell"
+      },
+      {
+        "language": "de",
+        "value": "unter Umständen"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "possible"
+      },
+      {
+        "language": "en",
+        "value": "perhaps"
+      },
+      {
+        "language": "en",
+        "value": "maybe"
+      },
+      {
+        "language": "en",
+        "value": "?"
+      },
+      {
+        "language": "en",
+        "value": "potentially"
+      },
+      {
+        "language": "en",
+        "value": "may"
+      },
+      {
+        "language": "en",
+        "value": "questionably"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q341$B0A20AC2-F4A9-503F-B471-CACCEF151003",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q30230067"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q30230067"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "zu benutzen mit Qualifikator (etwa P1480), um kennzuzeichnen, dass die Behauptung unsicher ist"
+    },
+    "en": {
+      "language": "en",
+      "value": "for use with qualifier P1480 or P5102"
+    }
+  },
+  "id": "Q341",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "möglich"
+    },
+    "en": {
+      "language": "en",
+      "value": "possibly"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Sheela Na Gig"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q279$7C3D7D6E-DC82-5E8A-81D9-4E703EE0312A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q509424"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q509424"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Steinreliefs mit apotropäisch ihre Vulva präsentierenden weiblichen Figuren"
+    },
+    "en": {
+      "language": "en",
+      "value": "sculpture motif"
+    }
+  },
+  "id": "Q279",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Sheela-na-Gig"
+    },
+    "en": {
+      "language": "en",
+      "value": "sheela na gig"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

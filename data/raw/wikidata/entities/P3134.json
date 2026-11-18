@@ -1,0 +1,1900 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "تريب أدفيسور"
+      }
+    ],
+    "be-tarask": [
+      {
+        "language": "be-tarask",
+        "value": "ідэнтыфікатар Trip Advisor"
+      }
+    ],
+    "cy": [
+      {
+        "language": "cy",
+        "value": "TripAdvisor"
+      }
+    ],
+    "de": [
+      {
+        "language": "de",
+        "value": "TripAdvisor-ID"
+      }
+    ],
+    "el": [
+      {
+        "language": "el",
+        "value": "κωδικός αναφοράς TripAdvisor"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Trip Advisor ID"
+      },
+      {
+        "language": "en",
+        "value": "identifier Tripadvisor"
+      }
+    ],
+    "en-gb": [
+      {
+        "language": "en-gb",
+        "value": "Trip Advisor ID"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "TripAdvisor ID"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "TripAdvisor ID"
+      }
+    ],
+    "ig": [
+      {
+        "language": "ig",
+        "value": "Trip Advisor ID"
+      }
+    ],
+    "ja": [
+      {
+        "language": "ja",
+        "value": "トリップアドバイザーID"
+      }
+    ],
+    "ko": [
+      {
+        "language": "ko",
+        "value": "트립어드바이저 식별자"
+      },
+      {
+        "language": "ko",
+        "value": "트립어드바이저 장소 ID"
+      }
+    ],
+    "ms": [
+      {
+        "language": "ms",
+        "value": "ID Trip Advisor"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "идентификатор Tripadvisor"
+      }
+    ],
+    "sl": [
+      {
+        "language": "sl",
+        "value": "ID TripAdvisor"
+      },
+      {
+        "language": "sl",
+        "value": "identifikator TripAdvisor"
+      },
+      {
+        "language": "sl",
+        "value": "označevalec TripAdvisor"
+      },
+      {
+        "language": "sl",
+        "value": "koda TripAdvisor"
+      }
+    ],
+    "tr": [
+      {
+        "language": "tr",
+        "value": "Trip Advisor kimliği"
+      }
+    ],
+    "uk": [
+      {
+        "language": "uk",
+        "value": "код TripAdvisor"
+      }
+    ],
+    "zh": [
+      {
+        "language": "zh",
+        "value": "貓途鷹ID"
+      },
+      {
+        "language": "zh",
+        "value": "猫途鹰ID"
+      },
+      {
+        "language": "zh",
+        "value": "Tripadvisor編號"
+      }
+    ],
+    "zh-hant": [
+      {
+        "language": "zh-hant",
+        "value": "Tripadvisor編號"
+      }
+    ],
+    "zh-tw": [
+      {
+        "language": "zh-tw",
+        "value": "貓途鷹編號"
+      },
+      {
+        "language": "zh-tw",
+        "value": "貓途鷹識別碼"
+      }
+    ]
+  },
+  "claims": {
+    "P13786": [
+      {
+        "id": "P3134$d5cc35e2-4a76-4aa1-a841-cc0b66dbc5c1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "contact:tripadvisor"
+          },
+          "hash": "e49571d306ab11b47f802c191b7b8271f1524078",
+          "property": "P13786",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P14692": [
+      {
+        "id": "P3134$5A62B591-0C12-4AD4-BD85-0131080073D1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q9603"
+          },
+          "hash": "f91707053da2792124c72ef1ce4f20d64bee1cfd",
+          "property": "P14692",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1552": [
+      {
+        "id": "P3134$A71BF56B-D3DD-484F-BE4C-1D813C8B1F92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93868746",
+              "numeric-id": 93868746
+            }
+          },
+          "hash": "4f44439ebe5b7580f90858e65a576ce4d66c183e",
+          "property": "P1552",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1629": [
+      {
+        "id": "P3134$f774c569-4bf7-bb28-b76b-af07eeaf68d0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1770710",
+              "numeric-id": 1770710
+            }
+          },
+          "hash": "edf10a1cbc04b49ec3fbc902baffe901effa5c45",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1630": [
+      {
+        "id": "P3134$b0936b5e-4a05-2f0f-2a2a-b669375c27c1",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.tripadvisor.com/$1"
+          },
+          "hash": "e599f10d95923bccb5c3a6b1806654c5803dd85d",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q1860",
+                  "numeric-id": 1860
+                }
+              },
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P3134$13643f66-42d1-cf36-ec40-51e3f86aba06",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P3607",
+              "numeric-id": 3607
+            }
+          },
+          "hash": "a1bcd582204c2397a61cad475dac8bcc22a325d4",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3134$58092c57-4b39-efb4-ffb7-0f5fcd69bf0f",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P3714",
+              "numeric-id": 3714
+            }
+          },
+          "hash": "e292fc76bd395e78740fbf8ed75b8452522f8c2e",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3134$aa51fb6f-46f5-0c04-ea3a-8bd1bb859fb3",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P3898",
+              "numeric-id": 3898
+            }
+          },
+          "hash": "e1bb1ec73c9bdea23646b246041f23b3ac66cb0f",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3134$1b6122fe-4580-ac5f-14b4-f6a019c34104",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P5651",
+              "numeric-id": 5651
+            }
+          },
+          "hash": "6f7df2fbf4f157333df1cac4d102795bf554941a",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "P3134$10e59677-4e36-3ff4-151f-8bde37248b75",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30",
+              "numeric-id": 30
+            }
+          },
+          "hash": "be4c6eafa2984964f04be85667263f5642ba1a72",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P3134$ddedbd54-404c-1058-875d-25d1b5e49744",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q26389271",
+              "numeric-id": 26389271
+            }
+          },
+          "hash": "99f4228f1553684af028d36f2e5c27a1e8059e3e",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P3134": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "4037786"
+              },
+              "hash": "5ea246db8d615664f6e911db8a7f4ea1cfd4463f",
+              "property": "P3134",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P3134"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3134$210a24e3-46ce-8bbe-9746-d160196a8c49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q4399",
+              "numeric-id": 4399
+            }
+          },
+          "hash": "7ef873929e5abac3ad300b9b189d795c15f13860",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P3134": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "324092"
+              },
+              "hash": "272d633aee0192baebb821756c3a6c716697180f",
+              "property": "P3134",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P3134"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3134$99582783-49b6-a7c2-fa06-8834a3708e7f",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10298625",
+              "numeric-id": 10298625
+            }
+          },
+          "hash": "7e1c618b75eb75dfdf058b90bbdd1eb3a95192e7",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P3134": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "306312"
+              },
+              "hash": "1ba54fe6eae74fb2aa58f04ead7a4882e459821b",
+              "property": "P3134",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P3134"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3134$a77745bc-47ca-c1fd-ea5b-15a3952497dc",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q84",
+              "numeric-id": 84
+            }
+          },
+          "hash": "de41cfc9293f4df59cd80bde9a8db346424a43bc",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P3134": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "186338"
+              },
+              "hash": "71cb6a0cfb6cb40bddf9606821c3f2425c4e42b0",
+              "property": "P3134",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P3134"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3134$3be7001c-413a-e51c-4610-1aa45a4af16f",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1820547",
+              "numeric-id": 1820547
+            }
+          },
+          "hash": "6b57d6205beafb34a4a80187b85bcba3f50df482",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P3134": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "1860780"
+              },
+              "hash": "671cd85e8347b48d6d22836e972527a4a851c41f",
+              "property": "P3134",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P3134"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1896": [
+      {
+        "id": "P3134$5aa4c583-4141-053e-7367-9dd39b574dba",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.tripadvisor.com/"
+          },
+          "hash": "2d5c9f705afd8d0fd5e94a3e7b89bbeb22b1d7d1",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q1860",
+                  "numeric-id": 1860
+                }
+              },
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P3134$36C8B35B-DABB-4D08-8895-CFD1B0EF7B25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2305": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q29934200",
+                  "numeric-id": 29934200
+                }
+              },
+              "hash": "76a83209b6ab9e5ea1a1dd8e2986281a5a0479d7",
+              "property": "P2305",
+              "snaktype": "value"
+            }
+          ],
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21502408",
+                  "numeric-id": 21502408
+                }
+              },
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2305",
+          "P2316"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3134$8CCE960C-711C-41D5-A062-1F8DA2D9EFF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21502408",
+                  "numeric-id": 21502408
+                }
+              },
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ],
+          "P5314": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54828448",
+                  "numeric-id": 54828448
+                }
+              },
+              "hash": "a0202111cb525ed31611bf926974b74a2419b8ab",
+              "property": "P5314",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54828450",
+                  "numeric-id": 54828450
+                }
+              },
+              "hash": "9031ca220e943517fb8d671c4ad4f3f1a25b6a0b",
+              "property": "P5314",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5314",
+          "P2316"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3134$9FDBAB8D-B1CF-49DC-A9DD-3EF164F9164E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1793": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "[1-9][0-9]{0,7}"
+              },
+              "hash": "15b96c467e35b4fe72ae82decd7c3fae112373ee",
+              "property": "P1793",
+              "snaktype": "value"
+            }
+          ],
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21502408",
+                  "numeric-id": 21502408
+                }
+              },
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1793",
+          "P2316"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3134$868B4A76-6DB4-410C-9749-EBB4ED29D904",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3134$fa5473af-4a3b-a199-1fd6-cc0f74412050",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503247",
+              "numeric-id": 21503247
+            }
+          },
+          "hash": "fede01024807ea412f925e250a71651eda314b38",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P31",
+                  "numeric-id": 31
+                }
+              },
+              "hash": "57e0c059ce6c4f38e5ffd260c63684eb7c6e0e87",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3134$1aafcef1-4e85-a998-a6a7-bf21feacf9c6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503247",
+              "numeric-id": 21503247
+            }
+          },
+          "hash": "fede01024807ea412f925e250a71651eda314b38",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2303": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q46",
+                  "numeric-id": 46
+                }
+              },
+              "hash": "c9307dc5781c72e4b751203d06d8f6cb833d87fe",
+              "property": "P2303",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q51",
+                  "numeric-id": 51
+                }
+              },
+              "hash": "80d495754e4e5437a429147998e7349952b04626",
+              "property": "P2303",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q48",
+                  "numeric-id": 48
+                }
+              },
+              "hash": "3e9e38ff10c4202738359fb70b297786715217ca",
+              "property": "P2303",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q15",
+                  "numeric-id": 15
+                }
+              },
+              "hash": "149d186242d18cd88b7045a23d32d88aeafc556f",
+              "property": "P2303",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q7204",
+                  "numeric-id": 7204
+                }
+              },
+              "hash": "8eac9008e6d996d0b3185376273e400ef5bc0741",
+              "property": "P2303",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q18",
+                  "numeric-id": 18
+                }
+              },
+              "hash": "bbb709d9c01de85a04dad5cbdb812a22987ae499",
+              "property": "P2303",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q12355425",
+                  "numeric-id": 12355425
+                }
+              },
+              "hash": "98a3adc46ac1100383828e7700cf8242ed892304",
+              "property": "P2303",
+              "snaktype": "value"
+            }
+          ],
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P17",
+                  "numeric-id": 17
+                }
+              },
+              "hash": "3a4317718b867e82f0d1661aab306cbb64c65bdb",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306",
+          "P2303"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3134$d7006b3e-4bae-4fe0-8961-1efdc024fa0a",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2303": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q5092894",
+                  "numeric-id": 5092894
+                }
+              },
+              "hash": "0080933ffd9c4212ffdb1e71fd223c5c6f815122",
+              "property": "P2303",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q104658109",
+                  "numeric-id": 104658109
+                }
+              },
+              "hash": "34553b6f52239af2fc99a45c62bfa3c385bc953b",
+              "property": "P2303",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q124310978",
+                  "numeric-id": 124310978
+                }
+              },
+              "hash": "bc4d6ae2e814235ea0b0feddcfab0e5d10bfe75e",
+              "property": "P2303",
+              "snaktype": "value"
+            }
+          ],
+          "P4155": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P1810",
+                  "numeric-id": 1810
+                }
+              },
+              "hash": "5f4ca46e0dd52a7ab8d7c98c1b3ea1e62718f4cc",
+              "property": "P4155",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2303",
+          "P4155"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "960e6b292bd27ea57d03d78941d12157160b8213",
+            "snaks": {
+              "P2306": [
+                {
+                  "datatype": "wikibase-property",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "property",
+                      "id": "P1810",
+                      "numeric-id": 1810
+                    }
+                  },
+                  "hash": "d53aa6fc223b6091453ce5ea594132f378cc4994",
+                  "property": "P2306",
+                  "snaktype": "value"
+                }
+              ],
+              "P5997": [
+                {
+                  "datatype": "string",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Q3142926&diff=prev&oldid=2443868262"
+                  },
+                  "hash": "72e99464715c05af61caf6141b9fab3149daa398",
+                  "property": "P5997",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P2306",
+              "P5997"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P2378": [
+      {
+        "id": "P3134$517e92fb-4e5a-3bc1-c6a0-ff37f307976e",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1770710",
+              "numeric-id": 1770710
+            }
+          },
+          "hash": "f4d893e10829dec7275b0374e122ee048d314907",
+          "property": "P2378",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2559": [
+      {
+        "id": "P3134$0d595887-4095-ff6c-ee18-e68120e088dc",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "The ID is from the URL of a place's page, specifically the digits following the \"-d\" if the page has one, or following the \"-g\" if not. Examples where Xs are digits: gXXX-dXXX or Tourism-gXXX."
+            }
+          },
+          "hash": "ce4322e0fc865cc44ce63c109189faa5bf67c608",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3134$fdd3360f-4475-c59a-f1f9-6e5fdca9ff4f",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "fr",
+              "text": "L'identifiant provient de l'URL de la page d'un lieu, en particulier les chiffres suivant le \"-d\" si la page en a un, ou suivant le \"-g\" sinon. Exemples où les X sont des chiffres: gXXX-dXXX ou Tourism-gXXX."
+            }
+          },
+          "hash": "3dde6a2de152557593f5c7b251e7ab01c0fcb6b2",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3134$01d8fe08-4752-abff-d461-fa5ee067e66a",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "it",
+              "text": "L'ID di un'attrazione è contenuto nell'URL, in dettaglio sono le cifre che seguono il \"-d\" se sono presenti, altrimenti le cifre che seguono \"-g\". Un paio di esempi sono le X in: gXXX-dXXX oppure Tourism-gXXX."
+            }
+          },
+          "hash": "b169f55c981d39eeab1d9ba2f520cba0d74cd9ea",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3134$74496a85-4620-2cc2-f977-d31b4e7b2371",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "de",
+              "text": "Die ID stammt aus der URL der Seite eines Ortes, genauer aus den Ziffern nach dem „-d“, wenn dieses vorhanden ist, oder nach dem „-g“, wenn nicht. Beispiele, bei denen Xs Ziffern sind: gXXX-dXXX oder Tourism-gXXX."
+            }
+          },
+          "hash": "0e5da88635fecdabb38d284dcc07ea3fdfb0d614",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2875": [
+      {
+        "id": "P3134$7150e091-4d21-5cb5-24aa-f788048834fd",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29110148",
+              "numeric-id": 29110148
+            }
+          },
+          "hash": "975f9acd9f39182bac951d04e51c774631543ea7",
+          "property": "P2875",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2910": [
+      {
+        "id": "P3134$5eef4056-457a-b112-8587-b79813bb005a",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cib-tripadvisor (CoreUI Icons v1.0.0).svg"
+          },
+          "hash": "10483cfaf9dc08dd890546269f837529852d1a51",
+          "property": "P2910",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P3134$c57a312e-4264-d6f5-9dae-dda20133c408",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19829908",
+              "numeric-id": 19829908
+            }
+          },
+          "hash": "569c6a016580db212243cac4f64c06bea46d1d37",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3134$7e72c8cc-428c-9e29-481d-18e0cfbfa953",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62606615",
+              "numeric-id": 62606615
+            }
+          },
+          "hash": "f2afdb35d61402e303e731e8a29c438ebd61adf7",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3134$2c228476-44a8-9984-17c5-ab1c27970980",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29110152",
+              "numeric-id": 29110152
+            }
+          },
+          "hash": "8fb1e5be95c9e60b89b910ca5928207385e98264",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3134$b79660a7-4653-824f-a2ca-49b4ee7d37d6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q102357699",
+              "numeric-id": 102357699
+            }
+          },
+          "hash": "befa066e5d4caa1eaa26a3341bb3aabf2b8232dc",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3134$26f2fb52-41a8-3506-0d41-18cf69076516",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56505345",
+              "numeric-id": 56505345
+            }
+          },
+          "hash": "ad19021639c7a699a9e980e90852672a15c3bb76",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3134$7e4f8110-421e-656b-cb4c-ca7b34a7f645",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62589320",
+              "numeric-id": 62589320
+            }
+          },
+          "hash": "d682723986560b4d9c497ccbd1ba947ea04a1675",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P3134$202EA5E9-8CB1-46A6-966F-BDEFF670DB0D",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/TripAdvisor_ID"
+          },
+          "hash": "7ed0845708018f9c2f3bf3b31f4ce2bf0a420818",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P518": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q11398090",
+                  "numeric-id": 11398090
+                }
+              },
+              "hash": "5ab602e8c8952f10383228018d36cfaf078f65fa",
+              "property": "P518",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P518"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3134$d86cf54c-4d69-dc54-cf8b-6a68f26697ae",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/TripAdvisor_ID_2"
+          },
+          "hash": "0f249a1f1537a9320c139100cf5e00354a2c6ba7",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P518": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q1150070",
+                  "numeric-id": 1150070
+                }
+              },
+              "hash": "b8f491f72461f23a8ccc11eb924dc7ec14a8de36",
+              "property": "P518",
+              "snaktype": "value"
+            }
+          ],
+          "P7452": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q71533355",
+                  "numeric-id": 71533355
+                }
+              },
+              "hash": "4723a3e25f86a03c9c3c2ee4a442acda1100f53f",
+              "property": "P7452",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P518",
+          "P7452"
+        ],
+        "rank": "preferred",
+        "type": "statement"
+      }
+    ],
+    "P4354": [
+      {
+        "id": "P3134$83377d6c-4cb2-bc22-1357-29817c4a359f",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.tripadvisor.com/Search?q=$1&searchNearby=false"
+          },
+          "hash": "cdfdfa56e6b2c87fbf9f0ae43e1d82651b9cc8db",
+          "property": "P4354",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P3134$ba2ac709-42ef-aa63-0a71-e26a51236f3d",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/(?:www\\.)?tripadvisor\\.[a-z-]+\\/[\\w-]+(?:d|g)(\\d+)"
+          },
+          "hash": "a07c100ce133b437e153a8cacc8cefd5612a8986",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P10999": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "^(.+) \\([^\\)]+\\) - All You Need to Know BEFORE You Go$"
+              },
+              "hash": "f4c3e4d1aa7f2b25726d8047f6c9e8d6203195ce",
+              "property": "P10999",
+              "snaktype": "value"
+            }
+          ],
+          "P13337": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "tripadvisor.u"
+              },
+              "hash": "36d44a34d5fd794d89a27d3c2aa618e380523b77",
+              "property": "P13337",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P10999",
+          "P13337"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3134$fd9f4061-4df9-c2e3-7994-7b8a54c7e0b9",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/(?:www\\.)?tripadvisor\\.[a-z-]+\\/(\\d+)"
+          },
+          "hash": "d7d2bf703bc304a2ef51820c8b5925e060135d24",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P13337": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "tripadvisor.m"
+              },
+              "hash": "6f7605e99320be058a867830de400d17b4ce9ce6",
+              "property": "P13337",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P13337"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3134$fd7bad8f-4245-d471-0996-cb79e759b3e7",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/(?:www\\.)?tripadvisor\\.(?:[a-z-.]+)\\/[\\w-]+(?:[dg])(\\d+)"
+          },
+          "hash": "01fb2950ddc4ff66765fa062acc08fc626a193e5",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2916": [
+            {
+              "datatype": "monolingualtext",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "en",
+                  "text": "The g-# is the town/city; the second d-# is the property ID"
+                }
+              },
+              "hash": "520b18ba5427a11a713dd6fe3b8eeef14e047ed3",
+              "property": "P2916",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2916"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "3e48dece15d1c18c8fabdb9acba1703309b54170",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.tripadvisor.co.uk/ShowTopic-g1-i12105-k10956066-Finding_accomodation_by_ID-Tripadvisor_Support.html&usg=AOvVaw36Ilji5S2ELh5d-MxMltNz"
+                  },
+                  "hash": "d72cb2731bb252fd886be7c152e935819b212857",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P3134$fe5be8f0-41b7-7244-3c3c-78134b81724b",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1770710",
+              "numeric-id": 1770710
+            }
+          },
+          "hash": "5d28d080e1bab24d8e4cc332d310a7c20f415cc4",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "معرّف مكان (منطقة ، فندق ، مطعم ، معلم جذب) ، في TripAdvisor"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар мясьціны (вобласьці, гатэлю, рэстарану, славутасьці) ў TripAdvisor"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "dynodwr ar gyfer lle (gwesty, bwyty, atyniad) ar wefan TripAdvisor"
+    },
+    "de": {
+      "language": "de",
+      "value": "Identifikator eines Ortes (Region, Hotel, Restaurant, Attraktion) auf TripAdvisor"
+    },
+    "en": {
+      "language": "en",
+      "value": "identifier of a place (region, hotel, restaurant, attraction), in TripAdvisor"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "identifier of a place (region, hotel, restaurant, attraction), in TripAdvisor"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "identigilo de ejo aŭ loko en TripAdvisor-retejo"
+    },
+    "es": {
+      "language": "es",
+      "value": "identificador de un lugar (región, hotel, restaurante, atracción) en TripAdvisor"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant numérique pour un lieu (hôtel, restaurant, attraction, site touristique) sur TripAdvisor"
+    },
+    "id": {
+      "language": "id",
+      "value": "pengidentifikasi tempat (daerah, hotel, rumah makan, tempat wisata) di TripAdvisor"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "njirimara nke ebe (mpaghara, ụlọ oriri na ọṅụṅụ, ụlọ oriri na ọṅụṅụ, mma), na TripAdvisor"
+    },
+    "it": {
+      "language": "it",
+      "value": "codice di un luogo sul sito di TripAdvisor"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "トリップアドバイザーの場所（地域、ホテル、レストラン、アトラクション）の識別子"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "항목 주제인 장소에 대해 트립어드바이저(TripAdvisor)에서 사용하는 식별자"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "identifikator for et sted (område, hotell, restaurant, attraksjon) på TripAdvisor"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "identificador de um local no TripAdvisor"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "identificador de um local no TripAdvisor"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "digitalni identifikator lokacije (hotela, restavracije, znamenitosti, turističnega kraja) na portalu TripAdvisor"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "TripAdvisor'da yer alan bir yer için tanımlayıcı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор місця (район, готель, ресторан, атракціон) у TripAdvisor"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "旅游网站猫途鹰（TripAdvisor）中地点标识符"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "旅遊資訊網站Tripadvisor的編號"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "旅遊資訊網站Tripadvisor的編號"
+    }
+  },
+  "id": "P3134",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "مُعرِّف ناصح الرحلات (TripAdvisor)"
+    },
+    "az": {
+      "language": "az",
+      "value": "TripAdvisor ID"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар TripAdvisor"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ট্রিপঅ্যাডভাইজর আইডি"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador TripAdvisor"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "dynodwr TripAdvisor"
+    },
+    "da": {
+      "language": "da",
+      "value": "TripAdvisor-ID"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "TripAdvisor ID"
+    },
+    "de": {
+      "language": "de",
+      "value": "TripAdvisor-Kennung"
+    },
+    "el": {
+      "language": "el",
+      "value": "αναγνωριστικό TripAdvisor"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tripadvisor ID"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "TripAdvisor ID"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "TripAdvisor-identigilo"
+    },
+    "es": {
+      "language": "es",
+      "value": "identificador TripAdvisor"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "TripAdvisor-tunniste"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant TripAdvisor"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "identificador TripAdvisor"
+    },
+    "he": {
+      "language": "he",
+      "value": "מזהה TripAdvisor"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "TripAdvisor-azonosító"
+    },
+    "id": {
+      "language": "id",
+      "value": "ID TripAdvisor"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "TripAdvisor ID"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo TripAdvisor"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "トリップアドバイザー識別子"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "트립어드바이저 ID"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "назнака на TripAdvisor"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "ID TripAdvisor"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "TripAdvisor-ID"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "TripAdvisor-identificatiecode"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator TripAdvisor"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "identificador no TripAdvisor"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "identificador no TripAdvisor"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "ID Tripadvisor"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "код TripAdvisor"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "TripAdvisor ID"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "oznaka TripAdvisor"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Трипадвајзор"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "TripAdvisor-ID"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "TripAdvisor kimliği"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "TripAdvisor идентификаторы"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор TripAdvisor"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "định danh TripAdvisor"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "貓途鷹識別碼"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "猫途鹰标识符"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "猫途鹰标识符"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "TripAdvisor ID"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "Tripadvisor識別碼"
+    }
+  },
+  "lastrevid": 2559912076,
+  "modified": "2026-10-23T08:21:51Z",
+  "ns": 120,
+  "pageid": 28692327,
+  "title": "Property:P3134",
+  "type": "property"
+}

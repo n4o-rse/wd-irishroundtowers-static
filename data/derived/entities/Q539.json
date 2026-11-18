@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Some notes on the early history and archaeology of Tullaherin"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q539$C968869D-BFDC-50DA-AB01-2F674807F482",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q136756309"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q136756309"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "wissenschaftlicher Artikel"
+    },
+    "en": {
+      "language": "en",
+      "value": "article about the monuments at Tullaherin, County Kilkenny"
+    }
+  },
+  "id": "Q539",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Conleth Manning, 'Some notes on the early history and archaeology of Tullaherin', in: In the Shadow of the Steeple (1996), pp. 19-31"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

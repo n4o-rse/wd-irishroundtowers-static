@@ -1,0 +1,401 @@
+{
+  "aliases": {},
+  "claims": {
+    "P10689": [
+      {
+        "id": "Q142094957$bfa0e93e-435b-9e96-88ab-2916e8b2a4ef",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1569538018"
+          },
+          "hash": "053d1e59ff8e4edae8ae478253b0edd66a1c0eef",
+          "property": "P10689",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P131": [
+      {
+        "id": "Q142094957$56037a78-4d94-6775-b405-d6617d2c7001",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104364253",
+              "numeric-id": 104364253
+            }
+          },
+          "hash": "a4ee6a43d0c8978306419317dcb1fec57f3b1803",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1343": [
+      {
+        "id": "Q142094957$81cb041f-40ec-7876-8595-b758ddb74015",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142116433",
+              "numeric-id": 142116433
+            }
+          },
+          "hash": "95f31ef9f6423d3cac8a8f1b2c1e16a1b28220b1",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142094957$d66bd4e6-403b-5152-78fd-8181180be870",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142116451",
+              "numeric-id": 142116451
+            }
+          },
+          "hash": "6668233ccdf2eb3f0b2923f03ccbb7f9527e25a1",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q142094957$ceafe24b-4380-72e8-725b-b3e1c129f9e7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142093467",
+              "numeric-id": 142093467
+            }
+          },
+          "hash": "0a7bcdb47ea4dc1eff75807f84d4b361503af889",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "145"
+              },
+              "hash": "ec6dd80559fa61b365649a9367c8233644f98876",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "Q142094957$08e37829-4947-aca3-9561-5e8af1e259b1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145",
+              "numeric-id": 145
+            }
+          },
+          "hash": "a44880420787fb348836dc51d3babc5227c4ef7e",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q142094957$887240a9-4830-b057-c35e-c67023e96669",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "County Fermanagh - Devenish Island - Round Tower foundation - Devenish I 20230304.jpg"
+          },
+          "hash": "0e542507b93ea892e1dcf2b830357f19cbc258d9",
+          "property": "P18",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1889": [
+      {
+        "id": "Q142094957$cd80e6c0-43d2-0de3-add5-cc7a2c4b5d34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141769232",
+              "numeric-id": 141769232
+            }
+          },
+          "hash": "3f3f776d6de9a98255d12a721f1232abfcde2e1c",
+          "property": "P1889",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2048": [
+      {
+        "id": "Q142094957$69458956-4c7e-1885-fcce-bbfdc555592c",
+        "mainsnak": {
+          "datatype": "quantity",
+          "datavalue": {
+            "type": "quantity",
+            "value": {
+              "amount": "+0.5",
+              "unit": "http://www.wikidata.org/entity/Q11573"
+            }
+          },
+          "hash": "d6eee2b8673685f6a2c8d2d84224f23893430311",
+          "property": "P2048",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b90b72b15025aefe6eff8172c310f4ed3c0c75e",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q142093467",
+                      "numeric-id": 142093467
+                    }
+                  },
+                  "hash": "9c80d91cab3edf2b656e1a12ee16a93614fc6ab1",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q142094957$a73bad1e-4b33-aee2-3426-fc07fa0ae125",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1335799",
+              "numeric-id": 1335799
+            }
+          },
+          "hash": "86c331714834839eb4b44ad91408a9d1dc2a314e",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P373": [
+      {
+        "id": "Q142094957$b01a82dd-49f2-a8ef-04fb-24ad62cadab4",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Remains of Round Tower, Devenish Island"
+          },
+          "hash": "49b29cb3b49964e9475ebb192b0766f11a52bc32",
+          "property": "P373",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5816": [
+      {
+        "id": "Q142094957$6cf845fe-4f31-510d-31f3-f22a26aa8cce",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56557159",
+              "numeric-id": 56557159
+            }
+          },
+          "hash": "36f5fb7a19d72021f218e796b092b00f5c167e47",
+          "property": "P5816",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b90b72b15025aefe6eff8172c310f4ed3c0c75e",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q142093467",
+                      "numeric-id": 142093467
+                    }
+                  },
+                  "hash": "9c80d91cab3edf2b656e1a12ee16a93614fc6ab1",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P625": [
+      {
+        "id": "Q142094957$705c0ea6-458a-3a73-f307-aaa2924b8cbc",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 54.3706369,
+              "longitude": -7.656139,
+              "precision": 1e-07
+            }
+          },
+          "hash": "6fa0d0c4c6c7a8f69efaa68dc2c44ee9f3a2e975",
+          "property": "P625",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "8ece5ca44e176c0cd32cb8dc238d7eedd6286bbc",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q936",
+                      "numeric-id": 936
+                    }
+                  },
+                  "hash": "7911dfeca3f1a99901992061dab24f71bc3fee0f",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P8592": [
+      {
+        "id": "Q142094957$9f09f2e7-4d6e-43a8-a123-bad64b283bff",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Circular wall, Devenish - geograph.org.uk - 3056413.jpg"
+          },
+          "hash": "ecdf6467eca1b90d38d61ad3310c3c79df0272d9",
+          "property": "P8592",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "remains of a round tower, possibly the predecessor of Devenish Round Tower I, on Devenish Island"
+    }
+  },
+  "id": "Q142094957",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Devenish Round Tower II"
+    }
+  },
+  "lastrevid": 2568060593,
+  "modified": "2026-11-11T20:02:19Z",
+  "ns": 0,
+  "pageid": 135729030,
+  "sitelinks": {
+    "commonswiki": {
+      "badges": [],
+      "site": "commonswiki",
+      "title": "Category:Remains of Round Tower, Devenish Island"
+    }
+  },
+  "title": "Q142094957",
+  "type": "item"
+}

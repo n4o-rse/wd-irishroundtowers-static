@@ -1,0 +1,75 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Saint Mary's Abbey for Augustinian canons"
+      },
+      {
+        "language": "en",
+        "value": "St. Mary’s Augustinian Abbey"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q640$F25F4E9F-5B51-53E4-9F33-137AC26BB603",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q32263642"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q32263642"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "im 12. Jahrhundert gegründetes Haus der Augustiner-Chorherren"
+    },
+    "en": {
+      "language": "en",
+      "value": "ruinous house of Augustinian canons"
+    }
+  },
+  "id": "Q640",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Abtei Ferns"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ferns Abbey"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

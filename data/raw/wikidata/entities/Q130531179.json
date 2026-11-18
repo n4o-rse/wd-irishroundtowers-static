@@ -1,0 +1,2104 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Round Tower, Kilkenny"
+      },
+      {
+        "language": "en",
+        "value": "St Canice's Round Tower"
+      },
+      {
+        "language": "en",
+        "value": "St. Canice's Round Tower"
+      }
+    ]
+  },
+  "claims": {
+    "P10689": [
+      {
+        "id": "Q130531179$6d9451af-44ad-eed6-8711-9e046fb31b70",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "154138656"
+          },
+          "hash": "97da825ba9d6dc4f1ab76de136a615ac4ef2072b",
+          "property": "P10689",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1101": [
+      {
+        "id": "Q130531179$811ef4ac-4d31-6761-cfaf-5ab1756c5067",
+        "mainsnak": {
+          "datatype": "quantity",
+          "datavalue": {
+            "type": "quantity",
+            "value": {
+              "amount": "+8",
+              "unit": "1"
+            }
+          },
+          "hash": "c2e37873444a8289a60a2f9a243dd74db62f6b03",
+          "property": "P1101",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "eba050d83d21cf11559d17bd699a776ac7143bad",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q135068797",
+                      "numeric-id": 135068797
+                    }
+                  },
+                  "hash": "8f4012d0c5fe84e700fa288e00e6d9117111dd5d",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P131": [
+      {
+        "id": "Q130531179$fa87f59b-40bc-8b72-7b10-9063ad8f05b9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104265435",
+              "numeric-id": 104265435
+            }
+          },
+          "hash": "49b367da48886fc0a1d6490b8127b85173007675",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130531179$2ee97325-42dd-228b-a0b0-1a7fdc99c2cf",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q180231",
+              "numeric-id": 180231
+            }
+          },
+          "hash": "a39489d010d0aade2bfc1a651156d2c4c7f38db8",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1343": [
+      {
+        "id": "Q130531179$13969b45-464c-fe27-ebd2-f0ae94932471",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17899046",
+              "numeric-id": 17899046
+            }
+          },
+          "hash": "d0ef652f1dd29471cb283e3839bb512f4e4500eb",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1319": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 9,
+                  "time": "+1760-00-00T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "a3bcde7d0cd741e7a66ab5764947c0cad7bb85eb",
+              "property": "P1319",
+              "snaktype": "value"
+            }
+          ],
+          "P1326": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 9,
+                  "time": "+1780-00-00T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "830fc5da9109d59f580ca10cad5fb6359a10057d",
+              "property": "P1326",
+              "snaktype": "value"
+            }
+          ],
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "The Cathedral of Kilkenny County of Kilkenny"
+              },
+              "hash": "6661b5e05afb7c298454bbc64329f20454f4e341",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P7937": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q18761202",
+                  "numeric-id": 18761202
+                }
+              },
+              "hash": "c901e8199376b8cd16999ff1ecdd57f7a324a1da",
+              "property": "P7937",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1319",
+          "P1326",
+          "P1810",
+          "P7937"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "f8c188bf72203d2bd1a6e0e55590b68c852854cb",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://catalogue.nli.ie/Record/vtls000053712"
+                  },
+                  "hash": "caee07c23da85980ef49877fbb7421a0fe0dd28a",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q130531179$679a6fde-48f7-f8d4-b134-ab986494cd1f",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131375438",
+              "numeric-id": 131375438
+            }
+          },
+          "hash": "a1233b0dfcf91782757ef56e1a0203c0f4abdf25",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "422"
+              },
+              "hash": "4c13ced6e2816eb1230951c05be500cfdf52efb1",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130531179$3ebd8972-4506-34c9-2c8e-9166050ffec5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142034232",
+              "numeric-id": 142034232
+            }
+          },
+          "hash": "d6318523d894ae1cc0007cc6953c24d55b789ba7",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "112"
+              },
+              "hash": "618a5436755a41cd6b667a9ad78d7a77c8301096",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ],
+          "P478": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "II"
+              },
+              "hash": "184d39e332019eebd904429d0d8f8800fae69514",
+              "property": "P478",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P478",
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130531179$bf424b3f-4331-1cb4-d54f-a63faa7c5914",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126528008",
+              "numeric-id": 126528008
+            }
+          },
+          "hash": "bfa77e5bbe62aee85e02e0b9537d15c4ca4ffa47",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Round Tower"
+              },
+              "hash": "31b0f37e88d9519f938e560566d31cdd070a20a0",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130531179$e35fa79a-4c40-434d-afc1-4013c6a8796b",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q5545495",
+              "numeric-id": 5545495
+            }
+          },
+          "hash": "28fe28c0f937e8e4e7947e75a920b1ca265eee86",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Doorway of Kilkenny Tower"
+              },
+              "hash": "941f12a685d2d32f9272d9deba1d771dfad18d5a",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P518": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21263223",
+                  "numeric-id": 21263223
+                }
+              },
+              "hash": "83093162f8418fc984d4379c716f20ee2d78c02c",
+              "property": "P518",
+              "snaktype": "value"
+            }
+          ],
+          "P585": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 7,
+                  "time": "+1900-00-00T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "7f012882d2c3b475ff2142531a3990fc56e80d50",
+              "property": "P585",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P518",
+          "P585"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "e0b3370106d4b95374086a7c3b96739da5899bc6",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://catalogue.nli.ie/Record/vtls000743848"
+                  },
+                  "hash": "4d38d92ceaecfa8b5a23c8ecaf2c9c928347b6e6",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q130531179$595b9558-45c6-2349-d381-9b6be5227b41",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129530067",
+              "numeric-id": 129530067
+            }
+          },
+          "hash": "fc0a421126b9e63980f53b0166ace45de2561cb0",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2868": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q131862",
+                  "numeric-id": 131862
+                }
+              },
+              "hash": "f91a99b2a07a62db81cdc2c69e80e3bcc17c65f4",
+              "property": "P2868",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2868"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130531179$3cbe8947-4484-7292-d136-5c20306e7881",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142116472",
+              "numeric-id": 142116472
+            }
+          },
+          "hash": "9a85d8739f85eb749c5a017506d5615a3f732f1b",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1545": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "49"
+              },
+              "hash": "6a242b4087b8b06192a0f5e85cf8fba5d9e1b275",
+              "property": "P1545",
+              "snaktype": "value"
+            }
+          ],
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "304"
+              },
+              "hash": "abd2b562e30bbaa42c4d5cd6e69a29e460dd1026",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1545",
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130531179$251dfa56-4e8b-8ce3-5797-a918d8031f62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126454465",
+              "numeric-id": 126454465
+            }
+          },
+          "hash": "5c76231ab21c05b521c135d9d24b5638a7182272",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "St. Canice's Round Tower"
+              },
+              "hash": "f665809b65873a219259f63f37d01b08dbefbd5f",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "145"
+              },
+              "hash": "ec6dd80559fa61b365649a9367c8233644f98876",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304",
+          "P1810"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130531179$ffed8996-44fc-310f-2fbe-3edfbb2f2db1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126540348",
+              "numeric-id": 126540348
+            }
+          },
+          "hash": "7f928f614f107987c78367022ba2f4f6e0c7c679",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "St. Canice's Tower"
+              },
+              "hash": "78f362f8cd81ff8c1bff61988fb3a69c6aac84f3",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P2868": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q131862",
+                  "numeric-id": 131862
+                }
+              },
+              "hash": "f91a99b2a07a62db81cdc2c69e80e3bcc17c65f4",
+              "property": "P2868",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P2868"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130531179$02faa7ee-437d-a6dd-fe7b-6cfdb0aaaf91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126393245",
+              "numeric-id": 126393245
+            }
+          },
+          "hash": "afc487e05cd68f3b3afa3e98ef57ca86f66a53d4",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "c490741c5f56683c8431ae770ff4f2512a3d80f9",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.duchas.ie/en/cbes/4758537/4752576/5010365"
+                  },
+                  "hash": "db9986c086043cfe31a2b73f327dd4ea14ad6aa5",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          },
+          {
+            "hash": "fb73b012f9a2675fc781eab0e3cec4b27d52b267",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.duchas.ie/en/cbes/4758569/4755543/4925206"
+                  },
+                  "hash": "f7834d503230fd84557b1a13f9f3be18d4914b8a",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          },
+          {
+            "hash": "0eb6287f98987fb3ce82f3b1ef70672cc6b7be1b",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.duchas.ie/en/cbes/4758569/4755660/4925669"
+                  },
+                  "hash": "6e80dafc4180a210868fc0cba346631cd40ae962",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          },
+          {
+            "hash": "83c53accfcf9f6d6f4c4e780f85b74be50f35517",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.duchas.ie/en/cbes/4758538/4752792/5011282"
+                  },
+                  "hash": "7dcad640f7419ca1415c52ad2a8a8d19191f0b07",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q130531179$044a5a83-4679-e10a-69c0-e283ff680520",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116690389",
+              "numeric-id": 116690389
+            }
+          },
+          "hash": "fe6fcb83e95c65b3c5415167d2ae26be94078a45",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130531179$297c9dd2-4e87-e0f6-656a-03573b8f8a62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131144764",
+              "numeric-id": 131144764
+            }
+          },
+          "hash": "11d70e649601f2362739697381132955e778df9f",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "202"
+              },
+              "hash": "7f10d89fdbdf49a18f277215c8cf6ab4f46e36f0",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130531179$15ab8b29-4800-fbaf-cad5-ab119cd89115",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142093467",
+              "numeric-id": 142093467
+            }
+          },
+          "hash": "0a7bcdb47ea4dc1eff75807f84d4b361503af889",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "170-171, 173"
+              },
+              "hash": "579bca0cf2d9c007a413590c879bee9ededb0b46",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304"
+        ],
+        "rank": "preferred",
+        "type": "statement"
+      },
+      {
+        "id": "Q130531179$b20e3d55-46cc-531b-bb7d-8956f7d0dfd2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135068797",
+              "numeric-id": 135068797
+            }
+          },
+          "hash": "2e45b5533828a8b813721749f4133a8e39f35512",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "22"
+              },
+              "hash": "ab1f1ea302cee24f8f799bc493e9ec816980b918",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P14097": [
+      {
+        "id": "Q130531179$90bdd526-4d72-d02a-b618-9ca6506a88f4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "canices-round-tower-doorway-0d996e10a19446b7ab39eaaaa8fad544"
+          },
+          "hash": "bbdd2bfb5a0dc27544a38621f9689c04579f3bfb",
+          "property": "P14097",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P518": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21263223",
+                  "numeric-id": 21263223
+                }
+              },
+              "hash": "83093162f8418fc984d4379c716f20ee2d78c02c",
+              "property": "P518",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P518"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1552": [
+      {
+        "id": "Q130531179$D44B88D3-3B51-4FF7-BE39-A0219C1FB3CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q570116",
+              "numeric-id": 570116
+            }
+          },
+          "hash": "9cc68c5f46ce8a75e0d0168cfb75e64d390252b2",
+          "property": "P1552",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "Q130531179$31cbf28e-41f2-7db7-af66-6d719b4d9e95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27",
+              "numeric-id": 27
+            }
+          },
+          "hash": "f4ccb05f7faebc2073ed81093902b84d250e6695",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q130531179$ad00d35d-4b31-1f41-5ffa-8ce9f6a0ceb3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Round tower Kilkenny.jpg"
+          },
+          "hash": "c4705cca66e1fd3a328c0aab329154aa5c9f5da0",
+          "property": "P18",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P186": [
+      {
+        "id": "Q130531179$1cea7990-4f14-a2a0-13b4-3e5dcf88b220",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23757",
+              "numeric-id": 23757
+            }
+          },
+          "hash": "c0c22b861a08fd871bd85defaa8557562e8d4763",
+          "property": "P186",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b90b72b15025aefe6eff8172c310f4ed3c0c75e",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q142093467",
+                      "numeric-id": 142093467
+                    }
+                  },
+                  "hash": "9c80d91cab3edf2b656e1a12ee16a93614fc6ab1",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P2048": [
+      {
+        "id": "Q130531179$b5d7ce4d-4e89-c21c-9fb8-9f4d6e87cc85",
+        "mainsnak": {
+          "datatype": "quantity",
+          "datavalue": {
+            "type": "quantity",
+            "value": {
+              "amount": "+100",
+              "unit": "http://www.wikidata.org/entity/Q3710"
+            }
+          },
+          "hash": "4ad1431fc17285023556f2332fc79a64231b8209",
+          "property": "P2048",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "813c79ce61228ff8f35f8938aafd83bc575b1513",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q126454465",
+                      "numeric-id": 126454465
+                    }
+                  },
+                  "hash": "e85debce8e870a57f644237268fe10358baf5ab5",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          },
+          {
+            "hash": "fb73b012f9a2675fc781eab0e3cec4b27d52b267",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.duchas.ie/en/cbes/4758569/4755543/4925206"
+                  },
+                  "hash": "f7834d503230fd84557b1a13f9f3be18d4914b8a",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q130531179$c1ea5ac4-4d77-7ea4-fb2a-6f4a0cb84c1e",
+        "mainsnak": {
+          "datatype": "quantity",
+          "datavalue": {
+            "type": "quantity",
+            "value": {
+              "amount": "+30.2",
+              "unit": "http://www.wikidata.org/entity/Q11573"
+            }
+          },
+          "hash": "a407936bfb5696538bb83515a52c8aa77b5bc5d4",
+          "property": "P2048",
+          "snaktype": "value"
+        },
+        "rank": "preferred",
+        "references": [
+          {
+            "hash": "2b90b72b15025aefe6eff8172c310f4ed3c0c75e",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q142093467",
+                      "numeric-id": 142093467
+                    }
+                  },
+                  "hash": "9c80d91cab3edf2b656e1a12ee16a93614fc6ab1",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P2868": [
+      {
+        "id": "Q130531179$2b83d461-4a5c-2a6e-0cd8-7251198c0d59",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131862",
+              "numeric-id": 131862
+            }
+          },
+          "hash": "f91a99b2a07a62db81cdc2c69e80e3bcc17c65f4",
+          "property": "P2868",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "0431c7a4c0959d5be62a113d7670f42c8df15d29",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q129530067",
+                      "numeric-id": 129530067
+                    }
+                  },
+                  "hash": "8be143462404009638675b33884a5c2c29e77b7e",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          },
+          {
+            "hash": "77b5fabcef81f56bb7ecd5ca1978c86ebfac76a9",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q126540348",
+                      "numeric-id": 126540348
+                    }
+                  },
+                  "hash": "cc4a9dfd1cd3ba38d3ae433ecab4aa56d82b5a25",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q130531179$a5bae2d1-4933-0cd2-2836-b34835383bdd",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1335799",
+              "numeric-id": 1335799
+            }
+          },
+          "hash": "86c331714834839eb4b44ad91408a9d1dc2a314e",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P373": [
+      {
+        "id": "Q130531179$be94ac84-4b06-0905-a70a-2a6372c3a37a",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Kilkenny Round Tower"
+          },
+          "hash": "4d282ce851f988f824dcca243413185b071733fe",
+          "property": "P373",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4057": [
+      {
+        "id": "Q130531179$4f6e2f45-4c72-4625-566b-a54eee78b122",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "KK019-026175-"
+          },
+          "hash": "f5f1e74e9cbeac8c5579e58eaf5a4ca5f0876b92",
+          "property": "P4057",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "efd46623aa4ba68a25401720347361d1aafad435",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://heritagedata.maps.arcgis.com/apps/webappviewer/index.html?id=0c9eb9575b544081b0d296436d8f60f8&query=18a4b61b268-layer-9%2CSMRS%2CKK019-026175-"
+                  },
+                  "hash": "ec6ffdd0190642a7a3c603d7609ae403ff4fa356",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P4059": [
+      {
+        "id": "Q130531179$d01982f8-48cf-d7aa-b30c-c7a1a5cbc24c",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "n/a"
+          },
+          "hash": "ecff0749fc231673a7b448f2d9836b635db79ff5",
+          "property": "P4059",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 9,
+                  "time": "+2026-00-00T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "bd4e608fca97bfd620514f81e735833b9d96e34d",
+              "property": "P585",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P585"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "1052877e23a90b5c98c73bd052f9daa824a826b5",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.archaeology.ie/app/uploads/2025/03/monuments-in-state-care-kilkenny.pdf"
+                  },
+                  "hash": "33c2f591228f762b9c3ba64e74823c865be4f9c7",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P527": [
+      {
+        "id": "Q130531179$3ab2e34b-4e39-96ee-f9f9-66dab4e8edfd",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1286070",
+              "numeric-id": 1286070
+            }
+          },
+          "hash": "167ff11af0479eb92977cde9ae9f0f4b4ebb12dc",
+          "property": "P527",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b90b72b15025aefe6eff8172c310f4ed3c0c75e",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q142093467",
+                      "numeric-id": 142093467
+                    }
+                  },
+                  "hash": "9c80d91cab3edf2b656e1a12ee16a93614fc6ab1",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q130531179$608d034c-4495-fe87-d300-7a4726225140",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q177305",
+              "numeric-id": 177305
+            }
+          },
+          "hash": "84a76860e5877db3747e3ace60bd47d242959725",
+          "property": "P527",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q130531179$01e42dd5-4e81-0381-250e-b1c901eaf60d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q83180",
+              "numeric-id": 83180
+            }
+          },
+          "hash": "c32fa858ef33e0fffa161c0c8921b729c0df718a",
+          "property": "P527",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1419": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q149292",
+                  "numeric-id": 149292
+                }
+              },
+              "hash": "9c90cd3abe2fea95780c40e88aec24d129743ee1",
+              "property": "P1419",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1419"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b90b72b15025aefe6eff8172c310f4ed3c0c75e",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q142093467",
+                      "numeric-id": 142093467
+                    }
+                  },
+                  "hash": "9c80d91cab3edf2b656e1a12ee16a93614fc6ab1",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q130531179$f4b11622-4953-9ef1-c15e-6e4f4e1220af",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35473",
+              "numeric-id": 35473
+            }
+          },
+          "hash": "babf4deb5eb6271d4d2d6116d92f20d2c784d77d",
+          "property": "P527",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1114": [
+            {
+              "datatype": "quantity",
+              "datavalue": {
+                "type": "quantity",
+                "value": {
+                  "amount": "+10",
+                  "unit": "1"
+                }
+              },
+              "hash": "fa02efb3e5d84f49bce739f5a40795df00d50d99",
+              "property": "P1114",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1114"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b90b72b15025aefe6eff8172c310f4ed3c0c75e",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q142093467",
+                      "numeric-id": 142093467
+                    }
+                  },
+                  "hash": "9c80d91cab3edf2b656e1a12ee16a93614fc6ab1",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q130531179$c1a1d102-4c73-0d7a-c23e-b2ef99864e72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12537",
+              "numeric-id": 12537
+            }
+          },
+          "hash": "891c02a84d6812fcc212c905a0bc38c7c9033e55",
+          "property": "P527",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b90b72b15025aefe6eff8172c310f4ed3c0c75e",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q142093467",
+                      "numeric-id": 142093467
+                    }
+                  },
+                  "hash": "9c80d91cab3edf2b656e1a12ee16a93614fc6ab1",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q130531179$dd91319e-4e3f-0c1a-f13e-e17a18127151",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19787",
+              "numeric-id": 19787
+            }
+          },
+          "hash": "3198263229b90d545b263e41e0da5dc3b9b6e3f3",
+          "property": "P527",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1419": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q209",
+                  "numeric-id": 209
+                }
+              },
+              "hash": "b11175ad3dfa125f01858dc4467b94084ad97da6",
+              "property": "P1419",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q19821",
+                  "numeric-id": 19821
+                }
+              },
+              "hash": "e984d239b368732f4047c14a12372a03aa21475b",
+              "property": "P1419",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1419"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b90b72b15025aefe6eff8172c310f4ed3c0c75e",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q142093467",
+                      "numeric-id": 142093467
+                    }
+                  },
+                  "hash": "9c80d91cab3edf2b656e1a12ee16a93614fc6ab1",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q130531179$ad184e86-4330-f90c-43d9-eae747cd556c",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21263223",
+              "numeric-id": 21263223
+            }
+          },
+          "hash": "e750e5090b95edf097b68da582c0076bf0f1bc8a",
+          "property": "P527",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P14788": [
+            {
+              "datatype": "quantity",
+              "datavalue": {
+                "type": "quantity",
+                "value": {
+                  "amount": "+2.78",
+                  "unit": "http://www.wikidata.org/entity/Q11573"
+                }
+              },
+              "hash": "7da6f3584924489ff105d5bf8294ab5bb3b38182",
+              "property": "P14788",
+              "snaktype": "value"
+            }
+          ],
+          "P527": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q1898821",
+                  "numeric-id": 1898821
+                }
+              },
+              "hash": "194d975f40a559d4e626442db71b4bef9e853cfe",
+              "property": "P527",
+              "snaktype": "value"
+            }
+          ],
+          "P7469": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q6452640",
+                  "numeric-id": 6452640
+                }
+              },
+              "hash": "f16816832bbcb93bf2b7f7eed46e10c46bf4ec70",
+              "property": "P7469",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P7469",
+          "P14788",
+          "P527"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b90b72b15025aefe6eff8172c310f4ed3c0c75e",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q142093467",
+                      "numeric-id": 142093467
+                    }
+                  },
+                  "hash": "9c80d91cab3edf2b656e1a12ee16a93614fc6ab1",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P571": [
+      {
+        "id": "Q130531179$d977826d-4f61-c1c1-6664-3dffe8596f46",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 7,
+              "time": "+0900-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "503c78961dd56cbe61e0267d7aefcfe1d2a66684",
+          "property": "P571",
+          "snaktype": "value"
+        },
+        "rank": "deprecated",
+        "references": [
+          {
+            "hash": "fb73b012f9a2675fc781eab0e3cec4b27d52b267",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.duchas.ie/en/cbes/4758569/4755543/4925206"
+                  },
+                  "hash": "f7834d503230fd84557b1a13f9f3be18d4914b8a",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q130531179$4df95084-451b-2b8e-4d09-2984df429cfb",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 7,
+              "time": "+1100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8bca676fc5011efc34eb9d1929edbad61444f8fa",
+          "property": "P571",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b90b72b15025aefe6eff8172c310f4ed3c0c75e",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q142093467",
+                      "numeric-id": 142093467
+                    }
+                  },
+                  "hash": "9c80d91cab3edf2b656e1a12ee16a93614fc6ab1",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P5775": [
+      {
+        "id": "Q130531179$3e87bdf3-4d23-7a80-83cf-8a134e247dfd",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Canice's Round tower interior staircase view down.jpg"
+          },
+          "hash": "6251c48012da39d11cfeaff155c09f2e4a1cedbb",
+          "property": "P5775",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5816": [
+      {
+        "id": "Q130531179$0b17979a-4a03-71ca-85b9-896430107f69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56557591",
+              "numeric-id": 56557591
+            }
+          },
+          "hash": "ce46cb1edbe790adf400f939aa9045a5c44a72c3",
+          "property": "P5816",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P625": [
+      {
+        "id": "Q130531179$f3540965-41cf-0be2-864e-a0f523a2e149",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 52.656485,
+              "longitude": -7.257141,
+              "precision": 1e-06
+            }
+          },
+          "hash": "4ed07c276c2e40acb588a1996c78f0c158955d15",
+          "property": "P625",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "efd46623aa4ba68a25401720347361d1aafad435",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://heritagedata.maps.arcgis.com/apps/webappviewer/index.html?id=0c9eb9575b544081b0d296436d8f60f8&query=18a4b61b268-layer-9%2CSMRS%2CKK019-026175-"
+                  },
+                  "hash": "ec6ffdd0190642a7a3c603d7609ae403ff4fa356",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P708": [
+      {
+        "id": "Q130531179$4b3e6846-4927-4639-7ef6-05cae3b77067",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q873607",
+              "numeric-id": 873607
+            }
+          },
+          "hash": "efeff9f87d449cb40dff681967cdf5d27387c166",
+          "property": "P708",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7561": [
+      {
+        "id": "Q130531179$a40dd03c-4417-66d5-dd8d-11a6de7e0f3d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142143185",
+              "numeric-id": 142143185
+            }
+          },
+          "hash": "c7312aba341d3414e6c72f5c5031d1c9aa06fa9c",
+          "property": "P7561",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9721": [
+      {
+        "id": "Q130531179$b0722024-4843-8cd2-5cc1-a44baaa2a98f",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "St Canice's round tower entrance.jpg"
+          },
+          "hash": "84859f4740e1fae92fcfed9be24036879d260419",
+          "property": "P9721",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P973": [
+      {
+        "id": "Q130531179$d1eca1b8-4809-4bcf-4f7d-5b214f5832c9",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://catalogue.nli.ie/Record/vtls000743276"
+          },
+          "hash": "fc28b6f9979efdab6a392d4aee6c76a507f9aab3",
+          "property": "P973",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Doorway, round tower, St Canices, Kilkenny"
+              },
+              "hash": "33814ca6b2d935c997f376fa8b8ac9345e963c89",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P2093": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Frazer, William, d. 1905, artist."
+              },
+              "hash": "a26fad71c1d96395aa6ea80c945dc16cbf89848b",
+              "property": "P2093",
+              "snaktype": "value"
+            }
+          ],
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q1860",
+                  "numeric-id": 1860
+                }
+              },
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ],
+          "P7937": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q138007491",
+                  "numeric-id": 138007491
+                }
+              },
+              "hash": "3edc1ac748e13492e65ef55b16fffb35ff910239",
+              "property": "P7937",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407",
+          "P1810",
+          "P2093",
+          "P7937"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "round tower next to St Canice's Cathedral in Kilkenny, Co. Kilkenny"
+    }
+  },
+  "id": "Q130531179",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kilkenny Round Tower"
+    }
+  },
+  "lastrevid": 2568913309,
+  "modified": "2026-11-13T23:05:09Z",
+  "ns": 0,
+  "pageid": 124476109,
+  "sitelinks": {
+    "commonswiki": {
+      "badges": [],
+      "site": "commonswiki",
+      "title": "Category:Kilkenny Round Tower"
+    }
+  },
+  "title": "Q130531179",
+  "type": "item"
+}

@@ -1,0 +1,60 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q253$0A86C642-F3B1-537A-97C4-38170470592E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q19898787"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q19898787"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "drawings using pen as the primary implement, usually on paper but may be on another support"
+    }
+  },
+  "id": "Q253",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Stiftzeichnung"
+    },
+    "en": {
+      "language": "en",
+      "value": "pen drawing"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,420 @@
+{
+  "aliases": {},
+  "claims": {
+    "P131": [
+      {
+        "id": "Q141881857$1b2f3368-4f00-24e3-6968-de027b7351bd",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104292706",
+              "numeric-id": 104292706
+            }
+          },
+          "hash": "632c391035c086f5d308720a4472ca1c8cd55e57",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1343": [
+      {
+        "id": "Q141881857$2f52da13-4689-0dc6-fbd3-167419b58971",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142116472",
+              "numeric-id": 142116472
+            }
+          },
+          "hash": "9a85d8739f85eb749c5a017506d5615a3f732f1b",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Rath-Blamac"
+              },
+              "hash": "2dd3d10a34b5f9756a404b007a2f26e4e87cea8d",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "297"
+              },
+              "hash": "f32f31d451c3ca2528b4492954df600e4c0efde3",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304",
+          "P1810"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "Q141881857$9ced4a92-46bd-1b8a-537f-302578c3705e",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27",
+              "numeric-id": 27
+            }
+          },
+          "hash": "f4ccb05f7faebc2073ed81093902b84d250e6695",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q141881857$70b1949f-477f-62f7-57af-23807288fe2d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1335799",
+              "numeric-id": 1335799
+            }
+          },
+          "hash": "86c331714834839eb4b44ad91408a9d1dc2a314e",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4057": [
+      {
+        "id": "Q141881857$b82287a2-4308-5b34-6da9-60af19996a56",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "CL025-084003-"
+          },
+          "hash": "4eea35fc14a2e8bec5e151deadf1dc21be8017bd",
+          "property": "P4057",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "208e3c49e2e1a2c8085ca41b9e244caf08a777e2",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://heritagedata.maps.arcgis.com/apps/webappviewer/index.html?id=0c9eb9575b544081b0d296436d8f60f8&query=18a4b61b268-layer-9%2CSMRS%2CCL025-084003-"
+                  },
+                  "hash": "5a2b7b48eca08559699fc46d63c395b91a70c9ce",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P4059": [
+      {
+        "id": "Q141881857$c3625a56-4865-48a2-bb76-74914ffbd870",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "n/a"
+          },
+          "hash": "ecff0749fc231673a7b448f2d9836b635db79ff5",
+          "property": "P4059",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "184b40bfc5ad908488a748678825c8bbac934fc0",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.archaeology.ie/app/uploads/2025/03/monuments-in-state-care-clare.pdf"
+                  },
+                  "hash": "cf0c167b1a2fa7d1aeb0eff4b2ec7b8ccca4a5dc",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P5816": [
+      {
+        "id": "Q141881857$872697f9-4949-219e-f3ef-8f35ae99c33d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56556915",
+              "numeric-id": 56556915
+            }
+          },
+          "hash": "d6c4840577ba6c097ffaaf909de0a2afa5e881b9",
+          "property": "P5816",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 9,
+                  "time": "+1838-00-00T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "f72e2697806c7ba1357f40d79c698aa634108fed",
+              "property": "P585",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P585"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fb5466db291f902204006aaf57d6dee4b3efcf37",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q142116472",
+                      "numeric-id": 142116472
+                    }
+                  },
+                  "hash": "8d698dd27a6cf2ca53433b18c0c93f315e5f6b23",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P625": [
+      {
+        "id": "Q141881857$6b5545a6-43a0-cffc-5da8-72c9793faa29",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 52.917515,
+              "longitude": -9.085947,
+              "precision": 1e-06
+            }
+          },
+          "hash": "321f8a2a44d0959562b4b1a7bcf08cd050f33168",
+          "property": "P625",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "208e3c49e2e1a2c8085ca41b9e244caf08a777e2",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://heritagedata.maps.arcgis.com/apps/webappviewer/index.html?id=0c9eb9575b544081b0d296436d8f60f8&query=18a4b61b268-layer-9%2CSMRS%2CCL025-084003-"
+                  },
+                  "hash": "5a2b7b48eca08559699fc46d63c395b91a70c9ce",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P793": [
+      {
+        "id": "Q141881857$23abdee2-4f9f-9522-acb9-6ad2394bd52c",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q331483",
+              "numeric-id": 331483
+            }
+          },
+          "hash": "42ec3f378ed287c84117b9e152c04d08a0cfe9cd",
+          "property": "P793",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2048": [
+            {
+              "datatype": "quantity",
+              "datavalue": {
+                "type": "quantity",
+                "value": {
+                  "amount": "+8",
+                  "unit": "http://www.wikidata.org/entity/Q3710"
+                }
+              },
+              "hash": "e0b7a3fca218d6b2b7f614a4c80816d83744a24d",
+              "property": "P2048",
+              "snaktype": "value"
+            }
+          ],
+          "P585": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 9,
+                  "time": "+1838-00-00T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "f72e2697806c7ba1357f40d79c698aa634108fed",
+              "property": "P585",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P585",
+          "P2048"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "fb5466db291f902204006aaf57d6dee4b3efcf37",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q142116472",
+                      "numeric-id": 142116472
+                    }
+                  },
+                  "hash": "8d698dd27a6cf2ca53433b18c0c93f315e5f6b23",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "demolished round tower in the townland of Rath, County Clare, Ireland"
+    }
+  },
+  "id": "Q141881857",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Rath Round Tower"
+    }
+  },
+  "lastrevid": 2568075079,
+  "modified": "2026-11-11T20:56:26Z",
+  "ns": 0,
+  "pageid": 135459001,
+  "sitelinks": {},
+  "title": "Q141881857",
+  "type": "item"
+}

@@ -1,0 +1,64 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q411$914B279E-06FA-5142-95BC-23D9E01FBADC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2307632"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2307632"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Kirchengebäude in Angus, Schottland"
+    },
+    "en": {
+      "language": "en",
+      "value": "cathedral church in Brechin"
+    }
+  },
+  "id": "Q411",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Brechin Cathedral"
+    },
+    "en": {
+      "language": "en",
+      "value": "Brechin Cathedral"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

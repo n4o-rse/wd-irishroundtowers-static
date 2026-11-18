@@ -1,0 +1,75 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "SAM"
+      },
+      {
+        "language": "en",
+        "value": "scheduled ancient monument"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q290$19D2947C-1B64-5D6C-97A0-3A87BC783B40",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q219538"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q219538"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "geschützte archäologische Stätte im Vereinigten Königreich"
+    },
+    "en": {
+      "language": "en",
+      "value": "nationally important archaeological site or historic building in the United Kingdom, given protection against unauthorised change"
+    }
+  },
+  "id": "Q290",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "scheduled ancient monument"
+    },
+    "en": {
+      "language": "en",
+      "value": "scheduled monument"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

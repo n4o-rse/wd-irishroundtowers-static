@@ -1,0 +1,1476 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "الأسماء المكانية في أيرلندا"
+      }
+    ],
+    "ca": [
+      {
+        "language": "ca",
+        "value": "Logainm ID"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Placenames Database of Ireland ID"
+      },
+      {
+        "language": "en",
+        "value": "Logainm.ie ID"
+      },
+      {
+        "language": "en",
+        "value": "logainm.ie ID"
+      }
+    ],
+    "ga": [
+      {
+        "language": "ga",
+        "value": "Logainm ID"
+      }
+    ],
+    "pl": [
+      {
+        "language": "pl",
+        "value": "Logainm"
+      },
+      {
+        "language": "pl",
+        "value": "ID Logainm"
+      }
+    ],
+    "uk": [
+      {
+        "language": "uk",
+        "value": "ідентифікатор Logainm.ie"
+      }
+    ]
+  },
+  "claims": {
+    "P1552": [
+      {
+        "id": "P5097$C85B1442-0B21-40C7-A085-3B8B38E7C1A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93868746",
+              "numeric-id": 93868746
+            }
+          },
+          "hash": "4f44439ebe5b7580f90858e65a576ce4d66c183e",
+          "property": "P1552",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1630": [
+      {
+        "id": "P5097$E87829AA-1654-4DAC-8B0F-3013C61F4B72",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.logainm.ie/$1.aspx"
+          },
+          "hash": "0a123ba052201e9a7fd46ed4ba9f21e2dd8168c0",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q9142",
+                  "numeric-id": 9142
+                }
+              },
+              "hash": "d50bec57f8d2436f15ad23d42b1693eddeb56544",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "5577632faaa10ac2fe51870f227955d172e8bae8",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Logainm_ID&oldid=670088902"
+                  },
+                  "hash": "35e540efc636f9c3e4f71e97eecd804c72e4c5ce",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "P5097$b2936087-4fb3-8266-67c0-f3b4ddd81249",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27",
+              "numeric-id": 27
+            }
+          },
+          "hash": "f4ccb05f7faebc2073ed81093902b84d250e6695",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P5097$7B93102E-84D2-4A84-A2B6-238535E8BB41",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "[1-9]\\d*"
+          },
+          "hash": "b11a207353fbbc014d3317bccfda3b8dba3ab975",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "5577632faaa10ac2fe51870f227955d172e8bae8",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Logainm_ID&oldid=670088902"
+                  },
+                  "hash": "35e540efc636f9c3e4f71e97eecd804c72e4c5ce",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P5097$D6BBBB16-DE1B-4A16-9930-9B70C4F1B29D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1761",
+              "numeric-id": 1761
+            }
+          },
+          "hash": "941d6178979bed5885b4c80f32b729953f973a5d",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P5097": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "1375542"
+              },
+              "hash": "15bb01914336e6b6959d9d4ed546c084f2566854",
+              "property": "P5097",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5097"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "5577632faaa10ac2fe51870f227955d172e8bae8",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Logainm_ID&oldid=670088902"
+                  },
+                  "hash": "35e540efc636f9c3e4f71e97eecd804c72e4c5ce",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P5097$a3f4368d-4efa-0a17-d627-a882b82ea8df",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q511843",
+              "numeric-id": 511843
+            }
+          },
+          "hash": "07aa1fe88564333ac5cc01caf779c295f72553dc",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P5097": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "132307"
+              },
+              "hash": "1cb87f86938a9a4ab39980ff76def5a408af2a15",
+              "property": "P5097",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5097"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5097$6e2ad06f-403e-8eb6-54e1-5adc4ce78d4b",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q179424",
+              "numeric-id": 179424
+            }
+          },
+          "hash": "56e420f82cbd925ffe544c6db46c62a722d9af65",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P5097": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "100013"
+              },
+              "hash": "aa279a86df5f111c04c6a522c7da4da7b2beeff2",
+              "property": "P5097",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5097"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1896": [
+      {
+        "id": "P5097$AA62C50C-BE5E-49B3-A8B3-E9CF0A665B98",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.logainm.ie"
+          },
+          "hash": "e32b5334e7b587bc645acf1d6f5ec67a5825b06b",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q9142",
+                  "numeric-id": 9142
+                }
+              },
+              "hash": "d50bec57f8d2436f15ad23d42b1693eddeb56544",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "5577632faaa10ac2fe51870f227955d172e8bae8",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Logainm_ID&oldid=670088902"
+                  },
+                  "hash": "35e540efc636f9c3e4f71e97eecd804c72e4c5ce",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P1921": [
+      {
+        "id": "P5097$5e1a6d08-4fd3-4801-334b-444219dd75b1",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "http://data.logainm.ie/place/$1"
+          },
+          "hash": "32757fb2942a91ec138cc1c06bf3916350fd3e96",
+          "property": "P1921",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2264": [
+      {
+        "id": "P5097$992aac4a-49c1-4258-6f2c-508abcbc6109",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1216"
+          },
+          "hash": "b0d95aaaf61ecc9dea86b32dc58d4798d7f99fd3",
+          "property": "P2264",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1552": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q116480204",
+                  "numeric-id": 116480204
+                }
+              },
+              "hash": "b4636808a1e4a280c93851e6873e89f0880bc39c",
+              "property": "P1552",
+              "snaktype": "value"
+            }
+          ],
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Logainm"
+              },
+              "hash": "33b474f3dbcbcc3da0dd0101d9e9753e9cee7a02",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P8555": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 11,
+                  "time": "+2018-04-27T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "d8849079e4178c8fbd6a8a10f6333508f9ef4638",
+              "property": "P8555",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P8555",
+          "P1552",
+          "P1810"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P5097$8CF1BEFC-633F-4DEA-A2BB-2B9ADF38ED1D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2303": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q4921625",
+                  "numeric-id": 4921625
+                }
+              },
+              "hash": "c463b40cd8eb08b025cfb48bcd9ed62f1b15736a",
+              "property": "P2303",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2303"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "5577632faaa10ac2fe51870f227955d172e8bae8",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Logainm_ID&oldid=670088902"
+                  },
+                  "hash": "35e540efc636f9c3e4f71e97eecd804c72e4c5ce",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P5097$C28429BF-744C-4F0B-9F8F-12DFCFDDA5CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "5577632faaa10ac2fe51870f227955d172e8bae8",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Logainm_ID&oldid=670088902"
+                  },
+                  "hash": "35e540efc636f9c3e4f71e97eecd804c72e4c5ce",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P5097$58103AE3-101B-488B-B0B9-93CDBEAB20E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1793": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "[1-9]\\d*"
+              },
+              "hash": "b11a207353fbbc014d3317bccfda3b8dba3ab975",
+              "property": "P1793",
+              "snaktype": "value"
+            }
+          ],
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21502408",
+                  "numeric-id": 21502408
+                }
+              },
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1793",
+          "P2316"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "5577632faaa10ac2fe51870f227955d172e8bae8",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Logainm_ID&oldid=670088902"
+                  },
+                  "hash": "35e540efc636f9c3e4f71e97eecd804c72e4c5ce",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P5097$19356fff-43c1-14c5-8cf8-d194643774b3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503247",
+              "numeric-id": 21503247
+            }
+          },
+          "hash": "fede01024807ea412f925e250a71651eda314b38",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2305": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q27",
+                  "numeric-id": 27
+                }
+              },
+              "hash": "cddc1f7dce05c75939b728ff4232bfce66ac648b",
+              "property": "P2305",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q145",
+                  "numeric-id": 145
+                }
+              },
+              "hash": "57afb362dc086c87c06d4a3ea130bd7e2b76ccab",
+              "property": "P2305",
+              "snaktype": "value"
+            }
+          ],
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P17",
+                  "numeric-id": 17
+                }
+              },
+              "hash": "3a4317718b867e82f0d1661aab306cbb64c65bdb",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ],
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21502408",
+                  "numeric-id": 21502408
+                }
+              },
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306",
+          "P2305",
+          "P2316"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5097$b10117a4-4a61-0266-8690-2421193585ea",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502838",
+              "numeric-id": 21502838
+            }
+          },
+          "hash": "60d5b5bf5da8d7ec1e010402497e0015713c2bbf",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2305": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q4167410",
+                  "numeric-id": 4167410
+                }
+              },
+              "hash": "bef2f53f1856d0b9a98de473de62b3a308b53844",
+              "property": "P2305",
+              "snaktype": "value"
+            }
+          ],
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P31",
+                  "numeric-id": 31
+                }
+              },
+              "hash": "57e0c059ce6c4f38e5ffd260c63684eb7c6e0e87",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ],
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21502408",
+                  "numeric-id": 21502408
+                }
+              },
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2305",
+          "P2306",
+          "P2316"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5097$F4BF2A70-DAA7-4F1E-AF03-329F1288AFD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2305": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q29934200",
+                  "numeric-id": 29934200
+                }
+              },
+              "hash": "76a83209b6ab9e5ea1a1dd8e2986281a5a0479d7",
+              "property": "P2305",
+              "snaktype": "value"
+            }
+          ],
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21502408",
+                  "numeric-id": 21502408
+                }
+              },
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2305",
+          "P2316"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5097$33b88561-4869-bb5f-1e33-f8ad66206c2f",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P5314": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54828448",
+                  "numeric-id": 54828448
+                }
+              },
+              "hash": "a0202111cb525ed31611bf926974b74a2419b8ab",
+              "property": "P5314",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54828450",
+                  "numeric-id": 54828450
+                }
+              },
+              "hash": "9031ca220e943517fb8d671c4ad4f3f1a25b6a0b",
+              "property": "P5314",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5314"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5097$4905839f-482a-6f6d-c893-c8e1e5951aa1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503250",
+              "numeric-id": 21503250
+            }
+          },
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2308": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q618123",
+                  "numeric-id": 618123
+                }
+              },
+              "hash": "2b08b5b85eff33575e56c6d684c30a310581090b",
+              "property": "P2308",
+              "snaktype": "value"
+            }
+          ],
+          "P2309": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21503252",
+                  "numeric-id": 21503252
+                }
+              },
+              "hash": "8d7afee22e0fa6211dd8c95f247e1dd7b38daf70",
+              "property": "P2309",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2308",
+          "P2309"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5097$b36b12cb-460e-65ca-49b5-24d3c7f31eec",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503247",
+              "numeric-id": 21503247
+            }
+          },
+          "hash": "fede01024807ea412f925e250a71651eda314b38",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P625",
+                  "numeric-id": 625
+                }
+              },
+              "hash": "e0ac0b33de3f5a96732365c25d02ead5ef58104c",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2429": [
+      {
+        "id": "P5097$6E8F8B30-0C08-438F-87A7-0F72007D0695",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21873974",
+              "numeric-id": 21873974
+            }
+          },
+          "hash": "1b97f07ea808523c58f82502c2df4a8afbb9a31c",
+          "property": "P2429",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "5577632faaa10ac2fe51870f227955d172e8bae8",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Logainm_ID&oldid=670088902"
+                  },
+                  "hash": "35e540efc636f9c3e4f71e97eecd804c72e4c5ce",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P5097$7EB656DD-AC59-4C25-92F2-0F53548872E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19829908",
+              "numeric-id": 19829908
+            }
+          },
+          "hash": "569c6a016580db212243cac4f64c06bea46d1d37",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "5577632faaa10ac2fe51870f227955d172e8bae8",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Logainm_ID&oldid=670088902"
+                  },
+                  "hash": "35e540efc636f9c3e4f71e97eecd804c72e4c5ce",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P5097$C3996B98-329E-49E1-82C8-B779BA77C6E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62589316",
+              "numeric-id": 62589316
+            }
+          },
+          "hash": "50214927f0ca4a1194fc5f2cf1ea1228f18259f2",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P5097$B4F2FCEC-9B0D-47CE-986F-4B5C12E03677",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/Logainm_ID"
+          },
+          "hash": "b037f9632df6a8cb617bca437c262706c65189b2",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4354": [
+      {
+        "id": "P5097$69c83350-435d-ea44-0f73-d7bd8157e3f1",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.logainm.ie/ga/s?txt=$1&rdr=off"
+          },
+          "hash": "6505885bc090876e28ea35d3d1522b55be5d9278",
+          "property": "P4354",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q9142",
+                  "numeric-id": 9142
+                }
+              },
+              "hash": "d50bec57f8d2436f15ad23d42b1693eddeb56544",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5097$9f50029f-4947-196d-2be0-9459bf13eddc",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.logainm.ie/en/s?txt=$1&rdr=off"
+          },
+          "hash": "6d3da13c720436826f390f20489d7f7dafaac26d",
+          "property": "P4354",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q1860",
+                  "numeric-id": 1860
+                }
+              },
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4876": [
+      {
+        "id": "P5097$15A0DC92-A7D6-4249-BFD4-183F8EA39020",
+        "mainsnak": {
+          "datatype": "quantity",
+          "datavalue": {
+            "type": "quantity",
+            "value": {
+              "amount": "+90975",
+              "unit": "1"
+            }
+          },
+          "hash": "60e42db8953053ad6d3294a6872e468c5ae100a0",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 10,
+                  "time": "+2018-04-00T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "e16a70d7ddc24e478ac586b6e46aefd40ffffb0a",
+              "property": "P585",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P585"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "5577632faaa10ac2fe51870f227955d172e8bae8",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Logainm_ID&oldid=670088902"
+                  },
+                  "hash": "35e540efc636f9c3e4f71e97eecd804c72e4c5ce",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P5097$24A2D5AB-6FB5-4D6B-A070-EB02C5DBE164",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/(?:www\\.)?logainm\\.ie\\/([1-9]\\d*)\\.aspx"
+          },
+          "hash": "0f74ff94e94b47bdf830a8055d058c5d037646d0",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P13337": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "logainm.ie"
+              },
+              "hash": "b1743bca2d0b8cf69c6bfca37b79fbf83c33c714",
+              "property": "P13337",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P13337"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "ceea2f6feee424382a01592cf5132d47ab92326d",
+            "snaks": {
+              "P887": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q108538446",
+                      "numeric-id": 108538446
+                    }
+                  },
+                  "hash": "1de8175afc396d326d57f3f503448340b87d2399",
+                  "property": "P887",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P887"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P5097$42DF5B78-97DF-4BA2-BE15-45DC3B0C847A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7200284",
+              "numeric-id": 7200284
+            }
+          },
+          "hash": "c29a0a6bcca140923078a03da57c623c975e2498",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар старонкі геаграфічнай мясьціны ў базе зьвестак геаграфічных найменьняў Ірляндыі"
+    },
+    "en": {
+      "language": "en",
+      "value": "identifier for a placename page on the Placenames Database of Ireland (Logainm) site"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator strony z nazwami miejsc w witrynie internetowej Placenames Database of Ireland (Logainm)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "идентификатор места в ирландской базе данных Logainm.ie"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İrlanda Yer Adları Veritabanı (Logainm) sitesindeki bir yer adı sayfası için tanımlayıcı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор для сторінки географічної назви в базі даних географічних назв Ірландії (Logainm)"
+    }
+  },
+  "id": "P5097",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "معرف الأسماء المكانية في أيرلندا"
+    },
+    "az": {
+      "language": "az",
+      "value": "Logainm ID"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар Logainm"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador Logainm"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Logainm ID"
+    },
+    "de": {
+      "language": "de",
+      "value": "Logainm-ID"
+    },
+    "en": {
+      "language": "en",
+      "value": "Logainm ID"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant Logainm.ie"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "ID logainm"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "identificador Logainm"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Logainm-azonosító"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "на Логен"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Logainm-identificatiecode"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator Logainm"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "код Logainm"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Logainm kimliği"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор Logainm"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "ID Logainm"
+    }
+  },
+  "lastrevid": 2542506124,
+  "modified": "2026-09-09T00:02:09Z",
+  "ns": 120,
+  "pageid": 53088539,
+  "title": "Property:P5097",
+  "type": "property"
+}

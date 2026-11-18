@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "diagonal tool marks"
+      },
+      {
+        "language": "en",
+        "value": "diagonal striation"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q464$A33B9353-BD4C-5512-BDE3-D77082EBDFAA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q135012699"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q135012699"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "type of finish used by stonemasons during the Norman period in the UK and Ireland"
+    }
+  },
+  "id": "Q464",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "diagonal tooling"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

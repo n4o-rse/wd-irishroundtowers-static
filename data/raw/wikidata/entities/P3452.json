@@ -1,0 +1,1252 @@
+{
+  "aliases": {
+    "be-tarask": [
+      {
+        "language": "be-tarask",
+        "value": "выведзена з"
+      },
+      {
+        "language": "be-tarask",
+        "value": "выснова з"
+      }
+    ],
+    "de": [
+      {
+        "language": "de",
+        "value": "inferiert von"
+      },
+      {
+        "language": "de",
+        "value": "abgeleitet aus"
+      },
+      {
+        "language": "de",
+        "value": "gefolgert aus"
+      }
+    ],
+    "el": [
+      {
+        "language": "el",
+        "value": "συμπεραίνεται από"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "implied by"
+      },
+      {
+        "language": "en",
+        "value": "value inferred from"
+      },
+      {
+        "language": "en",
+        "value": "value implied by"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "deducido a partir de"
+      },
+      {
+        "language": "es",
+        "value": "inferido de"
+      },
+      {
+        "language": "es",
+        "value": "valor implícito por"
+      },
+      {
+        "language": "es",
+        "value": "valor inferido de"
+      }
+    ],
+    "et": [
+      {
+        "language": "et",
+        "value": "millest tuletatud"
+      }
+    ],
+    "eu": [
+      {
+        "language": "eu",
+        "value": "-tik ondorioztatua"
+      },
+      {
+        "language": "eu",
+        "value": "inferitua:"
+      },
+      {
+        "language": "eu",
+        "value": "ondoko balio inplizitua:"
+      },
+      {
+        "language": "eu",
+        "value": "-ren balio inferitua"
+      }
+    ],
+    "fi": [
+      {
+        "language": "fi",
+        "value": "päättely"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "déduit à partir de"
+      },
+      {
+        "language": "fr",
+        "value": "inféré de"
+      }
+    ],
+    "gl": [
+      {
+        "language": "gl",
+        "value": "inferido de"
+      }
+    ],
+    "he": [
+      {
+        "language": "he",
+        "value": "הוסק מ־"
+      },
+      {
+        "language": "he",
+        "value": "נגזר מ־"
+      },
+      {
+        "language": "he",
+        "value": "הוקש מ־"
+      }
+    ],
+    "hu": [
+      {
+        "language": "hu",
+        "value": "kikövetkeztetve innen"
+      },
+      {
+        "language": "hu",
+        "value": "következtetve ebből"
+      },
+      {
+        "language": "hu",
+        "value": "kikövetkeztetett állítás forráseleme"
+      },
+      {
+        "language": "hu",
+        "value": "heurisztika forráseleme"
+      },
+      {
+        "language": "hu",
+        "value": "heurisztika alapja"
+      }
+    ],
+    "it": [
+      {
+        "language": "it",
+        "value": "valore dedotto da"
+      },
+      {
+        "language": "it",
+        "value": "implicato da"
+      },
+      {
+        "language": "it",
+        "value": "valore implicato da"
+      },
+      {
+        "language": "it",
+        "value": "dedotto a partire da"
+      }
+    ],
+    "nn": [
+      {
+        "language": "nn",
+        "value": "avleitt frå"
+      },
+      {
+        "language": "nn",
+        "value": "avleia frå"
+      }
+    ],
+    "pl": [
+      {
+        "language": "pl",
+        "value": "wydedukowano z"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "выведено из"
+      },
+      {
+        "language": "ru",
+        "value": "предположение из"
+      },
+      {
+        "language": "ru",
+        "value": "заключение из"
+      },
+      {
+        "language": "ru",
+        "value": "судя по"
+      },
+      {
+        "language": "ru",
+        "value": "исходя из"
+      }
+    ],
+    "sq": [
+      {
+        "language": "sq",
+        "value": "marrë nga"
+      }
+    ],
+    "sv": [
+      {
+        "language": "sv",
+        "value": "härledd från"
+      }
+    ],
+    "vi": [
+      {
+        "language": "vi",
+        "value": "suy luận từ"
+      }
+    ],
+    "zh": [
+      {
+        "language": "zh",
+        "value": "推论自"
+      },
+      {
+        "language": "zh",
+        "value": "推论于"
+      },
+      {
+        "language": "zh",
+        "value": "隐含于"
+      }
+    ],
+    "zh-hant": [
+      {
+        "language": "zh-hant",
+        "value": "推斷自"
+      }
+    ],
+    "zh-tw": [
+      {
+        "language": "zh-tw",
+        "value": "推斷自"
+      }
+    ]
+  },
+  "claims": {
+    "P1629": [
+      {
+        "id": "P3452$0737897d-4f5d-bae4-dbaa-4162f1f5b801",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3523102",
+              "numeric-id": 3523102
+            }
+          },
+          "hash": "067e8eb5b1c33c21491078c96bf0c2179042bd15",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P13044": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q408386",
+                  "numeric-id": 408386
+                }
+              },
+              "hash": "b8fd7217b9ed3f9a6d8310b5714e591159a08210",
+              "property": "P13044",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P13044"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P3452$f13ead18-4feb-65ec-e773-d5e6d8fbc4d5",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P248",
+              "numeric-id": 248
+            }
+          },
+          "hash": "a29313210c8168dda8234fd3e61e2cfd28afa724",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3452$FBBBCD1C-0EF0-40DF-8A5B-D2C5DACB09E9",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P5852",
+              "numeric-id": 5852
+            }
+          },
+          "hash": "fee119805add2e75e3cc81ffc5ec58839a34c62e",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "0bc51fde59b4e5a7f081c4d27f34113cc907a0b6",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/value_is_inherited_from&oldid=746010208"
+                  },
+                  "hash": "63335e195c17b4c1a90ff75ab99cb86f99ca978b",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P3452$ddfd85c1-480c-7319-96f5-70f0ecafede0",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P887",
+              "numeric-id": 887
+            }
+          },
+          "hash": "8e5bd4392d39959a8e58de8a0006bfee67d25053",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3452$bb290fae-4a6f-a7e7-e8a1-29c536f7c1d9",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P461",
+              "numeric-id": 461
+            }
+          },
+          "hash": "a01116bd819cc980a3e612dbef0d07a4beba0fa0",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P3452$A4D5D37E-10FE-4A81-AD10-82D955142242",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21502408",
+                  "numeric-id": 21502408
+                }
+              },
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ],
+          "P5314": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54828450",
+                  "numeric-id": 54828450
+                }
+              },
+              "hash": "9031ca220e943517fb8d671c4ad4f3f1a25b6a0b",
+              "property": "P5314",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5314",
+          "P2316"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3452$467a9a97-4b46-4973-c45e-4c866d704f48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2305": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q29934200",
+                  "numeric-id": 29934200
+                }
+              },
+              "hash": "76a83209b6ab9e5ea1a1dd8e2986281a5a0479d7",
+              "property": "P2305",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q51885771",
+                  "numeric-id": 51885771
+                }
+              },
+              "hash": "50f25c5b7cde1e593dbe352b8d168432da76f596",
+              "property": "P2305",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q59712033",
+                  "numeric-id": 59712033
+                }
+              },
+              "hash": "26655a7e573da17226d4244ec74f59387afbf26c",
+              "property": "P2305",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q29934218",
+                  "numeric-id": 29934218
+                }
+              },
+              "hash": "2011ce818e9e134fba64bcf4fadca899ec905ad3",
+              "property": "P2305",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54285143",
+                  "numeric-id": 54285143
+                }
+              },
+              "hash": "89d6ee00dec273a4ec43b0a29b74e5e48f6639f2",
+              "property": "P2305",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54285715",
+                  "numeric-id": 54285715
+                }
+              },
+              "hash": "3b5f700c5d27c01ea14a6e43d2354185eaa31900",
+              "property": "P2305",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2305"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2354": [
+      {
+        "id": "P3452$8679b885-415e-50f0-9ac3-e2fd52efd08b",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130369576",
+              "numeric-id": 130369576
+            }
+          },
+          "hash": "acf6dc45b1c6921a8075f12b435d7465de62cd27",
+          "property": "P2354",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2559": [
+      {
+        "id": "P3452$61418715-49ad-fffa-8276-5b4980a6ebcf",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "de",
+              "text": "Diese Eigenschaft gibt an, dass die Informationen aus einem anderen Datenobjekt stammen. Zur Angabe einer anderen Informationensquelle (einem Buch, einem Artikel usw.) kann die Eigenschaft P248 (nachgewiesen in) verwendet werden."
+            }
+          },
+          "hash": "aec6273cc3d55b93392ca8fa04f160f794cedc47",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3452$5eb9bdcb-4c12-8d7c-b4eb-673576d7ba51",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "fr",
+              "text": "à utiliser uniquement dans le champ référence"
+            }
+          },
+          "hash": "0d0cef4c4d96e3a7c2e77380f85dc0961df57343",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3452$71f4d9eb-4681-a814-015f-364913f502b8",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "This property indicates that the information is contained within the provided item itself, as part of its statements. If you want to express that the information is contained by the entity (a book, an article, etc) that's represented by the linked information source, use P248."
+            }
+          },
+          "hash": "8a67818492c0b35656d28fe858c27ca018a4b7c9",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3452$562c87ae-4158-b65e-acad-79fbcc28e674",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "nb",
+              "text": "Brukes kun i referansefeltet"
+            }
+          },
+          "hash": "bd236e0a1e69d3fb19dc38221fca42c36f2147da",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3452$7d5250a4-4886-4dbe-6279-95577571e7b7",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "es",
+              "text": "Esta propiedad indica que la información está contenida en el propio elemento proporcionado, como parte de sus declaraciones. Si desea expresar que la información está contenida en la entidad (un libro, un artículo, etc.) representada por la fuente de información enlazada, utilice P248."
+            }
+          },
+          "hash": "220c44f1a1118aacbf4fdf97d32575d6088ece61",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3452$cd571c83-4ecc-5616-c9c2-fa90cb2df8fe",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "gl",
+              "text": "Esta propiedade indica que a información está tomada do propio elemento. Se desexa expresar que a información está contida na entidade (un libro, un artigo etc.)  representada pola fonte de información ligada, use P248 (fonte de información relacionada co elemento)"
+            }
+          },
+          "hash": "98807b7069b96cf5cf3efa2cd3668b65d3dacfa3",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3452$49ad7aca-4b46-8894-993d-c776fde44aa1",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "fi",
+              "text": "Tämä ominaisuus ilmaisee, että informaatio sisältyy kohteeseen. Käytä P248, jos haluat ilmaista, että informaatio sisältyy entiteettiin (kirja, artikkeli, tms.), jota linkitetty lähde edustaa."
+            }
+          },
+          "hash": "fd83703a4c2152ee599ada92f710a90dd3a61b49",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3452$ea505fc2-4134-6c96-e68e-966c7213b716",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "ca",
+              "text": "Aquesta propietat indica que la informació es troba a l'element. Si voleu expressar que la informació està continguda per l'entitat (un llibre, un article, etc.) que està representada per la font d'informació enllaçada, utilitzeu P248."
+            }
+          },
+          "hash": "d0b19ad9dd822268d1019548236690dad7fdd1a1",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3452$c1a956a6-4ef1-7a1c-6bb2-7091da605ba9",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "zh",
+              "text": "此属性表明信息包含在所提供的项目本身中，作为其陈述的一部分。如果您想表达信息包含在链接信息源所代表的实体（例如书籍、文章等）中，请使用 P248。"
+            }
+          },
+          "hash": "bce03df1f8de21bd49ecf5da63d6d7f8eb4a60af",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2668": [
+      {
+        "id": "P3452$17f6c633-45dc-d601-3e7d-f7f12e3a2367",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24025284",
+              "numeric-id": 24025284
+            }
+          },
+          "hash": "4572c19310f5dffc3f60e540cd40fcf6ece10ef8",
+          "property": "P2668",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3452$c8f536f2-4bb5-3c97-29a8-5edd32ef2df7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23611840",
+              "numeric-id": 23611840
+            }
+          },
+          "hash": "543f33af212bde6bc376f92acca2cc6404689d66",
+          "property": "P2668",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2875": [
+      {
+        "id": "P3452$b3d382f1-4ff3-6673-2d38-7134491d7638",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q98131256",
+              "numeric-id": 98131256
+            }
+          },
+          "hash": "5c21f670713d8a2b411f2ab51dabbcabdff8426c",
+          "property": "P2875",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P3452$dd2d1861-48cb-ff78-58f1-e525ac0f64bf",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18608359",
+              "numeric-id": 18608359
+            }
+          },
+          "hash": "cdc095b965c6a398d242b572335afb26cfaaa658",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P3452$10cb57a6-464a-3e11-8b23-8754563709b6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113558322",
+              "numeric-id": 113558322
+            }
+          },
+          "hash": "153e3efa9c4b917fc1230acfbe416e89035fdb4b",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P3452$3001B565-7A63-4826-8D8A-5291917E0A9E",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/inferred_from"
+          },
+          "hash": "cf1e4c4588397249c61331f9e9256356ecf46a57",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "تمت إضافة البيان بناءً على بيان ذي صلة موجود داخل العنصر، وليس الكيان الموصوف بواسطة العنصر (ليتم استخدامه في حقل مرجعي)."
+    },
+    "ast": {
+      "language": "ast",
+      "value": "declaración amestada basada na declaración rellacionada atopada nel siguiente elementu, non na entidá descrita pol elementu (para usase nun campu d'orixe)"
+    },
+    "be": {
+      "language": "be",
+      "value": "сцвярджэнне дададзена на падставе звестак у гэтым элеменце"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "сьцьверджаньне дададзенае на падставе зьвязанага сьцьверджаньня, знойдзенага на зьвязаным элемэнце"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "declaració afegida en funció de la declaració relacionada que es troba a l'element següent, no de l'entitat descrita per l'element (que s'utilitzarà en un camp de referència)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "tvrzení je odvozeno z položky, která je uvedena"
+    },
+    "de": {
+      "language": "de",
+      "value": "diese Aussage wurde ergänzt basierend auf einer verwandten Aussage im verlinkten Objekt (nur in den „Fundstellen“ zu benutzen)"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "diese Aussage wurde ergänzt basierend auf einer verwandten Aussage im verlinkten Objekt (nur in den «Fundstellen» zu benutzen)"
+    },
+    "en": {
+      "language": "en",
+      "value": "used in references when information was not stated directly about the subject, but can be logically figured out from other details in the source"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "used in references when information was not stated directly about the subject, but can be logically figured out from other details in the source"
+    },
+    "es": {
+      "language": "es",
+      "value": "declaración añadida basada en una declaración relacionada que se encuentra en el siguiente ítem (para ser usada en un campo fuente)"
+    },
+    "et": {
+      "language": "et",
+      "value": "väide on lisatud ühe järgneval üksusel oleva väite põhjal, mitte entiteedi põhjal, mida järgnev üksus kirjeldab (viite väljal kasutamiseks)"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "adierazpen erantsia, hurrengo atalean azaltzen den aitorpen erlazionatuan oinarritua (iturri-eremu batean erabiltzeko)"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "declaramientu añidíu basau nun declaramientu relacionau que s'encuentra nel siguienti item (pa sel gastau nun campu huenti)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "lisätty esitys perustuu toiseen esitykseen kohteessa eikä entiteettiin, jota kohde kuvaa (käytetään lähde-kentässä)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "déclaration ajoutée basée sur la déclaration inverse correspondante trouvée sur l'élément suivant (à utiliser uniquement en référence)"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "propiedade usada no campo referencia baseada nunha declaración relacionada. Usar só en referencias. Non confundir con P248 (fonte de información relacionada co elemento)"
+    },
+    "he": {
+      "language": "he",
+      "value": "שניתן להסיקו מ־"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "az állítás az elem saját kapcsolódó állításai, és nem az elem által leírt objektum alapján lett hozzáadva (a források mezőben használandó)"
+    },
+    "id": {
+      "language": "id",
+      "value": "pernyataan ditambahkan berdasarkan pernyataan terkait yang ditemukan pada item berikut, bukan entitas yang dijelaskan oleh item (untuk digunakan dalam bidang referensi)"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "nkwupụta agbakwunyere dabere na nkwupụta metụtara ya achọtara n'ime ihe ahụ, ọ bụghị ihe nke ihe ahụ kọwara (a ga-eji na mpaghara ntụaka)"
+    },
+    "it": {
+      "language": "it",
+      "value": "dichiarazione aggiunta sulla base di una dichiarazione correlata trovata nel seguente elemento"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "情報がリンクした項目内に含まれていることを示す"
+    },
+    "kaa": {
+      "language": "kaa",
+      "value": "tastıyıq mına elementtegi jazbalar tiykarında qosıldı"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "eigenschap gebaseerd op een gerelateerde eigenschap gevonden bij het volgende item (te gebruiken in een bronveld)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "używana w przypisach, gdy informacja została wywnioskowana ze szczegółów źródła, a nie podana bezpośrednio o danym obiekcie"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "declarație adăugată pe baza declarației corelate găsite la articolul următor, nu la entitatea descrisă de element (pentru a fi utilizată într-un câmp de referință)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "утверждение добавлено на основе заявления в следующем элементе"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "deklarata e shtuar bazuar në deklaratën përkatëse të gjetur në pikën vijuese, jo entiteti i përshkruar nga artikulli (që do të përdoret në një fushë referimi)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "ifade, öge tarafından tanımlanan varlığa değil, belirtilen ögede bulunan ilgili ifadeye göre eklendi (bir kaynak alanında kullanılacak)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "твердження додано на основі зворотного судження в наступному елементі"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "tuyên bố được thêm vào dựa trên một tuyên bố liên quan của mục nêu sau đó, không phải một thành phần do chính mục này mô tả (dùng trong trường tham khảo)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "根据项目中找到的相关陈述添加的陈述，而非项目所描述的实体（用于引用字段）"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "添加陳述時所依據的項目，陳述是由該項目的相關陳述間接推斷而得，而非該項目所直接形容的實體"
+    }
+  },
+  "id": "P3452",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "مستنتج من"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "deducíu de"
+    },
+    "be": {
+      "language": "be",
+      "value": "выснова з"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "на аснове"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "যেখান থেকে অনুমিত"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "zaključeno na osnovu"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "deduït de"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "na základě (položky)"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "wedi'i ddiddwytho o'r canlynol"
+    },
+    "da": {
+      "language": "da",
+      "value": "udledt af"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "di yimina"
+    },
+    "de": {
+      "language": "de",
+      "value": "abgeleitet von"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "abgeleitet von"
+    },
+    "el": {
+      "language": "el",
+      "value": "συνάγεται από"
+    },
+    "en": {
+      "language": "en",
+      "value": "inferred from"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "inferred from"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "implicita de"
+    },
+    "es": {
+      "language": "es",
+      "value": "deducido de"
+    },
+    "et": {
+      "language": "et",
+      "value": "millest järeldatud"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "-tik ondorioztatua"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "deduzíu de"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "päätelty kohteesta"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "déduit de"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "deducido de"
+    },
+    "he": {
+      "language": "he",
+      "value": "מסקנה מ־"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "से अनुमानित"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "következtetés alapja"
+    },
+    "id": {
+      "language": "id",
+      "value": "disimpulkan dari"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "sitere na"
+    },
+    "it": {
+      "language": "it",
+      "value": "dedotto da"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "以下から推測"
+    },
+    "kaa": {
+      "language": "kaa",
+      "value": "kelip shıǵıwı"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "다음에서 추론"
+    },
+    "lo": {
+      "language": "lo",
+      "value": "ອ້າງອີງຈາກ"
+    },
+    "mai": {
+      "language": "mai",
+      "value": "सँ अनुमानित"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "заклучено според"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "disimpulkan daripada"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "avledet fra"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "afgeleid uit"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "avleidd frå"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "wywnioskowano z"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "انُمان دا حوالہ"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "inferido de"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "dedus din"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "вывод из"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "izpeljano na podlagi"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "nxirret nga"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "закључено на основу"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "härlett från"
+    },
+    "th": {
+      "language": "th",
+      "value": "อ้างอิงจาก"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "çıkarılan kaynak"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "белдерү нигезе"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "виведено з"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "deduzesto da"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "suy diễn từ"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "推斷依據"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "推断依据"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "推断依据"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "推斷依據"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "推斷依據"
+    }
+  },
+  "lastrevid": 2558519369,
+  "modified": "2026-10-18T21:07:03Z",
+  "ns": 120,
+  "pageid": 30032797,
+  "title": "Property:P3452",
+  "type": "property"
+}

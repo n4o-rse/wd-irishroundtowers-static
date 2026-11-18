@@ -1,0 +1,101 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Corcaigh"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Corcaigh"
+      },
+      {
+        "language": "en",
+        "value": "Corke"
+      },
+      {
+        "language": "en",
+        "value": "Cork City"
+      },
+      {
+        "language": "en",
+        "value": "Cork Liberties"
+      },
+      {
+        "language": "en",
+        "value": "Corke Liberties"
+      },
+      {
+        "language": "en",
+        "value": "Corke Lib."
+      },
+      {
+        "language": "en",
+        "value": "Corke Libts."
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q344$AD6A5C07-7BB9-5EFC-819E-B0865F7AC3F0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q36647"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q36647"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Stadt im südlichen Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "city in County Cork, Munster Province, Ireland"
+    }
+  },
+  "id": "Q344",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Cork"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cork"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

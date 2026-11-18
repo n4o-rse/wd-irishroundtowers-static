@@ -1,0 +1,60 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q359$16689D4E-2C9A-537F-8E3D-50A37714F87F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3247288"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q3247288"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Irish Government agency"
+    }
+  },
+  "id": "Q359",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Office of Public Works"
+    },
+    "en": {
+      "language": "en",
+      "value": "Office of Public Works"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

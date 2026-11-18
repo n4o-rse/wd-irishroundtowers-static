@@ -1,0 +1,85 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Wand"
+      },
+      {
+        "language": "de",
+        "value": "Mauern"
+      },
+      {
+        "language": "de",
+        "value": "Wände"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "walls"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q380$B3547BE4-CE31-56CD-B3D3-F8FBF2C98D5C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q42948"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q42948"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Bauteil bzw. Bauwerk"
+    },
+    "en": {
+      "language": "en",
+      "value": "vertical structure, usually solid, that defines and sometimes protects an area"
+    }
+  },
+  "id": "Q380",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Mauer"
+    },
+    "en": {
+      "language": "en",
+      "value": "wall"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

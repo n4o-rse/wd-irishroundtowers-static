@@ -1,0 +1,75 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Churchland"
+      },
+      {
+        "language": "en",
+        "value": "Seir Kieran Monastic Site"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q629$946B1350-4D42-59DF-88BB-74DD5ED46C7E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17984874"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q17984874"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Klosteranlage in Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "monastic site in Leinster, Ireland"
+    }
+  },
+  "id": "Q629",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Kloster von Seirkieran"
+    },
+    "en": {
+      "language": "en",
+      "value": "Saighir"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Glenndálocha"
+      },
+      {
+        "language": "en",
+        "value": "Glendalough"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q453$A036BC49-B30F-5DB2-A86F-554B5698434B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q114738829"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q114738829"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Suppressed Roman Catholic Diocese in Ireland"
+    }
+  },
+  "id": "Q453",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Diocese of Glendalough"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

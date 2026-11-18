@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "D. M. Waterman: A Second Round Tower at Devenish, Co. Fermanagh, in: Ulster Journal of Archaeology Third Series, Vol. 36/37 (1973/1974), 100-102"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q668$0D01F40E-A4BF-51F0-AC08-56CCB7D89A33",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q142116433"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q142116433"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "article about the discovery of the remains of a second round tower at Devenish, County Fermanagh"
+    }
+  },
+  "id": "Q668",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "A Second Round Tower at Devenish, Co. Fermanagh"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

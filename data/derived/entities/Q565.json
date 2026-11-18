@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dorothy Lowry-Corry: St. Molaise's House at Devenish, Lough Erne, and Its Sculptured Stones, in: JRSAI 1936 (2), 270-284"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q565$4B90B727-BA63-56C9-BEB0-70F644BF54E3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q142082332"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q142082332"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1936 article by Dorothy Lowry-Corry about the monastic settlement at Devenish"
+    }
+  },
+  "id": "Q565",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "St. Molaise's House at Devenish, Lough Erne, and Its Sculptured Stones (1936)"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

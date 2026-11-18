@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Scattery Island Early Medieval Ecclesiastical Site"
+      },
+      {
+        "language": "en",
+        "value": "Inis Cathaigh"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q554$82EA6131-3CDB-569A-9FF1-B597CCD5D08D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116689258"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q116689258"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "former monastic site in Co. Clare"
+    }
+  },
+  "id": "Q554",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Scattery Island Monastic Site"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

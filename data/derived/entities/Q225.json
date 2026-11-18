@@ -1,0 +1,79 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "George Victor du Noyer"
+      },
+      {
+        "language": "en",
+        "value": "Geroge Victor Du Noyer"
+      },
+      {
+        "language": "en",
+        "value": "George Victor DuNoyer"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q225$FA01C605-A350-5C14-9025-00C14A47982F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5545495"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q5545495"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "irischer Geologe"
+    },
+    "en": {
+      "language": "en",
+      "value": "Irish artist (1817-1869)"
+    }
+  },
+  "id": "Q225",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "George Victor Du Noyer"
+    },
+    "en": {
+      "language": "en",
+      "value": "George Victor Du Noyer"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

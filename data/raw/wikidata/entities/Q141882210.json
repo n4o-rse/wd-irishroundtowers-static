@@ -1,0 +1,784 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Saint Mullin's Round Tower"
+      },
+      {
+        "language": "en",
+        "value": "St Mullin's Round Tower"
+      }
+    ]
+  },
+  "claims": {
+    "P10689": [
+      {
+        "id": "Q141882210$3139ddda-4370-fcae-8678-5dd1315eb5b7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "771105824"
+          },
+          "hash": "455d45a195a92fa4f3ece08e36c6dac97220be50",
+          "property": "P10689",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P131": [
+      {
+        "id": "Q141882210$5f1a0c70-4f32-a333-16a3-103d48e52aaa",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104260593",
+              "numeric-id": 104260593
+            }
+          },
+          "hash": "18f92619f427cd6b99a7e9b77a2b9d7646f4a114",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1343": [
+      {
+        "id": "Q141882210$620135aa-4033-a95b-04b1-caa65b65e0ae",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129530067",
+              "numeric-id": 129530067
+            }
+          },
+          "hash": "fc0a421126b9e63980f53b0166ace45de2561cb0",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "marked as building"
+              },
+              "hash": "35f8b2e7bf5cb736c6985cfd2fd83c0daeeb8d8e",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141882210$2e31751b-43f0-244c-189c-446bf0158482",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142116472",
+              "numeric-id": 142116472
+            }
+          },
+          "hash": "9a85d8739f85eb749c5a017506d5615a3f732f1b",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "296"
+              },
+              "hash": "cc71a4a6270a47915d56ad105e76d6bfe3066bea",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141882210$895c6946-46f7-1222-996a-8ac3e39a884e",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126540348",
+              "numeric-id": 126540348
+            }
+          },
+          "hash": "7f928f614f107987c78367022ba2f4f6e0c7c679",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Round Tower (in Ruins)"
+              },
+              "hash": "0217070fdc6cf62a319742efadb14534477c806e",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141882210$3128e7ed-4304-ebeb-d813-9881dd67733c",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131144764",
+              "numeric-id": 131144764
+            }
+          },
+          "hash": "11d70e649601f2362739697381132955e778df9f",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "52"
+              },
+              "hash": "0cd2147f7213198faad384dd2b54dab792918855",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141882210$a1a2c605-4aec-018f-abcb-d572c9c718e9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120966194",
+              "numeric-id": 120966194
+            }
+          },
+          "hash": "726fc103b071acc3cddebd2ebc6679bb23575e3e",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141882210$e1a6f2b8-494f-0ca0-9786-0efb5d8112a9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142093467",
+              "numeric-id": 142093467
+            }
+          },
+          "hash": "0a7bcdb47ea4dc1eff75807f84d4b361503af889",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "106-107"
+              },
+              "hash": "f79806dd3083046cc59bbcb184ffe4cbaf3b5647",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P14097": [
+      {
+        "id": "Q141882210$f1fbf9d8-47c4-216f-57e8-04f082395277",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "st-mullins-round-tower-base-cw026-011002-0f08b424ec744cdf8199b314a9c4ff09"
+          },
+          "hash": "cebb6eb02a6a457bca6247c64b53132055a566e6",
+          "property": "P14097",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1435": [
+      {
+        "id": "Q141882210$e4e31510-4288-5ca1-df5d-b8befe8b4eb9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q893802",
+              "numeric-id": 893802
+            }
+          },
+          "hash": "eb28b44de97409dfa5bef9d1526fc4e85ab2c2ff",
+          "property": "P1435",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P217": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "3"
+              },
+              "hash": "51b142233f6ca12c682ae775505de7242d4e2e3e",
+              "property": "P217",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P217"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "1fa047cbe4e9fe7ea5829d8bbbc56a732b7543e0",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.archaeology.ie/app/uploads/2025/03/monuments-in-state-care-carlow.pdf"
+                  },
+                  "hash": "cc824f3c4a16211aa7a7610bd8802d44f07fcdd0",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "Q141882210$b9345111-4bd9-88e7-e023-5e418cce7df8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27",
+              "numeric-id": 27
+            }
+          },
+          "hash": "f4ccb05f7faebc2073ed81093902b84d250e6695",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q141882210$341cd2f2-4de4-67e3-9ead-397a6810f675",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "28. St Mullin's Monastic Site, Co. Carlow.jpg"
+          },
+          "hash": "234183e5fba3e1b5fad1086e72bb4f86f74780f8",
+          "property": "P18",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P186": [
+      {
+        "id": "Q141882210$4b047200-440c-735a-bc74-6b2c2adb00be",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41177",
+              "numeric-id": 41177
+            }
+          },
+          "hash": "71c0a337ee28128cb282b08ddeed8bbafddb2d42",
+          "property": "P186",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b90b72b15025aefe6eff8172c310f4ed3c0c75e",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q142093467",
+                      "numeric-id": 142093467
+                    }
+                  },
+                  "hash": "9c80d91cab3edf2b656e1a12ee16a93614fc6ab1",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P2048": [
+      {
+        "id": "Q141882210$fd4ceb7c-471a-4a19-6363-851fa5be6b97",
+        "mainsnak": {
+          "datatype": "quantity",
+          "datavalue": {
+            "type": "quantity",
+            "value": {
+              "amount": "+1",
+              "unit": "http://www.wikidata.org/entity/Q11573"
+            }
+          },
+          "hash": "27d82dc2773a46dda339d1a5d2e51f6029fcc43d",
+          "property": "P2048",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b90b72b15025aefe6eff8172c310f4ed3c0c75e",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q142093467",
+                      "numeric-id": 142093467
+                    }
+                  },
+                  "hash": "9c80d91cab3edf2b656e1a12ee16a93614fc6ab1",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q141882210$f19eb234-4644-5b00-e494-b953db6b16ee",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1335799",
+              "numeric-id": 1335799
+            }
+          },
+          "hash": "86c331714834839eb4b44ad91408a9d1dc2a314e",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P361": [
+      {
+        "id": "Q141882210$cb9465d7-426c-8def-8703-400dfc05476e",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30136752",
+              "numeric-id": 30136752
+            }
+          },
+          "hash": "ff4ccbcde341cc55b690da2f35b1da3aa701ca9f",
+          "property": "P361",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P373": [
+      {
+        "id": "Q141882210$dd0e17df-45ae-7a0f-ea63-248aebeebd6d",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Saint Mullin's Round Tower"
+          },
+          "hash": "f7ba0c027cdabfc6574e76600cf3949d9168390e",
+          "property": "P373",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4057": [
+      {
+        "id": "Q141882210$9e2e83c1-4908-fe35-fe05-a323dc8b18a2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "CW026-011002-"
+          },
+          "hash": "fa674daf37807fffc717089b473ec2f48983fa50",
+          "property": "P4057",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "8cc9ed75e980a51a2d8af00689a5b5e1e6c1f5c3",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://heritagedata.maps.arcgis.com/apps/webappviewer/index.html?id=0c9eb9575b544081b0d296436d8f60f8&query=18a4b61b268-layer-9%2CSMRS%2CCW026-011002-"
+                  },
+                  "hash": "e342dbe421356c92c7842bce0e886c5ab15db13b",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P4059": [
+      {
+        "id": "Q141882210$0b80ccc2-450e-a36c-f713-729d00a8f416",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "3"
+          },
+          "hash": "0d143227ada0e8c7fee5b944aeb70f577e31fed0",
+          "property": "P4059",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "1fa047cbe4e9fe7ea5829d8bbbc56a732b7543e0",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.archaeology.ie/app/uploads/2025/03/monuments-in-state-care-carlow.pdf"
+                  },
+                  "hash": "cc824f3c4a16211aa7a7610bd8802d44f07fcdd0",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P5816": [
+      {
+        "id": "Q141882210$9bac0202-41e4-7d93-307a-1382341cb76c",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56557159",
+              "numeric-id": 56557159
+            }
+          },
+          "hash": "36f5fb7a19d72021f218e796b092b00f5c167e47",
+          "property": "P5816",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P625": [
+      {
+        "id": "Q141882210$722ac99e-438f-0bc1-8749-946b8907b2d0",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 52.4886476,
+              "longitude": -6.927708,
+              "precision": 1e-07
+            }
+          },
+          "hash": "d9cc141b40e930035e2bf2b6c6b553fd74aa0103",
+          "property": "P625",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "8ece5ca44e176c0cd32cb8dc238d7eedd6286bbc",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q936",
+                      "numeric-id": 936
+                    }
+                  },
+                  "hash": "7911dfeca3f1a99901992061dab24f71bc3fee0f",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P793": [
+      {
+        "id": "Q141882210$5d008cd6-4fcb-48c4-cf30-b0089ef84d88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38131096",
+              "numeric-id": 38131096
+            }
+          },
+          "hash": "c151e5f32ddb0bee652bab9a24e3140082c1bb7f",
+          "property": "P793",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P12995": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q3247288",
+                  "numeric-id": 3247288
+                }
+              },
+              "hash": "9454bba95460596a76729485d0ff51a8bb35768d",
+              "property": "P12995",
+              "snaktype": "value"
+            }
+          ],
+          "P585": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 9,
+                  "time": "+1880-00-00T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "df9e2ed218d237c4382af014e7d980434436868d",
+              "property": "P585",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P585",
+          "P12995"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b90b72b15025aefe6eff8172c310f4ed3c0c75e",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q142093467",
+                      "numeric-id": 142093467
+                    }
+                  },
+                  "hash": "9c80d91cab3edf2b656e1a12ee16a93614fc6ab1",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "ruins of a round tower at Saint Mullin's early Christian monastic site, County Carlow, Ireland"
+    }
+  },
+  "id": "Q141882210",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "St. Mullin's Round Tower"
+    }
+  },
+  "lastrevid": 2568071378,
+  "modified": "2026-11-11T20:39:17Z",
+  "ns": 0,
+  "pageid": 135459389,
+  "sitelinks": {
+    "commonswiki": {
+      "badges": [],
+      "site": "commonswiki",
+      "title": "Category:Saint Mullin's Round Tower"
+    }
+  },
+  "title": "Q141882210",
+  "type": "item"
+}

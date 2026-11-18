@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "St Mullin's Monastic Site"
+      },
+      {
+        "language": "en",
+        "value": "Rinn Ros Broic"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q593$6EEB1758-9D68-5DEE-B112-0833F91C0DA0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q30136752"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q30136752"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "historische Stätte in Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "early medieval monastic site in Ireland"
+    }
+  },
+  "id": "Q593",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "St. Mullin's Early Medieval Ecclesiastical Site"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

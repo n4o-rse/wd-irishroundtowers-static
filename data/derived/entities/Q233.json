@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Guide to the National and Historic Monuments of Ireland"
+      },
+      {
+        "language": "en",
+        "value": "Peter Harbison: Guide to the National and Historic Monuments of Ireland"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q233$15256728-4DDA-5FB2-AF30-25260A8D9269",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q131144764"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q131144764"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "3rd edition of book published in 1992"
+    }
+  },
+  "id": "Q233",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Peter Harbison: Guide to the National and Historic Monuments of Ireland (1992)"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

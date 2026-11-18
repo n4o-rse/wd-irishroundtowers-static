@@ -1,0 +1,85 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Handlung mit Todesfolge"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "killing"
+      },
+      {
+        "language": "en",
+        "value": "murder"
+      },
+      {
+        "language": "en",
+        "value": "slay"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q331$72939A9A-8FDB-5BC2-8C20-3E7D846A02F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q149086"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q149086"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Tötung eines Menschen durch einen anderen Menschen"
+    },
+    "en": {
+      "language": "en",
+      "value": "killing of a human being by another human being"
+    }
+  },
+  "id": "Q331",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Tötungsdelikt"
+    },
+    "en": {
+      "language": "en",
+      "value": "homicide"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

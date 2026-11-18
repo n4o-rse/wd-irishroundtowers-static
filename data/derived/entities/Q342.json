@@ -1,0 +1,77 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Bullaunstein"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "bullaun stone"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q342$E1E98A3B-9A61-56F5-B247-E2856199A3DD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1004210"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q1004210"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "irischer Name für eine Aushöhlung in einem Felsblock oder Stein"
+    },
+    "en": {
+      "language": "en",
+      "value": "depression in a stone which is often water filled and sometimes considered a holy well"
+    }
+  },
+  "id": "Q342",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Bullaun"
+    },
+    "en": {
+      "language": "en",
+      "value": "bullaun"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

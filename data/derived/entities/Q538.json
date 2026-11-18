@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "E.F. Hewson: Churches of Claragh, Blanchvilleskill, and Tullaherin"
+      },
+      {
+        "language": "en",
+        "value": "Churches of Claragh, Blanchvilleskill, and Tullaherin"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q538$1FEC8ED9-820D-5D49-924B-6E0521221A0F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130378225"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130378225"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "article about the churches in Churchclara, Blanchville Kill and Tullaherin"
+    }
+  },
+  "id": "Q538",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "E.F. Hewson: Churches of Claragh, Blanchvilleskill, and Tullaherin, in: Journal of the Royal Society of Antiquaries of Ireland 23, 1893, pp. 207-210"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

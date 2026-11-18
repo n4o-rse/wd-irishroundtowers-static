@@ -1,0 +1,157 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Ausgrabungstechnik"
+      },
+      {
+        "language": "de",
+        "value": "Ausgrabungen"
+      },
+      {
+        "language": "de",
+        "value": "Notgrabung"
+      },
+      {
+        "language": "de",
+        "value": "Ausgrabungsstätte"
+      },
+      {
+        "language": "de",
+        "value": "Grabungsschnitt"
+      },
+      {
+        "language": "de",
+        "value": "Ausgrabungstechniker"
+      },
+      {
+        "language": "de",
+        "value": "Ausgrabungsingenieur"
+      },
+      {
+        "language": "de",
+        "value": "Archäologische Fundstätte"
+      },
+      {
+        "language": "de",
+        "value": "Grabungstechnik"
+      },
+      {
+        "language": "de",
+        "value": "Grabung"
+      },
+      {
+        "language": "de",
+        "value": "Ausgrabungswesen"
+      },
+      {
+        "language": "de",
+        "value": "Rettungsgrabung"
+      },
+      {
+        "language": "de",
+        "value": "Sondierungsgrabung"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "archeological dig"
+      },
+      {
+        "language": "en",
+        "value": "dig"
+      },
+      {
+        "language": "en",
+        "value": "archaeological fieldwork"
+      },
+      {
+        "language": "en",
+        "value": "archaeology fieldwork"
+      },
+      {
+        "language": "en",
+        "value": "excavation"
+      },
+      {
+        "language": "en",
+        "value": "Archaeological excavation"
+      },
+      {
+        "language": "en",
+        "value": "archaeological dig"
+      },
+      {
+        "language": "en",
+        "value": "archaeology dig"
+      },
+      {
+        "language": "en",
+        "value": "archeological excavation"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q633$E46F2B59-3C24-5A87-B77E-FC2F30331D38",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q959782"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q959782"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "archäologische oder paläontologische Freilegung eines von Erdboden oder von Erd- beziehungsweise Steinauftragung verdeckten Befundes"
+    },
+    "en": {
+      "language": "en",
+      "value": "exposure, processing and recording of archaeological remains"
+    }
+  },
+  "id": "Q633",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Ausgrabung"
+    },
+    "en": {
+      "language": "en",
+      "value": "archaeological excavation"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

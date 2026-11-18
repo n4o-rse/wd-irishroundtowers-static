@@ -1,0 +1,77 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Gobbán Saer"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Goban Saor"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q306$D66A4D52-F9B2-5E9D-8376-4D1DBC099C86",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3778844"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q3778844"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Baumeister"
+    },
+    "en": {
+      "language": "en",
+      "value": "legendary Irish architect from 7th century, popularly canonised as St. Gobban"
+    }
+  },
+  "id": "Q306",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Gobán Saor"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gobán Saor"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

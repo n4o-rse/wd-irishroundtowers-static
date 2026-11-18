@@ -1,0 +1,79 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Brekziiert"
+      },
+      {
+        "language": "de",
+        "value": "Breccie"
+      },
+      {
+        "language": "de",
+        "value": "Mikrobrekzie"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q542$70E68E47-4791-582E-B5B6-5FB129614307",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q191250"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q191250"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Gestein"
+    },
+    "en": {
+      "language": "en",
+      "value": "rock composed of angular fragments in a groundmass"
+    }
+  },
+  "id": "Q542",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Brekzie"
+    },
+    "en": {
+      "language": "en",
+      "value": "breccia"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

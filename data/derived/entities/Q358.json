@@ -1,0 +1,64 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q358$9D950A77-08CD-5A1D-9EB8-FD0582E2546F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12567"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q12567"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "nordgermanische Bevölkerung des Nord-Ostseeraums in der Wikingerzeit (800–1050)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Norse people, farmers, merchants, explorers, raiders and pirates"
+    }
+  },
+  "id": "Q358",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Wikinger"
+    },
+    "en": {
+      "language": "en",
+      "value": "Vikings"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

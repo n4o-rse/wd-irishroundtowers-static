@@ -1,0 +1,7 @@
+# The Irish round towers of the Wikidata WikiProject IrishRoundTowers: every item that is an instance of "Irish round tower"
+# (Q1335799) or of one of its subclasses. This is the "simple query" of the WikiProject page (w.wiki/eyfa), without the label service.
+# The verb seeds-from-sparql runs this query at query.wikidata.org; ?kind becomes the column "kind" of the seed list.
+SELECT DISTINCT ?item ?kind WHERE {
+  ?item wdt:P31/wdt:P279* wd:Q1335799 .
+  BIND("tower" AS ?kind)
+} ORDER BY ?item

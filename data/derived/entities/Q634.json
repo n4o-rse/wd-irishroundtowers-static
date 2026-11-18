@@ -1,0 +1,81 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Robin Glasscock"
+      },
+      {
+        "language": "de",
+        "value": "Robin E. Glasscock"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Robin Glasscock"
+      },
+      {
+        "language": "en",
+        "value": "Robin E. Glasscock"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q634$9B58FCC0-7316-59CF-959E-380D05D1740C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q53926629"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q53926629"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "historical geographer"
+    }
+  },
+  "id": "Q634",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "R. E. Glasscock"
+    },
+    "en": {
+      "language": "en",
+      "value": "R. E. Glasscock"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

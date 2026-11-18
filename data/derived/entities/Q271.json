@@ -1,0 +1,101 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Faltwerktreppe"
+      },
+      {
+        "language": "de",
+        "value": "Balkentreppe"
+      },
+      {
+        "language": "de",
+        "value": "Treppenbau"
+      },
+      {
+        "language": "de",
+        "value": "Stiege"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "staircase"
+      },
+      {
+        "language": "en",
+        "value": "flight of stairs"
+      },
+      {
+        "language": "en",
+        "value": "stairway"
+      },
+      {
+        "language": "en",
+        "value": "steps"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q271$BEFC6342-98A2-5CCE-9393-01FFACDDD631",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12511"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q12511"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "aus Stufen gebildeter Auf- oder Abgang"
+    },
+    "en": {
+      "language": "en",
+      "value": "construction designed to bridge a large vertical distance by dividing it into steps"
+    }
+  },
+  "id": "Q271",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Treppe"
+    },
+    "en": {
+      "language": "en",
+      "value": "stairs"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

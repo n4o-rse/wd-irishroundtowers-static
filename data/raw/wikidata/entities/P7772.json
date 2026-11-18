@@ -1,0 +1,1475 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "أطلس أوبسكيورا"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "atlasobscura.com identifier"
+      },
+      {
+        "language": "en",
+        "value": "atlasobscura.com ID"
+      },
+      {
+        "language": "en",
+        "value": "AO ID"
+      },
+      {
+        "language": "en",
+        "value": "Atlas Obscura identifier"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "код Atlas Obscura"
+      }
+    ],
+    "sl": [
+      {
+        "language": "sl",
+        "value": "identifikator Atlas Obscura"
+      }
+    ],
+    "tr": [
+      {
+        "language": "tr",
+        "value": "Atlas Obscura kimliği"
+      },
+      {
+        "language": "tr",
+        "value": "atlasobscura.com tanımlayıcı"
+      },
+      {
+        "language": "tr",
+        "value": "atlasobscura.com kimliği"
+      },
+      {
+        "language": "tr",
+        "value": "AO kimliği"
+      }
+    ],
+    "uk": [
+      {
+        "language": "uk",
+        "value": "ідентифікатор atlasobscura.com"
+      },
+      {
+        "language": "uk",
+        "value": "ідентифікатор AO"
+      }
+    ]
+  },
+  "claims": {
+    "P1629": [
+      {
+        "id": "P7772$9c6c0c63-4223-a60e-e437-d4509188dea7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28134257",
+              "numeric-id": 28134257
+            }
+          },
+          "hash": "f069fa75c68cd9376a2b9698c3253c64c073fe3b",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1630": [
+      {
+        "id": "P7772$66907F39-B17A-44CD-86C1-C55A4AC0432A",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://atlasobscura.com/places/$1"
+          },
+          "hash": "8b9620ab756aa7bc3c958bd2b0ee3035b624860e",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q1860",
+                  "numeric-id": 1860
+                }
+              },
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "d908e6f5b135d3574e923537c07e499914dd9e85",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Atlas_Obscura_identifier&oldid=1088805316"
+                  },
+                  "hash": "0dad801eb11df95df3a9b1c17dd068e83e8b6aba",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P7772$16b9a418-40cf-51a9-3743-ade367a0b64b",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.atlasobscura.com/places/$1"
+          },
+          "hash": "e5863960d9d76defbf0cae5e01563f545e8314d2",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q1860",
+                  "numeric-id": 1860
+                }
+              },
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "rank": "preferred",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P7772$37E9F2E5-5C5D-41D9-B5CA-6346ED1663C6",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P5456",
+              "numeric-id": 5456
+            }
+          },
+          "hash": "303982b79776b5f48271e8ce3d1e37214415cd70",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "d908e6f5b135d3574e923537c07e499914dd9e85",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Atlas_Obscura_identifier&oldid=1088805316"
+                  },
+                  "hash": "0dad801eb11df95df3a9b1c17dd068e83e8b6aba",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P7772$A1C8C06D-3D1F-4D34-A90F-9FE8F0531D88",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "^[a-z\\-\\d]+$"
+          },
+          "hash": "bff7100da7117f4a40efb9fd06d954eb3c8002fb",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "d908e6f5b135d3574e923537c07e499914dd9e85",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Atlas_Obscura_identifier&oldid=1088805316"
+                  },
+                  "hash": "0dad801eb11df95df3a9b1c17dd068e83e8b6aba",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P7772$E8990C11-F8F9-466F-A29A-2AEBC4511539",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q201013",
+              "numeric-id": 201013
+            }
+          },
+          "hash": "89a7e9a113a65b909fdd299d3a4bd8d8130c85d8",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P7772": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "svalbard-seed-bank"
+              },
+              "hash": "60292bddfa6f0b3bd3a300841d7f00cba7bcfe30",
+              "property": "P7772",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P7772"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "d908e6f5b135d3574e923537c07e499914dd9e85",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Atlas_Obscura_identifier&oldid=1088805316"
+                  },
+                  "hash": "0dad801eb11df95df3a9b1c17dd068e83e8b6aba",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P7772$4CC03938-8F2E-44C6-B230-88F4FD0BD218",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q180901",
+              "numeric-id": 180901
+            }
+          },
+          "hash": "f3d7736803abdc59aeaa1697989ec49e3f6e22b0",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P7772": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "the-atomium-brussels-belgium"
+              },
+              "hash": "e89987c768a4770e51d9c44d1fc36211e5ff07cf",
+              "property": "P7772",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P7772"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "d908e6f5b135d3574e923537c07e499914dd9e85",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Atlas_Obscura_identifier&oldid=1088805316"
+                  },
+                  "hash": "0dad801eb11df95df3a9b1c17dd068e83e8b6aba",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P7772$BBFA34B0-8703-4751-BD09-107D731BBB7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1090986",
+              "numeric-id": 1090986
+            }
+          },
+          "hash": "42b3fcaf12fe7eb412665f041f3f4d6c13c75fe6",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P7772": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "chapel-oak"
+              },
+              "hash": "a29a89be16aa71122d64a73d08281e1e1338eaa7",
+              "property": "P7772",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P7772"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "d908e6f5b135d3574e923537c07e499914dd9e85",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Atlas_Obscura_identifier&oldid=1088805316"
+                  },
+                  "hash": "0dad801eb11df95df3a9b1c17dd068e83e8b6aba",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P1896": [
+      {
+        "id": "P7772$6BCA9178-3DBE-4996-801E-C298C78BD36C",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://atlasobscura.com"
+          },
+          "hash": "6ac585807b0bf01133b191d62de9a4cf8ec1c8d7",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q1860",
+                  "numeric-id": 1860
+                }
+              },
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "d908e6f5b135d3574e923537c07e499914dd9e85",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Atlas_Obscura_identifier&oldid=1088805316"
+                  },
+                  "hash": "0dad801eb11df95df3a9b1c17dd068e83e8b6aba",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P2264": [
+      {
+        "id": "P7772$4F8A8837-F0B6-4746-8976-3CED9E57A884",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "3146"
+          },
+          "hash": "a36af061b84f945bc7c40f82c6b51e97b9f1e481",
+          "property": "P2264",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1552": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q116480204",
+                  "numeric-id": 116480204
+                }
+              },
+              "hash": "b4636808a1e4a280c93851e6873e89f0880bc39c",
+              "property": "P1552",
+              "snaktype": "value"
+            }
+          ],
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Atlas Obscura places"
+              },
+              "hash": "52d68a229eefdab7f5c985e8a6dfdba3996e4225",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P8555": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 11,
+                  "time": "+2019-12-17T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "24eff9e7ad1c8645afac14490f0636e7a4b68cb6",
+              "property": "P8555",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P8555",
+          "P1552",
+          "P1810"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "d908e6f5b135d3574e923537c07e499914dd9e85",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Atlas_Obscura_identifier&oldid=1088805316"
+                  },
+                  "hash": "0dad801eb11df95df3a9b1c17dd068e83e8b6aba",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P7772$59A81A1E-4C32-4081-BA70-421ABFB3A9B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "d908e6f5b135d3574e923537c07e499914dd9e85",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Atlas_Obscura_identifier&oldid=1088805316"
+                  },
+                  "hash": "0dad801eb11df95df3a9b1c17dd068e83e8b6aba",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P7772$E222F4B7-EE18-4FAB-A2FB-A2D9CB2CE9FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "d908e6f5b135d3574e923537c07e499914dd9e85",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Atlas_Obscura_identifier&oldid=1088805316"
+                  },
+                  "hash": "0dad801eb11df95df3a9b1c17dd068e83e8b6aba",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P7772$5757B401-4908-467F-8797-6ED143673A67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1793": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "^[a-z\\-\\d]+$"
+              },
+              "hash": "bff7100da7117f4a40efb9fd06d954eb3c8002fb",
+              "property": "P1793",
+              "snaktype": "value"
+            }
+          ],
+          "P2303": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q2892262",
+                  "numeric-id": 2892262
+                }
+              },
+              "hash": "0ad71b6863064aedb1bcdb79c588ee855cbd0580",
+              "property": "P2303",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1793",
+          "P2303"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "d908e6f5b135d3574e923537c07e499914dd9e85",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Atlas_Obscura_identifier&oldid=1088805316"
+                  },
+                  "hash": "0dad801eb11df95df3a9b1c17dd068e83e8b6aba",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P7772$32B5DD78-1333-4BB8-98CF-167077DA4732",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2305": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q29934200",
+                  "numeric-id": 29934200
+                }
+              },
+              "hash": "76a83209b6ab9e5ea1a1dd8e2986281a5a0479d7",
+              "property": "P2305",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2305"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P7772$5a7f8e2d-4e8d-e414-6f0a-cc90a2272409",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P5314": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54828448",
+                  "numeric-id": 54828448
+                }
+              },
+              "hash": "a0202111cb525ed31611bf926974b74a2419b8ab",
+              "property": "P5314",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54828450",
+                  "numeric-id": 54828450
+                }
+              },
+              "hash": "9031ca220e943517fb8d671c4ad4f3f1a25b6a0b",
+              "property": "P5314",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5314"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2378": [
+      {
+        "id": "P7772$4B717C72-23B3-484B-A914-46EC10B55F7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28134257",
+              "numeric-id": 28134257
+            }
+          },
+          "hash": "dc430541d1f5437b40aa72e159c847101b471fc4",
+          "property": "P2378",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2429": [
+      {
+        "id": "P7772$13DBCDEF-449D-4970-A33C-B52451966EFE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21873886",
+              "numeric-id": 21873886
+            }
+          },
+          "hash": "cda3cee2c1da801de81136a0a0c54f6dcba8bc25",
+          "property": "P2429",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "d908e6f5b135d3574e923537c07e499914dd9e85",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Atlas_Obscura_identifier&oldid=1088805316"
+                  },
+                  "hash": "0dad801eb11df95df3a9b1c17dd068e83e8b6aba",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P7772$B8B7D51D-4E45-49E0-A9B4-BCDE3D909752",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19829908",
+              "numeric-id": 19829908
+            }
+          },
+          "hash": "569c6a016580db212243cac4f64c06bea46d1d37",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "d908e6f5b135d3574e923537c07e499914dd9e85",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Atlas_Obscura_identifier&oldid=1088805316"
+                  },
+                  "hash": "0dad801eb11df95df3a9b1c17dd068e83e8b6aba",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P7772$c3093519-4d1e-6738-c2dd-32408e371d91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29110152",
+              "numeric-id": 29110152
+            }
+          },
+          "hash": "8fb1e5be95c9e60b89b910ca5928207385e98264",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P7772$9F956BDE-D3B7-4AAC-9E6D-B750209EE289",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/Atlas_Obscura_identifier"
+          },
+          "hash": "7113bc76d42fab157f3522b8a5900fa47d86725e",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "d908e6f5b135d3574e923537c07e499914dd9e85",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/Atlas_Obscura_identifier&oldid=1088805316"
+                  },
+                  "hash": "0dad801eb11df95df3a9b1c17dd068e83e8b6aba",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P4354": [
+      {
+        "id": "P7772$d2dc4acb-4bce-7143-9318-62579cb99da7",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://atlasobscura.com/search?utf8=✓&q=$1"
+          },
+          "hash": "f64d14c18c65f7d3cddc17dd148d36719eb93794",
+          "property": "P4354",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q1860",
+                  "numeric-id": 1860
+                }
+              },
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4876": [
+      {
+        "id": "P7772$1aca143a-4624-1e69-ef09-d1445d32f829",
+        "mainsnak": {
+          "datatype": "quantity",
+          "datavalue": {
+            "type": "quantity",
+            "value": {
+              "amount": "+18627",
+              "unit": "1"
+            }
+          },
+          "hash": "793ed10f189c126cdbfa16451229a9bd3b206c24",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 9,
+                  "time": "+2022-00-00T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "2158d4b68f82b8f36f47c98bd3609a99913faa59",
+              "property": "P585",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P585"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "0824a14e062ec992ae4ef8ffe04fd2e0090c33bb",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q28054658",
+                      "numeric-id": 28054658
+                    }
+                  },
+                  "hash": "4fb556d281417038b24bce56414d4f0420ca71f4",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P7772$28FDEC9C-014D-43D0-BE25-29FEE659ECDA",
+        "mainsnak": {
+          "datatype": "quantity",
+          "datavalue": {
+            "type": "quantity",
+            "value": {
+              "amount": "+23696",
+              "unit": "1"
+            }
+          },
+          "hash": "aa6f30fb360ac770b9580d4101359561fd575866",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 11,
+                  "time": "+2023-01-29T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "592df4b828d97c60a81ba2347bdd7c953355c427",
+              "property": "P585",
+              "snaktype": "value"
+            }
+          ],
+          "P7452": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q71533355",
+                  "numeric-id": 71533355
+                }
+              },
+              "hash": "4723a3e25f86a03c9c3c2ee4a442acda1100f53f",
+              "property": "P7452",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P585",
+          "P7452"
+        ],
+        "rank": "preferred",
+        "references": [
+          {
+            "hash": "3071194daacf74cb42cdedb0d204be98e4254601",
+            "snaks": {
+              "P2264": [
+                {
+                  "datatype": "external-id",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "3146"
+                  },
+                  "hash": "a36af061b84f945bc7c40f82c6b51e97b9f1e481",
+                  "property": "P2264",
+                  "snaktype": "value"
+                }
+              ],
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q28054658",
+                      "numeric-id": 28054658
+                    }
+                  },
+                  "hash": "4fb556d281417038b24bce56414d4f0420ca71f4",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ],
+              "P813": [
+                {
+                  "datatype": "time",
+                  "datavalue": {
+                    "type": "time",
+                    "value": {
+                      "after": 0,
+                      "before": 0,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                      "precision": 11,
+                      "time": "+2023-01-29T00:00:00Z",
+                      "timezone": 0
+                    }
+                  },
+                  "hash": "b709c205d4c485e9dc8a30ac54d13ceda9a533b2",
+                  "property": "P813",
+                  "snaktype": "value"
+                }
+              ],
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://mix-n-match.toolforge.org/#/catalog/3146"
+                  },
+                  "hash": "5b736d0cfdb0d798ba3419e718626afc07922a9e",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P813",
+              "P248",
+              "P854",
+              "P2264"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P7772$db835339-42b0-aa3f-5b16-9c63d091b604",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/(?:www\\.)?atlasobscura\\.com\\/places\\/([a-z\\-\\d]+)"
+          },
+          "hash": "56bc1bcd93468eda4446e35b274adef4eb0ab2b7",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P10999": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "^(.+) – [^-,]+, [^-,]+ - Atlas Obscura$"
+              },
+              "hash": "edb67dc58c59479d63cca618ddc1a50a1a9a97be",
+              "property": "P10999",
+              "snaktype": "value"
+            }
+          ],
+          "P13337": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "atlasobscura.com"
+              },
+              "hash": "ffb13686f7c7dec03fae08b122bf4b29107707c6",
+              "property": "P13337",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P10999",
+          "P13337"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P7772$adeb9085-49ce-7c34-df3b-643eba654a40",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28134257",
+              "numeric-id": 28134257
+            }
+          },
+          "hash": "9f5322114e5bfc50cd7aa211ca62c1c6cdd34709",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар мясьцінаў у Atlas Obscura"
+    },
+    "en": {
+      "language": "en",
+      "value": "identifier for places on the Atlas Obscura website"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "helyazonosító az Atlas Obscura adatbázisában"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo di un luogo nel sito web Atlas Obscura"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "идентификатор места в сервисе Atlas Obscura"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "identifierare for platser hos Atlas Obscura"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Atlas Obscura'daki yerler için tanımlayıcı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор для місця Atlas Obscura"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "Atlas Obscura 網站上地點的識別碼"
+    }
+  },
+  "id": "P7772",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "مُعرِّف أطلس \"أوبسكيورا\" (Obscura)"
+    },
+    "az": {
+      "language": "az",
+      "value": "Atlas Obscura ID"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар Atlas Obscura"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador Atlas Obscura"
+    },
+    "de": {
+      "language": "de",
+      "value": "Atlas-Obscura-Kennung"
+    },
+    "en": {
+      "language": "en",
+      "value": "Atlas Obscura place ID"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "identigilo ĉe Atlas Obscura"
+    },
+    "es": {
+      "language": "es",
+      "value": "ID Atlas Obscura"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Atlas Obscura -tunniste"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant Atlas Obscura"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "identificador Atlas Obscura"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Atlas Obscura-azonosító"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo Atlas Obscura"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アトラス・オブスキュラID"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "во Атлас обскура"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Atlas Obscura-ID"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Atlas Obscura-identificatiecode"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator w Atlas Obscura"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "identificador Atlas Obscura"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "код места Atlas Obscura"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "oznaka Atlas Obscura"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Atlas Obscura-identifierare"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Atlas Obscura tanımlayıcı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор Atlas Obscura"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "ID Atlas Obscura"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "Atlas Obscura地點識別碼"
+    }
+  },
+  "lastrevid": 2549724187,
+  "modified": "2026-09-26T17:21:59Z",
+  "ns": 120,
+  "pageid": 79968313,
+  "title": "Property:P7772",
+  "type": "property"
+}

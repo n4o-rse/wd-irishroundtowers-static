@@ -1,0 +1,75 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Rüstloch"
+      },
+      {
+        "language": "de",
+        "value": "Balkenloch"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q354$1FC164E1-BC8E-5893-BA2F-108C014B6DCC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q19787"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q19787"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "kleine Löcher in Gebäuden"
+    },
+    "en": {
+      "language": "en",
+      "value": "small holes in buildings to hold scaffolding"
+    }
+  },
+  "id": "Q354",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Gerüstloch"
+    },
+    "en": {
+      "language": "en",
+      "value": "putlog hole"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

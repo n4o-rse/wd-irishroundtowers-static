@@ -1,0 +1,237 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Startdatum"
+      },
+      {
+        "language": "de",
+        "value": "Von"
+      },
+      {
+        "language": "de",
+        "value": "Beginnend am"
+      },
+      {
+        "language": "de",
+        "value": "Start"
+      },
+      {
+        "language": "de",
+        "value": "seit"
+      },
+      {
+        "language": "de",
+        "value": "Beginn"
+      },
+      {
+        "language": "de",
+        "value": "begann"
+      },
+      {
+        "language": "de",
+        "value": "Anfang"
+      },
+      {
+        "language": "de",
+        "value": "Anfangszeit"
+      },
+      {
+        "language": "de",
+        "value": "ab"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "from"
+      },
+      {
+        "language": "en",
+        "value": "starting"
+      },
+      {
+        "language": "en",
+        "value": "began"
+      },
+      {
+        "language": "en",
+        "value": "from time"
+      },
+      {
+        "language": "en",
+        "value": "since"
+      },
+      {
+        "language": "en",
+        "value": "from date"
+      },
+      {
+        "language": "en",
+        "value": "building date"
+      },
+      {
+        "language": "en",
+        "value": "starttime"
+      },
+      {
+        "language": "en",
+        "value": "introduced"
+      },
+      {
+        "language": "en",
+        "value": "introduction"
+      },
+      {
+        "language": "en",
+        "value": "started in"
+      },
+      {
+        "language": "en",
+        "value": "beginning"
+      },
+      {
+        "language": "en",
+        "value": "join date"
+      },
+      {
+        "language": "en",
+        "value": "join time"
+      },
+      {
+        "language": "en",
+        "value": "start date"
+      },
+      {
+        "language": "en",
+        "value": "joined"
+      },
+      {
+        "language": "en",
+        "value": "effective"
+      },
+      {
+        "language": "en",
+        "value": "effectivity"
+      },
+      {
+        "language": "en",
+        "value": "valid"
+      },
+      {
+        "language": "en",
+        "value": "validity"
+      },
+      {
+        "language": "en",
+        "value": "first air date"
+      },
+      {
+        "language": "en",
+        "value": "air date"
+      },
+      {
+        "language": "en",
+        "value": "first broadcast date"
+      },
+      {
+        "language": "en",
+        "value": "broadcast date"
+      },
+      {
+        "language": "en",
+        "value": "began airing"
+      },
+      {
+        "language": "en",
+        "value": "began broadcasting"
+      },
+      {
+        "language": "en",
+        "value": "began streaming"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P155$45B08754-0265-527A-B481-77E2E2581C91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P155$00D6B0DF-6594-5755-BA1C-245684350F36",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P580"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P580"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "time",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Zeitpunkt, an dem eine Aussage wahr wurde oder ein Objekt zu existieren anfing"
+    },
+    "en": {
+      "language": "en",
+      "value": "time an entity begins to exist or a statement starts being valid"
+    }
+  },
+  "id": "P155",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Startzeitpunkt"
+    },
+    "en": {
+      "language": "en",
+      "value": "start time"
+    }
+  },
+  "type": "property"
+}

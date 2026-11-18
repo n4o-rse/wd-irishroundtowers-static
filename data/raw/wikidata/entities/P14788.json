@@ -1,0 +1,672 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Höhe über dem Grund"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "height above ground"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "hauteur au-dessus du sol"
+      },
+      {
+        "language": "fr",
+        "value": "hatueur par rapport au sol"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "расположен на высоте"
+      },
+      {
+        "language": "ru",
+        "value": "расположено на высоте"
+      },
+      {
+        "language": "ru",
+        "value": "расположена на высоте"
+      },
+      {
+        "language": "ru",
+        "value": "на высоте"
+      }
+    ]
+  },
+  "claims": {
+    "P1629": [
+      {
+        "id": "P14788$2E6E0AA0-6D92-4F48-9305-333D45C96AE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q323170",
+              "numeric-id": 323170
+            }
+          },
+          "hash": "e37d6c2f7a377f7a94f078aa2d84d1b120615576",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "46adc3eef09ead3c44e951839d69131fb80b56f7",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/height_above_ground_level"
+                  },
+                  "hash": "65eae6e5d68fe8a9351028b5c5929b6f603ddd76",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P14788$4AE7289C-86F6-40AA-8470-E9616CA58A93",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P2923",
+              "numeric-id": 2923
+            }
+          },
+          "hash": "89d200198b73aac62c776f53956b02350056cc3e",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "46adc3eef09ead3c44e951839d69131fb80b56f7",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/height_above_ground_level"
+                  },
+                  "hash": "65eae6e5d68fe8a9351028b5c5929b6f603ddd76",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P14788$CBA9A1E1-EDFF-4264-9761-A98D88865520",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P2048",
+              "numeric-id": 2048
+            }
+          },
+          "hash": "9d4855c64890f43e5f5e93b28f055c6fc03fb1b7",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "46adc3eef09ead3c44e951839d69131fb80b56f7",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/height_above_ground_level"
+                  },
+                  "hash": "65eae6e5d68fe8a9351028b5c5929b6f603ddd76",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P14788$8726bca0-4ccf-4597-c0a3-629d9e677eb0",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P2044",
+              "numeric-id": 2044
+            }
+          },
+          "hash": "d6eb139926ac4f807671029ce05765fe31508ec3",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P14788$670e8450-450d-b501-758d-024abc2fb182",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q727042",
+              "numeric-id": 727042
+            }
+          },
+          "hash": "308abf0c650ba4ab96acc110105747bb1e30131a",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P14788": [
+            {
+              "datatype": "quantity",
+              "datavalue": {
+                "type": "quantity",
+                "value": {
+                  "amount": "+20",
+                  "unit": "http://www.wikidata.org/entity/Q11573"
+                }
+              },
+              "hash": "82a6b40f15ed05c053379ba2903a635bc8db0f0e",
+              "property": "P14788",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14788"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P14788$3c0c5630-4a7c-a44a-5e22-ec7b6ea1fbda",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16695855",
+              "numeric-id": 16695855
+            }
+          },
+          "hash": "1b857c38dbdcdaad5c556ffa098e51dcdb6ce91c",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P14788": [
+            {
+              "datatype": "quantity",
+              "datavalue": {
+                "type": "quantity",
+                "value": {
+                  "amount": "+328",
+                  "unit": "http://www.wikidata.org/entity/Q11573"
+                }
+              },
+              "hash": "8bf1ced58d8ee4a135dc03360a7eca8be9efa1d7",
+              "property": "P14788",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14788"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P14788$3290b4ee-42d7-3019-33e8-c1cce189a954",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q64364596",
+              "numeric-id": 64364596
+            }
+          },
+          "hash": "715a8495d4befebcbe05ed224654bd8c1f70920f",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P14788": [
+            {
+              "datatype": "quantity",
+              "datavalue": {
+                "type": "quantity",
+                "value": {
+                  "amount": "+120",
+                  "unit": "http://www.wikidata.org/entity/Q11573"
+                }
+              },
+              "hash": "6a23216a9dd545e771ebe72e91f481e2faec7de3",
+              "property": "P14788",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P14788"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P14788$9668146D-2F92-496A-A55E-79B1A96A2A4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P5314": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54828448",
+                  "numeric-id": 54828448
+                }
+              },
+              "hash": "a0202111cb525ed31611bf926974b74a2419b8ab",
+              "property": "P5314",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54828450",
+                  "numeric-id": 54828450
+                }
+              },
+              "hash": "9031ca220e943517fb8d671c4ad4f3f1a25b6a0b",
+              "property": "P5314",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5314"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "46adc3eef09ead3c44e951839d69131fb80b56f7",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/height_above_ground_level"
+                  },
+                  "hash": "65eae6e5d68fe8a9351028b5c5929b6f603ddd76",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P14788$B10AE3E0-88F3-4C39-AAD2-C3E319FEACB6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2305": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q29934200",
+                  "numeric-id": 29934200
+                }
+              },
+              "hash": "76a83209b6ab9e5ea1a1dd8e2986281a5a0479d7",
+              "property": "P2305",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2305"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "46adc3eef09ead3c44e951839d69131fb80b56f7",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/height_above_ground_level"
+                  },
+                  "hash": "65eae6e5d68fe8a9351028b5c5929b6f603ddd76",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P14788$C75AC45C-C096-4623-8972-4784AC5C877E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "46adc3eef09ead3c44e951839d69131fb80b56f7",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/height_above_ground_level"
+                  },
+                  "hash": "65eae6e5d68fe8a9351028b5c5929b6f603ddd76",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P2429": [
+      {
+        "id": "P14788$5938E347-B43B-4634-9CCB-675763AF9E7F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21873886",
+              "numeric-id": 21873886
+            }
+          },
+          "hash": "cda3cee2c1da801de81136a0a0c54f6dcba8bc25",
+          "property": "P2429",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "46adc3eef09ead3c44e951839d69131fb80b56f7",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/height_above_ground_level"
+                  },
+                  "hash": "65eae6e5d68fe8a9351028b5c5929b6f603ddd76",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P2876": [
+      {
+        "id": "P14788$177492fb-4473-ee98-b754-4da9cbb6b9fc",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1978718",
+              "numeric-id": 1978718
+            }
+          },
+          "hash": "9b79946deb2f6ac669422165dc87966ab7c9961f",
+          "property": "P2876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P14788$4FAD691E-AB1D-457C-A193-AA20F07C2D86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52513243",
+              "numeric-id": 52513243
+            }
+          },
+          "hash": "61cc6e754fe593b0c92beb44c7d1fdffa6be59e5",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "46adc3eef09ead3c44e951839d69131fb80b56f7",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/height_above_ground_level"
+                  },
+                  "hash": "65eae6e5d68fe8a9351028b5c5929b6f603ddd76",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P14788$F9EB955B-C2D3-4B1A-94BD-BB97D18A8C8E",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/height_above_ground_level"
+          },
+          "hash": "56e344387c28b9a416fca3fd9c42b39bd7a74456",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "quantity",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "die Höhe von Objekten über dem Boden"
+    },
+    "en": {
+      "language": "en",
+      "value": "a property intended to indicate the height of any objects from the ground"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "une propriété destinée à indiquer la hauteur de tout objet par rapport au sol"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "расположение объекта на высоте от уровня поверхности земли"
+    }
+  },
+  "id": "P14788",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "situat a una alçada"
+    },
+    "de": {
+      "language": "de",
+      "value": "in einer Höhe gelegen"
+    },
+    "en": {
+      "language": "en",
+      "value": "located at a height"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "situé à une hauteur de"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "сместено на висина"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "gelegen op hoogte"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "расположение на высоте"
+    }
+  },
+  "lastrevid": 2552082673,
+  "modified": "2026-10-02T08:22:59Z",
+  "ns": 120,
+  "pageid": 134512712,
+  "title": "Property:P14788",
+  "type": "property"
+}

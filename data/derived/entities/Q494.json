@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "St Brigid's Cathedral"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q494$685EE3BE-5411-5C93-9BA5-4C706B9E12B5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2942469"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2942469"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Church of Ireland Cathedral of the Diocese of Meath and Kildare"
+    }
+  },
+  "id": "Q494",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kildare Cathedral"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

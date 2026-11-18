@@ -1,0 +1,103 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Wölbstein"
+      },
+      {
+        "language": "de",
+        "value": "Gewölbekappe"
+      },
+      {
+        "language": "de",
+        "value": "Spitzbogengewölbe"
+      },
+      {
+        "language": "de",
+        "value": "Rippengewölbe"
+      },
+      {
+        "language": "de",
+        "value": "Fächergewölbe"
+      },
+      {
+        "language": "de",
+        "value": "Klinoidengewölbe"
+      },
+      {
+        "language": "de",
+        "value": "Korbbogengewölbe"
+      },
+      {
+        "language": "de",
+        "value": "Zellengewölbe"
+      },
+      {
+        "language": "de",
+        "value": "Schlingrippengewölbe"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q391$62F481F8-EBDB-5619-B6F9-A9379B937CDA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q189771"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q189771"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "nach oben hin konvexe Gebäudedecke"
+    },
+    "en": {
+      "language": "en",
+      "value": "architectural term for an arched form used to provide a space with a ceiling or roof"
+    }
+  },
+  "id": "Q391",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Gewölbe"
+    },
+    "en": {
+      "language": "en",
+      "value": "vault"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

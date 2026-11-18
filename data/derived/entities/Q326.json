@@ -1,0 +1,93 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Bildhauerkunst"
+      },
+      {
+        "language": "de",
+        "value": "Holzbildwerk"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "sculptures"
+      },
+      {
+        "language": "en",
+        "value": "piece of sculpture"
+      },
+      {
+        "language": "en",
+        "value": "sculptural work"
+      },
+      {
+        "language": "en",
+        "value": "sculptural piece"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q326$C906C127-F8A5-56A6-B45B-768E33FDA161",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q860861"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q860861"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "dreidimensionales Kunstwerk, das durch Abtragen oder Kombination entsteht"
+    },
+    "en": {
+      "language": "en",
+      "value": "three-dimensional work of art"
+    }
+  },
+  "id": "Q326",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Skulptur"
+    },
+    "en": {
+      "language": "en",
+      "value": "sculpture"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

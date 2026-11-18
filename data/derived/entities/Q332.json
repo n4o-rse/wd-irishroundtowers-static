@@ -1,0 +1,79 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "scene of a crime"
+      },
+      {
+        "language": "en",
+        "value": "scene of the crime"
+      },
+      {
+        "language": "en",
+        "value": "police line do not cross"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q332$04EA8C6E-7350-5793-A76B-8272AA97F4A5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1360677"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q1360677"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Ort, an dem sich eine Straftat ereignet hat"
+    },
+    "en": {
+      "language": "en",
+      "value": "location that may be associated with a committed crime"
+    }
+  },
+  "id": "Q332",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Tatort"
+    },
+    "en": {
+      "language": "en",
+      "value": "crime scene"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Samuel Lewis: A Topographical Dictionary of Ireland, Baltimore, Maryland, 1984"
+      },
+      {
+        "language": "en",
+        "value": "A Topographical Dictionary of Ireland"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q222$9D41C60E-12D1-57B5-9A28-C3897F180F86",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q142034232"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q142034232"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1984 reprint of the 1837 dictionary"
+    }
+  },
+  "id": "Q222",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "A Topographical Dictionary of Ireland (1984 reprint)"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

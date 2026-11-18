@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Ziergegenstand"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q270$86F6CDB6-AF5C-56DF-8CBA-58656D2446EB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2520975"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2520975"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "dient dem Schmuck, der Verschönerung einer Fläche, eines Gebäudes oder Gegenstandes"
+    },
+    "en": {
+      "language": "en",
+      "value": "architectural features intended to beautify an area, a building or an object"
+    }
+  },
+  "id": "Q270",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Verzierung"
+    },
+    "en": {
+      "language": "en",
+      "value": "decoration"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Richard J. Kelly: Notes on the Round Tower of Kilbannon, and on Kilcreevanty, County Galway, in: JRSAI 1901 (4)"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q402$1BFBDCE4-F0CE-53C8-86E4-53B8A6D0C7B7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q142082191"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q142082191"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "article about the round tower at Kilbannon/ Kilbennan in County Galway"
+    }
+  },
+  "id": "Q402",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Notes on the Round Tower of Kilbannon, and on Kilcreevanty, County Galway"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

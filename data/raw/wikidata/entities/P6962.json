@@ -1,0 +1,1536 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "literarisches Motiv"
+      },
+      {
+        "language": "de",
+        "value": "narratives Motiv"
+      },
+      {
+        "language": "de",
+        "value": "Motiv"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "motif"
+      },
+      {
+        "language": "en",
+        "value": "has motif"
+      },
+      {
+        "language": "en",
+        "value": "narrative theme"
+      },
+      {
+        "language": "en",
+        "value": "theme"
+      },
+      {
+        "language": "en",
+        "value": "has theme"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "motivo literario"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "sujet littéraire"
+      }
+    ],
+    "hu": [
+      {
+        "language": "hu",
+        "value": "irodalmi motívum"
+      },
+      {
+        "language": "hu",
+        "value": "motívum"
+      }
+    ],
+    "hy": [
+      {
+        "language": "hy",
+        "value": "նարատիվ մոտիվ"
+      },
+      {
+        "language": "hy",
+        "value": "խոսույթ"
+      }
+    ],
+    "ja": [
+      {
+        "language": "ja",
+        "value": "モチーフ"
+      }
+    ],
+    "mk": [
+      {
+        "language": "mk",
+        "value": "литературен мотив"
+      }
+    ],
+    "pl": [
+      {
+        "language": "pl",
+        "value": "motyw literacki"
+      }
+    ],
+    "ro": [
+      {
+        "language": "ro",
+        "value": "motiv literar"
+      }
+    ],
+    "sl": [
+      {
+        "language": "sl",
+        "value": "motiv"
+      }
+    ],
+    "tr": [
+      {
+        "language": "tr",
+        "value": "hikaye motifi"
+      }
+    ],
+    "zh": [
+      {
+        "language": "zh",
+        "value": "母题"
+      }
+    ]
+  },
+  "claims": {
+    "P1629": [
+      {
+        "id": "P6962$8DC10937-38C3-4C3E-BF25-A358FCDDA127",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1697305",
+              "numeric-id": 1697305
+            }
+          },
+          "hash": "74e85f3a948acf4891b0f64d68d06bb0a472a043",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "4ca11d92182c869f96383b423cf33c1074b262b3",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/literary_motif&oldid=969948314"
+                  },
+                  "hash": "708beca8b5c440dd6e4a50a3b0caedcf43435224",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P6962$480D716E-CB9D-43AA-8619-FC9BF9A11D90",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P180",
+              "numeric-id": 180
+            }
+          },
+          "hash": "da99dfb64e4e211185fbe8efe15969af6ae3a892",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "4ca11d92182c869f96383b423cf33c1074b262b3",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/literary_motif&oldid=969948314"
+                  },
+                  "hash": "708beca8b5c440dd6e4a50a3b0caedcf43435224",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P6962$9C196315-97BC-4B9B-AAFB-032D265CD375",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P921",
+              "numeric-id": 921
+            }
+          },
+          "hash": "bf89b440000967a3203d077b52afd057a6ccf90a",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "4ca11d92182c869f96383b423cf33c1074b262b3",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/literary_motif&oldid=969948314"
+                  },
+                  "hash": "708beca8b5c440dd6e4a50a3b0caedcf43435224",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P6962$e3989d96-4abd-c8e8-59b9-f7f3cb33a890",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P674",
+              "numeric-id": 674
+            }
+          },
+          "hash": "a8f42bc748099a96f8bc131304318c5ce09a3fcb",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6962$1afbfd93-4fbd-e764-9305-9201880b9048",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P840",
+              "numeric-id": 840
+            }
+          },
+          "hash": "d52558169626e6f07d6443f8c2f855951a739b98",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6962$bf38f3e4-41a7-d611-85a8-7637a7f81c11",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P2408",
+              "numeric-id": 2408
+            }
+          },
+          "hash": "eff6b97baa4c4647ef910cdbf7e61217c416fadf",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6962$e81448cd-49b7-cbf5-2ac5-d3ad537f25b0",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P2283",
+              "numeric-id": 2283
+            }
+          },
+          "hash": "7492727038ebc9bd54af2f5976a0aa57f00a315a",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6962$58645089-473d-6e0c-5a0a-f4c7515886c4",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P6875",
+              "numeric-id": 6875
+            }
+          },
+          "hash": "998592b4eccfa6c36539906b31f832e041667450",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P6962$5FD99981-4634-451E-8DE8-29B301BD5D4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q217352",
+              "numeric-id": 217352
+            }
+          },
+          "hash": "37e5ae9a89154fa6a115e15d20eb070da129bf16",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P6962": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q461363",
+                  "numeric-id": 461363
+                }
+              },
+              "hash": "b50a79d537853e3c26ac17961d27b40308c9cbc3",
+              "property": "P6962",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P6962"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "4ca11d92182c869f96383b423cf33c1074b262b3",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/literary_motif&oldid=969948314"
+                  },
+                  "hash": "708beca8b5c440dd6e4a50a3b0caedcf43435224",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P6962$EDEA15FD-85EB-411E-9DFD-BAE9376A6884",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q127149",
+              "numeric-id": 127149
+            }
+          },
+          "hash": "1a11d81464205a7c7545cec968250600ff13aba8",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P6962": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q28319",
+                  "numeric-id": 28319
+                }
+              },
+              "hash": "5aa0570332895b742fbde4ea108542e1a4854cc8",
+              "property": "P6962",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P6962"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "4ca11d92182c869f96383b423cf33c1074b262b3",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/literary_motif&oldid=969948314"
+                  },
+                  "hash": "708beca8b5c440dd6e4a50a3b0caedcf43435224",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P6962$6AACFEB9-E4CB-4456-8367-09C09B2C4D97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q163038",
+              "numeric-id": 163038
+            }
+          },
+          "hash": "87c85642dadf4f9948f6ca7e12ce075d06eb899a",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P6962": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q12511",
+                  "numeric-id": 12511
+                }
+              },
+              "hash": "0a929cf5f7c69310f05a50f4505c530e4760c46e",
+              "property": "P6962",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P6962"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "4ca11d92182c869f96383b423cf33c1074b262b3",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/literary_motif&oldid=969948314"
+                  },
+                  "hash": "708beca8b5c440dd6e4a50a3b0caedcf43435224",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P6962$A7A62C4C-13CC-4F47-B68E-CA17ACFD435D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q320620",
+              "numeric-id": 320620
+            }
+          },
+          "hash": "bb1314b2436e1adebbe53c2673747b2eeba1236a",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P6962": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q8495",
+                  "numeric-id": 8495
+                }
+              },
+              "hash": "70d810e8145e3b1d8cd2e85ca0674784aed8ab29",
+              "property": "P6962",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P6962"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "4ca11d92182c869f96383b423cf33c1074b262b3",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/literary_motif&oldid=969948314"
+                  },
+                  "hash": "708beca8b5c440dd6e4a50a3b0caedcf43435224",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P6962$51418639-87BE-449B-894A-900A65DB1A88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q202975",
+              "numeric-id": 202975
+            }
+          },
+          "hash": "ca0547fccbc91d47c757ee0698b58947e4e2dee9",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P6962": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q35473",
+                  "numeric-id": 35473
+                }
+              },
+              "hash": "2c82d7615e4cceec5ded064f6ab97cd887ac787e",
+              "property": "P6962",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P6962"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "4ca11d92182c869f96383b423cf33c1074b262b3",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/literary_motif&oldid=969948314"
+                  },
+                  "hash": "708beca8b5c440dd6e4a50a3b0caedcf43435224",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P6962$161da9ba-44b1-8e46-91a4-912d7d31af6b",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q108652",
+              "numeric-id": 108652
+            }
+          },
+          "hash": "9ef018fb093b19c92ca6f76d0d6261448aff6f4a",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P6962": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q111807140",
+                  "numeric-id": 111807140
+                }
+              },
+              "hash": "ea255591b86c82f3cb05b551518f1f2d49f9302c",
+              "property": "P6962",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P6962"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P6962$7C01A02B-F26B-4839-BC58-94421B556F85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503250",
+              "numeric-id": 21503250
+            }
+          },
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2308": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q386724",
+                  "numeric-id": 386724
+                }
+              },
+              "hash": "9af68f91baa1d1a8ac07c73c690ab423ac4c82ff",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q47451145",
+                  "numeric-id": 47451145
+                }
+              },
+              "hash": "456f1095b0c1e4c3be30f044c7371bace3ebbc2c",
+              "property": "P2308",
+              "snaktype": "value"
+            }
+          ],
+          "P2309": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21503252",
+                  "numeric-id": 21503252
+                }
+              },
+              "hash": "8d7afee22e0fa6211dd8c95f247e1dd7b38daf70",
+              "property": "P2309",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2309",
+          "P2308"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "4ca11d92182c869f96383b423cf33c1074b262b3",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/literary_motif&oldid=969948314"
+                  },
+                  "hash": "708beca8b5c440dd6e4a50a3b0caedcf43435224",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P6962$d2c6cdc1-49c8-8349-e312-851c3ea2f634",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54554025",
+              "numeric-id": 54554025
+            }
+          },
+          "hash": "047db9950aaf65ff9b7f3e69dbfdee7e48c77b68",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q62026391",
+                  "numeric-id": 62026391
+                }
+              },
+              "hash": "0b5129f8885b62f5606bb8acf8d7c40022ac2f8e",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2316"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6962$922F7B75-8BC4-4205-8574-14C35E22FFD0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502838",
+              "numeric-id": 21502838
+            }
+          },
+          "hash": "60d5b5bf5da8d7ec1e010402497e0015713c2bbf",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P2969",
+                  "numeric-id": 2969
+                }
+              },
+              "hash": "01fe27260a5a1f21823c0008a2cfeb8c452d3fbf",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6962$1E068402-2245-476C-A221-985CD36221CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502838",
+              "numeric-id": 21502838
+            }
+          },
+          "hash": "60d5b5bf5da8d7ec1e010402497e0015713c2bbf",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P629",
+                  "numeric-id": 629
+                }
+              },
+              "hash": "0ea2d837e6a73b8dc7e237eba6004eac116a6805",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6962$2A6596AE-C62C-463C-A479-8E72852378FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502838",
+              "numeric-id": 21502838
+            }
+          },
+          "hash": "60d5b5bf5da8d7ec1e010402497e0015713c2bbf",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P5749",
+                  "numeric-id": 5749
+                }
+              },
+              "hash": "04bd646c18206ae5d39d9d6d657d8af0ad51c976",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6962$C54014DA-68F1-48BB-9116-A34535D949C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502838",
+              "numeric-id": 21502838
+            }
+          },
+          "hash": "60d5b5bf5da8d7ec1e010402497e0015713c2bbf",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P957",
+                  "numeric-id": 957
+                }
+              },
+              "hash": "c919b9b78f6db7d44f8647d7cc015d94c0a7feb3",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6962$3B8CE4C7-43DE-4CEE-8F3F-E3DB65267072",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502838",
+              "numeric-id": 21502838
+            }
+          },
+          "hash": "60d5b5bf5da8d7ec1e010402497e0015713c2bbf",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P212",
+                  "numeric-id": 212
+                }
+              },
+              "hash": "a618e96993297f1b4997cc49362d4bb20ebf4daf",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6962$AF916290-F348-4283-84B2-AF0690A8CE6C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502838",
+              "numeric-id": 21502838
+            }
+          },
+          "hash": "60d5b5bf5da8d7ec1e010402497e0015713c2bbf",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P1104",
+                  "numeric-id": 1104
+                }
+              },
+              "hash": "ab53f4eae3039a28dae31046e8bd7c654a649286",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P6962$397BA256-9EED-42FA-8802-BFF1952D3780",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502838",
+              "numeric-id": 21502838
+            }
+          },
+          "hash": "60d5b5bf5da8d7ec1e010402497e0015713c2bbf",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2305": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q3331189",
+                  "numeric-id": 3331189
+                }
+              },
+              "hash": "db5ac661b65a3bcf4c5f71b41210b09bc437d870",
+              "property": "P2305",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q57933693",
+                  "numeric-id": 57933693
+                }
+              },
+              "hash": "fe8784fcac4a78417324270cc9249ab12ea88832",
+              "property": "P2305",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q136832029",
+                  "numeric-id": 136832029
+                }
+              },
+              "hash": "380fefb33b0e9e39e4eb8bd9d12dafbb1d66e65f",
+              "property": "P2305",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q136747113",
+                  "numeric-id": 136747113
+                }
+              },
+              "hash": "a42865fde649d228960bf061ac8f294e0acefed5",
+              "property": "P2305",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q60997816",
+                  "numeric-id": 60997816
+                }
+              },
+              "hash": "217e68a1e81d05048a0c576b20060280cdc9e026",
+              "property": "P2305",
+              "snaktype": "value"
+            }
+          ],
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P31",
+                  "numeric-id": 31
+                }
+              },
+              "hash": "57e0c059ce6c4f38e5ffd260c63684eb7c6e0e87",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ],
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21502408",
+                  "numeric-id": 21502408
+                }
+              },
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ],
+          "P6607": [
+            {
+              "datatype": "monolingualtext",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "en",
+                  "text": "works should have this property instead of editions, use in Q7725634"
+                }
+              },
+              "hash": "0ea6d8bcd1f223ef4c5f2c420f7256ec0061b803",
+              "property": "P6607",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306",
+          "P2305",
+          "P2316",
+          "P6607"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2875": [
+      {
+        "id": "P6962$D3968235-364A-434E-BCF1-ADD883C05684",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126375209",
+              "numeric-id": 126375209
+            }
+          },
+          "hash": "4bb5bddb454f7c262aad20f36165997f83c41875",
+          "property": "P2875",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P6962$7DCB9785-53CA-4DCB-AB0E-1F80B569B227",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18618644",
+              "numeric-id": 18618644
+            }
+          },
+          "hash": "6b997d76741326be753c66f5742a2f4b27a2ee3d",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "4ca11d92182c869f96383b423cf33c1074b262b3",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/literary_motif&oldid=969948314"
+                  },
+                  "hash": "708beca8b5c440dd6e4a50a3b0caedcf43435224",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P6962$08CAA4A3-6C86-40F6-977F-1033ECDF6207",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/literary_motif"
+          },
+          "hash": "94e49c2f5f851104d42a5fb5e6873239d9c1ee71",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "4ca11d92182c869f96383b423cf33c1074b262b3",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/literary_motif&oldid=969948314"
+                  },
+                  "hash": "708beca8b5c440dd6e4a50a3b0caedcf43435224",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P6104": [
+      {
+        "id": "P6962$247a0122-432e-8722-49fb-5fe644166835",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60007664",
+              "numeric-id": 60007664
+            }
+          },
+          "hash": "6f8bbf831cb4f3387f8da7e784c38b7ed3e5cbee",
+          "property": "P6104",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7087": [
+      {
+        "id": "P6962$a02c0ef1-4814-1573-60b0-ed0410bb31d8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q115575795",
+              "numeric-id": 115575795
+            }
+          },
+          "hash": "1800ac9878fa6dd6e6126b46cbc636d95cc0c740",
+          "property": "P7087",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "thematische Einheit eines narrativen oder literarischen Werks, das zur Entwicklung eines Themas, der Stimmung oder Handlung beiträgt"
+    },
+    "en": {
+      "language": "en",
+      "value": "thematic unit in a narrative or literary work used to develop a theme, mood or plot"
+    },
+    "es": {
+      "language": "es",
+      "value": "unidad temática en una narrativa o trabajo literario utilizado para desarrollar un tema, estado de ánimo o trama"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "unité thématique dans un récit ou une œuvre littéraire utilisée pour développer un thème, une ambiance ou une intrigue"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "պատմողական կամ գրական ստեղծագործության թեմատիկ միավոր, որն օգտագործվում է թեմա, տրամադրություն կամ սյուժե զարգացնելու համար"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "主題や雰囲気、プロットを展開するために用いる物語または文学作品の主題の単位"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "줄거리나 분위기 혹은 주제 등을 만들기 위해 사용되는 문학적 장치 혹은 단위"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "jednostka tematyczna w utworze, mająca wytworzyć motyw, nastrój lub fabułę"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "unitate tematică dintr-o narațiune sau operă literară folosită pentru a dezvolta o temă, o stare de spirit sau o intrigă"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "bir tema, ruh hali veya olay örgüsü geliştirmek için kullanılan bir anlatı ya da edebi çalışmadaki tematik birim"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "тематична одиниця в оповіді або літературній роботі, яка використовується для розробки теми, настрою або сюжету"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "叙事或文学作品中用于发展主题、营造氛围或推动情节的专题单元"
+    }
+  },
+  "id": "P6962",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "الدالة الأدبية"
+    },
+    "be": {
+      "language": "be",
+      "value": "літаратурны матыў"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "літаратурны матыў"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "tòpic literari"
+    },
+    "de": {
+      "language": "de",
+      "value": "Erzählmotiv"
+    },
+    "en": {
+      "language": "en",
+      "value": "narrative motif"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "rakonta motivo"
+    },
+    "es": {
+      "language": "es",
+      "value": "tópico literario"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "tema literariu"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "motif narratif"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "móitíf scéalaíochta"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "motivo literário"
+    },
+    "he": {
+      "language": "he",
+      "value": "מוטיב ספרותי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "narratív motívum"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "պատմողական մոտիվ"
+    },
+    "it": {
+      "language": "it",
+      "value": "tema della narrazione"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "物語のモチーフ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "문학적 모티브"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "книжевен мотив"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "literair motief"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "motyw narracji"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "motivo literário"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "motiv narativ"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "литературный мотив"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "pripovedni motiv"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "књижевни мотив"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "litterärt motiv"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "anlatı motifi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "літературний мотив"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "叙事母题"
+    }
+  },
+  "lastrevid": 2526163807,
+  "modified": "2026-08-02T09:52:18Z",
+  "ns": 120,
+  "pageid": 64655356,
+  "title": "Property:P6962",
+  "type": "property"
+}

@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Carrigan IV"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q446$48278721-E139-540F-A01F-5034111ED8B2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q126456421"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q126456421"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "4th volume of a history book by Canon William Carrigan"
+    }
+  },
+  "id": "Q446",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "The History and Antiquities of the Diocese of Ossory IV"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

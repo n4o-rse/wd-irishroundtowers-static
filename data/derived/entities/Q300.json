@@ -1,0 +1,64 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q300$6BAF8C8C-9DD3-52BF-B749-9AC28552233A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q105870528"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q105870528"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Zeichnung mit Tinte als überwiegendes Material"
+    },
+    "en": {
+      "language": "en",
+      "value": "drawing using ink as the primary medium"
+    }
+  },
+  "id": "Q300",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Tuschezeichnung"
+    },
+    "en": {
+      "language": "en",
+      "value": "ink drawing"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

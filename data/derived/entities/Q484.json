@@ -1,0 +1,77 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Beschädigung"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "harm"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q484$B7316C97-1533-58E4-BEE2-EF316E3AAAB9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q481609"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q481609"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "jeder Nachteil, den eine Person oder Sache durch ein Ereignis erleidet"
+    },
+    "en": {
+      "language": "en",
+      "value": "changes to a system that adversely affect its current or future performance"
+    }
+  },
+  "id": "Q484",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Schaden"
+    },
+    "en": {
+      "language": "en",
+      "value": "damage"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,64 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q656$7869F20F-058C-5B35-A99A-5A3091C504B3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3327860"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q3327860"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "von der prähistorischen Zeit bis Anfang des 17. Jahrhunderts"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaelic political and social order that existed in Ireland from the prehistoric era until the early 17th century"
+    }
+  },
+  "id": "Q656",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Keltisches Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaelic Ireland"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

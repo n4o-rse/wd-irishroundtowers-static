@@ -1,0 +1,60 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q277$ACA5145B-F870-5CE2-9B73-AEC4F27F7C1D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q30247110"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q30247110"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Klosteranlage in Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "early Christian monastic site in County Kerry, Ireland"
+    }
+  },
+  "id": "Q277",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Rattoo Early Medieval Ecclesiastical Site"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,89 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Aquarell"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "aquarelle"
+      },
+      {
+        "language": "en",
+        "value": "watercolour"
+      },
+      {
+        "language": "en",
+        "value": "watercolour painting"
+      },
+      {
+        "language": "en",
+        "value": "watercolor"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q311$7E5C4C75-7AC1-53FB-99A6-872118FF8014",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q18761202"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q18761202"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Bild mit Wasserfarben"
+    },
+    "en": {
+      "language": "en",
+      "value": "flat surface artistically covered with watercolor paint"
+    }
+  },
+  "id": "Q311",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Aquarellmalerei"
+    },
+    "en": {
+      "language": "en",
+      "value": "watercolor painting"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

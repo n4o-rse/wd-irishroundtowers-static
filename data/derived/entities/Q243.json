@@ -1,0 +1,93 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Läutemaschine"
+      },
+      {
+        "language": "de",
+        "value": "Kirchenglocke"
+      },
+      {
+        "language": "de",
+        "value": "Gußstahlglocke"
+      },
+      {
+        "language": "de",
+        "value": "Läuteanlage"
+      },
+      {
+        "language": "de",
+        "value": "Glocken"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "bells"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q243$1A2DB835-8EC5-53F3-A790-6CC078B14C35",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q101401"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q101401"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "selbsttönendes Musikinstrument"
+    },
+    "en": {
+      "language": "en",
+      "value": "percussion musical instrument"
+    }
+  },
+  "id": "Q243",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Glocke"
+    },
+    "en": {
+      "language": "en",
+      "value": "bell"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

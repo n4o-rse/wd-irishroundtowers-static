@@ -1,0 +1,64 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q649$24AC12C1-4F3C-56F4-B274-1A3AB3FBEC37",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1977317"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q1977317"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "mittelalterliche Klosteranlage in Nordirland"
+    },
+    "en": {
+      "language": "en",
+      "value": "Christian monastery on Mahee Island in Strangford Lough, County Down, Northern Ireland"
+    }
+  },
+  "id": "Q649",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Nendrum-Kloster"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nendrum Monastery"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

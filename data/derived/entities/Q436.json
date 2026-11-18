@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Kalkputz"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q436$EF641B5E-9822-5E6A-870C-44DD922F4E86",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q911999"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q911999"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Zementsorte"
+    },
+    "en": {
+      "language": "en",
+      "value": "building material"
+    }
+  },
+  "id": "Q436",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Kalkmörtel"
+    },
+    "en": {
+      "language": "en",
+      "value": "lime mortar"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

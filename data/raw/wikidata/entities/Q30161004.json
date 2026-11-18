@@ -1,0 +1,406 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "The Spyre"
+      }
+    ]
+  },
+  "claims": {
+    "P131": [
+      {
+        "id": "Q30161004$216454eb-429b-5509-5770-99c024056ce7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60556531",
+              "numeric-id": 60556531
+            }
+          },
+          "hash": "38a1c7e581d5eb4366b0effbc71d8179097a2f2b",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q30161004$D1F5D5FA-294E-490B-BB8A-FA8CF37C8144",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36647",
+              "numeric-id": 36647
+            }
+          },
+          "hash": "e9d11177eec2a9f203923f75f99d13117c927e81",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1343": [
+      {
+        "id": "Q30161004$d92ca523-495c-8671-55ac-cfe1291f6498",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142116472",
+              "numeric-id": 142116472
+            }
+          },
+          "hash": "9a85d8739f85eb749c5a017506d5615a3f732f1b",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "298"
+              },
+              "hash": "63800a1977e23b9081dab03c21c3e5d2eedf4b43",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q30161004$62ae1340-4d75-e75d-757a-65376c64bc11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126540348",
+              "numeric-id": 126540348
+            }
+          },
+          "hash": "7f928f614f107987c78367022ba2f4f6e0c7c679",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Round Tower (Site of)"
+              },
+              "hash": "11c91f40a4651b3a84f5a98b25472d11334bfc93",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q30161004$137db732-41c5-65e8-bc0e-dcdc99f1dff4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q120966194",
+              "numeric-id": 120966194
+            }
+          },
+          "hash": "726fc103b071acc3cddebd2ebc6679bb23575e3e",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "Q30161004$E20B87EB-3E37-411C-B312-799FCE761D4D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27",
+              "numeric-id": 27
+            }
+          },
+          "hash": "f4ccb05f7faebc2073ed81093902b84d250e6695",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2048": [
+      {
+        "id": "Q30161004$df449907-43ca-a1f6-de95-68ef0db56541",
+        "mainsnak": {
+          "datatype": "quantity",
+          "datavalue": {
+            "type": "quantity",
+            "value": {
+              "amount": "+0",
+              "unit": "1"
+            }
+          },
+          "hash": "63138f4f14c20e2ae090b10df1e56c4d07412217",
+          "property": "P2048",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q30161004$d35a90b5-4f02-04ae-47f4-eb9001dff724",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1335799",
+              "numeric-id": 1335799
+            }
+          },
+          "hash": "86c331714834839eb4b44ad91408a9d1dc2a314e",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4057": [
+      {
+        "id": "Q30161004$E6F70B09-EC0C-46A7-BF2C-C95A335A6375",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "CO074-038003-"
+          },
+          "hash": "5da2fc7479db016f3b1b736fe7fcd330a996a774",
+          "property": "P4057",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4059": [
+      {
+        "id": "Q30161004$45004348-49e2-6923-5ca5-68d593d99341",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "n/a"
+          },
+          "hash": "ecff0749fc231673a7b448f2d9836b635db79ff5",
+          "property": "P4059",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "52efe270a105739e6200a1940484b1ca9dd64836",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.archaeology.ie/app/uploads/2025/03/monuments-in-state-care-cork.pdf"
+                  },
+                  "hash": "d54fc9f3c6ea117e439775010baacd6e958b96d1",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P5816": [
+      {
+        "id": "Q30161004$ac9c3ef4-4147-c4ab-119e-99466254293d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56556915",
+              "numeric-id": 56556915
+            }
+          },
+          "hash": "d6c4840577ba6c097ffaaf909de0a2afa5e881b9",
+          "property": "P5816",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "7bba07d3ddfa9b85010e5c094b813e26a77d5676",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://heritagedata.maps.arcgis.com/apps/webappviewer/index.html?id=0c9eb9575b544081b0d296436d8f60f8&query=18a4b61b268-layer-9%2CSMRS%2CCO074-038003-"
+                  },
+                  "hash": "b17b7914428beddca7d1b7d153adfa5c9c6c3020",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          },
+          {
+            "hash": "be46fac0a457487f4eba34d7557ccbffc542372c",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q56556915",
+                      "numeric-id": 56556915
+                    }
+                  },
+                  "hash": "681f0b79c274ea7dc39e5b76112e2b66c6ff2f56",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P625": [
+      {
+        "id": "Q30161004$1C10976D-111B-4B38-94B8-F3379E0337DF",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 51.894495,
+              "longitude": -8.479429,
+              "precision": 1e-06
+            }
+          },
+          "hash": "58302e0db15b93b0a4cf92573145801884a2e16d",
+          "property": "P625",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7959": [
+      {
+        "id": "Q30161004$8aaa2a82-8ed7-4be0-8b12-d8ab4a7e32f4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q162475",
+              "numeric-id": 162475
+            }
+          },
+          "hash": "05110b6fadf4507edf15db9d8d06a4e72628b987",
+          "property": "P7959",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "برج في كورك، جمهورية أيرلندا"
+    },
+    "de": {
+      "language": "de",
+      "value": "Stätte eines Rundturms in Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "site of round tower east of St Finbarre's Cathedral in Cork"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "toren in Cork, Ierland"
+    }
+  },
+  "id": "Q30161004",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "St Finbarres Tower"
+    }
+  },
+  "lastrevid": 2568082691,
+  "modified": "2026-11-11T21:31:24Z",
+  "ns": 0,
+  "pageid": 31773797,
+  "sitelinks": {},
+  "title": "Q30161004",
+  "type": "item"
+}

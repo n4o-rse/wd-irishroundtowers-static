@@ -1,0 +1,64 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q433$61B29697-A1EB-5D5E-9442-6921EC4A3642",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1398368"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q1398368"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Kulturdenkmal in Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "house of Augustinian canons"
+    }
+  },
+  "id": "Q433",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Abtei Kilmacduagh"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kilmacduagh monastery"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

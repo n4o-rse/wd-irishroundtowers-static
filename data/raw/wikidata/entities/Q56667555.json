@@ -1,0 +1,1193 @@
+{
+  "aliases": {},
+  "claims": {
+    "P131": [
+      {
+        "id": "Q56667555$D5E1A064-1840-4BE1-B55D-44BC4469C1DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q202177",
+              "numeric-id": 202177
+            }
+          },
+          "hash": "16a0804539bbe9d76c2e06e5350d2326d61cefa6",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P3831": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q15060255",
+                  "numeric-id": 15060255
+                }
+              },
+              "hash": "819380206ef7ce1dc8c269ac93678ac7d9fb0c63",
+              "property": "P3831",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P3831"
+        ],
+        "rank": "preferred",
+        "references": [
+          {
+            "hash": "563414c00b4e6c729d9726bbf51637397fe05682",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "http://portal.historicenvironment.scot/designation/SM90041"
+                  },
+                  "hash": "f7dbf66c87202550ec233ad2e29d2f48295d99fa",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q56667555$5D4B4344-EB81-43F5-AE56-FC5D2F60CDBD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68815036",
+              "numeric-id": 68815036
+            }
+          },
+          "hash": "50716f80c066bf1cb1ba105e7ab64d405475552f",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P3831": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q5124673",
+                  "numeric-id": 5124673
+                }
+              },
+              "hash": "458df4dbe99ce4bdca7d4957769af6ce9f53fa81",
+              "property": "P3831",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P3831"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "8f9483e948b74a771e8a008f869e6f6d738bb014",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q19842847",
+                      "numeric-id": 19842847
+                    }
+                  },
+                  "hash": "ed3e61d36a1cf6dd2f07992a4f4ca0471e28305c",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P1343": [
+      {
+        "id": "Q56667555$e63f26f8-4f06-712f-0dfa-b3607759a4e7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q142093467",
+              "numeric-id": 142093467
+            }
+          },
+          "hash": "0a7bcdb47ea4dc1eff75807f84d4b361503af889",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P304": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "199"
+              },
+              "hash": "620667b66aa4c561f7d8bf94c6eaa1f35427e723",
+              "property": "P304",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P304"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1435": [
+      {
+        "id": "Q56667555$B6737923-5AA7-4216-92EF-1DCA2D73F6ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q219538",
+              "numeric-id": 219538
+            }
+          },
+          "hash": "833b95edcea74234fec4481fee56fc5c1ea911c0",
+          "property": "P1435",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P580": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 11,
+                  "time": "+1996-03-12T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "8cffbad36d51062ca7c6851d5f405960590b425a",
+              "property": "P580",
+              "snaktype": "value"
+            }
+          ],
+          "P709": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "SM90041"
+              },
+              "hash": "95371753e4f49fd2582b003649d356eafbbb15ae",
+              "property": "P709",
+              "snaktype": "value"
+            }
+          ],
+          "P7452": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q71536244",
+                  "numeric-id": 71536244
+                }
+              },
+              "hash": "22ea48be6d30f4e44b5aba1bfaf4eca5c8cc4a56",
+              "property": "P7452",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P580",
+          "P7452",
+          "P709"
+        ],
+        "rank": "preferred",
+        "references": [
+          {
+            "hash": "563414c00b4e6c729d9726bbf51637397fe05682",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "http://portal.historicenvironment.scot/designation/SM90041"
+                  },
+                  "hash": "f7dbf66c87202550ec233ad2e29d2f48295d99fa",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q56667555$685EA640-8349-41EE-8B5C-1D54229915FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10729054",
+              "numeric-id": 10729054
+            }
+          },
+          "hash": "153ebe01dfc5dcbe630083938a1d14cdbde7602b",
+          "property": "P1435",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1534": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q73701846",
+                  "numeric-id": 73701846
+                }
+              },
+              "hash": "0f4beebc25a9451f3c01dad772c74a091c68a4a7",
+              "property": "P1534",
+              "snaktype": "value"
+            }
+          ],
+          "P580": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 11,
+                  "time": "+1971-06-11T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "36cbd31710e2b14f0d2a9b1e13df11ddff74a635",
+              "property": "P580",
+              "snaktype": "value"
+            }
+          ],
+          "P582": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 11,
+                  "time": "+2018-03-16T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "937d239e9a5d2aad7d162e989c5341cbb8e86727",
+              "property": "P582",
+              "snaktype": "value"
+            }
+          ],
+          "P709": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "LB22440"
+              },
+              "hash": "abbff167b1ca8863d298a7c5d51a9ed9201e12ea",
+              "property": "P709",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P580",
+          "P582",
+          "P1534",
+          "P709"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "d8fbd3c8b4fb3728831194735a2fe82a10c47ce8",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://portal.historicenvironment.scot/designation/LB22440"
+                  },
+                  "hash": "48514b8f02a5fe996a48cace7cc9955c07748fbf",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "Q56667555$2A182419-F26F-4B8B-A868-F3BB986CCC89",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145",
+              "numeric-id": 145
+            }
+          },
+          "hash": "a44880420787fb348836dc51d3babc5227c4ef7e",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "6838faedbdf14626a8aefa2e172b22c6f40464c3",
+            "snaks": {
+              "P3452": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q19842847",
+                      "numeric-id": 19842847
+                    }
+                  },
+                  "hash": "c46e4a65566627af9cd58ce0f5d19664765e0cc3",
+                  "property": "P3452",
+                  "snaktype": "value"
+                }
+              ],
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q56667555#P709"
+                  },
+                  "hash": "b377415a730b901d5596dea7911a0171d71d94df",
+                  "property": "P4656",
+                  "snaktype": "value"
+                },
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P709#P2302"
+                  },
+                  "hash": "d04fc29321878cdb57400c1b9cd3b85224e3abb9",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P3452",
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P18": [
+      {
+        "id": "Q56667555$a09d9e67-4a97-3331-6b3c-a7eeedcca633",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Brechin Round Tower and Brechin Cathedral - geograph.org.uk - 536646.jpg"
+          },
+          "hash": "91a9328bcb6c2d8d48c89c1fe92aefb04aedca86",
+          "property": "P18",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2789": [
+      {
+        "id": "Q56667555$dce01f80-49d2-0dc2-756a-84c10056737a",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2307632",
+              "numeric-id": 2307632
+            }
+          },
+          "hash": "b4947346db788dedc8beb2b9b7f8e6a6d6b31e30",
+          "property": "P2789",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q56667555$3A55A035-380E-4B55-9F9B-7D645854134E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q811979",
+              "numeric-id": 811979
+            }
+          },
+          "hash": "c541e660ea15bb30e997a5ed16f8b6e54d7e955a",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56667555$c6306982-4d98-c4d2-ce33-c657c3874fb2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1335799",
+              "numeric-id": 1335799
+            }
+          },
+          "hash": "86c331714834839eb4b44ad91408a9d1dc2a314e",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b90b72b15025aefe6eff8172c310f4ed3c0c75e",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q142093467",
+                      "numeric-id": 142093467
+                    }
+                  },
+                  "hash": "9c80d91cab3edf2b656e1a12ee16a93614fc6ab1",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P361": [
+      {
+        "id": "Q56667555$5fd26d90-4d0f-e958-44f7-a14513e8d9cc",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2307632",
+              "numeric-id": 2307632
+            }
+          },
+          "hash": "4b91072e42c9d8dac0de0fae71cf06534626bdfa",
+          "property": "P361",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P373": [
+      {
+        "id": "Q56667555$2b132ae1-48cb-15b0-f782-7f7339839708",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Brechin round tower"
+          },
+          "hash": "08100786c7ef42801426a38f2ec231161e05ecd1",
+          "property": "P373",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P527": [
+      {
+        "id": "Q56667555$fd481469-4726-82fe-fc39-05e37bb21241",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21263223",
+              "numeric-id": 21263223
+            }
+          },
+          "hash": "e750e5090b95edf097b68da582c0076bf0f1bc8a",
+          "property": "P527",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P527": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q1898821",
+                  "numeric-id": 1898821
+                }
+              },
+              "hash": "194d975f40a559d4e626442db71b4bef9e853cfe",
+              "property": "P527",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q860861",
+                  "numeric-id": 860861
+                }
+              },
+              "hash": "db976d9a7791a2eb92f02943beca23de0d400bdd",
+              "property": "P527",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P527"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2b90b72b15025aefe6eff8172c310f4ed3c0c75e",
+            "snaks": {
+              "P248": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q142093467",
+                      "numeric-id": 142093467
+                    }
+                  },
+                  "hash": "9c80d91cab3edf2b656e1a12ee16a93614fc6ab1",
+                  "property": "P248",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P248"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q56667555$47cc0a63-4275-4f01-4815-8a83a9bb691d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q83180",
+              "numeric-id": 83180
+            }
+          },
+          "hash": "c32fa858ef33e0fffa161c0c8921b729c0df718a",
+          "property": "P527",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5816": [
+      {
+        "id": "Q56667555$3bf0259f-4331-b3f5-fffa-8ecb213bf75e",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56557591",
+              "numeric-id": 56557591
+            }
+          },
+          "hash": "ce46cb1edbe790adf400f939aa9045a5c44a72c3",
+          "property": "P5816",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P625": [
+      {
+        "id": "Q56667555$A34670B5-92D4-4118-86E5-3666743A4FC7",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 56.73062,
+              "longitude": -2.66166,
+              "precision": 1e-05
+            }
+          },
+          "hash": "5ab0fc398e69e98ec661a00d3d98e201d6ecb0e7",
+          "property": "P625",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "563414c00b4e6c729d9726bbf51637397fe05682",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "http://portal.historicenvironment.scot/designation/SM90041"
+                  },
+                  "hash": "f7dbf66c87202550ec233ad2e29d2f48295d99fa",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P709": [
+      {
+        "id": "Q56667555$02FBF1F7-3CF8-4F42-8843-9414C280B3CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "SM90041"
+          },
+          "hash": "95371753e4f49fd2582b003649d356eafbbb15ae",
+          "property": "P709",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Brechin Cathedral Round Tower"
+              },
+              "hash": "7222e4e0cd96d61eac087c15511aa0fae04c6368",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P580": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 11,
+                  "time": "+1996-03-12T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "8cffbad36d51062ca7c6851d5f405960590b425a",
+              "property": "P580",
+              "snaktype": "value"
+            }
+          ],
+          "P613": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "NO 59615 60080"
+              },
+              "hash": "01870a3a8d2c3ccdb7d3df86c20c4b08174f87e5",
+              "property": "P613",
+              "snaktype": "value"
+            }
+          ],
+          "P7452": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q71536244",
+                  "numeric-id": 71536244
+                }
+              },
+              "hash": "22ea48be6d30f4e44b5aba1bfaf4eca5c8cc4a56",
+              "property": "P7452",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P613",
+          "P580",
+          "P7452"
+        ],
+        "rank": "preferred",
+        "references": [
+          {
+            "hash": "667cdbbf276dabbad411976c8aef39d86f7f4744",
+            "snaks": {
+              "P813": [
+                {
+                  "datatype": "time",
+                  "datavalue": {
+                    "type": "time",
+                    "value": {
+                      "after": 0,
+                      "before": 0,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                      "precision": 11,
+                      "time": "+2019-11-21T00:00:00Z",
+                      "timezone": 0
+                    }
+                  },
+                  "hash": "fea54639bab8c62511ff26427b1a95a31a0d2db4",
+                  "property": "P813",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P813"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "Q56667555$617D4A77-04E3-4B4B-8BA0-5510844AC058",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "LB22440"
+          },
+          "hash": "abbff167b1ca8863d298a7c5d51a9ed9201e12ea",
+          "property": "P709",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1534": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q73701846",
+                  "numeric-id": 73701846
+                }
+              },
+              "hash": "0f4beebc25a9451f3c01dad772c74a091c68a4a7",
+              "property": "P1534",
+              "snaktype": "value"
+            }
+          ],
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Round Tower At South West Angle Of Cathedral Church Lane"
+              },
+              "hash": "77cb01e427a9e939e458ad0cade4c0fb450a13fa",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P580": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 11,
+                  "time": "+1971-06-11T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "36cbd31710e2b14f0d2a9b1e13df11ddff74a635",
+              "property": "P580",
+              "snaktype": "value"
+            }
+          ],
+          "P582": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 11,
+                  "time": "+2018-03-16T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "937d239e9a5d2aad7d162e989c5341cbb8e86727",
+              "property": "P582",
+              "snaktype": "value"
+            }
+          ],
+          "P613": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "NO 59625 60091"
+              },
+              "hash": "7b93aafd58d739a0ce91772adbd1244b70d4202e",
+              "property": "P613",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P580",
+          "P582",
+          "P1810",
+          "P613",
+          "P1534"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P718": [
+      {
+        "id": "Q56667555$462D9640-2089-4250-A726-159A091EB1F3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "35055"
+          },
+          "hash": "e4f1333f7d6588f3b3a6508a3b7d98b2b27297e0",
+          "property": "P718",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1810": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "Brechin Cathedral - Cathedral, Coffin, Round Tower"
+              },
+              "hash": "2d3cf9efa7a7c1fea4447c35ed28466c202739bb",
+              "property": "P1810",
+              "snaktype": "value"
+            }
+          ],
+          "P613": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "NO 59625 60091"
+              },
+              "hash": "7b93aafd58d739a0ce91772adbd1244b70d4202e",
+              "property": "P613",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1810",
+          "P613"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "667cdbbf276dabbad411976c8aef39d86f7f4744",
+            "snaks": {
+              "P813": [
+                {
+                  "datatype": "time",
+                  "datavalue": {
+                    "type": "time",
+                    "value": {
+                      "after": 0,
+                      "before": 0,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                      "precision": 11,
+                      "time": "+2019-11-21T00:00:00Z",
+                      "timezone": 0
+                    }
+                  },
+                  "hash": "fea54639bab8c62511ff26427b1a95a31a0d2db4",
+                  "property": "P813",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P813"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P7938": [
+      {
+        "id": "Q56667555$6FD9D9EF-08E9-4D2E-BAE7-73D41062587D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q121143375",
+              "numeric-id": 121143375
+            }
+          },
+          "hash": "a2a210465dea3853251a2c61da4b717bf3191381",
+          "property": "P7938",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P3831": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q27971968",
+                  "numeric-id": 27971968
+                }
+              },
+              "hash": "92b2a9bac12fb8e82c56dfef41567be36eeb563f",
+              "property": "P3831",
+              "snaktype": "value"
+            }
+          ],
+          "P585": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 10,
+                  "time": "+2024-07-01T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "a6be46f7ad0a963928c79e954c6bebb458ccd2d8",
+              "property": "P585",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P3831",
+          "P585"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7959": [
+      {
+        "id": "Q56667555$07db186f-f083-40bd-8071-96d0b4cffe06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67387310",
+              "numeric-id": 67387310
+            }
+          },
+          "hash": "5f1763f529f9b23c7a051b3bd462d51d66aa2c04",
+          "property": "P7959",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9721": [
+      {
+        "id": "Q56667555$42048f83-4c24-0503-3acd-af8e91176f1b",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Brechin Cathedral 20090616 round tower entrance.jpg"
+          },
+          "hash": "b2bfbacda65b101e444b4bee36a861f4ba97624f",
+          "property": "P9721",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Bauwerk im Vereinigten Königreich"
+    },
+    "en": {
+      "language": "en",
+      "value": "architectural structure in Angus, Scotland, UK"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bouwwerk in Angus, Verenigd Koninkrijk"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "споруда в Шотландії, Велика Британія"
+    }
+  },
+  "id": "Q56667555",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Brechin Cathedral Round Tower"
+    }
+  },
+  "lastrevid": 2568031183,
+  "modified": "2026-11-11T18:03:18Z",
+  "ns": 0,
+  "pageid": 56608601,
+  "sitelinks": {
+    "commonswiki": {
+      "badges": [],
+      "site": "commonswiki",
+      "title": "Category:Brechin round tower"
+    }
+  },
+  "title": "Q56667555",
+  "type": "item"
+}

@@ -1,0 +1,85 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Klöster"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "convent"
+      },
+      {
+        "language": "en",
+        "value": "monasteries"
+      },
+      {
+        "language": "en",
+        "value": "convents"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q684$3627441B-019B-5B1B-B54C-7B66BC727867",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q44613"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q44613"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "bauliche Anlage, in der Menschen eine konzentriert religiöse Lebensweise ausüben"
+    },
+    "en": {
+      "language": "en",
+      "value": "complex of buildings comprising the domestic quarters and workplace(s) of monks or nuns"
+    }
+  },
+  "id": "Q684",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Kloster"
+    },
+    "en": {
+      "language": "en",
+      "value": "monastery"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

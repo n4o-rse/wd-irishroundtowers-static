@@ -1,0 +1,64 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q396$54DEC57A-93E4-5B59-872D-30A9C7777FD7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2474206"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2474206"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "französischer General"
+    },
+    "en": {
+      "language": "en",
+      "value": "French general (1767–1823)"
+    }
+  },
+  "id": "Q396",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Jean Joseph Amable Humbert"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jean Joseph Amable Humbert"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

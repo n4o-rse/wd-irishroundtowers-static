@@ -1,0 +1,133 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "oberirdische Geschosse"
+      },
+      {
+        "language": "de",
+        "value": "oberirdische Etagen"
+      },
+      {
+        "language": "de",
+        "value": "Obergeschosse"
+      },
+      {
+        "language": "de",
+        "value": "Stockwerke oberirdisch"
+      },
+      {
+        "language": "de",
+        "value": "Anzahl der Obergeschosse"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "number of floors"
+      },
+      {
+        "language": "en",
+        "value": "storeys"
+      },
+      {
+        "language": "en",
+        "value": "stories"
+      },
+      {
+        "language": "en",
+        "value": "floor count"
+      },
+      {
+        "language": "en",
+        "value": "number of stories"
+      },
+      {
+        "language": "en",
+        "value": "levels above ground"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P101$71864FD3-EB13-5D18-A24F-09AA2B16DC5B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P101$B843A82D-3824-562A-B971-C7BBDE1E513B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P1101"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P1101"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "quantity",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Anzahl der oberirdischen Stockwerke ein­schließ­lich des Erdgeschosses"
+    },
+    "en": {
+      "language": "en",
+      "value": "above ground floor count of a building (ground floor and attic included)"
+    }
+  },
+  "id": "P101",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "oberirdische Stockwerke"
+    },
+    "en": {
+      "language": "en",
+      "value": "floors above ground"
+    }
+  },
+  "type": "property"
+}

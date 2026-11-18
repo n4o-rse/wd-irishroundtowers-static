@@ -1,0 +1,463 @@
+{
+  "aliases": {},
+  "claims": {
+    "P131": [
+      {
+        "id": "Q141966906$d6b0f664-412f-5dd3-3a5e-ae4a739d2095",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104257498",
+              "numeric-id": 104257498
+            }
+          },
+          "hash": "9f7f416baa04f36f426269d71ed8ab26cf4e47d9",
+          "property": "P131",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1343": [
+      {
+        "id": "Q141966906$2fd94509-44c1-4938-ad1b-7c97e7e75ed9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126393245",
+              "numeric-id": 126393245
+            }
+          },
+          "hash": "afc487e05cd68f3b3afa3e98ef57ca86f66a53d4",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "00d105e1c123c744634ea6674a2e77e0ffd6af29",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.duchas.ie/en/cbes/5044599/5024902/5139671"
+                  },
+                  "hash": "e316559d955e6b87e802ae9a277c40d97ccd74c9",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "Q141966906$7f22a76c-4aae-1deb-f1f1-ae7cafee7dd1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27",
+              "numeric-id": 27
+            }
+          },
+          "hash": "f4ccb05f7faebc2073ed81093902b84d250e6695",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q141966906$fa4c78aa-43bd-0336-3762-9d2f4e592542",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3327860",
+              "numeric-id": 3327860
+            }
+          },
+          "hash": "0b9d2836a8cb1c6a3d1e1a315b931dcea149e87a",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2048": [
+      {
+        "id": "Q141966906$1d5f87aa-4e52-a839-d3b6-c14298fa5dd6",
+        "mainsnak": {
+          "datatype": "quantity",
+          "datavalue": {
+            "type": "quantity",
+            "value": {
+              "amount": "+0",
+              "unit": "http://www.wikidata.org/entity/Q11573"
+            }
+          },
+          "hash": "220d9d4536a03332beb456c43eb629501a6cb46b",
+          "property": "P2048",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q141966906$b9344d8d-4007-b7fa-2ce5-7ef56e2e4978",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1335799",
+              "numeric-id": 1335799
+            }
+          },
+          "hash": "86c331714834839eb4b44ad91408a9d1dc2a314e",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1480": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q32188232",
+                  "numeric-id": 32188232
+                }
+              },
+              "hash": "7046678ec5711c3a3c05ba127c167dcbe1006654",
+              "property": "P1480",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1480"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "00d105e1c123c744634ea6674a2e77e0ffd6af29",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.duchas.ie/en/cbes/5044599/5024902/5139671"
+                  },
+                  "hash": "e316559d955e6b87e802ae9a277c40d97ccd74c9",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P3342": [
+      {
+        "id": "Q141966906$816aaf1a-47ae-3b62-a814-24fa8370c377",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2209210",
+              "numeric-id": 2209210
+            }
+          },
+          "hash": "fbd8e2ad353226bcc1e713fa68054a1d025e6f50",
+          "property": "P3342",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "00d105e1c123c744634ea6674a2e77e0ffd6af29",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.duchas.ie/en/cbes/5044599/5024902/5139671"
+                  },
+                  "hash": "e316559d955e6b87e802ae9a277c40d97ccd74c9",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P361": [
+      {
+        "id": "Q141966906$ea6919bc-4d13-61ea-dcc6-1d09131d8c56",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141988223",
+              "numeric-id": 141988223
+            }
+          },
+          "hash": "5dc4811a4d37ccc76d0dce92a4529dbaf64b6299",
+          "property": "P361",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5816": [
+      {
+        "id": "Q141966906$794525d8-44b6-6dd5-0367-22ec384200d0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56556915",
+              "numeric-id": 56556915
+            }
+          },
+          "hash": "d6c4840577ba6c097ffaaf909de0a2afa5e881b9",
+          "property": "P5816",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P625": [
+      {
+        "id": "Q141966906$8efe56a8-4bec-8201-8d62-21e5dee44aba",
+        "mainsnak": {
+          "datatype": "globe-coordinate",
+          "datavalue": {
+            "type": "globecoordinate",
+            "value": {
+              "altitude": null,
+              "globe": "http://www.wikidata.org/entity/Q2",
+              "latitude": 53.264636,
+              "longitude": -7.555203,
+              "precision": 1e-06
+            }
+          },
+          "hash": "1c3b3202ec2feaa0e95c1689525ee20b1130c781",
+          "property": "P625",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1480": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21818619",
+                  "numeric-id": 21818619
+                }
+              },
+              "hash": "f89fd04e48d8e638afa968c5b5b44e66db781634",
+              "property": "P1480",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q32188232",
+                  "numeric-id": 32188232
+                }
+              },
+              "hash": "7046678ec5711c3a3c05ba127c167dcbe1006654",
+              "property": "P1480",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1480"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "00d105e1c123c744634ea6674a2e77e0ffd6af29",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.duchas.ie/en/cbes/5044599/5024902/5139671"
+                  },
+                  "hash": "e316559d955e6b87e802ae9a277c40d97ccd74c9",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P6375": [
+      {
+        "id": "Q141966906$10b380c0-49f0-2daa-7137-992777b0b81a",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "about one hundred yards from the monastery"
+            }
+          },
+          "hash": "75bc00647c327f64915d6f681106f0f1f84de2e9",
+          "property": "P6375",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "00d105e1c123c744634ea6674a2e77e0ffd6af29",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.duchas.ie/en/cbes/5044599/5024902/5139671"
+                  },
+                  "hash": "e316559d955e6b87e802ae9a277c40d97ccd74c9",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P6962": [
+      {
+        "id": "Q141966906$0b17f85f-4d34-3ba2-ca1c-023c6c441611",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q141970389",
+              "numeric-id": 141970389
+            }
+          },
+          "hash": "cc49eab529f2b9178f0fd93742fd2eb77d4e04f5",
+          "property": "P6962",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "00d105e1c123c744634ea6674a2e77e0ffd6af29",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.duchas.ie/en/cbes/5044599/5024902/5139671"
+                  },
+                  "hash": "e316559d955e6b87e802ae9a277c40d97ccd74c9",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "alleged site of a round tower in Lynally Glebe townland, County Offaly, according to Schools' Collection"
+    }
+  },
+  "id": "Q141966906",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Lynally Round Tower"
+    }
+  },
+  "lastrevid": 2568030659,
+  "modified": "2026-11-11T18:01:00Z",
+  "ns": 0,
+  "pageid": 135567950,
+  "sitelinks": {},
+  "title": "Q141966906",
+  "type": "item"
+}

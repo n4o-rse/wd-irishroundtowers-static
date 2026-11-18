@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thomas J. Westropp: A List of the Round Towers of Ireland, with Notes on Those Which Have Been Demolished, and on Four in the County of Mayo, in: Proceedings of the Royal Irish Academy (1889-1901) Vol. 5 (1898 - 1900), 294-311"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q227$136FDCBA-4FE2-5ABE-8D7E-157858DA1DBA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q142116472"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q142116472"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "list of Irish round towers known in 1898"
+    }
+  },
+  "id": "Q227",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "A List of the Round Towers of Ireland, with Notes on Those Which Have Been Demolished, and on Four in the County of Mayo (1898)"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

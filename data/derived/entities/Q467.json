@@ -1,0 +1,85 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Toirdhealbhach Ua Conchobhair"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Turlough 'Mor' O'Conor, King of Connaught"
+      },
+      {
+        "language": "en",
+        "value": "Tairrdelbach II ua Conchobair, High King of Ireland"
+      },
+      {
+        "language": "en",
+        "value": "Toirdhealbhach Ua Conchobhair"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q467$06E9B719-55CC-53EC-920A-4F3234F5F7F8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2740972"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2740972"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "irischer König"
+    },
+    "en": {
+      "language": "en",
+      "value": "High King of Connaught"
+    }
+  },
+  "id": "Q467",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Tairrdelbach Ua Conchobair"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tairrdelbach Ua Conchobair"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

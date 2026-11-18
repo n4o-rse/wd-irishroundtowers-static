@@ -1,0 +1,101 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Haupt"
+      },
+      {
+        "language": "de",
+        "value": "caput"
+      },
+      {
+        "language": "de",
+        "value": "Rübe"
+      },
+      {
+        "language": "de",
+        "value": "Birne"
+      },
+      {
+        "language": "de",
+        "value": "Nuss"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "heads"
+      },
+      {
+        "language": "en",
+        "value": "noddles"
+      },
+      {
+        "language": "en",
+        "value": "cephalic"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q568$34619828-F446-522F-BE0A-14B205A0AC74",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q23640"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q23640"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Teil eines Körpers"
+    },
+    "en": {
+      "language": "en",
+      "value": "anterior anatomical region in many animals, which tends to contain sensory and nervous organs and orifices for ingestion and breathing"
+    }
+  },
+  "id": "Q568",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Kopf"
+    },
+    "en": {
+      "language": "en",
+      "value": "head"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

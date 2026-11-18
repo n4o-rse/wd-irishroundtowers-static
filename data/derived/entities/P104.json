@@ -1,0 +1,157 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Jahrgang"
+      },
+      {
+        "language": "de",
+        "value": "Bd."
+      },
+      {
+        "language": "de",
+        "value": "Jg."
+      },
+      {
+        "language": "de",
+        "value": "Band"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "volume of a book"
+      },
+      {
+        "language": "en",
+        "value": "volume of serial"
+      },
+      {
+        "language": "en",
+        "value": "vol."
+      },
+      {
+        "language": "en",
+        "value": "tome"
+      },
+      {
+        "language": "en",
+        "value": "numbering of part"
+      },
+      {
+        "language": "en",
+        "value": "series numbering"
+      },
+      {
+        "language": "en",
+        "value": "numbering in series"
+      },
+      {
+        "language": "en",
+        "value": "number of series"
+      },
+      {
+        "language": "en",
+        "value": "number of part"
+      },
+      {
+        "language": "en",
+        "value": "part number"
+      },
+      {
+        "language": "en",
+        "value": "volume number"
+      },
+      {
+        "language": "en",
+        "value": "numbering of volume"
+      },
+      {
+        "language": "en",
+        "value": "volume no."
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P104$B15D88C7-254D-5063-8A2B-8E0D4B57B7CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P104$211F5B65-FEBC-547C-9D65-48C58237B867",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P478"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P478"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "string",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Nummer eines Buches aus einer Sammlung/Serie oder Jahrgang einer Zeitschrift"
+    },
+    "en": {
+      "language": "en",
+      "value": "volume of a book or music release in a collection/series or a published collection of journal issues in a serial publication"
+    }
+  },
+  "id": "P104",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Band/Jahrgang"
+    },
+    "en": {
+      "language": "en",
+      "value": "volume"
+    }
+  },
+  "type": "property"
+}

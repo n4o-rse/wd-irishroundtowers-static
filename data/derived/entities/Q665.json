@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "St Mary's Priory, Dungiven"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q665$35E83E89-E5E9-5B5D-B2C9-8F0B6C380AF7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q142123237"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q142123237"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "remains of an Augustinian Priory in Dungiven, Northern Ireland"
+    }
+  },
+  "id": "Q665",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Dungiven Priory"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

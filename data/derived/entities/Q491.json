@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Antrim, County Antrim"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q491$3C71D6DD-2AD5-5F94-B825-A2860EB4DCD8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q609235"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q609235"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Stadt in Nordirland"
+    },
+    "en": {
+      "language": "en",
+      "value": "town on the shore of Lough Neagh, in the baronies of Toome Upper and Toome Lower, Co. Antrim, in the northeast of Northern Ireland"
+    }
+  },
+  "id": "Q491",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Antrim"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antrim"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

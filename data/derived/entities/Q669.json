@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ann Hamlin: Some Further Documentary Evidence for the Round Tower at Devenish, County Fermanagh, in: Ulster Journal of Archaeology Third Series, Vol. 39 (1976), 73-74"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q669$D8AF635C-FFB6-535C-9AEC-56930585A0A2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q142116451"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q142116451"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "article about the remains of a round tower at Devenish, County Fermanagh, Northern Ireland"
+    }
+  },
+  "id": "Q669",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Some Further Documentary Evidence for the Round Tower at Devenish, County Fermanagh (1976)"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

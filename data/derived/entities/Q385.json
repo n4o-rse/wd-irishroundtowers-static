@@ -1,0 +1,129 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Magonus Sucatus Patricius"
+      },
+      {
+        "language": "de",
+        "value": "Patrick"
+      },
+      {
+        "language": "de",
+        "value": "Patrick Maewyn"
+      },
+      {
+        "language": "de",
+        "value": "Maewyn"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Magonus"
+      },
+      {
+        "language": "en",
+        "value": "Patrick"
+      },
+      {
+        "language": "en",
+        "value": "Cothirthiacus"
+      },
+      {
+        "language": "en",
+        "value": "Patricius"
+      },
+      {
+        "language": "en",
+        "value": "Enlightener of Ireland"
+      },
+      {
+        "language": "en",
+        "value": "St Patrick"
+      },
+      {
+        "language": "en",
+        "value": "Apostle of Ireland"
+      },
+      {
+        "language": "en",
+        "value": "Saint Patrick of Ireland"
+      },
+      {
+        "language": "en",
+        "value": "Maewyn Succat"
+      },
+      {
+        "language": "en",
+        "value": "St. Patrick of Ireland"
+      },
+      {
+        "language": "en",
+        "value": "Succetus"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q385$4F6E09F5-3F39-515A-A594-EC7E21DA3149",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q165479"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q165479"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "christlicher Missionar und irischer Nationalheiliger"
+    },
+    "en": {
+      "language": "en",
+      "value": "5th-century Romano-British Christian missionary and bishop in Ireland"
+    }
+  },
+  "id": "Q385",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Patrick von Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "Saint Patrick"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

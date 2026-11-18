@@ -1,0 +1,97 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "An Dun"
+      },
+      {
+        "language": "de",
+        "value": "Down"
+      },
+      {
+        "language": "de",
+        "value": "An Dún"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Downshire"
+      },
+      {
+        "language": "en",
+        "value": "Down"
+      },
+      {
+        "language": "en",
+        "value": "Co Down"
+      },
+      {
+        "language": "en",
+        "value": "Co. Down"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q295$5083B0E1-AE2B-56B9-B889-39945819111B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q190684"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q190684"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "eine der sechs historischen Grafschaften (Countys) Nordirlands"
+    },
+    "en": {
+      "language": "en",
+      "value": "county of Northern Ireland"
+    }
+  },
+  "id": "Q295",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "County Down"
+    },
+    "en": {
+      "language": "en",
+      "value": "County Down"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

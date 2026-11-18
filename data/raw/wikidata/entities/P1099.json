@@ -1,0 +1,795 @@
+{
+  "aliases": {
+    "cs": [
+      {
+        "language": "cs",
+        "value": "počet stěžňů"
+      }
+    ],
+    "de": [
+      {
+        "language": "de",
+        "value": "Anzahl an Masten"
+      },
+      {
+        "language": "de",
+        "value": "Anzahl der Masten"
+      }
+    ],
+    "gl": [
+      {
+        "language": "gl",
+        "value": "mastros"
+      }
+    ],
+    "he": [
+      {
+        "language": "he",
+        "value": "תרנים"
+      }
+    ],
+    "ja": [
+      {
+        "language": "ja",
+        "value": "マストの数"
+      }
+    ],
+    "scn": [
+      {
+        "language": "scn",
+        "value": "àrvuli"
+      },
+      {
+        "language": "scn",
+        "value": "antinni"
+      },
+      {
+        "language": "scn",
+        "value": "ntinni"
+      }
+    ],
+    "sv": [
+      {
+        "language": "sv",
+        "value": "antal master"
+      }
+    ]
+  },
+  "claims": {
+    "P1629": [
+      {
+        "id": "P1099$3a1eab24-4588-2f39-22b6-1de15517e871",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q331744",
+              "numeric-id": 331744
+            }
+          },
+          "hash": "c9bb8fca4465255e32228eee5bdc480446c9cbff",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P1099$40287463-4718-2c19-52f4-a9af43ba1dd3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2088421",
+              "numeric-id": 2088421
+            }
+          },
+          "hash": "7d4b8bc11f9d9ebdaf3e4c550209fae3bd4e5de4",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1099": [
+            {
+              "datatype": "quantity",
+              "datavalue": {
+                "type": "quantity",
+                "value": {
+                  "amount": "+4",
+                  "unit": "1"
+                }
+              },
+              "hash": "cf0765d01f5bcbeb6fba4d9ecb8eef6417fd31bd",
+              "property": "P1099",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1099"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1099$21aec45e-4b74-a1fa-addc-ca1be8fa5e62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q944436",
+              "numeric-id": 944436
+            }
+          },
+          "hash": "759f655afb5a7d82f5ae79d6947114f3d223ae19",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1099": [
+            {
+              "datatype": "quantity",
+              "datavalue": {
+                "type": "quantity",
+                "value": {
+                  "amount": "+3",
+                  "unit": "1"
+                }
+              },
+              "hash": "b402d36185f42a57968b23a728a9b6652080adb3",
+              "property": "P1099",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1099"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P1099$36FFE5D2-0BD8-4178-B4AB-27610FF90543",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21514353",
+              "numeric-id": 21514353
+            }
+          },
+          "hash": "80fd52d4f93d38380a09d0d046b9923974a06a5d",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2305": [
+            {
+              "datatype": "wikibase-item",
+              "hash": "9f444d3aec2f469398b5161a4702f58ab9d2bd39",
+              "property": "P2305",
+              "snaktype": "novalue"
+            }
+          ],
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21502408",
+                  "numeric-id": 21502408
+                }
+              },
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2305",
+          "P2316"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1099$9E2C090D-BE7F-4BE0-B826-3BB9B20C8117",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21510860",
+              "numeric-id": 21510860
+            }
+          },
+          "hash": "ebdfa0ec216b8763162f0028878b1c5ed9978c47",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2312": [
+            {
+              "datatype": "quantity",
+              "datavalue": {
+                "type": "quantity",
+                "value": {
+                  "amount": "+12",
+                  "unit": "1"
+                }
+              },
+              "hash": "7fb08183e98c85fad37870c260f83930b5ae6327",
+              "property": "P2312",
+              "snaktype": "value"
+            }
+          ],
+          "P2313": [
+            {
+              "datatype": "quantity",
+              "datavalue": {
+                "type": "quantity",
+                "value": {
+                  "amount": "+0",
+                  "unit": "1"
+                }
+              },
+              "hash": "0050457474815bbf824ddf676682ac32c605ad0f",
+              "property": "P2313",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2312",
+          "P2313"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "248cd35e6cf76e1222c64bf36a2ce414a422284e",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.lesechos.fr/09/08/2007/lesechos.fr/300194009_zheng-he.htm"
+                  },
+                  "hash": "642c224e50d16ebf2a08c6485f077f7ba102d20a",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P1099$9326E484-8DF1-4849-97F7-FC3A835463FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503250",
+              "numeric-id": 21503250
+            }
+          },
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2308": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q11446",
+                  "numeric-id": 11446
+                }
+              },
+              "hash": "2f63f6e05451766d46e12ee96032f9d0c95eb2f4",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q559026",
+                  "numeric-id": 559026
+                }
+              },
+              "hash": "c8b7c10dac394549d05c72fb2240eba7c6d0d054",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q1075310",
+                  "numeric-id": 1075310
+                }
+              },
+              "hash": "b8b43114db5ea9d792285e0323ac0aa61ced7cce",
+              "property": "P2308",
+              "snaktype": "value"
+            }
+          ],
+          "P2309": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21503252",
+                  "numeric-id": 21503252
+                }
+              },
+              "hash": "8d7afee22e0fa6211dd8c95f247e1dd7b38daf70",
+              "property": "P2309",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2308",
+          "P2309"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1099$71cadb6f-427c-0534-2f94-7c3754a882e7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51723761",
+              "numeric-id": 51723761
+            }
+          },
+          "hash": "09b70922712551f57148bea9bb90b7929770e8aa",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1099$DF7107EC-AE4C-4785-AF0B-B6367E583E44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52848401",
+              "numeric-id": 52848401
+            }
+          },
+          "hash": "4f67bd6fb3c1dac4c183163e5bddd82d85013b0e",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1099$2FEA68CA-62A6-4EBA-9E60-B140211EE955",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21502408",
+                  "numeric-id": 21502408
+                }
+              },
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ],
+          "P5314": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54828448",
+                  "numeric-id": 54828448
+                }
+              },
+              "hash": "a0202111cb525ed31611bf926974b74a2419b8ab",
+              "property": "P5314",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2316",
+          "P5314"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P1099$3f6fa794-4ca5-e3b8-3bbc-bde88ff24bdb",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23779665",
+              "numeric-id": 23779665
+            }
+          },
+          "hash": "b4de8550489f18075b42e6fb66a121ee8c89fe0c",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P1099$9553BE5E-0D8B-4BDC-92F5-50C2C947E555",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/Archive/18#P1099"
+          },
+          "hash": "de4cf56b419b88a42c0602a186994fa12997da0a",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "quantity",
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "númberu de mástiles d'una embarcación"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "елкәнле караптарҙың матчталары һаны"
+    },
+    "be": {
+      "language": "be",
+      "value": "колькасць мачтаў у карабля"
+    },
+    "br": {
+      "language": "br",
+      "value": "niver a wernioù zo ouzh ul lestr"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "nombre de pals d'un vaixell"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "počet stožárů, které jsou na lodi"
+    },
+    "da": {
+      "language": "da",
+      "value": "antallet af master på et skib"
+    },
+    "de": {
+      "language": "de",
+      "value": "Anzahl der Masten auf einem Schiff"
+    },
+    "el": {
+      "language": "el",
+      "value": "αριθμός καταρτιών που έχει ένα πλοίο"
+    },
+    "en": {
+      "language": "en",
+      "value": "number of masts a ship has"
+    },
+    "es": {
+      "language": "es",
+      "value": "número de mástiles de una embarcación"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "númiru de palus dun barcu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "تعداد دکل‌های کشتی مورد نظر"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "nombre de mâts d'un bateau"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "número de mastros dunha embarcación"
+    },
+    "he": {
+      "language": "he",
+      "value": "מספר התרנים בספינה"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "ọnụ ọgụgụ masts ụgbọ mmiri nwere"
+    },
+    "it": {
+      "language": "it",
+      "value": "numero di alberi di una imbarcazione"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "antall master på et skip"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "aantal masten dat een schip heeft"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "número de mastros de uma embarcação"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "количество мачт у корабля с парусным вооружением"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "nùmmiru di àrbiri chi havi sta navi"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "antal master på skepp"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "bir geminin sahip olduğu direk sayısı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "кількість щогл у корабля з вітрильним оснащенням"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "一艘船的桅杆数量"
+    }
+  },
+  "id": "P1099",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "عدد الصواري"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "númberu de mástiles"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "матчталар һаны"
+    },
+    "be": {
+      "language": "be",
+      "value": "мачты"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "брой мачти"
+    },
+    "br": {
+      "language": "br",
+      "value": "gwernioù"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "broj jarbola"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "nombre de pals"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "počet stožárů"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "nifer y mastiau"
+    },
+    "da": {
+      "language": "da",
+      "value": "antal master"
+    },
+    "de": {
+      "language": "de",
+      "value": "Masten"
+    },
+    "el": {
+      "language": "el",
+      "value": "κατάρτια"
+    },
+    "en": {
+      "language": "en",
+      "value": "number of masts"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "masts"
+    },
+    "es": {
+      "language": "es",
+      "value": "número de mástiles"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "númiru de palus"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "دکل‌ها"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "mastojen määrä"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "nombre de mâts"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "número de mastros"
+    },
+    "he": {
+      "language": "he",
+      "value": "מספר תרנים"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "árbocok száma"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "ọnụ ọgụgụ nke masts"
+    },
+    "it": {
+      "language": "it",
+      "value": "alberi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "帆柱の数"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "돛대의 수"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "јарболи"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "डोलकाठ्यांची संख्या"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "master"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Tall Masten"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "aantal masten"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "liczba masztów"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "número de mastros"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "число мачт"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "àrbiri"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "število jamborov"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "број јарбола"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "mastantal"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "direk sayısı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "число щогл"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "桅杆数量"
+    }
+  },
+  "lastrevid": 2470212374,
+  "modified": "2026-03-07T15:54:14Z",
+  "ns": 120,
+  "pageid": 17329948,
+  "title": "Property:P1099",
+  "type": "property"
+}

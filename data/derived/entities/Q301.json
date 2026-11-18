@@ -1,0 +1,101 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Messpunkt"
+      },
+      {
+        "language": "de",
+        "value": "geodätischer Punkt"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "geodetic marker"
+      },
+      {
+        "language": "en",
+        "value": "survey monument"
+      },
+      {
+        "language": "en",
+        "value": "geodetic point"
+      },
+      {
+        "language": "en",
+        "value": "survey point"
+      },
+      {
+        "language": "en",
+        "value": "survey markers"
+      },
+      {
+        "language": "en",
+        "value": "geodetic control point"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q301$F9EDBA89-2B13-5D69-B9A1-082A7340E94D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q352956"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q352956"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Punkt, der als Ausgangs- oder Zielpunkt von Vermessungen dient"
+    },
+    "en": {
+      "language": "en",
+      "value": "object placed to mark a point"
+    }
+  },
+  "id": "Q301",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Vermessungspunkt"
+    },
+    "en": {
+      "language": "en",
+      "value": "survey marker"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

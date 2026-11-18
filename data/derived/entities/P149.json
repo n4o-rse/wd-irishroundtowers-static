@@ -1,0 +1,135 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "atlasobscura.com identifier"
+      },
+      {
+        "language": "en",
+        "value": "atlasobscura.com ID"
+      },
+      {
+        "language": "en",
+        "value": "AO ID"
+      },
+      {
+        "language": "en",
+        "value": "Atlas Obscura identifier"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P149$169EAAF1-0765-5B08-82CD-A226857C2907",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P149$9E9F001D-F611-5685-B8AA-B04180A41AB9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P7772"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P7772"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "P149$D979DF80-A893-5CFC-AF99-9CAB0A58DC19",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.atlasobscura.com/places/$1"
+          },
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P7772"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "identifier for places on the Atlas Obscura website"
+    }
+  },
+  "id": "P149",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Atlas-Obscura-Kennung"
+    },
+    "en": {
+      "language": "en",
+      "value": "Atlas Obscura place ID"
+    }
+  },
+  "type": "property"
+}

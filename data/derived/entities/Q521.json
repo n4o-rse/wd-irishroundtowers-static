@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oldkilcullen"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q521$D73D974D-32B7-5418-9E76-B3CDB863E1EB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q14911694"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q14911694"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Ortschaft in Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "townland in Kilcullen, County Kildare, Ireland"
+    }
+  },
+  "id": "Q521",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Kloster Old Kilcullen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Old Kilcullen"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,93 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Londonderry"
+      },
+      {
+        "language": "de",
+        "value": "County Londonderry"
+      },
+      {
+        "language": "de",
+        "value": "Derry"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Derry"
+      },
+      {
+        "language": "en",
+        "value": "Londonderry"
+      },
+      {
+        "language": "en",
+        "value": "County Derry"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q662$3F40C05C-6707-52DC-9193-363596035345",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q192208"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q192208"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Verwaltungseinheit in Nordirland"
+    },
+    "en": {
+      "language": "en",
+      "value": "county of Northern Ireland"
+    }
+  },
+  "id": "Q662",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "County Derry"
+    },
+    "en": {
+      "language": "en",
+      "value": "County Londonderry"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

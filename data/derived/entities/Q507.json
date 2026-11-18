@@ -1,0 +1,81 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Triangel"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "3-gon"
+      },
+      {
+        "language": "en",
+        "value": "2-simplex"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q507$9E6734D9-F457-5658-9BED-BE20DC48374D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q19821"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q19821"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "geometrische Form"
+    },
+    "en": {
+      "language": "en",
+      "value": "basic three-sided shape of geometry"
+    }
+  },
+  "id": "Q507",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Dreieck"
+    },
+    "en": {
+      "language": "en",
+      "value": "triangle"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

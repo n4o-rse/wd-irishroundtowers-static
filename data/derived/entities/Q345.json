@@ -1,0 +1,105 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "zerbombt"
+      },
+      {
+        "language": "de",
+        "value": "abgebrannt"
+      },
+      {
+        "language": "de",
+        "value": "abgegangen"
+      },
+      {
+        "language": "de",
+        "value": "zerstört"
+      },
+      {
+        "language": "de",
+        "value": "abgebaut"
+      },
+      {
+        "language": "de",
+        "value": "abgetragen"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "destroyed"
+      },
+      {
+        "language": "en",
+        "value": "demolished"
+      },
+      {
+        "language": "en",
+        "value": "dismantled"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q345$EF2C9155-B9DD-592C-BEED-B1E20DBCC2C8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q56556915"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q56556915"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Erhaltungszustand z.B. eines Bauwerks"
+    },
+    "en": {
+      "language": "en",
+      "value": "state of conservation"
+    }
+  },
+  "id": "Q345",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "abgerissen oder zerstört"
+    },
+    "en": {
+      "language": "en",
+      "value": "demolished or destroyed"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,77 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Blitzschlag"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "struck by lightning"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q339$FF46FD5F-9EB0-5E63-88B9-F3B6B5D0769E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15120872"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q15120872"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "elektrische Entladung zwischen Atmosphäre und Boden"
+    },
+    "en": {
+      "language": "en",
+      "value": "electric discharge between the atmosphere and the ground"
+    }
+  },
+  "id": "Q339",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Blitzeinschlag"
+    },
+    "en": {
+      "language": "en",
+      "value": "lightning strike"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

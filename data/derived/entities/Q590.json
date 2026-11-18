@@ -1,0 +1,97 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Brian Boruma"
+      },
+      {
+        "language": "de",
+        "value": "Brian Mac Cennetig"
+      },
+      {
+        "language": "de",
+        "value": "Brian Mac Cennétig"
+      },
+      {
+        "language": "de",
+        "value": "Boru"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Brian Bóruma"
+      },
+      {
+        "language": "en",
+        "value": "Brian Bóruma mac Cennetig, High King of Ireland"
+      },
+      {
+        "language": "en",
+        "value": "Brian Boroihme"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q590$FFE4782B-4076-5A34-BDC0-A600D6847ADD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q272498"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q272498"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "irischer Hochkönig"
+    },
+    "en": {
+      "language": "en",
+      "value": "High King of Ireland"
+    }
+  },
+  "id": "Q590",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Brian Boru"
+    },
+    "en": {
+      "language": "en",
+      "value": "Brian Boru"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

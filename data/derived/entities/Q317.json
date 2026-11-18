@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "nearly"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q317$6E0F16D7-99A2-562A-86C8-9C4807B17EB5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q840148"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q840148"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "informal mathematical concept, indicating applicability to all but a negligible subset of elements or cases"
+    }
+  },
+  "id": "Q317",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "almost"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

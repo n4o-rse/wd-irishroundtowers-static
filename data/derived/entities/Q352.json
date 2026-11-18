@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Michael Herity: Ordnance Survey Letters Kilkenny"
+      },
+      {
+        "language": "en",
+        "value": "Ordnance Survey Letters Kilkenny"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q352$4DE27FF4-F750-56B0-8BEC-BD2E2C986E52",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q137462540"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q137462540"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "edition of the Ordnance Survey letters for County Kilkenny"
+    }
+  },
+  "id": "Q352",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Michael Herity: Ordnance Survey Letters Kilkenny, Dublin: Four Masters Press, 2003."
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

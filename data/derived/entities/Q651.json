@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "H. C. Lawlor"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q651$A9A0B4A5-22A8-58D2-ACD7-C3C6F6A649F4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q96472482"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q96472482"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Anglo-Irish linen merchant (1870-1943)"
+    }
+  },
+  "id": "Q651",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Henry Cairnes Lawlor"
+    },
+    "en": {
+      "language": "en",
+      "value": "Henry Cairnes Lawlor"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

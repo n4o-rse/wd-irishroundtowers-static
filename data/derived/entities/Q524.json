@@ -1,0 +1,105 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Erzbistum Cashel and Emly"
+      },
+      {
+        "language": "de",
+        "value": "Erzbistum Cashel"
+      },
+      {
+        "language": "de",
+        "value": "Erzdiözese von Cashel und Emly"
+      },
+      {
+        "language": "de",
+        "value": "Bistum Cashel und Emly"
+      },
+      {
+        "language": "de",
+        "value": "Bistum Cashel"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Archdiocese of Cashel"
+      },
+      {
+        "language": "en",
+        "value": "Archdiocese of Cashel and Emly"
+      },
+      {
+        "language": "en",
+        "value": "Diocese of Cashel and Emly"
+      },
+      {
+        "language": "en",
+        "value": "Diocese of Cashel"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q524$A1B3DE6B-C725-51F8-8165-E0E6FFF6CE16",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1364316"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q1364316"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römisch-katholisches Erzbistum in Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "Catholic archdiocese in Ireland"
+    }
+  },
+  "id": "Q524",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Erzbistum Cashel und Emly"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman Catholic Archdiocese of Cashel and Emly"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

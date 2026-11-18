@@ -1,0 +1,173 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Bebauung"
+      },
+      {
+        "language": "de",
+        "value": "Bauwerke"
+      },
+      {
+        "language": "de",
+        "value": "architekturische Struktur"
+      },
+      {
+        "language": "de",
+        "value": "Struktur in der Architektur"
+      },
+      {
+        "language": "de",
+        "value": "architekturische Strukturen"
+      },
+      {
+        "language": "de",
+        "value": "Strukturen in der Architektur"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "designed structure"
+      },
+      {
+        "language": "en",
+        "value": "architectural structures"
+      },
+      {
+        "language": "en",
+        "value": "designed structures"
+      },
+      {
+        "language": "en",
+        "value": "structure in architecture"
+      },
+      {
+        "language": "en",
+        "value": "structures in architecture"
+      },
+      {
+        "language": "en",
+        "value": "structure"
+      },
+      {
+        "language": "en",
+        "value": "structures"
+      },
+      {
+        "language": "en",
+        "value": "structural object"
+      },
+      {
+        "language": "en",
+        "value": "civil engineering structure"
+      },
+      {
+        "language": "en",
+        "value": "architectural structure"
+      }
+    ]
+  },
+  "claims": {
+    "P1": [
+      {
+        "id": "Q412$707A272E-3B1F-5892-9246-AF284A049F58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3",
+              "numeric-id": 3
+            }
+          },
+          "property": "P1",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2": [
+      {
+        "id": "Q412$032039CB-E155-57DA-A568-79BACD27E38B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1",
+              "numeric-id": 1
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q412$DA33F0D2-F253-500D-B3F5-F67780FDE4FE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q811979"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q811979"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "von Menschen entworfene bzw. geschaffene Struktur"
+    },
+    "en": {
+      "language": "en",
+      "value": "human-designed and -made structure"
+    }
+  },
+  "id": "Q412",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Bauwerk"
+    },
+    "en": {
+      "language": "en",
+      "value": "built structure"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,137 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Art der Aussage"
+      },
+      {
+        "language": "de",
+        "value": "Modalität der Aussage"
+      },
+      {
+        "language": "de",
+        "value": "Gültigkeit der Aussage"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "frequency"
+      },
+      {
+        "language": "en",
+        "value": "nature"
+      },
+      {
+        "language": "en",
+        "value": "condition"
+      },
+      {
+        "language": "en",
+        "value": "status of statement"
+      },
+      {
+        "language": "en",
+        "value": "modality of statement"
+      },
+      {
+        "language": "en",
+        "value": "validity of statement"
+      },
+      {
+        "language": "en",
+        "value": "refine statement"
+      },
+      {
+        "language": "en",
+        "value": "jurisdiction status"
+      },
+      {
+        "language": "en",
+        "value": "precisely"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P157$843E99A0-D1A1-5781-A8C2-4EC82C4A3F5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P157$82168B06-1A99-516E-B51A-984184581BA1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P5102"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P5102"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Art und Weise, in der eine Aussage gültig ist (z. B. inoffiziell, möglicherweise oder häufig)"
+    },
+    "en": {
+      "language": "en",
+      "value": "(qualifier only) the underlying circumstances of this statement"
+    }
+  },
+  "id": "P157",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Art der Behauptung"
+    },
+    "en": {
+      "language": "en",
+      "value": "nature of statement"
+    }
+  },
+  "type": "property"
+}

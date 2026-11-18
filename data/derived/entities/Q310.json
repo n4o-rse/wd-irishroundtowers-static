@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gabriel Béranger"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q310$7595DF52-87B3-57DE-8157-665B71491D53",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17899046"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q17899046"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "niederländischer Künstler (1729–1817)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dutch artist active in Ireland"
+    }
+  },
+  "id": "Q310",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Gabriel Beranger"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gabriel Beranger"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

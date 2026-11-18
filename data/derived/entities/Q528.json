@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Henry S. Crawford, H. G. Leask: Killeshin Church and Its Romanesque Ornament, in: The Journal of the Royal Society of Antiquaries of Ireland, Sixth Series, Vol. 15, No. 2 (Dec. 31, 1925), pp. 83-94 (19 pages)"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q528$841F967D-D8AC-5BC6-85C8-6520F62CC9E4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q141453585"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q141453585"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "article by Henry S. Crawford and H. G. Leask about the Romanesque art at Killeshin Church, County Laois"
+    }
+  },
+  "id": "Q528",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Killeshin Church and Its Romanesque Ornament"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

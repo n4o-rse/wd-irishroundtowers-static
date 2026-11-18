@@ -1,0 +1,81 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Irländer"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Irish"
+      },
+      {
+        "language": "en",
+        "value": "Gaels"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q285$4E26997A-5F5C-5870-B9EF-4DDB610FD22B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q170826"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q170826"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Ethnie"
+    },
+    "en": {
+      "language": "en",
+      "value": "Celtic people"
+    }
+  },
+  "id": "Q285",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Iren"
+    },
+    "en": {
+      "language": "en",
+      "value": "Irish people"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

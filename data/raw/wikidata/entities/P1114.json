@@ -1,0 +1,2533 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "كمية"
+      },
+      {
+        "language": "ar",
+        "value": "عدد العناصر"
+      }
+    ],
+    "ast": [
+      {
+        "language": "ast",
+        "value": "númberu"
+      }
+    ],
+    "be": [
+      {
+        "language": "be",
+        "value": "колькасць аб'ектаў"
+      }
+    ],
+    "be-tarask": [
+      {
+        "language": "be-tarask",
+        "value": "колькасьць аб’ектаў"
+      },
+      {
+        "language": "be-tarask",
+        "value": "колькасьць прадметаў"
+      },
+      {
+        "language": "be-tarask",
+        "value": "агульная колькасьць"
+      },
+      {
+        "language": "be-tarask",
+        "value": "лік"
+      },
+      {
+        "language": "be-tarask",
+        "value": "агулам"
+      }
+    ],
+    "bs": [
+      {
+        "language": "bs",
+        "value": "broj"
+      },
+      {
+        "language": "bs",
+        "value": "broj primjeraka"
+      }
+    ],
+    "ca": [
+      {
+        "language": "ca",
+        "value": "nombre"
+      },
+      {
+        "language": "ca",
+        "value": "nombre total"
+      }
+    ],
+    "cs": [
+      {
+        "language": "cs",
+        "value": "počet instancí"
+      },
+      {
+        "language": "cs",
+        "value": "množství"
+      },
+      {
+        "language": "cs",
+        "value": "kvantita"
+      }
+    ],
+    "de": [
+      {
+        "language": "de",
+        "value": "Menge"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "qty"
+      },
+      {
+        "language": "en",
+        "value": "total number"
+      },
+      {
+        "language": "en",
+        "value": "number of instances"
+      },
+      {
+        "language": "en",
+        "value": "number"
+      },
+      {
+        "language": "en",
+        "value": "amount"
+      },
+      {
+        "language": "en",
+        "value": "total"
+      },
+      {
+        "language": "en",
+        "value": "count"
+      },
+      {
+        "language": "en",
+        "value": "multiplicity"
+      },
+      {
+        "language": "en",
+        "value": "number of occurrencies"
+      },
+      {
+        "language": "en",
+        "value": "instances"
+      },
+      {
+        "language": "en",
+        "value": "occurrences"
+      },
+      {
+        "language": "en",
+        "value": "number of copies"
+      },
+      {
+        "language": "en",
+        "value": "copies"
+      }
+    ],
+    "en-gb": [
+      {
+        "language": "en-gb",
+        "value": "qty"
+      },
+      {
+        "language": "en-gb",
+        "value": "total number"
+      },
+      {
+        "language": "en-gb",
+        "value": "number of instances"
+      },
+      {
+        "language": "en-gb",
+        "value": "number"
+      },
+      {
+        "language": "en-gb",
+        "value": "amount"
+      },
+      {
+        "language": "en-gb",
+        "value": "total"
+      },
+      {
+        "language": "en-gb",
+        "value": "count"
+      },
+      {
+        "language": "en-gb",
+        "value": "multiplicity"
+      }
+    ],
+    "eo": [
+      {
+        "language": "eo",
+        "value": "nombro"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "número de instancias"
+      },
+      {
+        "language": "es",
+        "value": "número de ejemplares"
+      },
+      {
+        "language": "es",
+        "value": "número"
+      },
+      {
+        "language": "es",
+        "value": "número total"
+      },
+      {
+        "language": "es",
+        "value": "total"
+      },
+      {
+        "language": "es",
+        "value": "recuento"
+      },
+      {
+        "language": "es",
+        "value": "múltiplo"
+      },
+      {
+        "language": "es",
+        "value": "número de ocurrencias"
+      },
+      {
+        "language": "es",
+        "value": "instancias"
+      },
+      {
+        "language": "es",
+        "value": "ocurrencias"
+      },
+      {
+        "language": "es",
+        "value": "número de copias"
+      },
+      {
+        "language": "es",
+        "value": "copias"
+      }
+    ],
+    "eu": [
+      {
+        "language": "eu",
+        "value": "kantitatea"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "nombre d'exemplaires"
+      },
+      {
+        "language": "fr",
+        "value": "nombre d'instances"
+      },
+      {
+        "language": "fr",
+        "value": "compte"
+      },
+      {
+        "language": "fr",
+        "value": "nombre"
+      },
+      {
+        "language": "fr",
+        "value": "décompte"
+      }
+    ],
+    "frr": [
+      {
+        "language": "frr",
+        "value": "mengde"
+      },
+      {
+        "language": "frr",
+        "value": "uuntaal"
+      }
+    ],
+    "ga": [
+      {
+        "language": "ga",
+        "value": "líon iomlán"
+      }
+    ],
+    "gl": [
+      {
+        "language": "gl",
+        "value": "número"
+      },
+      {
+        "language": "gl",
+        "value": "total"
+      }
+    ],
+    "he": [
+      {
+        "language": "he",
+        "value": "סך כולל"
+      },
+      {
+        "language": "he",
+        "value": "סך הכול"
+      },
+      {
+        "language": "he",
+        "value": "מספר מקרים"
+      }
+    ],
+    "hu": [
+      {
+        "language": "hu",
+        "value": "darabszám"
+      },
+      {
+        "language": "hu",
+        "value": "számuk"
+      },
+      {
+        "language": "hu",
+        "value": "mennyiség"
+      }
+    ],
+    "id": [
+      {
+        "language": "id",
+        "value": "jml"
+      },
+      {
+        "language": "id",
+        "value": "jmlh"
+      },
+      {
+        "language": "id",
+        "value": "banyaknya"
+      },
+      {
+        "language": "id",
+        "value": "banyak"
+      },
+      {
+        "language": "id",
+        "value": "byk"
+      },
+      {
+        "language": "id",
+        "value": "total"
+      },
+      {
+        "language": "id",
+        "value": "cacah"
+      },
+      {
+        "language": "id",
+        "value": "kuantitas"
+      }
+    ],
+    "it": [
+      {
+        "language": "it",
+        "value": "quantità"
+      },
+      {
+        "language": "it",
+        "value": "totale"
+      },
+      {
+        "language": "it",
+        "value": "numero di istanze"
+      },
+      {
+        "language": "it",
+        "value": "numero di elementi"
+      }
+    ],
+    "ja": [
+      {
+        "language": "ja",
+        "value": "個数"
+      },
+      {
+        "language": "ja",
+        "value": "量"
+      },
+      {
+        "language": "ja",
+        "value": "合計"
+      },
+      {
+        "language": "ja",
+        "value": "件数"
+      },
+      {
+        "language": "ja",
+        "value": "数量"
+      },
+      {
+        "language": "ja",
+        "value": "インスタンスの数"
+      },
+      {
+        "language": "ja",
+        "value": "総数"
+      },
+      {
+        "language": "ja",
+        "value": "計数"
+      },
+      {
+        "language": "ja",
+        "value": "総量"
+      },
+      {
+        "language": "ja",
+        "value": "総計"
+      },
+      {
+        "language": "ja",
+        "value": "トータル"
+      }
+    ],
+    "kaa": [
+      {
+        "language": "kaa",
+        "value": "qunı"
+      }
+    ],
+    "ko": [
+      {
+        "language": "ko",
+        "value": "수량"
+      },
+      {
+        "language": "ko",
+        "value": "수"
+      },
+      {
+        "language": "ko",
+        "value": "그 수"
+      },
+      {
+        "language": "ko",
+        "value": "총 갯수"
+      },
+      {
+        "language": "ko",
+        "value": "개수"
+      },
+      {
+        "language": "ko",
+        "value": "총 개수"
+      },
+      {
+        "language": "ko",
+        "value": "수효"
+      },
+      {
+        "language": "ko",
+        "value": "양"
+      },
+      {
+        "language": "ko",
+        "value": "전체 갯수"
+      },
+      {
+        "language": "ko",
+        "value": "전체 개수"
+      }
+    ],
+    "lv": [
+      {
+        "language": "lv",
+        "value": "daudzums"
+      },
+      {
+        "language": "lv",
+        "value": "kopskaits"
+      }
+    ],
+    "mk": [
+      {
+        "language": "mk",
+        "value": "број на примероци"
+      }
+    ],
+    "ms": [
+      {
+        "language": "ms",
+        "value": "jumlah bilangan"
+      },
+      {
+        "language": "ms",
+        "value": "bilangan"
+      },
+      {
+        "language": "ms",
+        "value": "amaun"
+      },
+      {
+        "language": "ms",
+        "value": "jumlah"
+      }
+    ],
+    "nl": [
+      {
+        "language": "nl",
+        "value": "aantal instanties"
+      },
+      {
+        "language": "nl",
+        "value": "aantal exemplaren"
+      },
+      {
+        "language": "nl",
+        "value": "hoeveelheid"
+      }
+    ],
+    "nn": [
+      {
+        "language": "nn",
+        "value": "antall"
+      },
+      {
+        "language": "nn",
+        "value": "tal på"
+      }
+    ],
+    "oc": [
+      {
+        "language": "oc",
+        "value": "total"
+      },
+      {
+        "language": "oc",
+        "value": "nombre d'elements"
+      },
+      {
+        "language": "oc",
+        "value": "nombre d'instancias"
+      }
+    ],
+    "pl": [
+      {
+        "language": "pl",
+        "value": "ilość"
+      },
+      {
+        "language": "pl",
+        "value": "wielokrotność"
+      },
+      {
+        "language": "pl",
+        "value": "liczba elementów"
+      }
+    ],
+    "pt": [
+      {
+        "language": "pt",
+        "value": "número"
+      },
+      {
+        "language": "pt",
+        "value": "total"
+      }
+    ],
+    "pt-br": [
+      {
+        "language": "pt-br",
+        "value": "qntde"
+      },
+      {
+        "language": "pt-br",
+        "value": "qnde"
+      },
+      {
+        "language": "pt-br",
+        "value": "quantidade total"
+      },
+      {
+        "language": "pt-br",
+        "value": "número de instâncias"
+      },
+      {
+        "language": "pt-br",
+        "value": "número"
+      }
+    ],
+    "ro": [
+      {
+        "language": "ro",
+        "value": "număr"
+      },
+      {
+        "language": "ro",
+        "value": "număr de obiecte"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "число подобных объектов"
+      },
+      {
+        "language": "ru",
+        "value": "общее число"
+      },
+      {
+        "language": "ru",
+        "value": "количество"
+      },
+      {
+        "language": "ru",
+        "value": "всего"
+      }
+    ],
+    "se": [
+      {
+        "language": "se",
+        "value": "lohku"
+      }
+    ],
+    "sk": [
+      {
+        "language": "sk",
+        "value": "kvantita"
+      },
+      {
+        "language": "sk",
+        "value": "množstvo"
+      }
+    ],
+    "sl": [
+      {
+        "language": "sl",
+        "value": "število"
+      },
+      {
+        "language": "sl",
+        "value": "skupno"
+      },
+      {
+        "language": "sl",
+        "value": "koliko"
+      },
+      {
+        "language": "sl",
+        "value": "primerkov"
+      }
+    ],
+    "smn": [
+      {
+        "language": "smn",
+        "value": "loho"
+      }
+    ],
+    "sms": [
+      {
+        "language": "sms",
+        "value": "lååkk"
+      }
+    ],
+    "sv": [
+      {
+        "language": "sv",
+        "value": "nr"
+      },
+      {
+        "language": "sv",
+        "value": "antal"
+      },
+      {
+        "language": "sv",
+        "value": "förekomster"
+      },
+      {
+        "language": "sv",
+        "value": "kvantitet"
+      }
+    ],
+    "ta": [
+      {
+        "language": "ta",
+        "value": "முறை"
+      }
+    ],
+    "te": [
+      {
+        "language": "te",
+        "value": "మొత్తం పరిమాణం"
+      },
+      {
+        "language": "te",
+        "value": "పూర్తి సంఖ్య"
+      }
+    ],
+    "tr": [
+      {
+        "language": "tr",
+        "value": "toplam sayısı"
+      },
+      {
+        "language": "tr",
+        "value": "genel toplamı"
+      },
+      {
+        "language": "tr",
+        "value": "tutarı"
+      },
+      {
+        "language": "tr",
+        "value": "değeri"
+      },
+      {
+        "language": "tr",
+        "value": "ederi"
+      },
+      {
+        "language": "tr",
+        "value": "numarası"
+      }
+    ],
+    "uk": [
+      {
+        "language": "uk",
+        "value": "всього"
+      },
+      {
+        "language": "uk",
+        "value": "усього"
+      }
+    ],
+    "uz": [
+      {
+        "language": "uz",
+        "value": "miqdori"
+      }
+    ],
+    "vi": [
+      {
+        "language": "vi",
+        "value": "số lần"
+      },
+      {
+        "language": "vi",
+        "value": "tổng số"
+      },
+      {
+        "language": "vi",
+        "value": "vị chi"
+      }
+    ]
+  },
+  "claims": {
+    "P1629": [
+      {
+        "id": "P1114$e8137c7b-4c88-bbbd-ea72-8e8200140ff2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q309314",
+              "numeric-id": 309314
+            }
+          },
+          "hash": "e15c1c74c58f90369457a339937795f3ce4dbeea",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P1114$ed93bf24-4919-7462-8410-4da69bcc06ea",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P1107",
+              "numeric-id": 1107
+            }
+          },
+          "hash": "09b3f4ff4aec6fc48dc5b82d0a5da5d5b17ad2e2",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1114$5343fc1b-4110-5dbc-6b7d-0b32376c6f65",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P1181",
+              "numeric-id": 1181
+            }
+          },
+          "hash": "ee5a1b3c7ad1fce2558a53135966c9ab8ebb5471",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1114$e8fa3e8b-4729-389e-4d6b-880a9bca92bf",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P1436",
+              "numeric-id": 1436
+            }
+          },
+          "hash": "296b3bc1e6f974c2a1a26dac1af74e4c7c49a5ea",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1114$28b27ce0-450a-d9ee-7037-f5af6e704543",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P3740",
+              "numeric-id": 3740
+            }
+          },
+          "hash": "53416bad31c0a7ce3ffd3e8d7ff5abff81ebef90",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1114$4a009e37-49a7-26b3-2443-248e3b5775e4",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P4876",
+              "numeric-id": 4876
+            }
+          },
+          "hash": "5f6ac016d2a69b9bf07849abab8d00ea7628f29b",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1114$9409b414-4c93-5735-2588-d03011f95594",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P8368",
+              "numeric-id": 8368
+            }
+          },
+          "hash": "833e9956085fe559138a72aa7f9ae3afbd478b9c",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1114$9c9be9fa-448e-6a5c-d69a-f7690b81a097",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P2664",
+              "numeric-id": 2664
+            }
+          },
+          "hash": "45fb9c697d55093e600aa940f47ab253191bead9",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P1114$be9a90b1-4cd2-bdb3-2c7e-6f37892c3bbe",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35657",
+              "numeric-id": 35657
+            }
+          },
+          "hash": "9a83e0dc19d577d4fb783aa2124684df774fe510",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1114": [
+            {
+              "datatype": "quantity",
+              "datavalue": {
+                "type": "quantity",
+                "value": {
+                  "amount": "+50",
+                  "unit": "1"
+                }
+              },
+              "hash": "712034468b37ecb7ea98cd93a2b7c2b482b45547",
+              "property": "P1114",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1114"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1114$022077ac-496f-6ce5-af1d-4861aa6150f8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28442534",
+              "numeric-id": 28442534
+            }
+          },
+          "hash": "2842474c6c23dd85465dedac9495b115696b2565",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1114": [
+            {
+              "datatype": "quantity",
+              "datavalue": {
+                "type": "quantity",
+                "value": {
+                  "amount": "+50000",
+                  "unit": "1"
+                }
+              },
+              "hash": "6145bd8ab0ca7f6810788e6296db861f64583dfe",
+              "property": "P1114",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1114"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1114$afb99700-414d-a6f7-0873-dc02a991e19d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q331225",
+              "numeric-id": 331225
+            }
+          },
+          "hash": "9944d1adf831ea677c537828c36e979fbaa20a18",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1114": [
+            {
+              "datatype": "quantity",
+              "datavalue": {
+                "type": "quantity",
+                "value": {
+                  "amount": "+71",
+                  "unit": "1"
+                }
+              },
+              "hash": "93094a02361523766788ea59cf5d22e29e0c3081",
+              "property": "P1114",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1114"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1114$67fb7f38-45c4-8285-15ac-5ad1d4cf4273",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15900616",
+              "numeric-id": 15900616
+            }
+          },
+          "hash": "9962c9c439326d6a26d860c7a1bbd6b104983506",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1114": [
+            {
+              "datatype": "quantity",
+              "datavalue": {
+                "type": "quantity",
+                "value": {
+                  "amount": "+1213",
+                  "unit": "1"
+                }
+              },
+              "hash": "e9ada0436bbb76da15b79f8faea18bd5c4936380",
+              "property": "P1114",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1114"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "ec3e93ca0b80b708e25e848c25581a6486380f7b",
+            "snaks": {
+              "P813": [
+                {
+                  "datatype": "time",
+                  "datavalue": {
+                    "type": "time",
+                    "value": {
+                      "after": 0,
+                      "before": 0,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                      "precision": 11,
+                      "time": "+2026-06-20T00:00:00Z",
+                      "timezone": 0
+                    }
+                  },
+                  "hash": "6ae8eb626fbb450f406224225b39994b9bf0ff02",
+                  "property": "P813",
+                  "snaktype": "value"
+                }
+              ],
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.literarische.de/geschichte"
+                  },
+                  "hash": "497ea1c3c45d54da05ddb0a04464218fe3237ef9",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854",
+              "P813"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P1114$C734BFB0-38A7-406E-AAA2-E3DD95E8D459",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21510851",
+              "numeric-id": 21510851
+            }
+          },
+          "hash": "55cfe775ff19641cea395be018002e38e05f3749",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2303": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q55003547",
+                  "numeric-id": 55003547
+                }
+              },
+              "hash": "9605f30ebb8b3a0334554145226ad0e172c65d07",
+              "property": "P2303",
+              "snaktype": "value"
+            }
+          ],
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P582",
+                  "numeric-id": 582
+                }
+              },
+              "hash": "0720109791ffbb5500cf5a98c698a3156563cb72",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P580",
+                  "numeric-id": 580
+                }
+              },
+              "hash": "4910ca558b9b0401e91b11626f400278702811bc",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P585",
+                  "numeric-id": 585
+                }
+              },
+              "hash": "a6be4e7a327c415e1c8d7d72c7fe6e7f784d4f57",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P805",
+                  "numeric-id": 805
+                }
+              },
+              "hash": "8fd4092aebb06b7e8d6cbb2cb58038a51c556076",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P1480",
+                  "numeric-id": 1480
+                }
+              },
+              "hash": "94b647e492fe9195f4f166518ef387b430a36d96",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P1012",
+                  "numeric-id": 1012
+                }
+              },
+              "hash": "6da4df338dbee3f1ecd9d7f0db793e511df16cc2",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P1011",
+                  "numeric-id": 1011
+                }
+              },
+              "hash": "21bf3bc28e14011010a5deb5b3ee33cd324f8175",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P5102",
+                  "numeric-id": 5102
+                }
+              },
+              "hash": "4f27f7745f35fa635bef15fe91d44e9cb46c6c00",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P6949",
+                  "numeric-id": 6949
+                }
+              },
+              "hash": "a4d8ad025d39cf021c9810711de64b7a381140ab",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P2241",
+                  "numeric-id": 2241
+                }
+              },
+              "hash": "b7b2b2d31ff3460e580b1cbaa9444277a00ce47c",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P7452",
+                  "numeric-id": 7452
+                }
+              },
+              "hash": "6b2485e2c2137f3688fe0dbb8af91308de46b999",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P1013",
+                  "numeric-id": 1013
+                }
+              },
+              "hash": "f7c15da951bf8ff0c60d9ac92f017e876feec22c",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P1552",
+                  "numeric-id": 1552
+                }
+              },
+              "hash": "ec1d369d76751c2fd30266f83f43ec5d84338d46",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P5949",
+                  "numeric-id": 5949
+                }
+              },
+              "hash": "4b6a149ebcdd5887c45a5c91d4957297c20fceab",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P518",
+                  "numeric-id": 518
+                }
+              },
+              "hash": "3efd1f494ba2c1ac4bdc572df5784d4cca879442",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P3005",
+                  "numeric-id": 3005
+                }
+              },
+              "hash": "ba9f982e717373af6707c7e88b0d66ea5fd24a17",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P459",
+                  "numeric-id": 459
+                }
+              },
+              "hash": "faff7072a38e7665f630bb7020158af1b995ea5d",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P5447",
+                  "numeric-id": 5447
+                }
+              },
+              "hash": "e4f68595f522b5271f5f57940f2f7a69782e2bc2",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P5448",
+                  "numeric-id": 5448
+                }
+              },
+              "hash": "bcb022bd6194af76743cf27652259a418f24c503",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P437",
+                  "numeric-id": 437
+                }
+              },
+              "hash": "3672e67198b1afa1d53c49f0bbbbfcd6edf32b6e",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P3831",
+                  "numeric-id": 3831
+                }
+              },
+              "hash": "07140c61c8ce2da1772b95cd4ec3b24a1a611435",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P1932",
+                  "numeric-id": 1932
+                }
+              },
+              "hash": "838c15caf5c5c3f942465dec6b4b3e6745350c11",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P13044",
+                  "numeric-id": 13044
+                }
+              },
+              "hash": "e9204334e71317438d19d50576c90bbfc1421f31",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P10663",
+                  "numeric-id": 10663
+                }
+              },
+              "hash": "712b7e6d93c47a48017c086a4d0f9476853fa988",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306",
+          "P2303"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "2ac0a15a73fd5b245588ee90598c87f04c948bf6",
+            "snaks": {
+              "P2306": [
+                {
+                  "datatype": "wikibase-property",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "property",
+                      "id": "P1932",
+                      "numeric-id": 1932
+                    }
+                  },
+                  "hash": "838c15caf5c5c3f942465dec6b4b3e6745350c11",
+                  "property": "P2306",
+                  "snaktype": "value"
+                }
+              ],
+              "P5997": [
+                {
+                  "datatype": "string",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Q134313279&diff=prev&oldid=2344320045"
+                  },
+                  "hash": "71dd1454c6de615f1f656f7427ea5df61ba4827e",
+                  "property": "P5997",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P2306",
+              "P5997"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P1114$af3e1b68-4cda-8159-714f-7f1625cd1fe9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21510860",
+              "numeric-id": 21510860
+            }
+          },
+          "hash": "ebdfa0ec216b8763162f0028878b1c5ed9978c47",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2312": [
+            {
+              "datatype": "quantity",
+              "hash": "ed0501f3145689069ef4e7e05df14ba4468225ea",
+              "property": "P2312",
+              "snaktype": "novalue"
+            }
+          ],
+          "P2313": [
+            {
+              "datatype": "quantity",
+              "datavalue": {
+                "type": "quantity",
+                "value": {
+                  "amount": "+0",
+                  "unit": "1"
+                }
+              },
+              "hash": "0050457474815bbf824ddf676682ac32c605ad0f",
+              "property": "P2313",
+              "snaktype": "value"
+            }
+          ],
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21502408",
+                  "numeric-id": 21502408
+                }
+              },
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2313",
+          "P2312",
+          "P2316"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1114$84520976-4c05-4109-c768-b4b7215a1294",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2305": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q29934200",
+                  "numeric-id": 29934200
+                }
+              },
+              "hash": "76a83209b6ab9e5ea1a1dd8e2986281a5a0479d7",
+              "property": "P2305",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q59712033",
+                  "numeric-id": 59712033
+                }
+              },
+              "hash": "26655a7e573da17226d4244ec74f59387afbf26c",
+              "property": "P2305",
+              "snaktype": "value"
+            }
+          ],
+          "P6607": [
+            {
+              "datatype": "monolingualtext",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "en",
+                  "text": "For Wikibase properties, use P4876 instead"
+                }
+              },
+              "hash": "7f56ac7083bf56b92d76907d4427d8180bc8a9db",
+              "property": "P6607",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "monolingualtext",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "zh",
+                  "text": "对于 Wikibase 属性，请使用 P4876"
+                }
+              },
+              "hash": "dd58dae4b08e5c931fd1fe5df215c30022c1145a",
+              "property": "P6607",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2305",
+          "P6607"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1114$e81c4335-4ced-f0cf-ee86-91097a9b4114",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21502408",
+                  "numeric-id": 21502408
+                }
+              },
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ],
+          "P5314": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54828448",
+                  "numeric-id": 54828448
+                }
+              },
+              "hash": "a0202111cb525ed31611bf926974b74a2419b8ab",
+              "property": "P5314",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54828449",
+                  "numeric-id": 54828449
+                }
+              },
+              "hash": "7f0b21bf6bef1987059626f383a532cf4375deb1",
+              "property": "P5314",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5314",
+          "P2316"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1114$e0f2b22d-4ced-1eb1-8899-24c3a8fbd12c",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21514353",
+              "numeric-id": 21514353
+            }
+          },
+          "hash": "80fd52d4f93d38380a09d0d046b9923974a06a5d",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2305": [
+            {
+              "datatype": "wikibase-item",
+              "hash": "9f444d3aec2f469398b5161a4702f58ab9d2bd39",
+              "property": "P2305",
+              "snaktype": "novalue"
+            }
+          ],
+          "P6607": [
+            {
+              "datatype": "monolingualtext",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "en",
+                  "text": "P1114 represents number of instances, which bears no unit of measurement. If you want to add units, probably it is misuse of P1114. Please consider using other properties, for example, P2670 (has part(s) of the class), P527 (has part(s)), and so on with P1114 as a qualifier."
+                }
+              },
+              "hash": "a0d43fc49599070ebdf53bb5766330f97a3bf4ca",
+              "property": "P6607",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "monolingualtext",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "be-tarask",
+                  "text": "P1114 азначае колькасьць існасьцяў, якія ня маюць адзінак вымярэньня. Калі вы хочаце дадаць адзінку, дык хутчэй за ўсё ня варта выкарыстоўваць P1114. Лепей скарыстайцеся іншымі ўласьцівасьцямі, напрыклад P2670, P527 ды іншымі з P1114 у якасьці кваліфікатара."
+                }
+              },
+              "hash": "ce861ac7bfeb95285a691bad847f97f80e04e8d5",
+              "property": "P6607",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "monolingualtext",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "zh",
+                  "text": "P1114 表示实例数量，它没有计量单位。如果您想添加单位，那可能是误用了 P1114。请考虑使用其他属性，例如 P2670（属于该类的部分）、P527（包含部分）等等，并将 P1114 作为限定符使用。"
+                }
+              },
+              "hash": "2b52092a9ae00082bbcbc24d659eba63fe04cc46",
+              "property": "P6607",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "monolingualtext",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "pl",
+                  "text": "P1114 oznacza całkowitą liczbę instancji, która nie ma jednostki. Jeśli chcesz dodać jednostkę, prawdopodobnie jest to nadużycie P1114. Rozważ użycie innych właściwości, na przykład P2670 (składa się z części należących do klasy), P527 (składa się z), itp. z P1114 jako kwalifikator."
+                }
+              },
+              "hash": "fa3a50084bdef2180a5a98fa795d79f8f0ff35e3",
+              "property": "P6607",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2305",
+          "P6607"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2668": [
+      {
+        "id": "P1114$f20199ee-4856-5543-30f7-f06fcfcfb001",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "hash": "7e7a5fb7cacaa023c49abb092aeee431a2ef7077",
+          "property": "P2668",
+          "snaktype": "somevalue"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2875": [
+      {
+        "id": "P1114$9f68f70a-4cf2-036b-75c2-0e0ab4e3f297",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21037774",
+              "numeric-id": 21037774
+            }
+          },
+          "hash": "a4452f99d0236c94e8429e12f538d3e0aecd49f1",
+          "property": "P2875",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P1114$788fbde6-49a9-3aae-67e5-76f140cee942",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52513243",
+              "numeric-id": 52513243
+            }
+          },
+          "hash": "61cc6e754fe593b0c92beb44c7d1fdffa6be59e5",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P1114$0f47f976-4244-8551-e211-0840bf04940c",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70564278",
+              "numeric-id": 70564278
+            }
+          },
+          "hash": "c103994718f91e423ff1be14e9db2121817a9a47",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P1114$026159AD-29A7-4CEB-9459-6C8F426FFB81",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/Archive/19#P1114"
+          },
+          "hash": "2f9546e3bc99582803fa0425056e7058098fc996",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "quantity",
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "عدد الحالات من هذا الموضوع"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "númberu d'instancies d'esti elementu"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "оҡшаш нисә объект бар"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "колькасьць элемэнтаў прадмету"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "broj primjeraka ovog objekta"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "quantitat d'elements"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "množství tohoto předmětu"
+    },
+    "da": {
+      "language": "da",
+      "value": "antal eksemplarer"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Binshɛli kalinli bee di galisim"
+    },
+    "de": {
+      "language": "de",
+      "value": "Zahl der Ausprägungen dieses Objektes"
+    },
+    "en": {
+      "language": "en",
+      "value": "number of instances of this subject in the universe of the subject (the actual number of instances in Wikidata may be lower or higher)"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "number of instances of this subject"
+    },
+    "es": {
+      "language": "es",
+      "value": "número de instancias de este objeto"
+    },
+    "et": {
+      "language": "et",
+      "value": "üksuste hulk"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "elementu kopurua"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "númiru d'istancias d'esti ojetu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "تعداد نمونه‌های موجود از شی مورد نظر"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "kohteiden määrä"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "nombre d'instances de cet objet"
+    },
+    "he": {
+      "language": "he",
+      "value": "מספר המקרים בהם קיים האובייקט"
+    },
+    "hsb": {
+      "language": "hsb",
+      "value": "mnóstwo tutoho objekta"
+    },
+    "it": {
+      "language": "it",
+      "value": "numero di istanze di questo oggetto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "この主題がある世界におけるこの主題のインスタンスの数（Wikidata中でのインスタンスの数はこれと同じとは限らない）"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "항목 주제 또는 이 서술의 개수"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Quantitéit als Zuel ausgedréckt"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "subjekta instanču skaits"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "bilangan tika bagi objek ini"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "antall forekomster av dette objektet"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "wo faken dat in de Welt is"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "aantal keer dat het object voorkomt"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "talet på førekomstar av dette objektet"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "nombre d'instancias d'aqueste objècte"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "liczba wystąpień tego obiektu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "número de instâncias existentes deste objeto"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "número de instâncias existentes deste objeto em um dado momento"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сколько существует подобных объектов или субъектов"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "nùmmiru d'esimplari di stu suggettu"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "število primerkov objekta"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "antal instanser för detta ämne"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "bu konunun birim olabilecek sayısı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "скільки існує подібних об'єктів"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "ushbu obyektning mavjud nusxalari soni (Vikimaʼlumotlardagi nusxalar soni bundan kamroq yoki ko‘proq bo‘lishi mumkin)"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "số lượng thực thể đối tượng"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "该主体在其所属宇宙/领域中的实例数量（注意：维基数据中实际录入的数量可能多于或少于此数值）"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "此对象的实体数量"
+    }
+  },
+  "id": "P1114",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "aantal"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "الكمية"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "cantidá"
+    },
+    "az": {
+      "language": "az",
+      "value": "obyektin sayı"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "һаны"
+    },
+    "be": {
+      "language": "be",
+      "value": "колькасць аб’ектаў"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "колькасьць"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "количество"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "পরিমাণ"
+    },
+    "br": {
+      "language": "br",
+      "value": "niver a ensav evit an objekt-mañ"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "količina"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "quantitat"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "počet"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "nifer"
+    },
+    "da": {
+      "language": "da",
+      "value": "antal"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Kalinli"
+    },
+    "de": {
+      "language": "de",
+      "value": "Anzahl"
+    },
+    "el": {
+      "language": "el",
+      "value": "ποσότητα"
+    },
+    "en": {
+      "language": "en",
+      "value": "quantity"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "quantity"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "quantity"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "kvanto"
+    },
+    "es": {
+      "language": "es",
+      "value": "cantidad"
+    },
+    "et": {
+      "language": "et",
+      "value": "hulk"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "kopurua"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "númiru"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "به تعدادِ"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "lukumäärä"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "quantité"
+    },
+    "frr": {
+      "language": "frr",
+      "value": "taal"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "oantal"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "líon"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "cantidade"
+    },
+    "he": {
+      "language": "he",
+      "value": "כמות"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "मात्रा"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "količina"
+    },
+    "hsb": {
+      "language": "hsb",
+      "value": "mnóstwo"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "példányok száma"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քանակ"
+    },
+    "id": {
+      "language": "id",
+      "value": "jumlah"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "nke ukwu"
+    },
+    "ilo": {
+      "language": "ilo",
+      "value": "bilang"
+    },
+    "is": {
+      "language": "is",
+      "value": "fjöldi"
+    },
+    "isv-cyrl": {
+      "language": "isv-cyrl",
+      "value": "коликост објектов"
+    },
+    "isv-latn": {
+      "language": "isv-latn",
+      "value": "kolikost objektov"
+    },
+    "it": {
+      "language": "it",
+      "value": "numero"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "数"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "რაოდენობა"
+    },
+    "kaa": {
+      "language": "kaa",
+      "value": "muǵdarı"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "tanecta"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "개수"
+    },
+    "ks": {
+      "language": "ks",
+      "value": "مؠقدار"
+    },
+    "la": {
+      "language": "la",
+      "value": "quantitas"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Stéckzuel"
+    },
+    "lld": {
+      "language": "lld",
+      "value": "numer"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "objektų skaičius"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "skaits"
+    },
+    "mai": {
+      "language": "mai",
+      "value": "मात्रा"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "количина"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "kuantiti"
+    },
+    "ms-arab": {
+      "language": "ms-arab",
+      "value": "کوانتيتي"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "antall"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Tall"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "aantal"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "mengd"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "quantitat"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "liczba obiektów"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "quantidade"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "quantidade"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "cantitate"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "число объектов"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "quantità"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "nummer o instances"
+    },
+    "se": {
+      "language": "se",
+      "value": "lohkomearri"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "količina"
+    },
+    "sjd": {
+      "language": "sjd",
+      "value": "объектэ числа"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "počet"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "količina"
+    },
+    "smn": {
+      "language": "smn",
+      "value": "lohomeeri"
+    },
+    "sms": {
+      "language": "sms",
+      "value": "lååkkmieʹrr"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "sasia"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "број инстанци"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "број инстанци"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "broj instanci"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "antal förekomster"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "kiasi"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "எண்ணிக்கை"
+    },
+    "te": {
+      "language": "te",
+      "value": "పరిమాణం"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "шумораи объектҳо"
+    },
+    "th": {
+      "language": "th",
+      "value": "ปริมาณ"
+    },
+    "tok": {
+      "language": "tok",
+      "value": "mute"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "miktarı"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "саны"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "кількість"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "تعداد"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "miqdor"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "cuantità"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "số lượng"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "数量"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "数量"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "数量"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "數量"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "數量"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "數量"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "数量"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "數量"
+    }
+  },
+  "lastrevid": 2527372285,
+  "modified": "2026-08-04T23:41:59Z",
+  "ns": 120,
+  "pageid": 17336255,
+  "title": "Property:P1114",
+  "type": "property"
+}

@@ -1,0 +1,129 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Archiv erreichbar unter URL"
+      },
+      {
+        "language": "de",
+        "value": "Archiv-URL"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "URL in archive"
+      },
+      {
+        "language": "en",
+        "value": "URL archived"
+      },
+      {
+        "language": "en",
+        "value": "web archive"
+      },
+      {
+        "language": "en",
+        "value": "wayback machine"
+      },
+      {
+        "language": "en",
+        "value": "archiveurl"
+      },
+      {
+        "language": "en",
+        "value": "web.archive.org"
+      },
+      {
+        "language": "en",
+        "value": "archived url"
+      },
+      {
+        "language": "en",
+        "value": "archive url"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P113$1DD054C7-B057-5A14-B928-5AC51E80B3FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P113$012F77E2-1A6F-5727-888E-7225F744AEFE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P1065"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P1065"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "url",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Internetadresse (URL) zu dem archivierten Inhalt"
+    },
+    "en": {
+      "language": "en",
+      "value": "URL to the archived web page specified with URL property"
+    }
+  },
+  "id": "P113",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "URL des Archivs"
+    },
+    "en": {
+      "language": "en",
+      "value": "archive URL"
+    }
+  },
+  "type": "property"
+}

@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Brian Lalor: The Irish Round Tower - Origins and Architecture Explored, The Collins Press 1999"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q234$ABF0F003-CE4E-5CF4-84EB-8E488A1BA558",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q142093467"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q142093467"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "book about Irish round towers"
+    }
+  },
+  "id": "Q234",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Brian Lalor: The Irish Round Tower (1999)"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

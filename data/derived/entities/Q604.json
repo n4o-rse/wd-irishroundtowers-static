@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rt. Rev. John Leslie"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q604$B64AFF67-373C-51FE-96C0-3C5AAC64361E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6244634"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q6244634"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Irish bishop"
+    }
+  },
+  "id": "Q604",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "John Leslie"
+    },
+    "en": {
+      "language": "en",
+      "value": "John Leslie"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

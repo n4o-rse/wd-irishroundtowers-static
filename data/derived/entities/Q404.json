@@ -1,0 +1,85 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Unitary Authority in Scotland"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "council area of Scotland"
+      },
+      {
+        "language": "en",
+        "value": "municipality in Scotland"
+      },
+      {
+        "language": "en",
+        "value": "Scottish council area"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q404$0C5D04A6-F0C6-55FA-A47E-47A710544CD1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15060255"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q15060255"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Verwaltungseinheit von Schottland (seit 1996)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Scotland top-level administrative subdivision (since 1996)"
+    }
+  },
+  "id": "Q404",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Council Area in Schottland"
+    },
+    "en": {
+      "language": "en",
+      "value": "council area"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

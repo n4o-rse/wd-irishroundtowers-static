@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Drumlane ecclesiastic enclosure"
+      },
+      {
+        "language": "en",
+        "value": "Drumlane monastic site"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q474$D1373B45-FD7E-56A2-A7D0-1FF23AC62BA3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q142093727"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q142093727"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "early Christian monastic site with round tower in Drumlane, County Cavan"
+    }
+  },
+  "id": "Q474",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Drumlane ecclesiastic site"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

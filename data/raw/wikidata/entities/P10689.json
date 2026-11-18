@@ -1,0 +1,3269 @@
+{
+  "aliases": {
+    "be-tarask": [
+      {
+        "language": "be-tarask",
+        "value": "аб’ект OpenStreetMap"
+      }
+    ],
+    "ca": [
+      {
+        "language": "ca",
+        "value": "Via OSM"
+      },
+      {
+        "language": "ca",
+        "value": "Via OpenStreetMap"
+      },
+      {
+        "language": "ca",
+        "value": "objecte via a OSM"
+      }
+    ],
+    "cs": [
+      {
+        "language": "cs",
+        "value": "cesta v OpenStreetMap"
+      },
+      {
+        "language": "cs",
+        "value": "OSM cesta"
+      }
+    ],
+    "da": [
+      {
+        "language": "da",
+        "value": "OpenStreetMap vej-ID"
+      }
+    ],
+    "de": [
+      {
+        "language": "de",
+        "value": "OpenStreetMap-Linien-ID"
+      },
+      {
+        "language": "de",
+        "value": "OSM-Linien-ID"
+      },
+      {
+        "language": "de",
+        "value": "OSM-Linienkennung"
+      },
+      {
+        "language": "de",
+        "value": "OpenStreetMap-Wegkennung"
+      },
+      {
+        "language": "de",
+        "value": "OpenStreetMap-Weg-ID"
+      },
+      {
+        "language": "de",
+        "value": "OSM-Wegkennung"
+      },
+      {
+        "language": "de",
+        "value": "OSM-Weg-ID"
+      }
+    ],
+    "el": [
+      {
+        "language": "el",
+        "value": "OSM γραμμή"
+      },
+      {
+        "language": "el",
+        "value": "γραμμή OpenStreetMap"
+      },
+      {
+        "language": "el",
+        "value": "ID γραμμής OpenStreetMap"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "OpenStreetMap way identifier"
+      },
+      {
+        "language": "en",
+        "value": "OSM way ID"
+      },
+      {
+        "language": "en",
+        "value": "OSM way identifier"
+      },
+      {
+        "language": "en",
+        "value": "OpenStreetMap line ID"
+      },
+      {
+        "language": "en",
+        "value": "OpenStreetMap line identifier"
+      },
+      {
+        "language": "en",
+        "value": "OSM line ID"
+      },
+      {
+        "language": "en",
+        "value": "OSM line identifier"
+      },
+      {
+        "language": "en",
+        "value": "OSM area ID"
+      },
+      {
+        "language": "en",
+        "value": "OpenStreetMap area ID"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "vía OSM"
+      },
+      {
+        "language": "es",
+        "value": "vía de OSM"
+      },
+      {
+        "language": "es",
+        "value": "vía OpenStreetMap"
+      }
+    ],
+    "fi": [
+      {
+        "language": "fi",
+        "value": "OpenStreetMap-viiva"
+      },
+      {
+        "language": "fi",
+        "value": "OSM-viiva"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "OSM chemin"
+      },
+      {
+        "language": "fr",
+        "value": "chemin OpenStreetMap"
+      },
+      {
+        "language": "fr",
+        "value": "chemin OSM"
+      },
+      {
+        "language": "fr",
+        "value": "id chemin OSM"
+      }
+    ],
+    "he": [
+      {
+        "language": "he",
+        "value": "דרך OSM"
+      },
+      {
+        "language": "he",
+        "value": "מזהה דרך OSM"
+      },
+      {
+        "language": "he",
+        "value": "מזהה דרך OpenStreetMap"
+      }
+    ],
+    "hu": [
+      {
+        "language": "hu",
+        "value": "OpenStreetMap-vonal-azonosító"
+      },
+      {
+        "language": "hu",
+        "value": "OpenStreetMap-vonalazonosító"
+      },
+      {
+        "language": "hu",
+        "value": "OpenStreetMap vonal"
+      }
+    ],
+    "id": [
+      {
+        "language": "id",
+        "value": "way OSM"
+      }
+    ],
+    "it": [
+      {
+        "language": "it",
+        "value": "via OpenStreetMap"
+      },
+      {
+        "language": "it",
+        "value": "via OSM"
+      },
+      {
+        "language": "it",
+        "value": "ID di una way OSM"
+      },
+      {
+        "language": "it",
+        "value": "ID di una way OpenStreetMap"
+      },
+      {
+        "language": "it",
+        "value": "identificativo OSM di un percorso"
+      },
+      {
+        "language": "it",
+        "value": "identificativo di un percorso OpenStreetMap"
+      },
+      {
+        "language": "it",
+        "value": "identificativo di un percorso OSM"
+      },
+      {
+        "language": "it",
+        "value": "ID di un percorso OpenStreetMap"
+      },
+      {
+        "language": "it",
+        "value": "ID di un percorso OSM"
+      },
+      {
+        "language": "it",
+        "value": "identificativo OpenStreetMap di una via"
+      },
+      {
+        "language": "it",
+        "value": "percorso OpenStreetMap"
+      }
+    ],
+    "ja": [
+      {
+        "language": "ja",
+        "value": "OSMウェイ"
+      },
+      {
+        "language": "ja",
+        "value": "オープンストリートマップのオブジェクト"
+      },
+      {
+        "language": "ja",
+        "value": "OpenStreetMapのウェイ識別子"
+      },
+      {
+        "language": "ja",
+        "value": "オープンストリートマップのウェイの要素"
+      }
+    ],
+    "lb": [
+      {
+        "language": "lb",
+        "value": "OSM-Wee-ID"
+      }
+    ],
+    "lv": [
+      {
+        "language": "lv",
+        "value": "OSM objekts"
+      },
+      {
+        "language": "lv",
+        "value": "OpenStreetMap objekts"
+      }
+    ],
+    "mul": [
+      {
+        "language": "mul",
+        "value": "/way/"
+      }
+    ],
+    "nl": [
+      {
+        "language": "nl",
+        "value": "OpenStreetMap-identificatiecode voor way"
+      },
+      {
+        "language": "nl",
+        "value": "OSM-identificatiecode voor weg"
+      }
+    ],
+    "pl": [
+      {
+        "language": "pl",
+        "value": "obiekt w OpenStreetMap"
+      },
+      {
+        "language": "pl",
+        "value": "obiekt z OpenStreetMap"
+      },
+      {
+        "language": "pl",
+        "value": "obiekt OSM"
+      }
+    ],
+    "pnb": [
+      {
+        "language": "pnb",
+        "value": "اوپن‌سٹریٹ‌میپ تے چیز"
+      },
+      {
+        "language": "pnb",
+        "value": "اوپن سٹریٹ میپ تے چیز"
+      },
+      {
+        "language": "pnb",
+        "value": "او ایس ایم تے چیز"
+      },
+      {
+        "language": "pnb",
+        "value": "او ایس ایم چیز"
+      }
+    ],
+    "pt": [
+      {
+        "language": "pt",
+        "value": "objecto no OpenStreetMap"
+      },
+      {
+        "language": "pt",
+        "value": "ID do \"way\" no OpenStreetMap"
+      },
+      {
+        "language": "pt",
+        "value": "ID de linha no OpenStreetMap"
+      },
+      {
+        "language": "pt",
+        "value": "ID de linha OSM"
+      },
+      {
+        "language": "pt",
+        "value": "linha do OpenStreetMap"
+      },
+      {
+        "language": "pt",
+        "value": "objeto caminho OpenStreetMap"
+      },
+      {
+        "language": "pt",
+        "value": "polígono do OpenStreetMap"
+      },
+      {
+        "language": "pt",
+        "value": "linha OSM"
+      },
+      {
+        "language": "pt",
+        "value": "polígono OSM"
+      },
+      {
+        "language": "pt",
+        "value": "caminho OSM"
+      }
+    ],
+    "pt-br": [
+      {
+        "language": "pt-br",
+        "value": "ID de linha no OpenStreetMap"
+      },
+      {
+        "language": "pt-br",
+        "value": "ID de linha OSM"
+      },
+      {
+        "language": "pt-br",
+        "value": "ID da \"way\" no OpenStreetMap"
+      },
+      {
+        "language": "pt-br",
+        "value": "linha do OpenStreetMap"
+      },
+      {
+        "language": "pt-br",
+        "value": "objeto caminho OpenStreetMap"
+      },
+      {
+        "language": "pt-br",
+        "value": "polígono do OpenStreetMap"
+      },
+      {
+        "language": "pt-br",
+        "value": "linha OSM"
+      },
+      {
+        "language": "pt-br",
+        "value": "polígono OSM"
+      },
+      {
+        "language": "pt-br",
+        "value": "caminho OSM"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "ID пути в OpenStreetMap"
+      },
+      {
+        "language": "ru",
+        "value": "код пути в OpenStreetMap"
+      },
+      {
+        "language": "ru",
+        "value": "OpenStreetMap (путь)"
+      },
+      {
+        "language": "ru",
+        "value": "идентификатор линии в OpenStreetMap"
+      },
+      {
+        "language": "ru",
+        "value": "идентификатор пути в OpenStreetMap"
+      },
+      {
+        "language": "ru",
+        "value": "ID линии в OSM"
+      },
+      {
+        "language": "ru",
+        "value": "Код линии в ОСМ"
+      },
+      {
+        "language": "ru",
+        "value": "Код пути в ОСМ"
+      },
+      {
+        "language": "ru",
+        "value": "ОСМ код линии"
+      },
+      {
+        "language": "ru",
+        "value": "ОСМ код пути"
+      },
+      {
+        "language": "ru",
+        "value": "ОСМ линия"
+      },
+      {
+        "language": "ru",
+        "value": "ОСМ путь"
+      },
+      {
+        "language": "ru",
+        "value": "OSM-линия"
+      }
+    ],
+    "sk": [
+      {
+        "language": "sk",
+        "value": "OSM-objekt"
+      }
+    ],
+    "sl": [
+      {
+        "language": "sl",
+        "value": "ID poti OpenStreetMap"
+      },
+      {
+        "language": "sl",
+        "value": "identifikator poti OpenStreetMap"
+      },
+      {
+        "language": "sl",
+        "value": "označevalec poti OpenStreetMap"
+      },
+      {
+        "language": "sl",
+        "value": "koda poti OpenStreetMap"
+      },
+      {
+        "language": "sl",
+        "value": "pot OSM"
+      },
+      {
+        "language": "sl",
+        "value": "oznaka poti OSM"
+      },
+      {
+        "language": "sl",
+        "value": "identifikator poti OSM"
+      },
+      {
+        "language": "sl",
+        "value": "označevalec poti OSM"
+      },
+      {
+        "language": "sl",
+        "value": "koda poti OSM"
+      }
+    ],
+    "sv": [
+      {
+        "language": "sv",
+        "value": "OSM way"
+      },
+      {
+        "language": "sv",
+        "value": "OSM linje"
+      }
+    ],
+    "th": [
+      {
+        "language": "th",
+        "value": "ทาง OSM"
+      },
+      {
+        "language": "th",
+        "value": "เส้น OSM"
+      }
+    ],
+    "tl": [
+      {
+        "language": "tl",
+        "value": "bagay sa OSM"
+      }
+    ],
+    "tr": [
+      {
+        "language": "tr",
+        "value": "OSM way"
+      },
+      {
+        "language": "tr",
+        "value": "OSM way ID"
+      },
+      {
+        "language": "tr",
+        "value": "OSM yol"
+      }
+    ],
+    "uk": [
+      {
+        "language": "uk",
+        "value": "об'єкт OpenStreetMap"
+      },
+      {
+        "language": "uk",
+        "value": "OSM-лінія"
+      }
+    ],
+    "vi": [
+      {
+        "language": "vi",
+        "value": "ID lối OpenStreetMap"
+      },
+      {
+        "language": "vi",
+        "value": "số lối OSM"
+      },
+      {
+        "language": "vi",
+        "value": "ID lối OSM"
+      }
+    ],
+    "yue": [
+      {
+        "language": "yue",
+        "value": "開放街圖路徑"
+      },
+      {
+        "language": "yue",
+        "value": "OpenStreetMap路徑"
+      }
+    ],
+    "zh": [
+      {
+        "language": "zh",
+        "value": "開放街圖路徑ID"
+      }
+    ],
+    "zh-cn": [
+      {
+        "language": "zh-cn",
+        "value": "OSM路径编号"
+      }
+    ],
+    "zh-hans": [
+      {
+        "language": "zh-hans",
+        "value": "OpenStreetMap路径ID"
+      },
+      {
+        "language": "zh-hans",
+        "value": "OSM路径ID"
+      },
+      {
+        "language": "zh-hans",
+        "value": "开放街图路径编号"
+      }
+    ],
+    "zh-hant": [
+      {
+        "language": "zh-hant",
+        "value": "開放街圖路徑ID"
+      },
+      {
+        "language": "zh-hant",
+        "value": "OpenStreetMap路徑ID"
+      },
+      {
+        "language": "zh-hant",
+        "value": "OSM路徑ID"
+      }
+    ],
+    "zh-tw": [
+      {
+        "language": "zh-tw",
+        "value": "開放街圖路徑識別碼"
+      },
+      {
+        "language": "zh-tw",
+        "value": "開放街圖路徑編號"
+      }
+    ]
+  },
+  "claims": {
+    "P10726": [
+      {
+        "id": "P10689$a84a5477-4c00-1348-57d7-d524eed0f79f",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136310529",
+              "numeric-id": 136310529
+            }
+          },
+          "hash": "920dc4abe7de84039ce9d77aa8935d0a85633224",
+          "property": "P10726",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P10787": [
+      {
+        "id": "P10689$9f4a98a3-41b8-4f97-0b51-7960a66cb1ad",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P1174"
+          },
+          "hash": "3dfc22f157643d602e11d9cda99adf0f86ca9021",
+          "property": "P10787",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1552": [
+      {
+        "id": "P10689$29D08B85-E5D9-4AD4-A41E-FDC769194F67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93868746",
+              "numeric-id": 93868746
+            }
+          },
+          "hash": "4f44439ebe5b7580f90858e65a576ce4d66c183e",
+          "property": "P1552",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1629": [
+      {
+        "id": "P10689$0DBFE424-9EB7-47A0-BCFC-14DBF37809F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136310529",
+              "numeric-id": 136310529
+            }
+          },
+          "hash": "1da45632a35c68783587aaef779259dcabd9164a",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1630": [
+      {
+        "id": "P10689$69E84EDF-53E9-4492-9844-C22C279EC1F9",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.openstreetmap.org/way/$1"
+          },
+          "hash": "f899ae85f5a428cb0d5455e39f40294f76d29f79",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q20923490",
+                  "numeric-id": 20923490
+                }
+              },
+              "hash": "c757ac6da9712097bc0871742564687f009a3f64",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P10689$63917357-FB9C-4432-A83A-FB7CDD0A4B43",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P402",
+              "numeric-id": 402
+            }
+          },
+          "hash": "d8dad60bc3ea0fcccda7cc6ab9b427b181d4260b",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$812827a9-484a-cc71-fec2-e4857bc51d5a",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P11693",
+              "numeric-id": 11693
+            }
+          },
+          "hash": "ca2bbc6092efe65f8ad1f5d72ba1d4748db704db",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$e31fb955-4e87-1971-cac6-eaceb342b06b",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P12966",
+              "numeric-id": 12966
+            }
+          },
+          "hash": "db1c8e07c3567dd5bd47473227aa713482d3031a",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$9e2d2d72-4e89-f5cf-6fbd-1ef76a765608",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P10046",
+              "numeric-id": 10046
+            }
+          },
+          "hash": "9f0487cad7d9b0aef8a358038cc3a92e79356582",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$0a46dd63-4818-8f99-429a-0a176f719fd3",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P13096",
+              "numeric-id": 13096
+            }
+          },
+          "hash": "9b784ddc8bbf74b0f0ddfcf23542de5480fbbcb2",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$e8f05568-4e5c-9de0-c209-1cb97420c6c7",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P3749",
+              "numeric-id": 3749
+            }
+          },
+          "hash": "d7710c77f7d908dce1a336a7495e7f5e18a0af0c",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$9aa899ed-43df-9d83-b851-f5a8b6243201",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P12487",
+              "numeric-id": 12487
+            }
+          },
+          "hash": "acfe02f5752bec0797d1402e0abcef7b60ebdf65",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$cf4874c6-4e38-56a2-7e71-43ebdb5be8e3",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P8988",
+              "numeric-id": 8988
+            }
+          },
+          "hash": "ace51a8bad71de26748304ab9a071080f94ac1df",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$1baffa90-4826-e098-5661-8f70d224dc94",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P4388",
+              "numeric-id": 4388
+            }
+          },
+          "hash": "a7613855ef1d33c66d5581ebd97b042004a083dc",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$300afd56-4f67-f0e3-b82c-ee40df0a12d0",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P1566",
+              "numeric-id": 1566
+            }
+          },
+          "hash": "8a5540b7772fc746ed77657381b19b712d66c0e4",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$adc00947-69e7-4452-99fa-f71e0ede999c",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P14692",
+              "numeric-id": 14692
+            }
+          },
+          "hash": "318ad97daaf724876163e6f32cf19bd1a78ea77d",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P10689$414A4C38-4F58-46F5-9AF4-B45EA4CB10CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18500432",
+              "numeric-id": 18500432
+            }
+          },
+          "hash": "e9d669d264bd5c6d08eda5e90e4b34028e37a7e3",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P10689": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "121590158"
+              },
+              "hash": "f0c692e29c3bf5e1b334e96d8448cb9b41bbb0c2",
+              "property": "P10689",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P10689"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$48A15303-44DE-44C9-AC65-B052DFD6A4DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9202",
+              "numeric-id": 9202
+            }
+          },
+          "hash": "f916f36b6233d4fa69ae002d83a955901fb7ee81",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P10689": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "32965412"
+              },
+              "hash": "285ce9de5b106ede284106ef6fd7ee3d8abc5dcc",
+              "property": "P10689",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P10689"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$5AC0E5F0-63B7-441B-9BBB-603740C48192",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12495",
+              "numeric-id": 12495
+            }
+          },
+          "hash": "f7e002bb00c2a23320140bf47371bedd219c1c0a",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P10689": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "446646206"
+              },
+              "hash": "8b1f95b0db42416c41e2fabcb62e55cbe0be7285",
+              "property": "P10689",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P10689"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$6d71a85d-465c-58eb-93d1-6e2f8e1d83f3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25414677",
+              "numeric-id": 25414677
+            }
+          },
+          "hash": "5c80b75835314edb63ca34bcfbd7b51d1fffd82c",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P10689": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "61129689"
+              },
+              "hash": "9cb57e5086a3985a6b2bcf50b7ae514addeff239",
+              "property": "P10689",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P10689"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P10689$1F91C738-CC1F-497F-BA69-35C62747D19D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2305": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q29934200",
+                  "numeric-id": 29934200
+                }
+              },
+              "hash": "76a83209b6ab9e5ea1a1dd8e2986281a5a0479d7",
+              "property": "P2305",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q59712033",
+                  "numeric-id": 59712033
+                }
+              },
+              "hash": "26655a7e573da17226d4244ec74f59387afbf26c",
+              "property": "P2305",
+              "snaktype": "value"
+            }
+          ],
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21502408",
+                  "numeric-id": 21502408
+                }
+              },
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2305",
+          "P2316"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$C646B26A-3710-4BA5-9B4C-3A93CE80DCF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21502408",
+                  "numeric-id": 21502408
+                }
+              },
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ],
+          "P5314": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54828448",
+                  "numeric-id": 54828448
+                }
+              },
+              "hash": "a0202111cb525ed31611bf926974b74a2419b8ab",
+              "property": "P5314",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54828449",
+                  "numeric-id": 54828449
+                }
+              },
+              "hash": "7f0b21bf6bef1987059626f383a532cf4375deb1",
+              "property": "P5314",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54828450",
+                  "numeric-id": 54828450
+                }
+              },
+              "hash": "9031ca220e943517fb8d671c4ad4f3f1a25b6a0b",
+              "property": "P5314",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5314",
+          "P2316"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$D5F12D34-00FF-488E-98B0-696C592A040F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1793": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "[1-9][0-9]{1,10}"
+              },
+              "hash": "8e8f1bb9e03740d5c99ca354dca5bd96a193df17",
+              "property": "P1793",
+              "snaktype": "value"
+            }
+          ],
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21502408",
+                  "numeric-id": 21502408
+                }
+              },
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1793",
+          "P2316"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$8D81145D-4030-44F8-A333-6EB438EFF4C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502410",
+              "numeric-id": 21502410
+            }
+          },
+          "hash": "21338c72d362b7921eb042484db5c6e29d245add",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$9648F05C-048D-49CD-B22E-2951D5C51176",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52060874",
+              "numeric-id": 52060874
+            }
+          },
+          "hash": "53d308536f097808b330155b19a3241548159443",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P4155": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P6375",
+                  "numeric-id": 6375
+                }
+              },
+              "hash": "52bf6af7a84fa38ee351e47fb4a3cef15b75aed3",
+              "property": "P4155",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P4155"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$DCDBD14A-9FE7-4EF6-A2CA-438A9964B95D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503250",
+              "numeric-id": 21503250
+            }
+          },
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2303": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q96081169",
+                  "numeric-id": 96081169
+                }
+              },
+              "hash": "8c73d6301f372e7900f167da45c64fc55798c0f8",
+              "property": "P2303",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q134599536",
+                  "numeric-id": 134599536
+                }
+              },
+              "hash": "2bd9a48af6341e5562662bdbe731d3658eb2927f",
+              "property": "P2303",
+              "snaktype": "value"
+            }
+          ],
+          "P2308": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q618123",
+                  "numeric-id": 618123
+                }
+              },
+              "hash": "2b08b5b85eff33575e56c6d684c30a310581090b",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q27096213",
+                  "numeric-id": 27096213
+                }
+              },
+              "hash": "e2c0d92e87697be44eebd39f7e3b8e99b768c83a",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q4830453",
+                  "numeric-id": 4830453
+                }
+              },
+              "hash": "2ee974a6ab388b41e458a86c1ff1704e36494d46",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q838948",
+                  "numeric-id": 838948
+                }
+              },
+              "hash": "ff4d9cc9c8e7e696fa908009fdb888b30e3a5312",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q56352703",
+                  "numeric-id": 56352703
+                }
+              },
+              "hash": "dd82c1626fb0065974efb8fd45c83d8ba3809a45",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q679206",
+                  "numeric-id": 679206
+                }
+              },
+              "hash": "0875d39defa3856c4264578f8a08bf380ef02e47",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q3914",
+                  "numeric-id": 3914
+                }
+              },
+              "hash": "41efb71bfbef352395c03f7063348628c810c476",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q783794",
+                  "numeric-id": 783794
+                }
+              },
+              "hash": "58597404e97640f3d023e9a4071f06d7f95d8fdb",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q43229",
+                  "numeric-id": 43229
+                }
+              },
+              "hash": "dbcd1925f127866d6f4f74d9a41b0778ceaa3d38",
+              "property": "P2308",
+              "snaktype": "value"
+            }
+          ],
+          "P2309": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q30208840",
+                  "numeric-id": 30208840
+                }
+              },
+              "hash": "8fb539b5b9fd607316a1edaf9f8fd42a67a51dd2",
+              "property": "P2309",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2309",
+          "P2308",
+          "P2303"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$b05f5126-41c4-a8d0-0ef4-421cbb9cef59",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502838",
+              "numeric-id": 21502838
+            }
+          },
+          "hash": "60d5b5bf5da8d7ec1e010402497e0015713c2bbf",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2241": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q99460987",
+                  "numeric-id": 99460987
+                }
+              },
+              "hash": "5a0ac634d171531f4188a5cf922a6030717cda35",
+              "property": "P2241",
+              "snaktype": "value"
+            }
+          ],
+          "P2303": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q461382",
+                  "numeric-id": 461382
+                }
+              },
+              "hash": "5dd4c3ece8cbb5a82d925952e1e4e82dea8ff2ad",
+              "property": "P2303",
+              "snaktype": "value"
+            }
+          ],
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P402",
+                  "numeric-id": 402
+                }
+              },
+              "hash": "cc3c6ac28a5b67eee647effd12e702864fb242c4",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ],
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q62026391",
+                  "numeric-id": 62026391
+                }
+              },
+              "hash": "0b5129f8885b62f5606bb8acf8d7c40022ac2f8e",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306",
+          "P2303",
+          "P2241",
+          "P2316"
+        ],
+        "rank": "deprecated",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$27e40420-47b9-9d9e-3381-960fc4283c3e",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1793": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "(?!relation).*"
+              },
+              "hash": "1d228bd389a18be7c80adfe19c4752acac347118",
+              "property": "P1793",
+              "snaktype": "value"
+            }
+          ],
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21502408",
+                  "numeric-id": 21502408
+                }
+              },
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ],
+          "P6607": [
+            {
+              "datatype": "monolingualtext",
+              "datavalue": {
+                "type": "monolingualtext",
+                "value": {
+                  "language": "en",
+                  "text": "Use “OpenStreetMap relation ID” (P402) instead."
+                }
+              },
+              "hash": "4c681e141e8fc7945e83cee1ecd2ad003b89d1ca",
+              "property": "P6607",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1793",
+          "P2316",
+          "P6607"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$7e4eda4c-465b-ab5e-33ce-567804c42399",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503247",
+              "numeric-id": 21503247
+            }
+          },
+          "hash": "fede01024807ea412f925e250a71651eda314b38",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2303": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q119253",
+                  "numeric-id": 119253
+                }
+              },
+              "hash": "eaaed85a08f0303aff7bf397f33ae26f3e58f7c0",
+              "property": "P2303",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q134599536",
+                  "numeric-id": 134599536
+                }
+              },
+              "hash": "2bd9a48af6341e5562662bdbe731d3658eb2927f",
+              "property": "P2303",
+              "snaktype": "value"
+            }
+          ],
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P131",
+                  "numeric-id": 131
+                }
+              },
+              "hash": "3ad86228fdc76b171ed772afea2a7e98405cb9ad",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306",
+          "P2303"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$81115ad2-4c77-3ad2-4019-6bc8a2540ac3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503247",
+              "numeric-id": 21503247
+            }
+          },
+          "hash": "fede01024807ea412f925e250a71651eda314b38",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2303": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q119253",
+                  "numeric-id": 119253
+                }
+              },
+              "hash": "eaaed85a08f0303aff7bf397f33ae26f3e58f7c0",
+              "property": "P2303",
+              "snaktype": "value"
+            }
+          ],
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P17",
+                  "numeric-id": 17
+                }
+              },
+              "hash": "3a4317718b867e82f0d1661aab306cbb64c65bdb",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306",
+          "P2303"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$6f9d057c-4e55-e251-355b-2faf394dc79e",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503247",
+              "numeric-id": 21503247
+            }
+          },
+          "hash": "fede01024807ea412f925e250a71651eda314b38",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P625",
+                  "numeric-id": 625
+                }
+              },
+              "hash": "e0ac0b33de3f5a96732365c25d02ead5ef58104c",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$f2c4e86b-463b-9558-4979-4c8e3ca1009d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503247",
+              "numeric-id": 21503247
+            }
+          },
+          "hash": "fede01024807ea412f925e250a71651eda314b38",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P31",
+                  "numeric-id": 31
+                }
+              },
+              "hash": "57e0c059ce6c4f38e5ffd260c63684eb7c6e0e87",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2429": [
+      {
+        "id": "P10689$049a3503-4120-aa7e-e259-1e32859acfb4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21873886",
+              "numeric-id": 21873886
+            }
+          },
+          "hash": "cda3cee2c1da801de81136a0a0c54f6dcba8bc25",
+          "property": "P2429",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2559": [
+      {
+        "id": "P10689$ecec7e18-45a9-761b-e5f4-28b23da836c4",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "If possible, use \"OpenStreetMap relation ID\" (P402)"
+            }
+          },
+          "hash": "ca004591f5ed014cf0c90e078b597eaae381ab3d",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$20191931-48e3-9d28-c736-613f65db1330",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "es",
+              "text": "Si es posible, use \"identificador de relación OpenStreetMap\"  (P402)"
+            }
+          },
+          "hash": "f0e66480e7f6ac3272170a5e20773a5eeddb3da4",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$5da97b2c-40ab-bf8a-63f3-b2ec7c67f515",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "fr",
+              "text": "Si possible, utilisez « identifiant OpenStreetMap d'une relation » (P402)"
+            }
+          },
+          "hash": "22693f5c8740ad47ed757d137eb23107a23ff03f",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$be0d7f22-45ec-5808-c554-4251c324599e",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "zh-tw",
+              "text": "如果可以的話，請使用「開放街圖關聯編號」（P402）​"
+            }
+          },
+          "hash": "6767f0a566ea691c9453bd0234e04759ac9ba80c",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$f3934441-494b-3381-609a-388602c3f8c7",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "pl",
+              "text": "Jeśli to możliwe, użyj właściwości „identyfikator relacji OpenStreetMap” (P402)"
+            }
+          },
+          "hash": "13adb9d43be8742a775c0ca854ddac67f646cc86",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$387df06b-4353-8b86-07b5-760d0e38644a",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "it",
+              "text": "Se possibile, usare \"identificativo relazione OpenStreetMap\" (P402)"
+            }
+          },
+          "hash": "a65d7935f8f5e078c4ed5c12197b6035a39802bd",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$387462e7-488e-7bb6-28a2-865e1b1d16d7",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "tl",
+              "text": "Kung maaari, gamitin ang \"ID ng kaugnayan sa OpenStreetMap\" (P402)"
+            }
+          },
+          "hash": "ab8c5280c5ee916ccab2e8efa892e7d5f66e6121",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$99916e6f-4e27-5813-3373-452ba0236dcb",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "ja",
+              "text": "可能であれば、オープンストリートマップリレーション識別子(P402)を使用してください"
+            }
+          },
+          "hash": "cf6330dfde0c77f77250cd4fb787f080248066a2",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$38e6aff6-4843-879d-8381-34226fa4e32c",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "zh-hans",
+              "text": "如果可行，使用“开放街图关系编号”（P402）"
+            }
+          },
+          "hash": "1f995be7e375417cf8029c354e990639de833c5c",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$75c435c4-473c-8efb-2384-e43d61ee0e77",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "nb",
+              "text": "Hvis mulig, bruk \"OSM relasjons-ID\" (P402) i stedet."
+            }
+          },
+          "hash": "bbbfd72ae165e74a9332504c77717e621ccf101b",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$bc7fff27-475d-5054-d7e2-9912d5c1ae5a",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "de",
+              "text": "Wenn möglich, \"OpenStreetMap relation ID\" (P402) benutzen."
+            }
+          },
+          "hash": "60efe5e828a05230733663ce9ffd7624509b8890",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2668": [
+      {
+        "id": "P10689$c0959ec6-4e38-09ce-aacb-a0c4b9002eaf",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24025284",
+              "numeric-id": 24025284
+            }
+          },
+          "hash": "4572c19310f5dffc3f60e540cd40fcf6ece10ef8",
+          "property": "P2668",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2875": [
+      {
+        "id": "P10689$5977e146-43df-039e-bb51-0b0e04d2f015",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131134164",
+              "numeric-id": 131134164
+            }
+          },
+          "hash": "ace1adab36813a2666c5df072c99320037897935",
+          "property": "P2875",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2910": [
+      {
+        "id": "P10689$80f26c2f-4896-1ce4-9077-4dade3ee1c83",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Openstreetmap logo.svg"
+          },
+          "hash": "087d9e29f89326249fac90db8d63b2ec8170aa1a",
+          "property": "P2910",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P10689$dc2e0ef1-4bf9-7ea1-099a-3d5211e67907",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19829908",
+              "numeric-id": 19829908
+            }
+          },
+          "hash": "569c6a016580db212243cac4f64c06bea46d1d37",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$82da1ae0-4d13-6a36-d568-f5607ea5bda7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24075706",
+              "numeric-id": 24075706
+            }
+          },
+          "hash": "bf13fde231320dda5f8d779d855050600db98b59",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$3b035229-403f-ffae-4b8a-d7f108440f11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62589320",
+              "numeric-id": 62589320
+            }
+          },
+          "hash": "d682723986560b4d9c497ccbd1ba947ea04a1675",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P10689$4AC7F2BC-7CF4-44EC-8807-5795B4AFB76E",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/OSM_object"
+          },
+          "hash": "6f34b6986846a5d86a62fcfe755741f976248af0",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3303": [
+      {
+        "id": "P10689$81feacc1-4935-fe54-98ca-76c640b8d373",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://mapcarta.com/W$1"
+          },
+          "hash": "75f64c1d3257a3c723d3dc5124cc34574c5a3184",
+          "property": "P3303",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q1860",
+                  "numeric-id": 1860
+                }
+              },
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4876": [
+      {
+        "id": "P10689$f762b4e6-46fa-f4be-0025-7cbfc274f653",
+        "mainsnak": {
+          "datatype": "quantity",
+          "datavalue": {
+            "type": "quantity",
+            "value": {
+              "amount": "+929887638",
+              "unit": "1"
+            }
+          },
+          "hash": "e5ed6ba50a6be0553ccd309f790f7ecdf398d64f",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 11,
+                  "time": "+2023-03-24T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "b4b00f4901c1a9abb4fb26f743d7d3eff676566e",
+              "property": "P585",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P585"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "9cf0fd4ab673ef92c3ee3960e242912860236774",
+            "snaks": {
+              "P813": [
+                {
+                  "datatype": "time",
+                  "datavalue": {
+                    "type": "time",
+                    "value": {
+                      "after": 0,
+                      "before": 0,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                      "precision": 11,
+                      "time": "+2023-03-24T00:00:00Z",
+                      "timezone": 0
+                    }
+                  },
+                  "hash": "3bacfb91ea4d7847478f9364afbb75ee52c38833",
+                  "property": "P813",
+                  "snaktype": "value"
+                }
+              ],
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.openstreetmap.org/stats/data_stats.html"
+                  },
+                  "hash": "85ffb5f9982c058897e8417d49761caa300c6cc1",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P813",
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P10689$0a148389-4b22-d447-9b8d-d70536903afc",
+        "mainsnak": {
+          "datatype": "quantity",
+          "datavalue": {
+            "type": "quantity",
+            "value": {
+              "amount": "+990784872",
+              "unit": "1"
+            }
+          },
+          "hash": "98fd0c8316a38050a5400a4e8647a9c9068106f5",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 11,
+                  "time": "+2024-01-03T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "d266594a724e895ad8fbe2679e627b492155bc71",
+              "property": "P585",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P585"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "ab7574651bd0637f7515ae3f3de23f861a4c3aaf",
+            "snaks": {
+              "P813": [
+                {
+                  "datatype": "time",
+                  "datavalue": {
+                    "type": "time",
+                    "value": {
+                      "after": 0,
+                      "before": 0,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                      "precision": 11,
+                      "time": "+2024-01-03T00:00:00Z",
+                      "timezone": 0
+                    }
+                  },
+                  "hash": "4f44c186850128a63abfc3da7da12a6645a56801",
+                  "property": "P813",
+                  "snaktype": "value"
+                }
+              ],
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.openstreetmap.org/stats/data_stats.html"
+                  },
+                  "hash": "85ffb5f9982c058897e8417d49761caa300c6cc1",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P813",
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P10689$c31c361f-44fc-e6b5-519f-8bcc0212b927",
+        "mainsnak": {
+          "datatype": "quantity",
+          "datavalue": {
+            "type": "quantity",
+            "value": {
+              "amount": "+1072658437",
+              "unit": "1"
+            }
+          },
+          "hash": "8a9a014af979d552cdf4f6b2a522462c75822fcb",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 11,
+                  "time": "+2024-12-25T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "9ed0d687576e26c6b06569eb92320ea9c81cbb35",
+              "property": "P585",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P585"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "91cd987161056afda927231e05164de84f11da5c",
+            "snaks": {
+              "P813": [
+                {
+                  "datatype": "time",
+                  "datavalue": {
+                    "type": "time",
+                    "value": {
+                      "after": 0,
+                      "before": 0,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                      "precision": 11,
+                      "time": "+2024-12-25T00:00:00Z",
+                      "timezone": 0
+                    }
+                  },
+                  "hash": "ae0af09f777786a8fbad8d7ba70b499fd7c347db",
+                  "property": "P813",
+                  "snaktype": "value"
+                }
+              ],
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.openstreetmap.org/stats/data_stats.html"
+                  },
+                  "hash": "85ffb5f9982c058897e8417d49761caa300c6cc1",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854",
+              "P813"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P10689$4666ed65-45f8-e865-75b5-0b2e25cfda02",
+        "mainsnak": {
+          "datatype": "quantity",
+          "datavalue": {
+            "type": "quantity",
+            "value": {
+              "amount": "+1131258526",
+              "unit": "1"
+            }
+          },
+          "hash": "61fb0b3dd9b096df887287f0623459dd7a8ff179",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 11,
+                  "time": "+2025-09-17T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "175d0a118d0139a4d2faee1df6696050cefbffb1",
+              "property": "P585",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P585"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "09204cd8f495ebba05a50b56514d5c37731499e0",
+            "snaks": {
+              "P1476": [
+                {
+                  "datatype": "monolingualtext",
+                  "datavalue": {
+                    "type": "monolingualtext",
+                    "value": {
+                      "language": "en",
+                      "text": "OpenStreetMap Statistics"
+                    }
+                  },
+                  "hash": "1b5214dc7062fde69a89c0e84443b25e57e40bf3",
+                  "property": "P1476",
+                  "snaktype": "value"
+                }
+              ],
+              "P813": [
+                {
+                  "datatype": "time",
+                  "datavalue": {
+                    "type": "time",
+                    "value": {
+                      "after": 0,
+                      "before": 0,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                      "precision": 11,
+                      "time": "+2025-09-17T00:00:00Z",
+                      "timezone": 0
+                    }
+                  },
+                  "hash": "e1639bd5863334a2a357253d185b68ef7e51ad2b",
+                  "property": "P813",
+                  "snaktype": "value"
+                }
+              ],
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.openstreetmap.org/stats/data_stats.html"
+                  },
+                  "hash": "85ffb5f9982c058897e8417d49761caa300c6cc1",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854",
+              "P1476",
+              "P813"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P10689$022511af-4ced-f190-615f-34cf7f981dc7",
+        "mainsnak": {
+          "datatype": "quantity",
+          "datavalue": {
+            "type": "quantity",
+            "value": {
+              "amount": "+1204984808",
+              "unit": "1"
+            }
+          },
+          "hash": "fcd832235d93d6f54a5d1df22c255f4408dea256",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P585": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                  "precision": 11,
+                  "time": "+2026-07-17T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "hash": "29342c9192f96c45006f5cf86b204fd3a03d28b2",
+              "property": "P585",
+              "snaktype": "value"
+            }
+          ],
+          "P7452": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q71533355",
+                  "numeric-id": 71533355
+                }
+              },
+              "hash": "4723a3e25f86a03c9c3c2ee4a442acda1100f53f",
+              "property": "P7452",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P585",
+          "P7452"
+        ],
+        "rank": "preferred",
+        "references": [
+          {
+            "hash": "49866d96d9fa1687cdf62c8a3c7a915e0bce4c55",
+            "snaks": {
+              "P1065": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://web.archive.org/web/20260717073356/https://planet.openstreetmap.org/statistics/data_stats.html"
+                  },
+                  "hash": "b1b895565ce9aebb4f7c28d5f8bcc91845be8526",
+                  "property": "P1065",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P1065"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P10689$fafb55b6-42c5-82be-e4c6-c442e9af4f91",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/(?:www\\.)?openstreetmap\\.org\\/way\\/(\\d+)"
+          },
+          "hash": "95f8d9bca519331f22de3070b283be7f1324b2bb",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P10999": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "^Way\\:\\s([^\\(]+)\\s\\(‪\\d+"
+              },
+              "hash": "8d849ff2b65d4e48024f76f32d566b01710c3ba0",
+              "property": "P10999",
+              "snaktype": "value"
+            }
+          ],
+          "P13337": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "www.openstreetmap.org"
+              },
+              "hash": "3ac2d0a15859e3411ba0333337952690ae698f3a",
+              "property": "P13337",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P10999",
+          "P13337"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$a3780413-4e74-3e3a-35ea-ea8faacb7500",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "^https:\\/\\/mapcarta\\.com\\/W(\\d+)"
+          },
+          "hash": "aabdbe88cd7ffb730c327f6121e334f0fc9ed511",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P10999": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "^([^-]+)\\s-\\s"
+              },
+              "hash": "3326d3851981d938b750565755212be417cc1417",
+              "property": "P10999",
+              "snaktype": "value"
+            }
+          ],
+          "P13337": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "mapcarta.com"
+              },
+              "hash": "9b768ee91fc3e0c0402d136a699024dc1796851f",
+              "property": "P13337",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P10999",
+          "P13337"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P10689$4d6d71a7-415d-1a27-ddad-a2899b8d34c0",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/(?:www\\.)?openstreetmap\\.org\\/edit\\?way=(\\d+)"
+          },
+          "hash": "123e4966d97cf3177bdfcbcf16ab5ea45aa3d9c8",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P13337": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "www.openstreetmap.org"
+              },
+              "hash": "3ac2d0a15859e3411ba0333337952690ae698f3a",
+              "property": "P13337",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P13337"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P10689$4c3dfb81-4bfc-2a8c-9d05-604c616a335d",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q936",
+              "numeric-id": 936
+            }
+          },
+          "hash": "6eff9c2be8a27a053c4b8ea85e6d6c4b459fc20b",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "نقطة أو طريق تمثل العنصر في خريطة الشارع المفتوحة"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "дарога ці вузел у OpenStreetMap для элемэнту"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "ID d'una via a OpenStreetMap"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "cesta odpovídající této položce v databázi OpenStreetMap"
+    },
+    "da": {
+      "language": "da",
+      "value": "ID for et OSM-objekt af typen “linjestreng” (\"way\")"
+    },
+    "de": {
+      "language": "de",
+      "value": "Weg in OpenStreetMap für den Eintrag, der im Allgemeinen auf Wikidata zurückverlinkt"
+    },
+    "el": {
+      "language": "el",
+      "value": "γραμμή στο OpenStreetMap για το αντικείμενο, το οποίο συνδέει πίσω στο Wikidata (με την αντίστοιχη ετικέτα). Εάν πρόκειται για σχέση, χρησιμοποιείστε το \"OpenStreetMap relation ID\" (P402)."
+    },
+    "en": {
+      "language": "en",
+      "value": "identifier for a way in OpenStreetMap"
+    },
+    "es": {
+      "language": "es",
+      "value": "identificador de una vía en OpenStreetMap"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "chemin dans OpenStreetMap d'un élément, avec généralement un lien vers Wikidata"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "vía ou nó en OpenStreetMap para o elemento, que xeralmente enlaza tamén a Wikidata"
+    },
+    "he": {
+      "language": "he",
+      "value": "מזהה לדרך ב-OpenStreetMap"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "az adott objektumot körülíró vonal (épület, tó, közigazgatási egység stb.) az openstreetmap.org oldalon"
+    },
+    "id": {
+      "language": "id",
+      "value": "way di OpenStreetMap untuk subjek butir"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo di un percorso su OpenStreetMap"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "地物についての、オープンストリートマップのウェイ（またはエリア）"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "오픈스트리트맵 지도에서, 선이나 면적(way) 으로된 단일 대상을 가리키는 식별자"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "vei i Open Street Map for dette objektet. med \"vei\" menes en eller flere sammenhengende linjer."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "de identificatiecode van de weg die deze plaats of dit object in OpenStreetMap voorstelt"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "linia w OpenStreetMap dla danego elementu, zazwyczaj linkujące z powrotem do Wikidanych"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "número identificador de um objeto do tipo linha no OpenStreetMap"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "número identificador de um objeto do tipo linha no OpenStreetMap"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "путь (линия) в OpenStreetMap для элемента, обычно ссылающийся на Викиданные"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "идентификатор за пут у OpenStreetMap"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "идентификатор за пут у OpenStreetMap"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "ID för en sträcka i OpenStreetMap"
+    },
+    "th": {
+      "language": "th",
+      "value": "รหัสระบุสำหรับทางใน OpenStreetMap"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "daan sa OpenStreetMap para sa isang bagay na karaniwang nag-uugnay pabalik sa Wikidata"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "OSM'de bir yolun tanımlayıcı numarası"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор-лінія (way) в проєкті OpenStreetMap для елемента"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "項目在開放街圖上的路徑編號（不必包含「way/」前綴，節點編號請改用P11693）"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "项目在开放街图上的路径编号（不必包含\"way/\"前缀，节点编号请改用P11693）"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "项目在开放街图上的路径编号（不必包含\"way/\"前缀，节点编号请改用P11693）"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "項目在開放街圖上的路徑編號（不必包含「way/」前綴，節點編號請改用P11693）"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "項目在開放街圖上的路徑編號（不必包含「way/」前綴，節點編號請改用P11693）"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "項目在開放街圖上的路徑編號（不必包含「way/」前綴，節點編號請改用P11693）"
+    }
+  },
+  "id": "P10689",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "مُعّرف طريق في خريطة الشارع المفتوحة (OSM)"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "дарога OpenStreetMap"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador OpenStreetMap de via"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "ID cesty v OpenStreetMap"
+    },
+    "da": {
+      "language": "da",
+      "value": "OpenStreetMap linjestreng-ID"
+    },
+    "de": {
+      "language": "de",
+      "value": "OpenStreetMap-Linienkennung"
+    },
+    "el": {
+      "language": "el",
+      "value": "αναγνωριστικό γραμμής OpenStreetMap"
+    },
+    "en": {
+      "language": "en",
+      "value": "OpenStreetMap way ID"
+    },
+    "es": {
+      "language": "es",
+      "value": "identificador de vía en OpenStreetMap"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شناسهٔ مسیر در اوپن‌استریت‌مپ"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "OpenStreetMap-viivatunniste"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant d'un chemin OpenStreetMap"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "obxecto en OpenStreetMap"
+    },
+    "he": {
+      "language": "he",
+      "value": "מזהה דרך ב-OpenStreetMap"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "OpenStreetMap-vonal azonosítója"
+    },
+    "id": {
+      "language": "id",
+      "value": "way OpenStreetMap"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo OpenStreetMap di un percorso"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "OpenStreetMapのウェイID"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "오픈스트리트맵 대상 ID"
+    },
+    "kw": {
+      "language": "kw",
+      "value": "ID linen OpenStreetMap"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "OpenStreetMap-Wee-ID"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "kods OpenStreetMap objektam"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "објект на OpenStreetMap"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "OSM-vei"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "OpenStreetMap-identificatiecode voor weg"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "OpenStreetMap-veg-ID"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "linia w OpenStreetMap"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "اوایس‌ایم نقشے تے چیز"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "identificador de linha no OpenStreetMap"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "identificador de linha no OpenStreetMap"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "ID de cale OpenStreetMap"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "ID линии в OpenStreetMap"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "OpenStreetMap-way ID"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "oznaka poti OpenStreetMap"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Опенстритмап објекат"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "OpenStreetMap way ID"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "OpenStreetMap sträck-ID"
+    },
+    "th": {
+      "language": "th",
+      "value": "รหัสระบุทาง OpenStreetMap"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "daan sa OpenStreetMap"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "OpenStreetMap yol tanımlayıcı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "лінія OpenStreetMap"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "số lối OpenStreetMap"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "開放街圖路徑編號"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "開放街圖路徑編號"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "开放街图路径编号"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "开放街图路径编号"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "開放街圖路徑編號"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "開放街圖路徑編號"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "開放街圖路徑識別碼"
+    }
+  },
+  "lastrevid": 2570384310,
+  "modified": "2026-11-16T14:33:22Z",
+  "ns": 120,
+  "pageid": 106642776,
+  "title": "Property:P10689",
+  "type": "property"
+}

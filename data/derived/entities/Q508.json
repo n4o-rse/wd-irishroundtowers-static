@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Diocese of Ossory"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q508$BA5902F6-1400-5595-A22F-3467A59ED457",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q873607"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q873607"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römisch-katholisches Bistum in Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "diocese of the Roman Catholic Church in Ireland"
+    }
+  },
+  "id": "Q508",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Bistum Ossory"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman Catholic Diocese of Ossory"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "S.K. Kirker: Armoy Round Tower, Co. Antrim, in: JRSAI 1899 (2), 121-125"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q441$E8409370-CF00-5053-8EE2-49E1FBE43E92",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q142082254"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q142082254"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "article by S. K. Kirker about the round tower at Armoy"
+    }
+  },
+  "id": "Q441",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Armoy Round Tower, Co. Antrim (1899)"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

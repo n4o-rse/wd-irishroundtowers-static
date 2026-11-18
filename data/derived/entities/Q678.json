@@ -1,0 +1,51 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q678$0BBC7FFA-8F57-5F2C-BD8C-675F6CEAF1F3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q126474972"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q126474972"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q678",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Letters containing information relative to the antiquities of the county of Kilkenny collected during the progress of the Ordnance Survey in 1839"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

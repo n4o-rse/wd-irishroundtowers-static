@@ -1,0 +1,125 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Triangulationspunkt"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "triangulation pillar"
+      },
+      {
+        "language": "en",
+        "value": "trigonometrical station"
+      },
+      {
+        "language": "en",
+        "value": "trigonometrical point"
+      },
+      {
+        "language": "en",
+        "value": "trig station"
+      },
+      {
+        "language": "en",
+        "value": "trig beacon"
+      },
+      {
+        "language": "en",
+        "value": "trig point"
+      },
+      {
+        "language": "en",
+        "value": "trig"
+      },
+      {
+        "language": "en",
+        "value": "geodesic basis"
+      },
+      {
+        "language": "en",
+        "value": "trig pillar"
+      },
+      {
+        "language": "en",
+        "value": "survey point"
+      },
+      {
+        "language": "en",
+        "value": "triangulation point"
+      },
+      {
+        "language": "en",
+        "value": "triangulation marker"
+      },
+      {
+        "language": "en",
+        "value": "trigonometrical marker"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q275$2D288B9A-28B8-547C-BB67-8883003CA513",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q131862"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q131862"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Beobachtungspunkt der Landesvermessung bzw. eines größeren Dreiecksnetzes"
+    },
+    "en": {
+      "language": "en",
+      "value": "fixed surveying station used in geodetic surveying"
+    }
+  },
+  "id": "Q275",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Trigonometrischer Punkt"
+    },
+    "en": {
+      "language": "en",
+      "value": "triangulation station"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

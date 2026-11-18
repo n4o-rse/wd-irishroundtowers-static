@@ -1,0 +1,87 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "civil parishes in Scotland"
+      },
+      {
+        "language": "en",
+        "value": "civil parish in Scotland"
+      },
+      {
+        "language": "en",
+        "value": "Scottish parish"
+      },
+      {
+        "language": "en",
+        "value": "'quoad civilia' parish"
+      },
+      {
+        "language": "en",
+        "value": "Scottish civil parish"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q406$8C90B406-14B3-5E2E-A5DD-BD5FE4EE2AC3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5124673"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q5124673"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "ehemalige Verwaltungseinheit von Schottland"
+    },
+    "en": {
+      "language": "en",
+      "value": "civil administrative division of Scotland, below the level of local authority"
+    }
+  },
+  "id": "Q406",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Civil Parish in Schottland"
+    },
+    "en": {
+      "language": "en",
+      "value": "civil parish"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

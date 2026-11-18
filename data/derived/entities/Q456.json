@@ -1,0 +1,64 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q456$A10CE8B1-7F5A-5B3C-995E-D9C28BA8FCA2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2320435"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2320435"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Kirchengebäude in Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "church building in County Dublin, Ireland"
+    }
+  },
+  "id": "Q456",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "St. Macuilin (Lusk)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lusk Church"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

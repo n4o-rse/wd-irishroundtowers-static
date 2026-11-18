@@ -1,0 +1,121 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "✝"
+      },
+      {
+        "language": "de",
+        "value": "✟"
+      },
+      {
+        "language": "de",
+        "value": "✞"
+      },
+      {
+        "language": "de",
+        "value": "Christliches Kreuz"
+      },
+      {
+        "language": "de",
+        "value": "Christuskreuz"
+      },
+      {
+        "language": "de",
+        "value": "Kreuz Christi"
+      },
+      {
+        "language": "de",
+        "value": "kreuz (Christentum)"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "✝"
+      },
+      {
+        "language": "en",
+        "value": "cross"
+      },
+      {
+        "language": "en",
+        "value": "the cross"
+      },
+      {
+        "language": "en",
+        "value": "crucifix"
+      },
+      {
+        "language": "en",
+        "value": "Christian crucifix"
+      },
+      {
+        "language": "en",
+        "value": "crosses"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q423$996EA573-5DB6-5AE9-ABFE-2AECD274704A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q392371"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q392371"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Hauptsinnzeichen des Christentums"
+    },
+    "en": {
+      "language": "en",
+      "value": "symbol of Christianity"
+    }
+  },
+  "id": "Q423",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Kreuz"
+    },
+    "en": {
+      "language": "en",
+      "value": "Christian cross"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

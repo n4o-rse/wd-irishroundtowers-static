@@ -1,0 +1,153 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Brände"
+      },
+      {
+        "language": "de",
+        "value": "Schadensfeuer"
+      },
+      {
+        "language": "de",
+        "value": "Wohnhausbrand"
+      },
+      {
+        "language": "de",
+        "value": "Großfeuer"
+      },
+      {
+        "language": "de",
+        "value": "Mittelbrand"
+      },
+      {
+        "language": "de",
+        "value": "Feuergefahr"
+      },
+      {
+        "language": "de",
+        "value": "Brandkatastrophe"
+      },
+      {
+        "language": "de",
+        "value": "Brandfall"
+      },
+      {
+        "language": "de",
+        "value": "Brandbedingungen"
+      },
+      {
+        "language": "de",
+        "value": "Schadfeuer"
+      },
+      {
+        "language": "de",
+        "value": "Feuersbrunst"
+      },
+      {
+        "language": "de",
+        "value": "Großbrand"
+      },
+      {
+        "language": "de",
+        "value": "Schadbrand"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "blaze"
+      },
+      {
+        "language": "en",
+        "value": "fire"
+      },
+      {
+        "language": "en",
+        "value": "large fire"
+      },
+      {
+        "language": "en",
+        "value": "great fire"
+      },
+      {
+        "language": "en",
+        "value": "firestorm"
+      },
+      {
+        "language": "en",
+        "value": "fire disaster"
+      },
+      {
+        "language": "en",
+        "value": "major fire"
+      },
+      {
+        "language": "en",
+        "value": "damaged fire"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q284$6B0179E6-74A0-592B-A28A-D5AAFCEFF9B1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q168983"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q168983"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Großbrand oder Schadbrand"
+    },
+    "en": {
+      "language": "en",
+      "value": "large and destructive fire that threatens human life, animal life, health, and/or property"
+    }
+  },
+  "id": "Q284",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Brand"
+    },
+    "en": {
+      "language": "en",
+      "value": "conflagration"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

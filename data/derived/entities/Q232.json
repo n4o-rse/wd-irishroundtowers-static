@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "HEV"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q232$3A4952BE-DF56-56B3-8439-1B2A080325C7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q120966194"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q120966194"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "the map / search facility that provides access to the records of the National Monuments Service \"Sites and Monuments Record\" (SMR) and the National Inventory of Architectural Heritage"
+    }
+  },
+  "id": "Q232",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Historic Environment Viewer (Ireland)"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

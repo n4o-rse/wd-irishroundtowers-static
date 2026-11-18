@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Collections relating to the Dioceses of Kildare and Leighlin III"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q259$F508FE75-0AF7-56C1-8306-128D298B2473",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q138209180"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q138209180"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "volume III of the history of the dioceses of Kildare and Leighlin written by Rev. M. Comerford"
+    }
+  },
+  "id": "Q259",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "M. Comerford: Collections relating to the Dioceses of Kildare and Leighlin. Volume 3. Dublin: James Duffy and Sons, 1886."
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

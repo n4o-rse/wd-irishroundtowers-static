@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aghagower"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q383$8885919A-2255-592F-86B8-6509D7B120BC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2252222"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2252222"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Siedlung in Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "village in County Mayo, Ireland"
+    }
+  },
+  "id": "Q383",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Aughagower"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,81 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Carraig Fhearghais"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Carrick"
+      },
+      {
+        "language": "en",
+        "value": "Carrickfergus, County Antrim"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q674$22000271-EDD4-574B-867A-448B90613036",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1020354"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q1020354"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Kleinstadt im Vereinigten Königreich"
+    },
+    "en": {
+      "language": "en",
+      "value": "town in County Antrim, Northern Ireland"
+    }
+  },
+  "id": "Q674",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Carrickfergus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Carrickfergus"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

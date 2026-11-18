@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "round"
+      },
+      {
+        "language": "en",
+        "value": "enclosure (archaeology)"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q390$D94498C8-CAB0-59BC-A05D-4E9624119922",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5375483"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q5375483"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "archaeological term for an area of land separated from the surrounding land by earthworks, walls or fencing"
+    }
+  },
+  "id": "Q390",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "enclosure"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

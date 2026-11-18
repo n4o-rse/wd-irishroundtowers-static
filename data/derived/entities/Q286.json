@@ -1,0 +1,79 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "fixing"
+      },
+      {
+        "language": "en",
+        "value": "fix"
+      },
+      {
+        "language": "en",
+        "value": "repairing"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q286$FA0F1F18-6B10-525F-8A2B-EC343AD6D7DC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2144962"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2144962"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Vorgang, bei dem ein defektes Objekt in den ursprünglichen, funktionsfähigen Zustand zurückversetzt wird"
+    },
+    "en": {
+      "language": "en",
+      "value": "activity to fix any broken or inoperable equipment"
+    }
+  },
+  "id": "Q286",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Reparatur"
+    },
+    "en": {
+      "language": "en",
+      "value": "repair"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

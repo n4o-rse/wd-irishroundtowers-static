@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "History of the Queen's County I"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q262$7779BFD2-5AAA-503E-8804-3E0C85C5AB79",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q141613785"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q141613785"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "reprint by John Hewitt of the original History of the Queen's County (i.e. County Laois)"
+    }
+  },
+  "id": "Q262",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "John O'Hanlon, Edward O'Leary: History of the Queen's County, vol. I, 1981"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

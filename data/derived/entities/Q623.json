@@ -1,0 +1,64 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q623$267EA70C-5A3A-5717-A388-E80FDC3B8232",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q511839"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q511839"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römisch-katolische Diözese in Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman-Catholic diocese in Ireland"
+    }
+  },
+  "id": "Q623",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Daimlaig"
+    },
+    "en": {
+      "language": "en",
+      "value": "Diocese of Duleek"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

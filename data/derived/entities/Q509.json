@@ -1,0 +1,56 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q509$65BE3C36-EEF1-5B5E-8ED4-BC6321B7F4E5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q142143185"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q142143185"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Wikimedia category for interior photographs or media of the round tower at St Canice's Cathedral in Kilkenny"
+    }
+  },
+  "id": "Q509",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kilkenny Round Tower (interior)"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

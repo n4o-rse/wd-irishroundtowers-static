@@ -1,0 +1,125 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Flüchten"
+      },
+      {
+        "language": "de",
+        "value": "Fliehen"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "getaway"
+      },
+      {
+        "language": "en",
+        "value": "running away"
+      },
+      {
+        "language": "en",
+        "value": "escape"
+      },
+      {
+        "language": "en",
+        "value": "fleeing"
+      },
+      {
+        "language": "en",
+        "value": "retreat"
+      },
+      {
+        "language": "en",
+        "value": "bolting"
+      },
+      {
+        "language": "en",
+        "value": "bugging out"
+      },
+      {
+        "language": "en",
+        "value": "bug out"
+      },
+      {
+        "language": "en",
+        "value": "turning tail"
+      },
+      {
+        "language": "en",
+        "value": "run away"
+      },
+      {
+        "language": "en",
+        "value": "trying to escape"
+      },
+      {
+        "language": "en",
+        "value": "flee"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q428$7D7EAEA7-85FC-5DBC-B3AF-D867AA9880ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1430466"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q1430466"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Reaktion auf Gefahren, Bedrohungen oder als unzumutbar empfundene Situationen"
+    },
+    "en": {
+      "language": "en",
+      "value": "response to distress by fleeing"
+    }
+  },
+  "id": "Q428",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Flucht"
+    },
+    "en": {
+      "language": "en",
+      "value": "flight"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

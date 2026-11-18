@@ -1,0 +1,185 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "signifikante Person"
+      },
+      {
+        "language": "de",
+        "value": "wichtige Person"
+      },
+      {
+        "language": "de",
+        "value": "maßgebliche Person"
+      },
+      {
+        "language": "de",
+        "value": "bedeutsame Person"
+      },
+      {
+        "language": "de",
+        "value": "Schlüsselperson"
+      },
+      {
+        "language": "de",
+        "value": "bedeutende Person"
+      },
+      {
+        "language": "de",
+        "value": "zentrale Person"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "notable person"
+      },
+      {
+        "language": "en",
+        "value": "friend"
+      },
+      {
+        "language": "en",
+        "value": "friends"
+      },
+      {
+        "language": "en",
+        "value": "person associated with the subject"
+      },
+      {
+        "language": "en",
+        "value": "associated person"
+      },
+      {
+        "language": "en",
+        "value": "key person"
+      },
+      {
+        "language": "en",
+        "value": "key people"
+      },
+      {
+        "language": "en",
+        "value": "significant people"
+      },
+      {
+        "language": "en",
+        "value": "associated people"
+      },
+      {
+        "language": "en",
+        "value": "sign. person"
+      },
+      {
+        "language": "en",
+        "value": "notable people"
+      },
+      {
+        "language": "en",
+        "value": "relevant person"
+      },
+      {
+        "language": "en",
+        "value": "relevant people"
+      },
+      {
+        "language": "en",
+        "value": "important person"
+      },
+      {
+        "language": "en",
+        "value": "important people"
+      },
+      {
+        "language": "en",
+        "value": "employee"
+      },
+      {
+        "language": "en",
+        "value": "sigper"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P162$5F31EAC2-9BD6-55C2-BDBD-DC9FDBC7722C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P162$ECE45E49-9C6C-5DB1-A38C-ED58DBA2ECA5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P3342"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P3342"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Person, die für das Datenobjekt von Bedeutung ist"
+    },
+    "en": {
+      "language": "en",
+      "value": "person linked to the item in any possible way"
+    }
+  },
+  "id": "P162",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "relevante Person"
+    },
+    "en": {
+      "language": "en",
+      "value": "significant person"
+    }
+  },
+  "type": "property"
+}

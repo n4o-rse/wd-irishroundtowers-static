@@ -1,0 +1,60 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q532$910AA119-F968-5B4C-96B8-B8A84675E433",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q24196490"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q24196490"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Kirchenruine in Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "church ruin at a former monastic site in County Laois, Ireland"
+    }
+  },
+  "id": "Q532",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Killeshin Church"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

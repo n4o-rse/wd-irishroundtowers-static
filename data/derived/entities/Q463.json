@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thomas Johnson Westropp: A Description of the Ancient Buildings and Crosses at Clonmacnois, King's County, in: JRSAI 1907 (3), 277-306"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q463$97CC07E8-6E7A-5BF2-BF6C-38723E4D9974",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q142082344"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q142082344"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1907 article by Westropp about the monuments at Clonmacnois monastic site"
+    }
+  },
+  "id": "Q463",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "A Description of the Ancient Buildings and Crosses at Clonmacnois, King's County (1907)"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

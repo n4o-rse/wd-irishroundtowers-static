@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "2nd edition OS map of Ireland"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q224$940024CA-855B-52C2-88EE-3396A4499587",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q129530067"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q129530067"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "map of Ireland created between 1888 and 1915"
+    }
+  },
+  "id": "Q224",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "2nd edition Ordnance Survey map of Ireland"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

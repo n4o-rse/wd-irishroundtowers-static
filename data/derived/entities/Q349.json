@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Very Rev. Canon Moore: Parochial Papers"
+      },
+      {
+        "language": "en",
+        "value": "Canon Moore: Parochial Papers"
+      },
+      {
+        "language": "en",
+        "value": "Parochial Papers"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q349$3340A442-BCF5-5173-8C69-02ECB40F8E3E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q133263165"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q133263165"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "article about ecclesiastical sites and holy wells in the Diocese of Ossory"
+    }
+  },
+  "id": "Q349",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Very Rev. Canon Moore: Parochial Papers, in: Transactions of the Ossory Archaeological Society, vol. I, 1874, pp. 23-40"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,64 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q552$AB3C7490-8F13-5DF8-8623-E985D423A5F3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1228635"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q1228635"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "frühchristiliche Stätte in Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "Medieval hermitage in County Limerick, Ireland"
+    }
+  },
+  "id": "Q552",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Disert Oenghusa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dysert Aenghusa"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

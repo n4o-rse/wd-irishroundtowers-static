@@ -1,0 +1,1174 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "المساحة في الشبكة الوطنية"
+      }
+    ],
+    "be-tarask": [
+      {
+        "language": "be-tarask",
+        "value": "код OS"
+      }
+    ],
+    "cs": [
+      {
+        "language": "cs",
+        "value": "Ordnance Survey National Grid"
+      },
+      {
+        "language": "cs",
+        "value": "Ordnance Survey grid reference"
+      }
+    ],
+    "cy": [
+      {
+        "language": "cy",
+        "value": "cyfeiriadau grid yr  Arolwg Ordnans"
+      },
+      {
+        "language": "cy",
+        "value": "cod grid OS"
+      },
+      {
+        "language": "cy",
+        "value": "NGR"
+      },
+      {
+        "language": "cy",
+        "value": "dynodiad grid yr OS"
+      }
+    ],
+    "de": [
+      {
+        "language": "de",
+        "value": "OS"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "grid reference"
+      },
+      {
+        "language": "en",
+        "value": "British National Grid"
+      },
+      {
+        "language": "en",
+        "value": "NGR"
+      },
+      {
+        "language": "en",
+        "value": "OSGR"
+      }
+    ],
+    "en-gb": [
+      {
+        "language": "en-gb",
+        "value": "grid reference"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "identifiant OS"
+      },
+      {
+        "language": "fr",
+        "value": "identifiant Ordnance Survey"
+      },
+      {
+        "language": "fr",
+        "value": "Ordnance Survey"
+      },
+      {
+        "language": "fr",
+        "value": "OS"
+      }
+    ],
+    "mk": [
+      {
+        "language": "mk",
+        "value": "британски координатен упатник"
+      }
+    ],
+    "ms": [
+      {
+        "language": "ms",
+        "value": "rujukan grid Ukur Ordnans"
+      }
+    ],
+    "tr": [
+      {
+        "language": "tr",
+        "value": "OS ızgara referansı"
+      },
+      {
+        "language": "tr",
+        "value": "ızgara referansı"
+      },
+      {
+        "language": "tr",
+        "value": "British National Grid"
+      },
+      {
+        "language": "tr",
+        "value": "NGR"
+      },
+      {
+        "language": "tr",
+        "value": "OSGR"
+      },
+      {
+        "language": "tr",
+        "value": "Ordnance Survey"
+      }
+    ],
+    "uk": [
+      {
+        "language": "uk",
+        "value": "код OS"
+      }
+    ]
+  },
+  "claims": {
+    "P1629": [
+      {
+        "id": "P613$266b83d5-4519-e4fb-db1e-f73b0fe9d616",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1967305",
+              "numeric-id": 1967305
+            }
+          },
+          "hash": "26f3c6941a7a8cd70be70c0d97e4368e5782fbd1",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1630": [
+      {
+        "id": "P613$48beb407-47b4-9462-3494-ba2cc7abbb42",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "http://nearby.org.uk/coord.cgi?p=$1"
+          },
+          "hash": "876912c941731a6a9fcc2c49f68764ccd5a1682d",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q7979",
+                  "numeric-id": 7979
+                }
+              },
+              "hash": "ecb14e7298eb67ce3d6034bbead24701f1841a2e",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "rank": "preferred",
+        "type": "statement"
+      },
+      {
+        "id": "P613$d2ec0a47-4b3f-5bd3-ae07-1ac03c9aa202",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://os.toolforge.org/coor_g/?params=$1_region%3AGB_scale%3A25000"
+          },
+          "hash": "591c1b34a6041799c41aafe3a5fa48e4dc2d0cea",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "deprecated",
+        "type": "statement"
+      },
+      {
+        "id": "P613$a33ae591-45ba-74ae-6450-64508718029c",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://gridreferencefinder.com/#gr=$1"
+          },
+          "hash": "a26c74d87d739f5a1e267f346e95d71eb11c6d39",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P407": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q1860",
+                  "numeric-id": 1860
+                }
+              },
+              "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+              "property": "P407",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P407"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P613$09c00da9-4acd-d5db-2ecb-c56fa3503536",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.geograph.org.uk/gridref/$1"
+          },
+          "hash": "c64b51395c4ee40b0c57f8edaa964e59656e1aef",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P613$f5a42d61-441d-6cdd-aa48-7cfceeb9f6ef",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P4091",
+              "numeric-id": 4091
+            }
+          },
+          "hash": "777be3e6c62bb8b6f40fe256e0ecc8b0a576da79",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P17": [
+      {
+        "id": "P613$e1b99549-4597-2434-def5-d53bfeb0ca49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q145",
+              "numeric-id": 145
+            }
+          },
+          "hash": "a44880420787fb348836dc51d3babc5227c4ef7e",
+          "property": "P17",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1793": [
+      {
+        "id": "P613$657bce19-4eec-f836-70d1-080d46965cdd",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "[A-Z]{2}\\s?[0-9]{1,5}\\s?[0-9]{1,5}"
+          },
+          "hash": "605f1d88d0e7aeb341348abe353c42d16ee1b053",
+          "property": "P1793",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P613$02022061-7B90-487C-86E6-D0604600A8B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q639208",
+              "numeric-id": 639208
+            }
+          },
+          "hash": "386744451f2a40c698a4fda683e8d0744e4998c9",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P613": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "TQ7855025649"
+              },
+              "hash": "51fb9a32b13bf4de2375299f8b3d4378e94d0ca5",
+              "property": "P613",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P613"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P613$1291c10a-46cd-9bac-9806-a60f820a3aa3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17529165",
+              "numeric-id": 17529165
+            }
+          },
+          "hash": "8999103fc88cad39b3fa073bf7698953e5eacbb3",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P613": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "SU3810294427"
+              },
+              "hash": "be900580eb5bc81ba1e52f35ca48c3ee47065c34",
+              "property": "P613",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P613"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P613$242B7ACA-DDCA-45F9-AA20-3E294DE418BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P1793": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "[A-Z]{2}\\s?[0-9]{1,5}\\s?[0-9]{1,5}"
+              },
+              "hash": "605f1d88d0e7aeb341348abe353c42d16ee1b053",
+              "property": "P1793",
+              "snaktype": "value"
+            }
+          ],
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21502408",
+                  "numeric-id": 21502408
+                }
+              },
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P1793",
+          "P2316"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P613$A1AE8C0F-B6FD-419C-B39B-0A0A75230765",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52060874",
+              "numeric-id": 52060874
+            }
+          },
+          "hash": "53d308536f097808b330155b19a3241548159443",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2303": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q25726897",
+                  "numeric-id": 25726897
+                }
+              },
+              "hash": "ae79dead908bd4f0cf4b8cf3f9fedb282895d2ac",
+              "property": "P2303",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q26111106",
+                  "numeric-id": 26111106
+                }
+              },
+              "hash": "b8e34843ebfde65c2d6c1397f5f04edb5d374d1b",
+              "property": "P2303",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2303"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P613$7C43C984-549C-4702-8365-8D973FB5A391",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503247",
+              "numeric-id": 21503247
+            }
+          },
+          "hash": "fede01024807ea412f925e250a71651eda314b38",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2305": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q145",
+                  "numeric-id": 145
+                }
+              },
+              "hash": "57afb362dc086c87c06d4a3ea130bd7e2b76ccab",
+              "property": "P2305",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q9676",
+                  "numeric-id": 9676
+                }
+              },
+              "hash": "96cfa0f914dedf72e2c4ec0f314f7860fa18358d",
+              "property": "P2305",
+              "snaktype": "value"
+            }
+          ],
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P17",
+                  "numeric-id": 17
+                }
+              },
+              "hash": "3a4317718b867e82f0d1661aab306cbb64c65bdb",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ],
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21502408",
+                  "numeric-id": 21502408
+                }
+              },
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306",
+          "P2305",
+          "P2316"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P613$59F605BE-DC5A-40B6-BFA8-BB9857858A88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503250",
+              "numeric-id": 21503250
+            }
+          },
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2308": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q2221906",
+                  "numeric-id": 2221906
+                }
+              },
+              "hash": "c6bf3b82e3211692b485a8c572fbd19acd1bd4a3",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q811979",
+                  "numeric-id": 811979
+                }
+              },
+              "hash": "812802ecc7aef49af3439e11775b7bac48168496",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q618123",
+                  "numeric-id": 618123
+                }
+              },
+              "hash": "2b08b5b85eff33575e56c6d684c30a310581090b",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q2385804",
+                  "numeric-id": 2385804
+                }
+              },
+              "hash": "e82a420f460ea35cde0b265b2b0e4cdb3183a99c",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q179700",
+                  "numeric-id": 179700
+                }
+              },
+              "hash": "20eb3039f1f374a48ce0e2b4914815f10a4278da",
+              "property": "P2308",
+              "snaktype": "value"
+            }
+          ],
+          "P2309": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21503252",
+                  "numeric-id": 21503252
+                }
+              },
+              "hash": "8d7afee22e0fa6211dd8c95f247e1dd7b38daf70",
+              "property": "P2309",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2309",
+          "P2308"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2875": [
+      {
+        "id": "P613$3700373C-7FA4-4F32-9D19-22C9B3C0AFBD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113579767",
+              "numeric-id": 113579767
+            }
+          },
+          "hash": "e612d754b6ec043540d060d51a268c0a0d5e6ee0",
+          "property": "P2875",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P613$ab53a882-4ad4-8af0-9d9a-6c0a0b5e1438",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18615777",
+              "numeric-id": 18615777
+            }
+          },
+          "hash": "3b024dfcca710e04de85bd00b74e811bd5336608",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P613$2e0dcd8a-40b4-c447-f7e4-4ec102752912",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19847637",
+              "numeric-id": 19847637
+            }
+          },
+          "hash": "f4decee31e9752960d9623ea58d1dfd672b31341",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P613$EF89C49B-6788-443A-8F55-CED99DCE1CE6",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/Archive/8#P613"
+          },
+          "hash": "90a83f9de2feee3f588860a53a2fc83065cb384c",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P613$24809B73-EFF8-4691-8DB6-5FBEE28DEB08",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/nearby\\.org\\.uk\\/coord\\.cgi\\?p=([A-Z]{2}\\s?[0-9]{1,5}\\s?[0-9]{1,5})"
+          },
+          "hash": "06a6d2dde63efc58d764313b573872e025e2be82",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P13337": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "nearby.org.uk"
+              },
+              "hash": "718d8dbdb0876f0aa2efc93451c584ec750d3e62",
+              "property": "P13337",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P13337"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P613$a646815a-4187-3a84-d05b-00a883c854cf",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/(?:www\\.)?geograph\\.org\\.uk\\/gridref\\/([A-Z]{2}\\s?[0-9]{1,5}\\s?[0-9]{1,5})"
+          },
+          "hash": "5a40b59d9c3106ef63ebe8ddd8dccaa088c22ffd",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P13337": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "geograph.org.uk"
+              },
+              "hash": "d65be7a61c73189f124d75f92f34a02d62fa8590",
+              "property": "P13337",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "www.geograph.org.uk"
+              },
+              "hash": "6afffc90f07bbaa56d8405fc04b574c93f83c265",
+              "property": "P13337",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P13337"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P613$5c2cd45f-41ad-ceca-adf8-87d8db109c0b",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "^https:\\/\\/gridreferencefinder\\.com\\/#gr=([A-Z]{2}\\s?[0-9]{1,5}\\s?[0-9]{1,5})"
+          },
+          "hash": "3d58df78e3e798f98293b520e9739d33aa71408a",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P13337": [
+            {
+              "datatype": "external-id",
+              "datavalue": {
+                "type": "string",
+                "value": "gridreferencefinder.com"
+              },
+              "hash": "33d17e0918ac11278e7187fe32377301d0e4ad84",
+              "property": "P13337",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P13337"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "eecf30854e775ccb9b8e5f268d6f4c75b0f8e39c",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://gridreferencefinder.com/faq.php"
+                  },
+                  "hash": "a4250f24ef1fb70f0476ef95d888968717827bfc",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "string",
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "souřadnice podle britského systému National Grid"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "dynodwr grid yr Arolwg Ordnans"
+    },
+    "de": {
+      "language": "de",
+      "value": "auf Karten des britischen Ordnance Survey verwendetes Koordinatensystem (National Grid)"
+    },
+    "en": {
+      "language": "en",
+      "value": "grid location reference from the Ordnance Survey National Grid reference system used in Great Britain"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "grid location reference from the Ordnance Survey National Grid reference system used in Great Britain"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شناسه OS ملی برای سیستم مرجع نموداربندی شده نقشه برداری آماد مکان‌های بریتانیای کبیر"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "emplacement sur le quadrillage de l'Ordnance Survey"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "NGR aig an t-Suirbhidh Òrdanais"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "referencia no sistema británico  Ordnance Survey National Grid"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a brit Ordnance Survey térképein használt koordinátarendszer (National Grid) szerinti helymeghatározási pont"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "ntụaka ebe grid sitere na sistemụ ntụaka Ordnance Survey National Grid ejiri na Great Britain"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "rujukan lokasi grid daripada sistem rujukan Grid Kebangsaan Ukur Ordnans yang digunakan di Great Britain"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "geografisk lokasjon i Storbritannia basert på rutenettoppdelingen til Ordinance Survey"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ordnance Survey National Grid reference system, gebruikt in Groot-Brittannië voor plaatsbepaling doeleinden"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "identificant Ordnance Survey"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ordnance Survey National Grid reference system"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Birleşik Krallık'ta kullanılan Ordnance Survey National Grid referans sisteminden alınan ızgara konumu referansı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "система координат, що використовується на картах картографічного управління (Ordnance Survey, OS) Великої Британії (National Grid)"
+    }
+  },
+  "id": "P613",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Ordnance Survey rooster-verwysing"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "مرجع المساحة في الشبكة الوطنية"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "геаграфічны код Вялікабрытаніі"
+    },
+    "br": {
+      "language": "br",
+      "value": "daveennoù an Ordnance Survey"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "referència de graella OS"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "OSGR"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Аслӑ Британин географи кочӗ"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "cyfeiriad grid yr OS"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ordnance Survey-Planquadrat"
+    },
+    "en": {
+      "language": "en",
+      "value": "OS grid reference"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "OS grid reference"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "kradreferenco de Ordinance Survey"
+    },
+    "es": {
+      "language": "es",
+      "value": "referencia Ordnance Survey"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "referencia Ordnance Survey"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "مرجع مکانی اواس بریتانیا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "référence Ordnance Survey"
+    },
+    "frr": {
+      "language": "frr",
+      "value": "OS ploonkwadroot"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "comharran-cléithe SO"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "referencia  Ordnance Survey National Grid"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ordnance Survey szerinti helymeghatározási pont"
+    },
+    "id": {
+      "language": "id",
+      "value": "grid referensi OS"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Ntuziaka grid OS"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "OSグリッド・レファレンス"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Ordnance Survey-Plangquadrat"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "OS režģa reference"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "британски земјомерен упатник"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "rujukan grid OS"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "OSNG lokasjon"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "OS-gridlocatie"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "OSNG lokasjon"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "identifiant OS"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "referência Ordnance Survey"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "географический код Великобритании"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "OS grid reference"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "referenčna mreža OS"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "NGR"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "referens från Ordnance Survey National Grid-referenssystem"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ordnance Survey referansı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "географічний код Великої Британії"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "او ایس نقشہ حوالہ"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "referensa Ordnance Survey"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "英國國家格網參考系統"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "英国国家格网参考系统"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "英國國家格網參考系統"
+    }
+  },
+  "lastrevid": 2439848360,
+  "modified": "2025-12-09T04:21:24Z",
+  "ns": 120,
+  "pageid": 15102872,
+  "title": "Property:P613",
+  "type": "property"
+}

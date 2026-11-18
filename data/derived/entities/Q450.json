@@ -1,0 +1,83 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Glen of Two Lakes"
+      },
+      {
+        "language": "en",
+        "value": "Glendalough valley"
+      },
+      {
+        "language": "en",
+        "value": "Glendalough abbey"
+      },
+      {
+        "language": "en",
+        "value": "abbey of Glendalough"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q450$14E908DE-FBE1-5E82-91ED-E838A9C573D5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q691153"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q691153"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Tal in Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "monastery and glacial valley, Wicklow, Ireland"
+    }
+  },
+  "id": "Q450",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Glendalough"
+    },
+    "en": {
+      "language": "en",
+      "value": "Glendalough"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

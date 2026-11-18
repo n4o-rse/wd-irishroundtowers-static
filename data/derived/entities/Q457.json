@@ -1,0 +1,101 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Sehenswürdigkeiten"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "visitor attraction"
+      },
+      {
+        "language": "en",
+        "value": "tourist spot"
+      },
+      {
+        "language": "en",
+        "value": "tourist place"
+      },
+      {
+        "language": "en",
+        "value": "attraction for tourists"
+      },
+      {
+        "language": "en",
+        "value": "POI for tourists"
+      },
+      {
+        "language": "en",
+        "value": "tourism attraction"
+      },
+      {
+        "language": "en",
+        "value": "touristic attraction"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q457$18EC92B9-C57C-51D3-9FED-163103F30055",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q570116"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q570116"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "touristische Attraktion"
+    },
+    "en": {
+      "language": "en",
+      "value": "place of interest where tourists visit"
+    }
+  },
+  "id": "Q457",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Sehenswürdigkeit"
+    },
+    "en": {
+      "language": "en",
+      "value": "tourist attraction"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

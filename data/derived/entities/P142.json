@@ -1,0 +1,145 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Menge"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "qty"
+      },
+      {
+        "language": "en",
+        "value": "total number"
+      },
+      {
+        "language": "en",
+        "value": "number of instances"
+      },
+      {
+        "language": "en",
+        "value": "number"
+      },
+      {
+        "language": "en",
+        "value": "amount"
+      },
+      {
+        "language": "en",
+        "value": "total"
+      },
+      {
+        "language": "en",
+        "value": "count"
+      },
+      {
+        "language": "en",
+        "value": "multiplicity"
+      },
+      {
+        "language": "en",
+        "value": "number of occurrencies"
+      },
+      {
+        "language": "en",
+        "value": "instances"
+      },
+      {
+        "language": "en",
+        "value": "occurrences"
+      },
+      {
+        "language": "en",
+        "value": "number of copies"
+      },
+      {
+        "language": "en",
+        "value": "copies"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P142$7D1B4224-A3D9-524A-A69C-8566A23B7FC7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P142$31C30AD4-289E-578F-9E1E-0F742F8C5134",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P1114"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P1114"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "quantity",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Zahl der Ausprägungen dieses Objektes"
+    },
+    "en": {
+      "language": "en",
+      "value": "number of instances of this subject in the universe of the subject (the actual number of instances in Wikidata may be lower or higher)"
+    }
+  },
+  "id": "P142",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Anzahl"
+    },
+    "en": {
+      "language": "en",
+      "value": "quantity"
+    }
+  },
+  "type": "property"
+}

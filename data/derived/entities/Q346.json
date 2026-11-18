@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fertagh"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q346$BCC588CE-EE02-53D8-A5B2-E45C4352B0EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q104264390"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q104264390"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "townland in Glashare, County Kilkenny, Ireland"
+    }
+  },
+  "id": "Q346",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Grangefertagh"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

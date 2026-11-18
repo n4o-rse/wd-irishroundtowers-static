@@ -1,0 +1,127 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "RCAHMS"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P175$7E894BC0-2C7A-5B8D-B47F-F461ED7EE575",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P175$B1D59A5A-6C61-5268-B1B4-6AA806DD3BEF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P718"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P718"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "P175$05700FA4-E680-5C40-9141-636B1B2777FB",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://canmore.org.uk/site/$1"
+          },
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P718"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Identifikator in Royal Commission on the Ancient and Historical Monuments of Scotland's Canmore Datenbank"
+    },
+    "en": {
+      "language": "en",
+      "value": "identifier in the Royal Commission on the Ancient and Historical Monuments of Scotland's Canmore database"
+    }
+  },
+  "id": "P175",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Canmore-ID"
+    },
+    "en": {
+      "language": "en",
+      "value": "Canmore ID"
+    }
+  },
+  "type": "property"
+}

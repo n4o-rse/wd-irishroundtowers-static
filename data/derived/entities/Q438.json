@@ -1,0 +1,66 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "St Colmcilles Well"
+      },
+      {
+        "language": "en",
+        "value": "St Colmcille's Well"
+      },
+      {
+        "language": "en",
+        "value": "St Columb's Well"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q438$BB884B76-B35B-565E-8D06-9450986C3E2E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q33123146"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q33123146"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q438",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Townparks Holy Well"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

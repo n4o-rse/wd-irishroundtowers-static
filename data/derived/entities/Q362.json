@@ -1,0 +1,113 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "in der Nähe von"
+      },
+      {
+        "language": "de",
+        "value": "nahe bei"
+      },
+      {
+        "language": "de",
+        "value": "in der Gegend von"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "close to"
+      },
+      {
+        "language": "en",
+        "value": "near to"
+      },
+      {
+        "language": "en",
+        "value": "outside of"
+      },
+      {
+        "language": "en",
+        "value": "in the hinterland of"
+      },
+      {
+        "language": "en",
+        "value": "off"
+      },
+      {
+        "language": "en",
+        "value": "uncertain location"
+      },
+      {
+        "language": "en",
+        "value": "approximate location"
+      },
+      {
+        "language": "en",
+        "value": "location uncertain"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q362$5369D4B3-27D5-5EBC-B29D-A115F07CBB0E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q21818619"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q21818619"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "ungefährer Ort – zur Verwendung mit dem Qualifikator P1480, wenn die Quelle einen Ort angegeben und ohne Angabe von präziseren Informationen deutlich gemacht hat, dass dieser Wert dem eigentlichen Wert nahe ist. Beispiel: „geboren bei Dallas“"
+    },
+    "en": {
+      "language": "en",
+      "value": "approximate location – should be used with qualifier P1480 to indicate the source specified a value and explicitly stated that value is close in proximity, but specify no precision information. For example, \"born near Dallas\""
+    }
+  },
+  "id": "Q362",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "bei"
+    },
+    "en": {
+      "language": "en",
+      "value": "near"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

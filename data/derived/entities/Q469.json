@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Temple MacDermott"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q469$5FE65404-F8C2-5D2D-8EA7-F84040922806",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q116603426"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q116603426"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "church ruin in Clonmacnoise, Ireland"
+    }
+  },
+  "id": "Q469",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Clonmacnoise Cathedral"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

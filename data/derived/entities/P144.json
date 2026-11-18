@@ -1,0 +1,125 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Eingang"
+      },
+      {
+        "language": "de",
+        "value": "Bild vom Eingang"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "image of entrance"
+      },
+      {
+        "language": "en",
+        "value": "door image"
+      },
+      {
+        "language": "en",
+        "value": "gate image"
+      },
+      {
+        "language": "en",
+        "value": "entrance image"
+      },
+      {
+        "language": "en",
+        "value": "image of entry"
+      },
+      {
+        "language": "en",
+        "value": "image of access point"
+      },
+      {
+        "language": "en",
+        "value": "entrance view"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P144$A2BE4120-B419-5901-8333-CC14CBF6E508",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P144$A131C150-D9F6-525B-9BB1-45128999FD4E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P9721"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P9721"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "commonsMedia",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Blick auf einen Eintrittspunkt einer architektonischen Struktur, eines Fahrzeugs, einer Gebietskörperschaft, einer Straße oder eines anderen Raums in Einfahrtsrichtung (nicht in Ausfahrtsrichtung)"
+    },
+    "en": {
+      "language": "en",
+      "value": "view of an entry point of an architectural structure, vehicle, territorial entity, road or other space, in the entering direction (not in the exiting direction)"
+    }
+  },
+  "id": "P144",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Bild des Eingangs"
+    },
+    "en": {
+      "language": "en",
+      "value": "image of entrance"
+    }
+  },
+  "type": "property"
+}

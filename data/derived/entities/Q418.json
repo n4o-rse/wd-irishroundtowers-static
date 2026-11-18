@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aghadoe Cathedral"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q418$6E79BA3E-495F-535B-95FC-B139DE0118C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q30247109"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q30247109"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "frühchristliche Klosteranlage in Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "early medieval monastic site with church building in Parkavonear, County Kerry, Ireland"
+    }
+  },
+  "id": "Q418",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Aghadoe Church"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

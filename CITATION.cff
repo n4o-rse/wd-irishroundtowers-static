@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite them using the metadata below."
+title: "wd-irishroundtowers-static: Irish Round Towers (static Wikibase), taken from Wikidata"
+abstract: >-
+  A static, read-only Wikibase of the Irish round towers, early medieval monastic bell towers in Ireland (and a few in Scotland), as recorded in the Wikidata WikiProject IrishRoundTowers.
+type: software
+authors:
+  - family-names: Thiery
+    given-names: Florian
+    orcid: "https://orcid.org/0000-0002-3246-3531"
+    affiliation: "Leibniz-Zentrum für Archäologie (LEIZA)"
+license: MIT
+version: "0.1.0"
+repository-code: "https://github.com/n4o-rse/wd-irishroundtowers-static"
+# date-released: ""  # set when the first release is tagged
+# doi: ""            # add the Zenodo DOI once minted
+keywords:
+  - Wikidata
+  - Wikibase
+  - Linked Data
+  - static site
+  - GitHub Pages

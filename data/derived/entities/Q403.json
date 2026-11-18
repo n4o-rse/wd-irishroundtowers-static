@@ -1,0 +1,77 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "GB-ANS"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Aonghas"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q403$0823D9B9-A25E-5C0B-870D-F7B997107FB6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q202177"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q202177"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Council Area in Schottland"
+    },
+    "en": {
+      "language": "en",
+      "value": "council area of Scotland"
+    }
+  },
+  "id": "Q403",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Angus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Angus"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

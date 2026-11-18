@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Francis William Stubbs: Early Monastic History of Dromiskin, in the County of Louth, in: JRSAI 1897 (2), 101-113"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q517$E8309BF6-B879-5EF3-AD8D-4477CE910F9C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q142082268"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q142082268"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1897 article by Francis William Stubbs in the JRSAI"
+    }
+  },
+  "id": "Q517",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Early Monastic History of Dromiskin, in the County of Louth (1897)"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

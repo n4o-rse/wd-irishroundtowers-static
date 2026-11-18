@@ -1,0 +1,107 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ciarán mac Luaigne"
+      },
+      {
+        "language": "en",
+        "value": "Saint Kieran"
+      },
+      {
+        "language": "en",
+        "value": "Saint Ciarán the elder"
+      },
+      {
+        "language": "en",
+        "value": "Ciaran of Saigir"
+      },
+      {
+        "language": "en",
+        "value": "Ciaran mac Luaigne"
+      },
+      {
+        "language": "en",
+        "value": "Saint Ciaran the elder"
+      },
+      {
+        "language": "en",
+        "value": "Ciarán of Seirkieran"
+      },
+      {
+        "language": "en",
+        "value": "Kiaran of Saighir"
+      },
+      {
+        "language": "en",
+        "value": "Ciaran of Saighir"
+      },
+      {
+        "language": "en",
+        "value": "Ciarán of Saighir"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q356$77FC5958-6922-59D7-BE59-525AB0156E3A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2280421"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q2280421"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "irischer Priester, katholischer Priester, Priester und katholischer Priester"
+    },
+    "en": {
+      "language": "en",
+      "value": "Irish saint"
+    }
+  },
+  "id": "Q356",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Ciarán von Saigir"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ciarán of Saigir"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

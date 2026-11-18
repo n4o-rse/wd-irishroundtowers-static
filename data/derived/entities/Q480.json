@@ -1,0 +1,81 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Schwertknauf"
+      },
+      {
+        "language": "de",
+        "value": "Einhandschwert"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "swords"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q480$E6F59059-7020-5FA4-9C94-106A6621B013",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12791"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q12791"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Hieb- und Stichwaffe"
+    },
+    "en": {
+      "language": "en",
+      "value": "bladed weapon longer than a knife or dagger"
+    }
+  },
+  "id": "Q480",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Schwert"
+    },
+    "en": {
+      "language": "en",
+      "value": "sword"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

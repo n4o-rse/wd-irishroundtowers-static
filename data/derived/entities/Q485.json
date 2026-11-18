@@ -1,0 +1,75 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "top part"
+      },
+      {
+        "language": "en",
+        "value": "top"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q485$A5856E77-2791-59DD-B190-F4765DD268E2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17525438"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q17525438"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "als Wert von P518 (betroffener Teil) zu benutzendes Datenobjekt"
+    },
+    "en": {
+      "language": "en",
+      "value": "item to be used as a value of qualifier P518 (applies to part)"
+    }
+  },
+  "id": "Q485",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "oberer Teil"
+    },
+    "en": {
+      "language": "en",
+      "value": "upper part"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

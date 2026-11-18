@@ -1,0 +1,79 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dublin city"
+      },
+      {
+        "language": "en",
+        "value": "City of Dublin"
+      },
+      {
+        "language": "en",
+        "value": "Dublin, Ireland"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q605$6318372F-1604-5342-8473-109D6E3A6DEA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1761"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q1761"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Hauptstadt und bevölkerungsreichste Stadt Irlands"
+    },
+    "en": {
+      "language": "en",
+      "value": "capital and largest city of Ireland"
+    }
+  },
+  "id": "Q605",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Dublin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dublin"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

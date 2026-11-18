@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Glebe (Armoy)"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q439$2A13C4FD-23CD-5F62-8AF4-CA389F94C0D0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130718711"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q130718711"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "townland in the civil parish of Armoy in the barony of Cary, County Antrim, Northern Ireland"
+    }
+  },
+  "id": "Q439",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Glebe"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

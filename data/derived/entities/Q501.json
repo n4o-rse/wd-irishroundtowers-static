@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Butt's Gardens"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q501$312D2088-A118-5A74-BC00-D14F22439EA1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q104265435"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q104265435"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "townland in Kilkenny, Ireland, comprising the area around St Canice's Cathedral and the Butts"
+    }
+  },
+  "id": "Q501",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Gardens"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

@@ -1,0 +1,151 @@
+{
+  "aliases": {},
+  "claims": {
+    "P1343": [
+      {
+        "id": "Q141937862$cb3f91fc-4bc6-c348-ecb2-64e6acaee6c3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126393245",
+              "numeric-id": 126393245
+            }
+          },
+          "hash": "afc487e05cd68f3b3afa3e98ef57ca86f66a53d4",
+          "property": "P1343",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "32651fc21e3961f685ac9be50405e7c1ebd4d8e9",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.duchas.ie/en/cbes/5044787/5038062/5083739"
+                  },
+                  "hash": "5df8d737defa48048d063a72a9a553a27e60ded6",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          },
+          {
+            "hash": "67c1f539341c86173fd63c379aeb828571d13eee",
+            "snaks": {
+              "P854": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.duchas.ie/en/cbes/5044787/5038148/5084736"
+                  },
+                  "hash": "53315a0dd6765bef886f56860236f40e9e7d0fc6",
+                  "property": "P854",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P854"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "Q141937862$089dd5bb-4abe-3ae8-ca86-e4e519d26a09",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1335799",
+              "numeric-id": 1335799
+            }
+          },
+          "hash": "86c331714834839eb4b44ad91408a9d1dc2a314e",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P5102": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q32188232",
+                  "numeric-id": 32188232
+                }
+              },
+              "hash": "f9668a6d885d633aadf85392528a54acb09ba956",
+              "property": "P5102",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5102"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5816": [
+      {
+        "id": "Q141937862$97a779f5-4d3c-f757-bb38-92ae228dd47f",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56556915",
+              "numeric-id": 56556915
+            }
+          },
+          "hash": "d6c4840577ba6c097ffaaf909de0a2afa5e881b9",
+          "property": "P5816",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "alleged round tower in the townland of Killaghduff in County Cavan, according to the Schools' Collection"
+    }
+  },
+  "id": "Q141937862",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Killaghduff round tower"
+    }
+  },
+  "lastrevid": 2567556990,
+  "modified": "2026-11-10T12:53:20Z",
+  "ns": 0,
+  "pageid": 135538429,
+  "sitelinks": {},
+  "title": "Q141937862",
+  "type": "item"
+}

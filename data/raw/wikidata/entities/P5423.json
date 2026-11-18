@@ -1,0 +1,1142 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "الطابق"
+      },
+      {
+        "language": "ar",
+        "value": "طابق"
+      }
+    ],
+    "be-tarask": [
+      {
+        "language": "be-tarask",
+        "value": "паверх"
+      }
+    ],
+    "ca": [
+      {
+        "language": "ca",
+        "value": "número de pis"
+      },
+      {
+        "language": "ca",
+        "value": "nombre de pis"
+      },
+      {
+        "language": "ca",
+        "value": "planta"
+      }
+    ],
+    "cs": [
+      {
+        "language": "cs",
+        "value": "podlaží"
+      },
+      {
+        "language": "cs",
+        "value": "poschodí"
+      }
+    ],
+    "de": [
+      {
+        "language": "de",
+        "value": "Etage"
+      },
+      {
+        "language": "de",
+        "value": "Stock"
+      },
+      {
+        "language": "de",
+        "value": "Stockwerkangabe"
+      },
+      {
+        "language": "de",
+        "value": "Geschoss"
+      },
+      {
+        "language": "de",
+        "value": "Geschoß"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "level number"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "piso"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "étage"
+      }
+    ],
+    "hu": [
+      {
+        "language": "hu",
+        "value": "szint"
+      }
+    ],
+    "id": [
+      {
+        "language": "id",
+        "value": "nomor lantai"
+      },
+      {
+        "language": "id",
+        "value": "Lt."
+      }
+    ],
+    "it": [
+      {
+        "language": "it",
+        "value": "piano"
+      }
+    ],
+    "ja": [
+      {
+        "language": "ja",
+        "value": "階層"
+      },
+      {
+        "language": "ja",
+        "value": "何階"
+      }
+    ],
+    "ko": [
+      {
+        "language": "ko",
+        "value": "위치한 층"
+      },
+      {
+        "language": "ko",
+        "value": "층"
+      },
+      {
+        "language": "ko",
+        "value": "다음 층에 위치함"
+      },
+      {
+        "language": "ko",
+        "value": "층수"
+      }
+    ],
+    "mk": [
+      {
+        "language": "mk",
+        "value": "спрат"
+      }
+    ],
+    "nl": [
+      {
+        "language": "nl",
+        "value": "huisnummertoevoeging"
+      }
+    ],
+    "pt-br": [
+      {
+        "language": "pt-br",
+        "value": "andar"
+      },
+      {
+        "language": "pt-br",
+        "value": "piso"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "номер этажа"
+      }
+    ],
+    "tr": [
+      {
+        "language": "tr",
+        "value": "numara"
+      }
+    ],
+    "uk": [
+      {
+        "language": "uk",
+        "value": "поверх"
+      }
+    ],
+    "zh": [
+      {
+        "language": "zh",
+        "value": "几多楼"
+      },
+      {
+        "language": "zh",
+        "value": "几楼"
+      },
+      {
+        "language": "zh",
+        "value": "哪一层"
+      },
+      {
+        "language": "zh",
+        "value": "哪层"
+      }
+    ],
+    "zh-hant": [
+      {
+        "language": "zh-hant",
+        "value": "幾多樓"
+      },
+      {
+        "language": "zh-hant",
+        "value": "幾樓"
+      },
+      {
+        "language": "zh-hant",
+        "value": "哪一層"
+      },
+      {
+        "language": "zh-hant",
+        "value": "哪層"
+      }
+    ]
+  },
+  "claims": {
+    "P13786": [
+      {
+        "id": "P5423$8db70f44-4826-c4a2-1c4a-1c8f6013417e",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "level"
+          },
+          "hash": "4a7f84f18f7679cfc1ef47ce22b8aef6b6246bae",
+          "property": "P13786",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P14692": [
+      {
+        "id": "P5423$86E71699-4D5F-42C9-8091-AC0C404AC5C4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q381"
+          },
+          "hash": "bad771db03531be5a032812a3021646962d9b941",
+          "property": "P14692",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1629": [
+      {
+        "id": "P5423$26FAE3CD-680D-40CF-AD0C-64759B52F337",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q831691",
+              "numeric-id": 831691
+            }
+          },
+          "hash": "45379c810755a72fc314ae2e9fcf09ac6ff605f2",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "7ce341344ca43c8d9e02d90a5e255e441dd5c5bf",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/floor_number&oldid=705485392"
+                  },
+                  "hash": "7a4a0daa43b60045af9e10607bd412c432f68338",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P5423$DCC83BFA-3CFA-4927-8A6A-58E6142AEEFA",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P670",
+              "numeric-id": 670
+            }
+          },
+          "hash": "308ac8c816ecc24855e9cafff1dd65c2dd7e7acd",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "7ce341344ca43c8d9e02d90a5e255e441dd5c5bf",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/floor_number&oldid=705485392"
+                  },
+                  "hash": "7a4a0daa43b60045af9e10607bd412c432f68338",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P5423$F19BF452-C7CB-438D-9D72-C2965903E470",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P281",
+              "numeric-id": 281
+            }
+          },
+          "hash": "7fb6cd7f191b9020ab98caff8c17cbd52d884f30",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "7ce341344ca43c8d9e02d90a5e255e441dd5c5bf",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/floor_number&oldid=705485392"
+                  },
+                  "hash": "7a4a0daa43b60045af9e10607bd412c432f68338",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P5423$AEB7768E-7DC3-47B5-A711-7AC3B92C8B29",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P4856",
+              "numeric-id": 4856
+            }
+          },
+          "hash": "b245c7dfbb3daf3067380fd69d65510746651e2c",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "7ce341344ca43c8d9e02d90a5e255e441dd5c5bf",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/floor_number&oldid=705485392"
+                  },
+                  "hash": "7a4a0daa43b60045af9e10607bd412c432f68338",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P5423$a0d903cd-4bbf-03af-1976-8ee81be3f7d2",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P7532",
+              "numeric-id": 7532
+            }
+          },
+          "hash": "19e73e4174f8c5ef62388f6261416947219bf91a",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P5423$FE30BE6C-A718-4F8C-8281-08D83EE57216",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1399430",
+              "numeric-id": 1399430
+            }
+          },
+          "hash": "ad1a69946098beadd6819279868975d1ef8b8717",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P5423": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "1st floor"
+              },
+              "hash": "f11bd400926616f4918bb9e1d3393149ea79ca3d",
+              "property": "P5423",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5423"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "7ce341344ca43c8d9e02d90a5e255e441dd5c5bf",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/floor_number&oldid=705485392"
+                  },
+                  "hash": "7a4a0daa43b60045af9e10607bd412c432f68338",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P5423$39242210-3C6C-4B98-8F3C-D2906391FDF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23899574",
+              "numeric-id": 23899574
+            }
+          },
+          "hash": "edfbe090ed0be73104e5a2ce592fba3c32299e45",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P5423": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "floors 67-70"
+              },
+              "hash": "a33809fcbf415505e97315c6023b758c69f11568",
+              "property": "P5423",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5423"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "7ce341344ca43c8d9e02d90a5e255e441dd5c5bf",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/floor_number&oldid=705485392"
+                  },
+                  "hash": "7a4a0daa43b60045af9e10607bd412c432f68338",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      },
+      {
+        "id": "P5423$EB3F7853-CECD-4E7C-A10C-FC4BC0ACC0D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7537159",
+              "numeric-id": 7537159
+            }
+          },
+          "hash": "ed63e1ef81a411ca2ee50095791605784cfc1e19",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P5423": [
+            {
+              "datatype": "string",
+              "datavalue": {
+                "type": "string",
+                "value": "R-level"
+              },
+              "hash": "36bbc2d46f892f0e895b0b2523288bc60e2b89f0",
+              "property": "P5423",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5423"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "7ce341344ca43c8d9e02d90a5e255e441dd5c5bf",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/floor_number&oldid=705485392"
+                  },
+                  "hash": "7a4a0daa43b60045af9e10607bd412c432f68338",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P5423$864459ec-4c5b-5433-1b48-147c26097f28",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2305": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q29934200",
+                  "numeric-id": 29934200
+                }
+              },
+              "hash": "76a83209b6ab9e5ea1a1dd8e2986281a5a0479d7",
+              "property": "P2305",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q59712033",
+                  "numeric-id": 59712033
+                }
+              },
+              "hash": "26655a7e573da17226d4244ec74f59387afbf26c",
+              "property": "P2305",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2305"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5423$5980DD3A-0F17-4132-8CB8-14EC8EC5CA5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2316": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q21502408",
+                  "numeric-id": 21502408
+                }
+              },
+              "hash": "d50c571a43e6102d65b729ccc7049a0a2f867e34",
+              "property": "P2316",
+              "snaktype": "value"
+            }
+          ],
+          "P5314": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q54828449",
+                  "numeric-id": 54828449
+                }
+              },
+              "hash": "7f0b21bf6bef1987059626f383a532cf4375deb1",
+              "property": "P5314",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P5314",
+          "P2316"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P5423$399e48db-4c2b-ef4a-a46d-68b803d147c9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503250",
+              "numeric-id": 21503250
+            }
+          },
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2308": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q43229",
+                  "numeric-id": 43229
+                }
+              },
+              "hash": "dbcd1925f127866d6f4f74d9a41b0778ceaa3d38",
+              "property": "P2308",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q5",
+                  "numeric-id": 5
+                }
+              },
+              "hash": "6507af56cd83ccb72044b460a8b439e1746afa1a",
+              "property": "P2308",
+              "snaktype": "value"
+            }
+          ],
+          "P2309": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q30208840",
+                  "numeric-id": 30208840
+                }
+              },
+              "hash": "8fb539b5b9fd607316a1edaf9f8fd42a67a51dd2",
+              "property": "P2309",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2308",
+          "P2309"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2668": [
+      {
+        "id": "P5423$630000c7-4834-8055-6ee2-df4280f64ef6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24025284",
+              "numeric-id": 24025284
+            }
+          },
+          "hash": "4572c19310f5dffc3f60e540cd40fcf6ece10ef8",
+          "property": "P2668",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P5423$B96574F7-3207-4EC5-9529-0B9F9BC3616C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18615777",
+              "numeric-id": 18615777
+            }
+          },
+          "hash": "3b024dfcca710e04de85bd00b74e811bd5336608",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P5423$3A5A2FE9-8634-44F1-AAC4-DC062A396B58",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/floor_number"
+          },
+          "hash": "0da6a7c54c5a6fe573a02255b7e2dd127bd17e4d",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "hash": "7ce341344ca43c8d9e02d90a5e255e441dd5c5bf",
+            "snaks": {
+              "P4656": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/w/index.php?title=Wikidata:Property_proposal/floor_number&oldid=705485392"
+                  },
+                  "hash": "7a4a0daa43b60045af9e10607bd412c432f68338",
+                  "property": "P4656",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P4656"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "string",
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "нумар паверху ў адрасе"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "número de pis en una adreça. Es pot usar com a qualificador de P669"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "označení podlaží v rámci adresy či jiného označení polohy"
+    },
+    "da": {
+      "language": "da",
+      "value": "etagenummer i adresse. Bruges som kvalifikator til Property:P669 \"vej\" eller som egenskab på et sted"
+    },
+    "de": {
+      "language": "de",
+      "value": "Angabe des Stockwerks in einer Adresse. Zur Verwendung zum Beispiel mit der Wikidata-Eigenschaft P6375: \"Adresse\"."
+    },
+    "en": {
+      "language": "en",
+      "value": "floor number in a street address. To be used as a qualifier of Property:P6375 \"located on street\" or as a property of a place"
+    },
+    "es": {
+      "language": "es",
+      "value": "número de piso en una dirección"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "númiru de pisu nunas señas"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "kerrosnumero katuosoitteessa. Käytä tarkenteena P6375:n kanssa."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "numéro d'étage dans une adresse. À utiliser pour préciser la propriété P669 : « Adresse »"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "emelet száma egy lakcímben. A P6375 „lakcím” vagy P669 „közterület” minősítőjeként vagy egy hely tulajdonságaként használható"
+    },
+    "id": {
+      "language": "id",
+      "value": "nomor lantai dalam alamat jalan. Digunakan sebagai penjelas Atribut:P6375 \"terletak di jalan\" atau sebagai atribut suatu tempat"
+    },
+    "it": {
+      "language": "it",
+      "value": "numero del piano in un indirizzo stradale. Da usare come qualificatore per la proprietà P6375 (indirizzo stradale), P159 (sede legale) o come proprietà per un luogo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "住所における階数。P669「所在地（街路）」または、場所のプロパティの修飾子として使う"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "항목 주제의 도로명 주소상 층 번호"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "huisnummertoevoeging dat volgt op het huisnummer en de verdieping aangeeft"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "номер этажа в адресе; для использования в качестве квалификатора Property:P669 «расположен на улице» или как свойство места"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "sokakta yer alan bir evin kapı numarasındaki evin kat numarası. \"sokağı\" (P669) niteleyicisi olarak kullanılır"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "номер поверху в адресі. Використовувати як кваліфікатор властивості P669 \"розташовано на вулиці\" або як властивість місця"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "街道地址中的楼层号。可用作属性 Property:P6375“位于街道”的限定词，或作为地点的属性。"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "地址中的樓層號碼，用於Property:P6375"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "建築物的樓層號碼，屬性「所在街道地址」（P6375）的限定詞"
+    }
+  },
+  "id": "P5423",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "رقم الطابق"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "этаж"
+    },
+    "be": {
+      "language": "be",
+      "value": "паверх"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "нумар паверху"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "তলা নং"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "pis"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "patro"
+    },
+    "da": {
+      "language": "da",
+      "value": "etage"
+    },
+    "de": {
+      "language": "de",
+      "value": "Stockwerk"
+    },
+    "el": {
+      "language": "el",
+      "value": "αριθμός ορόφου"
+    },
+    "en": {
+      "language": "en",
+      "value": "floor number"
+    },
+    "es": {
+      "language": "es",
+      "value": "número de piso"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "númiru de pisu"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "kerrosnumero"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "numéro d'étage"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "uimhir úrláir"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "número do andar"
+    },
+    "he": {
+      "language": "he",
+      "value": "מספר קומה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "emelet"
+    },
+    "id": {
+      "language": "id",
+      "value": "lantai"
+    },
+    "it": {
+      "language": "it",
+      "value": "numero del piano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "階数"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "층 번호"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "aukštas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "stāva numurs"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "кат"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "etasjenummer"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "etagenummer"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "numer piętra"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "número do andar"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "número do andar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "этаж"
+    },
+    "sjd": {
+      "language": "sjd",
+      "value": "эташш"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "številka nadstropja"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "број спрата"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "våningsnummer"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "kat numarası"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "номер поверху"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "楼层号"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "樓層號碼"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "樓層號碼"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "樓層號碼"
+    }
+  },
+  "lastrevid": 2540026543,
+  "modified": "2026-09-04T09:49:55Z",
+  "ns": 120,
+  "pageid": 55390168,
+  "title": "Property:P5423",
+  "type": "property"
+}

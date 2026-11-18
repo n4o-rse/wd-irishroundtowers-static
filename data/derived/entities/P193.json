@@ -1,0 +1,141 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Anschrift"
+      },
+      {
+        "language": "de",
+        "value": "Hausanschrift"
+      },
+      {
+        "language": "de",
+        "value": "postalische Anschrift"
+      },
+      {
+        "language": "de",
+        "value": "postalische Adresse"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "address"
+      },
+      {
+        "language": "en",
+        "value": "physical address"
+      },
+      {
+        "language": "en",
+        "value": "mailing address"
+      },
+      {
+        "language": "en",
+        "value": "mail address"
+      },
+      {
+        "language": "en",
+        "value": "postal address"
+      },
+      {
+        "language": "en",
+        "value": "located at street address"
+      },
+      {
+        "language": "en",
+        "value": "full address"
+      },
+      {
+        "language": "en",
+        "value": "located at building"
+      },
+      {
+        "language": "en",
+        "value": "located on building"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P193$9DFD83DE-22B5-5E81-A72C-440FBD577CDA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P193$70E56F46-82D1-51D5-B32E-6209A0F56C0A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P6375"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P6375"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "monolingualtext",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "vollständige Hausanschrift des Datenobjektes einschließlich Hausnummer, Postleitzahl, Stadt, aber nicht Land. Verwende zusätzlich P669, wenn die Straße ein eigenes Datenobjekt hat."
+    },
+    "en": {
+      "language": "en",
+      "value": "full street address where subject is located. Include building number, city/locality, post code, but not country; use also P669 if the street has its own separate item"
+    }
+  },
+  "id": "P193",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Adresse"
+    },
+    "en": {
+      "language": "en",
+      "value": "street address"
+    }
+  },
+  "type": "property"
+}

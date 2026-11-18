@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "rectangular"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q447$B8718479-25A0-5FC2-B2FD-BAB036063C3E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q209"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q209"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "zweidimensionales geometrisches Objekt mit vier rechten Winkeln und gleichlangen gegenüberliegenden Seiten"
+    },
+    "en": {
+      "language": "en",
+      "value": "quadrilateral with four right angles"
+    }
+  },
+  "id": "Q447",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Rechteck"
+    },
+    "en": {
+      "language": "en",
+      "value": "rectangle"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

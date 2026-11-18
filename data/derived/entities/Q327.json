@@ -1,0 +1,81 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Scheitelstein"
+      },
+      {
+        "language": "de",
+        "value": "Keilstein"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "capstone"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q327$91D61496-F283-5951-9F34-F02E104D4B24",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q220919"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q220919"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "architektonisches Element: Schlussstein eines Bogens"
+    },
+    "en": {
+      "language": "en",
+      "value": "architectural element: wedge-shaped stone of an arch"
+    }
+  },
+  "id": "Q327",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Schlussstein"
+    },
+    "en": {
+      "language": "en",
+      "value": "keystone"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

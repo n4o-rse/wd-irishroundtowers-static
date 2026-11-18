@@ -1,0 +1,89 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "druckgrafisches Blatt"
+      },
+      {
+        "language": "de",
+        "value": "Druckgraphik"
+      },
+      {
+        "language": "de",
+        "value": "Druck"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "art print"
+      },
+      {
+        "language": "en",
+        "value": "graphics"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q564$74E3E7BB-5865-5F20-9364-4C6D2341E994",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11060274"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q11060274"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Werk, hergestellt durch ein grafisches Druckverfahren"
+    },
+    "en": {
+      "language": "en",
+      "value": "work of art printed from a block or plate"
+    }
+  },
+  "id": "Q564",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Druckgrafik"
+    },
+    "en": {
+      "language": "en",
+      "value": "print"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

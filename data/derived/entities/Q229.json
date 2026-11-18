@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Henry S. Crawford: The Round Tower of Kinneigh, Co. Cork, in: JRSAI 1927 (1)"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q229$01F32BEB-508E-5297-8055-C292574A9756",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q142082205"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q142082205"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "article about the Irish round tower at Kinneigh"
+    }
+  },
+  "id": "Q229",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "The Round Tower of Kinneigh, Co. Cork (1927)"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

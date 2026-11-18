@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "The Round Tower and Castle of Timahoe"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q260$2E65EC56-B69E-585E-A51A-EA07D904B32B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q141613555"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q141613555"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "article about the round tower and castle ruin at Timahoe, County Laois"
+    }
+  },
+  "id": "Q260",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Henry S. Crawford: The Round Tower and Castle of Timahoe, in: The Journal of the Royal Society of Antiquaries of Ireland Sixth Series, Vol. 14, No. 1 (Jun. 30, 1924), 31-45"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

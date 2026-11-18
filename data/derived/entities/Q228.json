@@ -1,0 +1,71 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "25 inch Ordnance Survey map"
+      },
+      {
+        "language": "en",
+        "value": "25 inch OS map"
+      },
+      {
+        "language": "en",
+        "value": "25 inch mapping series"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q228$BCC30C7A-19EE-519B-A19D-47BF6D437184",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q126540348"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q126540348"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "historic maps of Ireland surveyed and produced by Ordnance Survey"
+    }
+  },
+  "id": "Q228",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "25 inch mapping series (Ireland)"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

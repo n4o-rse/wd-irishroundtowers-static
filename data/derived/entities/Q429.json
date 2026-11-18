@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "An Chónaidhm Éireannach"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q429$6EC9E88A-8E0B-56A3-8B14-BCEE6B29A530",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6070647"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q6070647"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "political party in Ireland"
+    }
+  },
+  "id": "Q429",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Irish Confederation"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

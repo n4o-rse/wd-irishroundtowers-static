@@ -1,0 +1,655 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "زاوية عمودية"
+      }
+    ],
+    "ca": [
+      {
+        "language": "ca",
+        "value": "angle"
+      }
+    ],
+    "cs": [
+      {
+        "language": "cs",
+        "value": "úhel od svislice"
+      },
+      {
+        "language": "cs",
+        "value": "náklon"
+      },
+      {
+        "language": "cs",
+        "value": "šikmost"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "angle"
+      },
+      {
+        "language": "en",
+        "value": "lean"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "ángulo"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "angle"
+      }
+    ],
+    "he": [
+      {
+        "language": "he",
+        "value": "זוית נטיה"
+      },
+      {
+        "language": "he",
+        "value": "זווית מאנך"
+      },
+      {
+        "language": "he",
+        "value": "זווית מהאנך"
+      }
+    ],
+    "sl": [
+      {
+        "language": "sl",
+        "value": "kot"
+      },
+      {
+        "language": "sl",
+        "value": "kot glede na navpičnico"
+      }
+    ],
+    "sr": [
+      {
+        "language": "sr",
+        "value": "нагиб по вертикалној оси"
+      }
+    ],
+    "sv": [
+      {
+        "language": "sv",
+        "value": "vinkel från vertikal"
+      }
+    ],
+    "tr": [
+      {
+        "language": "tr",
+        "value": "açısı"
+      }
+    ]
+  },
+  "claims": {
+    "P1629": [
+      {
+        "id": "P4183$1f6e1b88-4425-a065-d456-9fcda8b70fa4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11352",
+              "numeric-id": 11352
+            }
+          },
+          "hash": "072c9612ac39bf933abbf140ce8211d5aa6f57d3",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P4183$e832db92-4733-b59a-ee61-bec464803746",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P4184",
+              "numeric-id": 4184
+            }
+          },
+          "hash": "74d3764792c542f912d806a75f3a565203c647ea",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4183$dfac3516-4e39-2ae0-5dd2-55e237dffd4a",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P7469",
+              "numeric-id": 7469
+            }
+          },
+          "hash": "d6ba6d0e4f8b4e13c0b9239b64d54b2947e4a55a",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4183$15b27aea-4de7-d68c-0a86-b2e8d1b86c34",
+        "mainsnak": {
+          "datatype": "wikibase-property",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "property",
+              "id": "P8398",
+              "numeric-id": 8398
+            }
+          },
+          "hash": "db8ad46c1acb6e92574ffbdd0abe04019baf1027",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P4183$ee66a4d2-4395-4415-74a5-b46375d7cb2a",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39054",
+              "numeric-id": 39054
+            }
+          },
+          "hash": "a4977b42f436a8f1990254de06fc1c1bbdb2472a",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P4183": [
+            {
+              "datatype": "quantity",
+              "datavalue": {
+                "type": "quantity",
+                "value": {
+                  "amount": "+3.97",
+                  "lowerBound": "+3.96",
+                  "unit": "http://www.wikidata.org/entity/Q28390",
+                  "upperBound": "+3.98"
+                }
+              },
+              "hash": "ef18b9019ba888bcb7ffba1c3db9988c0ebdcfc5",
+              "property": "P4183",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P4183"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P4183$48356d5d-4590-06bd-6ef4-f49041086856",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21514353",
+              "numeric-id": 21514353
+            }
+          },
+          "hash": "80fd52d4f93d38380a09d0d046b9923974a06a5d",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2305": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q28390",
+                  "numeric-id": 28390
+                }
+              },
+              "hash": "37a65a6850ec7e1e353e75c02907db5f5a4efbde",
+              "property": "P2305",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2305"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4183$699c1645-4bf8-bd39-33fa-0a18ddee22b2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21510860",
+              "numeric-id": 21510860
+            }
+          },
+          "hash": "ebdfa0ec216b8763162f0028878b1c5ed9978c47",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2312": [
+            {
+              "datatype": "quantity",
+              "datavalue": {
+                "type": "quantity",
+                "value": {
+                  "amount": "+90",
+                  "unit": "1"
+                }
+              },
+              "hash": "124494c6984f139e79810d32462cf74bda8d6be9",
+              "property": "P2312",
+              "snaktype": "value"
+            }
+          ],
+          "P2313": [
+            {
+              "datatype": "quantity",
+              "datavalue": {
+                "type": "quantity",
+                "value": {
+                  "amount": "+0",
+                  "unit": "1"
+                }
+              },
+              "hash": "0050457474815bbf824ddf676682ac32c605ad0f",
+              "property": "P2313",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2313",
+          "P2312"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P4183$7c3ab2a7-419c-b68f-c003-b225190e128a",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21510851",
+              "numeric-id": 21510851
+            }
+          },
+          "hash": "55cfe775ff19641cea395be018002e38e05f3749",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P2306": [
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P8398",
+                  "numeric-id": 8398
+                }
+              },
+              "hash": "2d1a51c21d85846e4ee2809b1d5f44387b40b0fa",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P585",
+                  "numeric-id": 585
+                }
+              },
+              "hash": "a6be4e7a327c415e1c8d7d72c7fe6e7f784d4f57",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P518",
+                  "numeric-id": 518
+                }
+              },
+              "hash": "3efd1f494ba2c1ac4bdc572df5784d4cca879442",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P580",
+                  "numeric-id": 580
+                }
+              },
+              "hash": "4910ca558b9b0401e91b11626f400278702811bc",
+              "property": "P2306",
+              "snaktype": "value"
+            },
+            {
+              "datatype": "wikibase-property",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "property",
+                  "id": "P582",
+                  "numeric-id": 582
+                }
+              },
+              "hash": "0720109791ffbb5500cf5a98c698a3156563cb72",
+              "property": "P2306",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P2306"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2876": [
+      {
+        "id": "P4183$46678722-4456-cee7-5c77-f53785101214",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13587321",
+              "numeric-id": 13587321
+            }
+          },
+          "hash": "eff08154bd8cf7482e7ec668a4c6f3921d4f95ef",
+          "property": "P2876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P4183$6d085e5e-4bc2-fe49-3bef-b66e9ac4a7c7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q22981316",
+              "numeric-id": 22981316
+            }
+          },
+          "hash": "9c905df2e551f9326996638dd9cd8fc704ce04a1",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P4183$fe99d934-41d7-aa74-fc82-60bfc67beecc",
+        "mainsnak": {
+          "datatype": "url",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/angle"
+          },
+          "hash": "4a95cef17e3aaa9e040e953c05156f9595d4eb4a",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "quantity",
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "адхіленьне элемэнту ад вэртыкальнай восі; для адзінак карыстайцеся градусамі (Q28390)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "angle que el principal eix d'un item fa amb la vertical. Unitats en graus"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "úhel, který svírá hlavní osa této entity se svislicí; jako jednotku používejte stupně (Q28390)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Winkel der Hauptachse eines Gegenstandes zur Vertikalen; Grad (Q28390) als Einheit"
+    },
+    "en": {
+      "language": "en",
+      "value": "angle the principal axis of an item makes with the vertical; use degree (Q28390) as unit"
+    },
+    "es": {
+      "language": "es",
+      "value": "ángulo que hace el eje principal de un elemento con la vertical; usar grado (Q28390) como unidad"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "ángulu que hazi'l lexi prencipal dun elementu cona vertical; gastal grau (Q28390) comu uniá"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "angle que l'axe principal d'un élément fait avec la verticale; utiliser degré (Q28390) comme unité"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "akụkụ nke isi axis nke ihe na-eme na vetikal; jiri ogo (Q28390) dị ka otu"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "vinkel som hovedaksen for en gjenstand har med vertikalen, angitt i grader (Q28390)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "kąt odchylenia głównej osi obiektu od pionu; podawać jako jednostkę stopnie (Q28390)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "bir ögenin ana ekseninin dikeyle yaptığı açı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "кут між головною віссю елемента і вертикаллю; використовувати градус (Q28390) як одиницю"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "物体主轴与垂直方向所成的角度；使用Q28390作为单位"
+    }
+  },
+  "id": "P4183",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "الزاوية العمودية"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "кут ад вэртыкалі"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "angle respecte a la vertical"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "úhel od vertikály"
+    },
+    "de": {
+      "language": "de",
+      "value": "Winkel zur Vertikalen"
+    },
+    "el": {
+      "language": "el",
+      "value": "γωνία από την κάθετη"
+    },
+    "en": {
+      "language": "en",
+      "value": "angle from vertical"
+    },
+    "es": {
+      "language": "es",
+      "value": "ángulo de la vertical"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "ángulu dela vertical"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "angle par rapport à la verticale"
+    },
+    "he": {
+      "language": "he",
+      "value": "זווית נטייה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "függőlegessel bezárt szög"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "akụkụ site na vetikal"
+    },
+    "it": {
+      "language": "it",
+      "value": "angolo dalla verticale"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "鉛直方向からの角度"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "агол од вертикалата"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "vinkel med vertikalen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "hoek ten opzichte van verticaal"
+    },
+    "olo": {
+      "language": "olo",
+      "value": "kulmu pystysviivaspäi"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "odchylenie od pionu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "ângulo da vertical"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "угол от вертикали"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "kot od navpičnice"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "нагиб по вертикали"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "vinkel från lodlinje"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "dikey açısı"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "асма сызык буенча авышлык"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "кут від вертикалі"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "垂直角"
+    }
+  },
+  "lastrevid": 2534362640,
+  "modified": "2026-08-21T18:42:57Z",
+  "ns": 120,
+  "pageid": 39464070,
+  "title": "Property:P4183",
+  "type": "property"
+}

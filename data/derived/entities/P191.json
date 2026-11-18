@@ -1,0 +1,173 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Träger"
+      },
+      {
+        "language": "de",
+        "value": "betrieben von"
+      },
+      {
+        "language": "de",
+        "value": "Gerichtsträger"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "service operator"
+      },
+      {
+        "language": "en",
+        "value": "facility operator"
+      },
+      {
+        "language": "en",
+        "value": "operated by"
+      },
+      {
+        "language": "en",
+        "value": "managed by"
+      },
+      {
+        "language": "en",
+        "value": "administrator"
+      },
+      {
+        "language": "en",
+        "value": "item operator"
+      },
+      {
+        "language": "en",
+        "value": "user"
+      },
+      {
+        "language": "en",
+        "value": "webmaster"
+      },
+      {
+        "language": "en",
+        "value": "manager"
+      },
+      {
+        "language": "en",
+        "value": "maintainer"
+      },
+      {
+        "language": "en",
+        "value": "run by"
+      },
+      {
+        "language": "en",
+        "value": "offered by"
+      },
+      {
+        "language": "en",
+        "value": "provided by"
+      },
+      {
+        "language": "en",
+        "value": "service provider"
+      },
+      {
+        "language": "en",
+        "value": "website operator"
+      },
+      {
+        "language": "en",
+        "value": "in use by"
+      },
+      {
+        "language": "en",
+        "value": "controlled by"
+      },
+      {
+        "language": "en",
+        "value": "secretariat"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P191$EEE1FEF7-69F9-50EA-8F92-319CAAA3B05D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P191$A455B6EB-3092-5A9C-B8A3-4BFCCC4CDD1D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P137"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P137"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Organisation, die einen Service, eine Einrichtung, eine Maschine oder Gerät betreibt"
+    },
+    "en": {
+      "language": "en",
+      "value": "person, profession, organization or entity that operates the equipment, facility, or service"
+    }
+  },
+  "id": "P191",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Betreiber"
+    },
+    "en": {
+      "language": "en",
+      "value": "operator"
+    }
+  },
+  "type": "property"
+}

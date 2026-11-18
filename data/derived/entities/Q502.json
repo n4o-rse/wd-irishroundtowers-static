@@ -1,0 +1,67 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "The Antiquities of Ireland"
+      },
+      {
+        "language": "en",
+        "value": "Edward Ledwich: The Antiquities of Ireland"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q502$05B47F3B-0469-5DD3-BB63-E99361C19FC2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q131375438"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q131375438"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "antiquarian book about the history and monuments of Ireland"
+    }
+  },
+  "id": "Q502",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Edward Ledwich: The Antiquities of Ireland, Second Edition Dublin 1804"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

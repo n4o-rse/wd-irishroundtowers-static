@@ -1,0 +1,85 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "O"
+      },
+      {
+        "language": "de",
+        "value": "Ost"
+      },
+      {
+        "language": "de",
+        "value": "gegen Morgen"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "E"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q269$7F2BF360-155D-5027-ACF7-E3F063C294D4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q684"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q684"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Haupthimmelsrichtung"
+    },
+    "en": {
+      "language": "en",
+      "value": "one of the four cardinal directions"
+    }
+  },
+  "id": "Q269",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Osten"
+    },
+    "en": {
+      "language": "en",
+      "value": "east"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

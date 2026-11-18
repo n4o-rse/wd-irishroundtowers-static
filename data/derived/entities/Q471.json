@@ -1,0 +1,105 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Strukturversagen"
+      },
+      {
+        "language": "de",
+        "value": "Bauwerkseinsturz"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "building collapse"
+      },
+      {
+        "language": "en",
+        "value": "structural integrity failure"
+      },
+      {
+        "language": "en",
+        "value": "structure collapse"
+      },
+      {
+        "language": "en",
+        "value": "collapse"
+      },
+      {
+        "language": "en",
+        "value": "landslide"
+      },
+      {
+        "language": "en",
+        "value": "structural integrity and failure"
+      },
+      {
+        "language": "en",
+        "value": "defective house"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q471$3925AEB7-2190-57C7-BF4B-914A6412D6D4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1309431"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q1309431"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Versagen der Tragstruktur eines Bauwerks"
+    },
+    "en": {
+      "language": "en",
+      "value": "engineering event in which the structural integrity of a construction is compromised by failure of components of the structure"
+    }
+  },
+  "id": "Q471",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Einsturz"
+    },
+    "en": {
+      "language": "en",
+      "value": "structural failure"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

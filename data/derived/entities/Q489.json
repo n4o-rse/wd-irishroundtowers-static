@@ -1,0 +1,89 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Malerei auf beweglichem Träger"
+      },
+      {
+        "language": "de",
+        "value": "Bild"
+      },
+      {
+        "language": "de",
+        "value": "Malerei"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "paintings"
+      },
+      {
+        "language": "en",
+        "value": "painting (object)"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q489$17DBEEC7-CA57-5957-BDCB-042855F74269",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3305213"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q3305213"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "künstlerische Darstellung eines Bildes auf einem Träger"
+    },
+    "en": {
+      "language": "en",
+      "value": "visual artwork, surface artistically covered with paint"
+    }
+  },
+  "id": "Q489",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Gemälde"
+    },
+    "en": {
+      "language": "en",
+      "value": "painting"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

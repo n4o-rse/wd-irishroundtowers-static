@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Henry S. Crawford: The Round Tower of Aghagower, in: JRSAI 1905 (4), 416-418"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q382$B97B0EC0-165C-5F01-8B47-7C0E774B2DEB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q142082233"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q142082233"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "article about the round tower at Aughagower by Henry S. Crawford in the JRSAI"
+    }
+  },
+  "id": "Q382",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "The Round Tower of Aghagower (1905)"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

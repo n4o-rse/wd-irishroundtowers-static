@@ -1,0 +1,93 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Strebepfeiler-Wurzel"
+      },
+      {
+        "language": "de",
+        "value": "Stützpfeiler"
+      },
+      {
+        "language": "de",
+        "value": "Strebepfeiler"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "counterfort"
+      },
+      {
+        "language": "en",
+        "value": "Mudbrick buttress"
+      },
+      {
+        "language": "en",
+        "value": "Adobe buttress - Earthen buttress- Mudbrick wall support"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q319$109EA5E5-8856-5696-900A-3A36CC82963B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q331900"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q331900"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Zentrales konstruktives und gestalterisches Element gotischer Kathedralen"
+    },
+    "en": {
+      "language": "en",
+      "value": "architectural structure, usually of masonry, built to strengthen or support walls or resist the lateral thrust of vaults"
+    }
+  },
+  "id": "Q319",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Strebewerk"
+    },
+    "en": {
+      "language": "en",
+      "value": "buttress"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

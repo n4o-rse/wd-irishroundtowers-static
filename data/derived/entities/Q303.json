@@ -1,0 +1,64 @@
+{
+  "aliases": {},
+  "claims": {
+    "P4": [
+      {
+        "id": "Q303$5B78E41D-3E34-5721-8747-93F50FA8C688",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1111958"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q1111958"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Kloster in Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "national monument (Ireland)"
+    }
+  },
+  "id": "Q303",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Kloster Turlough"
+    },
+    "en": {
+      "language": "en",
+      "value": "Turlough Abbey"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

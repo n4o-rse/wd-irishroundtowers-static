@@ -1,0 +1,113 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Ausrichtung"
+      },
+      {
+        "language": "de",
+        "value": "Blickrichtung"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "direction"
+      },
+      {
+        "language": "en",
+        "value": "alignment"
+      },
+      {
+        "language": "en",
+        "value": "faces"
+      },
+      {
+        "language": "en",
+        "value": "facing"
+      },
+      {
+        "language": "en",
+        "value": "face"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P143$84904C2C-8841-50F7-A5D8-18AA4FD66019",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P143$34B41BB8-8D25-5F44-BD3C-30D04EC8F9E2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P7469"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P7469"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "axis of alignment of an item, or direction perpendicular to its primary face (specify with P518 if necessary)"
+    }
+  },
+  "id": "P143",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Orientierung"
+    },
+    "en": {
+      "language": "en",
+      "value": "orientation"
+    }
+  },
+  "type": "property"
+}

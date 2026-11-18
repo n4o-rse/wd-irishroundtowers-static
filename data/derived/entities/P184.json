@@ -1,0 +1,233 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "zeigt"
+      },
+      {
+        "language": "de",
+        "value": "stellt dar"
+      },
+      {
+        "language": "de",
+        "value": "Motive"
+      },
+      {
+        "language": "de",
+        "value": "präsentiert"
+      },
+      {
+        "language": "de",
+        "value": "Abbild"
+      },
+      {
+        "language": "de",
+        "value": "bildet ab"
+      },
+      {
+        "language": "de",
+        "value": "Wiedergabe"
+      },
+      {
+        "language": "de",
+        "value": "gibt wieder"
+      },
+      {
+        "language": "de",
+        "value": "portraitiert"
+      },
+      {
+        "language": "de",
+        "value": "vermittelt"
+      },
+      {
+        "language": "de",
+        "value": "ähnelt"
+      },
+      {
+        "language": "de",
+        "value": "Darstellung"
+      },
+      {
+        "language": "de",
+        "value": "klingt wie"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "depicting"
+      },
+      {
+        "language": "en",
+        "value": "pictures"
+      },
+      {
+        "language": "en",
+        "value": "shows"
+      },
+      {
+        "language": "en",
+        "value": "show of"
+      },
+      {
+        "language": "en",
+        "value": "plot"
+      },
+      {
+        "language": "en",
+        "value": "resembles"
+      },
+      {
+        "language": "en",
+        "value": "displays"
+      },
+      {
+        "language": "en",
+        "value": "presents"
+      },
+      {
+        "language": "en",
+        "value": "depiction of"
+      },
+      {
+        "language": "en",
+        "value": "painting of"
+      },
+      {
+        "language": "en",
+        "value": "motif"
+      },
+      {
+        "language": "en",
+        "value": "portrait of"
+      },
+      {
+        "language": "en",
+        "value": "landscape of"
+      },
+      {
+        "language": "en",
+        "value": "represents"
+      },
+      {
+        "language": "en",
+        "value": "portrays"
+      },
+      {
+        "language": "en",
+        "value": "subject"
+      },
+      {
+        "language": "en",
+        "value": "conveys"
+      },
+      {
+        "language": "en",
+        "value": "reproduces"
+      },
+      {
+        "language": "en",
+        "value": "sounds like"
+      },
+      {
+        "language": "en",
+        "value": "features"
+      },
+      {
+        "language": "en",
+        "value": "preserves"
+      },
+      {
+        "language": "en",
+        "value": "quotes"
+      },
+      {
+        "language": "en",
+        "value": "includes"
+      }
+    ]
+  },
+  "claims": {
+    "P2": [
+      {
+        "id": "P184$266A6EB4-9A71-5C39-A285-5B2852164CD9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2",
+              "numeric-id": 2
+            }
+          },
+          "property": "P2",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "P184$B625B36D-9661-5038-9B2E-ADD4ABAC37F2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "P180"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Property:P180"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "wikibase-item",
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Gegenstand der Darstellung (z. B. Person, Ort, Objekt oder Ereignis), siehe auch Schlagwort (P921)"
+    },
+    "en": {
+      "language": "en",
+      "value": "entity visually depicted in an image, literarily described in a work, or otherwise incorporated into an audiovisual or other medium; see also P921, 'main subject'"
+    }
+  },
+  "id": "P184",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Motiv"
+    },
+    "en": {
+      "language": "en",
+      "value": "depicts"
+    }
+  },
+  "type": "property"
+}
