@@ -753,6 +753,49 @@
         "type": "statement"
       }
     ],
+    "P155": [
+      {
+        "id": "Q144$168E6259-89CB-599D-ADD1-2879281292BE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 7,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "property": "P155",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P119": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q299",
+                  "numeric-id": 299
+                }
+              },
+              "property": "P119",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P119"
+        ],
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
     "P156": [
       {
         "id": "Q144$563E35A2-9C56-541D-BF5B-FEE6EA4A5B13",

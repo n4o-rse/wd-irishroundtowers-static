@@ -1,0 +1,63 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "The Antiquities of Ireland II"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q687$199493A1-98FD-58AB-ABC7-B074E14EC126",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q141525970"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q141525970"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "second volume of the book about monuments in Ireland, published by Francis Grose in 1791"
+    }
+  },
+  "id": "Q687",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Francis Grose: The Antiquities of Ireland, The Second Volume"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

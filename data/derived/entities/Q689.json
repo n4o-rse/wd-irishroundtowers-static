@@ -1,0 +1,83 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "ruined church"
+      },
+      {
+        "language": "en",
+        "value": "church ruins"
+      },
+      {
+        "language": "en",
+        "value": "Ödekyrka"
+      },
+      {
+        "language": "en",
+        "value": "former church"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q689$FD31E53D-A9C4-5575-9A81-FA7572118A63",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17485079"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q17485079"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Ruine einer Kirche"
+    },
+    "en": {
+      "language": "en",
+      "value": "ruins of a church"
+    }
+  },
+  "id": "Q689",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Kirchenruine"
+    },
+    "en": {
+      "language": "en",
+      "value": "church ruin"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}

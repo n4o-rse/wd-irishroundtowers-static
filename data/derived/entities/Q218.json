@@ -64,6 +64,29 @@
           "property": "P103",
           "snaktype": "value"
         },
+        "qualifiers": {
+          "P108": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+                  "precision": 9,
+                  "time": "+1128-00-00T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "property": "P108",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P108"
+        ],
         "rank": "normal",
         "references": [
           {
@@ -273,6 +296,29 @@
           "property": "P150",
           "snaktype": "value"
         },
+        "qualifiers": {
+          "P108": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+                  "precision": 9,
+                  "time": "+1128-00-00T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "property": "P108",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P108"
+        ],
         "rank": "normal",
         "references": [
           {
@@ -343,9 +389,28 @@
               "property": "P107",
               "snaktype": "value"
             }
+          ],
+          "P108": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+                  "precision": 9,
+                  "time": "+1143-00-00T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "property": "P108",
+              "snaktype": "value"
+            }
           ]
         },
         "qualifiers-order": [
+          "P108",
           "P107"
         ],
         "rank": "normal",
@@ -405,9 +470,28 @@
               "property": "P107",
               "snaktype": "value"
             }
+          ],
+          "P108": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+                  "precision": 9,
+                  "time": "+1155-00-00T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "property": "P108",
+              "snaktype": "value"
+            }
           ]
         },
         "qualifiers-order": [
+          "P108",
           "P107"
         ],
         "rank": "normal",

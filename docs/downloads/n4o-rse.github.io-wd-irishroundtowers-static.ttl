@@ -1,5 +1,5 @@
 # RDF export of Irish Round Towers (static Wikibase), Wikibase data model; base URI https://n4o-rse.github.io/wd-irishroundtowers-static
-# Generated with wikibase-static 0.28.1; data as of 2026-11-18T00:00:00Z
+# Generated with wikibase-static 0.28.2; data as of 2026-11-18T00:00:00Z
 # Licence: CC0 1.0
 # The prefixes irt:, irtt:, irtp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only irt:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
 
@@ -633,7 +633,13 @@ irtcat:items
         <https://n4o-rse.github.io/wd-irishroundtowers-static/ttl/Q681.ttl#dataset>,
         <https://n4o-rse.github.io/wd-irishroundtowers-static/ttl/Q682.ttl#dataset>,
         <https://n4o-rse.github.io/wd-irishroundtowers-static/ttl/Q683.ttl#dataset>,
-        <https://n4o-rse.github.io/wd-irishroundtowers-static/ttl/Q684.ttl#dataset> .
+        <https://n4o-rse.github.io/wd-irishroundtowers-static/ttl/Q684.ttl#dataset>,
+        <https://n4o-rse.github.io/wd-irishroundtowers-static/ttl/Q685.ttl#dataset>,
+        <https://n4o-rse.github.io/wd-irishroundtowers-static/ttl/Q686.ttl#dataset>,
+        <https://n4o-rse.github.io/wd-irishroundtowers-static/ttl/Q687.ttl#dataset>,
+        <https://n4o-rse.github.io/wd-irishroundtowers-static/ttl/Q688.ttl#dataset>,
+        <https://n4o-rse.github.io/wd-irishroundtowers-static/ttl/Q689.ttl#dataset>,
+        <https://n4o-rse.github.io/wd-irishroundtowers-static/ttl/Q690.ttl#dataset> .
 
 irtcat:properties
     a dcat:Catalog ;
@@ -11171,6 +11177,96 @@ irtcat:wikibase-ontology
     dcat:distribution irtdist:Q684-html ;
     dcat:landingPage <https://n4o-rse.github.io/wd-irishroundtowers-static/Q684.html> .
 
+<https://n4o-rse.github.io/wd-irishroundtowers-static/ttl/Q685.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:description "Bell tower of a medieval church which is square at the bottom and round at the top giving the impression of an Irish round tower"@en ;
+    dcterms:identifier "Q685" ;
+    dcterms:isPartOf irtcat:items ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:subject irt:Q685 ;
+    dcterms:title "Killashee Church Tower"@en ;
+    schema:about irt:Q685 ;
+    dcat:distribution irtdist:Q685-html ;
+    dcat:landingPage <https://n4o-rse.github.io/wd-irishroundtowers-static/Q685.html> .
+
+<https://n4o-rse.github.io/wd-irishroundtowers-static/ttl/Q686.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:description "townland in Killashee, County Kildare, Ireland"@en ;
+    dcterms:identifier "Q686" ;
+    dcterms:isPartOf irtcat:items ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:subject irt:Q686 ;
+    dcterms:title "Killashee"@en ;
+    schema:about irt:Q686 ;
+    dcat:distribution irtdist:Q686-html ;
+    dcat:landingPage <https://n4o-rse.github.io/wd-irishroundtowers-static/Q686.html> .
+
+<https://n4o-rse.github.io/wd-irishroundtowers-static/ttl/Q687.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:description "second volume of the book about monuments in Ireland, published by Francis Grose in 1791"@en ;
+    dcterms:identifier "Q687" ;
+    dcterms:isPartOf irtcat:items ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:subject irt:Q687 ;
+    dcterms:title "Francis Grose: The Antiquities of Ireland, The Second Volume"@en ;
+    schema:about irt:Q687 ;
+    dcat:distribution irtdist:Q687-html ;
+    dcat:landingPage <https://n4o-rse.github.io/wd-irishroundtowers-static/Q687.html> .
+
+<https://n4o-rse.github.io/wd-irishroundtowers-static/ttl/Q688.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:description "Nichterfüllung einer Anforderung"@de,
+        "action or proposition which is inaccurate or incorrect, that could result in failure or deviation from the intended performance or behaviour"@en ;
+    dcterms:identifier "Q688" ;
+    dcterms:isPartOf irtcat:items ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:subject irt:Q688 ;
+    dcterms:title "Fehler"@de,
+        "error"@en ;
+    schema:about irt:Q688 ;
+    dcat:distribution irtdist:Q688-html ;
+    dcat:landingPage <https://n4o-rse.github.io/wd-irishroundtowers-static/Q688.html> .
+
+<https://n4o-rse.github.io/wd-irishroundtowers-static/ttl/Q689.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:description "Ruine einer Kirche"@de,
+        "ruins of a church"@en ;
+    dcterms:identifier "Q689" ;
+    dcterms:isPartOf irtcat:items ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:subject irt:Q689 ;
+    dcterms:title "Kirchenruine"@de,
+        "church ruin"@en ;
+    schema:about irt:Q689 ;
+    dcat:distribution irtdist:Q689-html ;
+    dcat:landingPage <https://n4o-rse.github.io/wd-irishroundtowers-static/Q689.html> .
+
+<https://n4o-rse.github.io/wd-irishroundtowers-static/ttl/Q690.ttl#dataset>
+    a schema:Dataset,
+        dcat:Dataset ;
+    cc:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:description "Wikidata reason for deprecation"@en,
+        "Zurückweisungsgrund"@de ;
+    dcterms:identifier "Q690" ;
+    dcterms:isPartOf irtcat:items ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:subject irt:Q690 ;
+    dcterms:title "fehlerhafter Wert"@de,
+        "incorrect value"@en ;
+    schema:about irt:Q690 ;
+    dcat:distribution irtdist:Q690-html ;
+    dcat:landingPage <https://n4o-rse.github.io/wd-irishroundtowers-static/Q690.html> .
+
 irtdist:P1-html
     a dcat:Distribution ;
     dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
@@ -16731,6 +16827,54 @@ irtdist:Q684-html
     dcat:accessURL <https://n4o-rse.github.io/wd-irishroundtowers-static/Q684.html> ;
     dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
 
+irtdist:Q685-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "Q685, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/wd-irishroundtowers-static/Q685.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+irtdist:Q686-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "Q686, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/wd-irishroundtowers-static/Q686.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+irtdist:Q687-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "Q687, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/wd-irishroundtowers-static/Q687.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+irtdist:Q688-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "Q688, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/wd-irishroundtowers-static/Q688.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+irtdist:Q689-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "Q689, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/wd-irishroundtowers-static/Q689.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
+irtdist:Q690-html
+    a dcat:Distribution ;
+    dcterms:format <http://publications.europa.eu/resource/authority/file-type/HTML> ;
+    dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/> ;
+    dcterms:title "Q690, page"@en ;
+    dcat:accessURL <https://n4o-rse.github.io/wd-irishroundtowers-static/Q690.html> ;
+    dcat:mediaType <https://www.iana.org/assignments/media-types/text/html> .
+
 irtdist:export
     a dcat:Distribution ;
     dcterms:format <http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE> ;
@@ -16804,7 +16948,7 @@ irt:Q100
     schema:name "Kinneigh Round Tower"@en,
         "Rundturm von Kinneigh"@de ;
     wikibase:identifiers "7"^^xsd:integer ;
-    wikibase:statements "47"^^xsd:integer ;
+    wikibase:statements "48"^^xsd:integer ;
     rdfs:label "Kinneigh Round Tower"@en,
         "Rundturm von Kinneigh"@de ;
     skos:prefLabel "Kinneigh Round Tower"@en,
@@ -16844,6 +16988,7 @@ irt:Q100
         irts:Q100-80AD9FDF-369F-5953-945D-F44BBC7F3A88,
         irts:Q100-BE870904-02D7-58F0-8869-6ED9E80EAD6E,
         irts:Q100-CD3ED2C9-FA67-5FAF-927F-F1AA441ADBB8 ;
+    irtp:P129 irts:Q100-E85B5B00-5491-5A20-BD97-E0E18AC59439 ;
     irtp:P130 irts:Q100-074509D7-3A18-55CA-9D6A-70B42781FE36 ;
     irtp:P131 irts:Q100-D88D5A87-1A64-5817-BF8A-931C91FACAC3 ;
     irtp:P133 irts:Q100-2A33E761-6617-5E05-8227-2E0D8CC81FA8,
@@ -16878,6 +17023,7 @@ irt:Q100
         irt:Q242,
         irt:Q243,
         irt:Q245 ;
+    irtt:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q247 ;
     irtt:P131 "Point(-8.9734602 51.7650555)"^^geo:wktLiteral ;
     irtt:P133 irt:Q249,
@@ -16898,7 +17044,7 @@ irt:Q101
     schema:name "Rundturm von Timahoe"@de,
         "Timahoe Round Tower"@en ;
     wikibase:identifiers "8"^^xsd:integer ;
-    wikibase:statements "46"^^xsd:integer ;
+    wikibase:statements "48"^^xsd:integer ;
     rdfs:label "Rundturm von Timahoe"@de,
         "Timahoe Round Tower"@en ;
     skos:prefLabel "Rundturm von Timahoe"@de,
@@ -16942,6 +17088,8 @@ irt:Q101
         irts:Q101-284FCE5A-736C-5D43-ADB5-36DB5A7256B6,
         irts:Q101-626B397D-3A8B-5B65-8DE4-8A95BC13DADE,
         irts:Q101-CB556EC7-EAC3-5D2C-B83C-4BCB52D09DF2 ;
+    irtp:P129 irts:Q101-A6192FC1-CBB1-503F-943C-589BA9EAC114,
+        irts:Q101-E7D7EC14-FE5B-5035-AF66-491097AD64D1 ;
     irtp:P130 irts:Q101-F0835DCB-6E5B-584E-AE40-D1823B49E82B ;
     irtp:P131 irts:Q101-A1C28864-D64F-5BD4-A55E-BE2F933C35A9 ;
     irtp:P134 irts:Q101-82CEBCD0-73BE-52BC-8E30-8943CA42766F ;
@@ -16975,6 +17123,8 @@ irt:Q101
         irt:Q268,
         irt:Q272,
         irt:Q273 ;
+    irtt:P129 "1150-01-01T00:00:00Z"^^xsd:dateTime,
+        "1200-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q247 ;
     irtt:P131 "Point(-7.203579 52.960369)"^^geo:wktLiteral ;
     irtt:P134 irt:Q258 ;
@@ -16988,7 +17138,7 @@ irt:Q102
     schema:description "round tower in County Kerry, Ireland"@en ;
     schema:name "Rattoo Round Tower"@en ;
     wikibase:identifiers "7"^^xsd:integer ;
-    wikibase:statements "48"^^xsd:integer ;
+    wikibase:statements "49"^^xsd:integer ;
     rdfs:label "Rattoo Round Tower"@en ;
     skos:altLabel "Guilcagh"@en ;
     skos:prefLabel "Rattoo Round Tower"@en ;
@@ -17028,6 +17178,7 @@ irt:Q102
         irts:Q102-93089441-4AD9-507C-98BA-996E1888E0B6,
         irts:Q102-E1B680F8-945F-525F-B65E-287153F6BA77,
         irts:Q102-EC43B8B4-05B4-5F69-A100-0438F01570EC ;
+    irtp:P129 irts:Q102-808B1026-53E4-594A-8AF6-3E0D8F9AA56E ;
     irtp:P130 irts:Q102-595D1F62-C583-526A-A9FB-F861AE504280 ;
     irtp:P131 irts:Q102-0C27F543-B2FF-53B5-AC03-E1A2A1AC33B3 ;
     irtp:P133 irts:Q102-C86A39C3-A406-592B-884C-2A04CDBA619E ;
@@ -17058,6 +17209,7 @@ irt:Q102
     irtt:P123 "KE009-056001-" ;
     irtt:P124 "55" ;
     irtt:P125 irt:Q226 ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q247 ;
     irtt:P131 "Point(-9.6502222222222 52.442555555556)"^^geo:wktLiteral ;
     irtt:P133 irt:Q282 ;
@@ -17076,7 +17228,7 @@ irt:Q103
     schema:description "round tower in County Down, Northern Ireland"@en ;
     schema:name "Drumbo round tower"@en ;
     wikibase:identifiers "3"^^xsd:integer ;
-    wikibase:statements "25"^^xsd:integer ;
+    wikibase:statements "26"^^xsd:integer ;
     rdfs:label "Drumbo round tower"@en ;
     skos:prefLabel "Drumbo round tower"@en ;
     irtp:P2 irts:Q103-7F04C701-28C9-5F23-975C-AD1BB95608E0 ;
@@ -17099,6 +17251,7 @@ irt:Q103
     irtp:P122 irts:Q103-0B3FD12A-FA63-51FF-A079-9F0EBA94D34D ;
     irtp:P125 irts:Q103-8B6F9CAC-2C0B-587D-8186-9F0042AC6596,
         irts:Q103-CECBACB7-6932-5684-A00F-AA7CBCB38BE9 ;
+    irtp:P129 irts:Q103-233D89E4-7E79-50F3-A90F-09A34D53B3C7 ;
     irtp:P130 irts:Q103-49AC3721-176C-5FAA-B0F3-1A1514356A69 ;
     irtp:P131 irts:Q103-EFBADDAF-890E-5DDD-839E-6CA42F0FB1EB ;
     irtp:P134 irts:Q103-9108A714-2E39-5677-A4DF-6ACF4F2166D5 ;
@@ -17118,6 +17271,7 @@ irt:Q103
     irtt:P122 "Drumbo Round Tower" ;
     irtt:P125 irt:Q226,
         irt:Q292 ;
+    irtt:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-5.9601427 54.5166482)"^^geo:wktLiteral ;
     irtt:P134 irt:Q295 ;
@@ -17131,7 +17285,7 @@ irt:Q104
     schema:name "Rundturm von Turlough"@de,
         "Turlough Round Tower"@en ;
     wikibase:identifiers "7"^^xsd:integer ;
-    wikibase:statements "41"^^xsd:integer ;
+    wikibase:statements "42"^^xsd:integer ;
     rdfs:label "Rundturm von Turlough"@de,
         "Turlough Round Tower"@en ;
     skos:prefLabel "Rundturm von Turlough"@de,
@@ -17170,6 +17324,7 @@ irt:Q104
         irts:Q104-92A5E1E1-F127-56A0-B51E-2736370C83C8,
         irts:Q104-14366E9C-7F43-5616-AEED-CCC2BBC511C9,
         irts:Q104-C02B7A26-45D7-5205-A48F-8E24CED6CC34 ;
+    irtp:P129 irts:Q104-D3FBE75A-7B65-56B1-B531-4B6F9BF735E2 ;
     irtp:P130 irts:Q104-EA9FD5C0-837F-5257-A2AA-2AE1C645259A ;
     irtp:P131 irts:Q104-312EAE83-14F7-5D6A-9FFA-198AE61E3F91 ;
     irtp:P133 irts:Q104-2CF9F50A-942A-560B-BECD-5D420EFF2C66 ;
@@ -17198,6 +17353,7 @@ irt:Q104
     irtt:P125 irt:Q226,
         irt:Q242,
         irt:Q266 ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q247 ;
     irtt:P131 "Point(-9.208301 53.888691)"^^geo:wktLiteral ;
     irtt:P133 irt:Q305 ;
@@ -17211,7 +17367,7 @@ irt:Q105
     schema:description "round tower in Clondalkin, Ireland"@en ;
     schema:name "Clondalkin Round Tower"@en ;
     wikibase:identifiers "6"^^xsd:integer ;
-    wikibase:statements "50"^^xsd:integer ;
+    wikibase:statements "52"^^xsd:integer ;
     rdfs:label "Clondalkin Round Tower"@en ;
     skos:prefLabel "Clondalkin Round Tower"@en ;
     irtp:P2 irts:Q105-0367FAD4-923A-578D-9FB9-8CB0FB332FB1,
@@ -17255,6 +17411,8 @@ irt:Q105
         irts:Q105-208DA2DD-B63C-50FB-A97F-BF6D17E6F855,
         irts:Q105-84494FF6-8CFA-5B65-8920-55D213B51E26,
         irts:Q105-0830367C-3C74-5070-8F2F-565088A6A98D ;
+    irtp:P129 irts:Q105-B6C7C233-8807-5BBE-A077-06E857224D46,
+        irts:Q105-E20BF433-5265-5D13-A067-F263052F73E8 ;
     irtp:P130 irts:Q105-D8445950-770E-55C5-8690-FAB4E1EEA285 ;
     irtp:P131 irts:Q105-88266B5E-A0AD-5D96-A21C-36550C076E2E,
         irts:Q105-424075D9-B6A2-5B59-8614-E2C154DF92CD ;
@@ -17289,6 +17447,8 @@ irt:Q105
         irt:Q267,
         irt:Q268,
         irt:Q319 ;
+    irtt:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime,
+        "1004-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q247 ;
     irtt:P131 "Point(-6.395374 53.322065)"^^geo:wktLiteral,
         "Point(-6.395384 53.322048)"^^geo:wktLiteral ;
@@ -17304,7 +17464,7 @@ irt:Q106
     schema:description "Round tower in Kells, County Meath"@en ;
     schema:name "Kells Round Tower"@en ;
     wikibase:identifiers "6"^^xsd:integer ;
-    wikibase:statements "51"^^xsd:integer ;
+    wikibase:statements "54"^^xsd:integer ;
     rdfs:label "Kells Round Tower"@en ;
     skos:prefLabel "Kells Round Tower"@en ;
     irtp:P2 irts:Q106-C0768008-F55C-5BE3-AABD-721AEAEC2D32 ;
@@ -17339,6 +17499,8 @@ irt:Q106
     irtp:P125 irts:Q106-2C9D9BE5-E80E-5ED8-BCE3-DBE15119D33B,
         irts:Q106-6A5DD570-7F36-5CC3-AA23-9A5B932CF073,
         irts:Q106-82E612E1-0EF1-5DE5-AAA6-B2197353297E ;
+    irtp:P129 irts:Q106-621DCF93-F254-54DA-9FB1-C3FF0556C2AA,
+        irts:Q106-B08AC8B8-7D82-53BB-8EE6-CC18773705D0 ;
     irtp:P130 irts:Q106-9520916D-424B-53EC-AD75-67C829159751 ;
     irtp:P131 irts:Q106-B6CB52B7-3DA5-51D7-A687-8F120B13C2CD ;
     irtp:P133 irts:Q106-01D88DEB-14B4-5080-A065-75667F9D3B34,
@@ -17358,6 +17520,7 @@ irt:Q106
         irts:Q106-F5406F4E-8ED5-5B1F-A58F-4FE0CA3A120E ;
     irtp:P154 irts:Q106-5A0271DC-A0C0-5C2A-AEDA-563C06254189,
         irts:Q106-DDD2DCCF-0215-522A-B284-A50F717E3B15 ;
+    irtp:P160 irts:Q106-FCF9B640-E45D-5004-AE99-485B1DD0B158 ;
     irtt:P2 irt:Q241 ;
     irtt:P4 "Q28195945" ;
     irtt:P100 "85160507" ;
@@ -17375,6 +17538,7 @@ irt:Q106
     irtt:P123 "ME017-044013-" ;
     irtt:P124 "158" ;
     irtt:P125 irt:Q226 ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-6.880127 53.727307)"^^geo:wktLiteral ;
     irtt:P133 irt:Q249,
@@ -17393,14 +17557,15 @@ irt:Q106
     irtt:P150 irt:Q331,
         irt:Q333 ;
     irtt:P154 irt:Q306,
-        irt:Q334 .
+        irt:Q334 ;
+    irtt:P160 "1076-01-01T00:00:00Z"^^xsd:dateTime .
 
 irt:Q107
     a wikibase:Item ;
     schema:description "round tower in County Cork, built by St Colman, according to legend"@en ;
     schema:name "Cloyne Round Tower"@en ;
     wikibase:identifiers "7"^^xsd:integer ;
-    wikibase:statements "42"^^xsd:integer ;
+    wikibase:statements "43"^^xsd:integer ;
     rdfs:label "Cloyne Round Tower"@en ;
     skos:altLabel "Giolcagh"@en ;
     skos:prefLabel "Cloyne Round Tower"@en ;
@@ -17436,6 +17601,7 @@ irt:Q107
     irtp:P125 irts:Q107-615A28F9-B642-511E-84D7-3F4521D113F5,
         irts:Q107-223975D8-E4DD-5C3A-B522-A743C9A879E0,
         irts:Q107-29268043-B182-5889-9FDC-C3D337C4F357 ;
+    irtp:P129 irts:Q107-38A6D7FF-AB7C-5336-82EB-258F7CF818F6 ;
     irtp:P130 irts:Q107-8BB1161C-15FE-544C-AC79-A755F7842675 ;
     irtp:P131 irts:Q107-DC528C49-81EC-504E-8A19-B791C2FE91C7 ;
     irtp:P133 irts:Q107-01D864F8-73B5-563D-B0AE-6CC38733D5FD,
@@ -17467,6 +17633,7 @@ irt:Q107
     irtt:P125 irt:Q226,
         irt:Q243,
         irt:Q268 ;
+    irtt:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-8.120268 51.8620196)"^^geo:wktLiteral ;
     irtt:P133 irt:Q249,
@@ -17482,7 +17649,7 @@ irt:Q108
     schema:description "Irish round tower in County Mayo, Ireland"@en ;
     schema:name "Balla Round Tower"@en ;
     wikibase:identifiers "8"^^xsd:integer ;
-    wikibase:statements "42"^^xsd:integer ;
+    wikibase:statements "43"^^xsd:integer ;
     rdfs:label "Balla Round Tower"@en ;
     skos:prefLabel "Balla Round Tower"@en ;
     irtp:P2 irts:Q108-71E98EC6-6C8A-5422-9DD0-06C073BE363F ;
@@ -17518,6 +17685,7 @@ irt:Q108
         irts:Q108-062E6706-DBB9-54E1-9C6B-9C2EEC65132E,
         irts:Q108-C5DDBA8C-87D4-540D-B9CE-7F0EC7DFF2B5,
         irts:Q108-E01E1FFB-B4C5-5424-900F-2A70DC303691 ;
+    irtp:P129 irts:Q108-DB712DB9-A34B-5576-A28E-3F4B418AD816 ;
     irtp:P130 irts:Q108-EA9030A9-544A-5015-B67E-8F01A1DBD49A ;
     irtp:P131 irts:Q108-747F4FE9-1B3F-5185-A900-8862D8D8B2E9 ;
     irtp:P134 irts:Q108-34DA36F4-4DB2-509A-9F6D-B01F5EFA4DC6 ;
@@ -17548,6 +17716,7 @@ irt:Q108
     irtt:P125 irt:Q226,
         irt:Q243,
         irt:Q342 ;
+    irtt:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-9.131503 53.805067)"^^geo:wktLiteral ;
     irtt:P134 irt:Q297 ;
@@ -17603,7 +17772,7 @@ irt:Q110
         "round tower in Grangefertagh, Co. Kilkenny"@en ;
     schema:name "Grangefertagh Round Tower"@en ;
     wikibase:identifiers "5"^^xsd:integer ;
-    wikibase:statements "51"^^xsd:integer ;
+    wikibase:statements "52"^^xsd:integer ;
     rdfs:label "Grangefertagh Round Tower"@en ;
     skos:altLabel "Ferta Round Tower"@en,
         "Fertagh Round Tower"@en ;
@@ -17646,6 +17815,7 @@ irt:Q110
         irts:Q110-473F6B84-83A0-5DCE-8263-9BAC7FED082E,
         irts:Q110-B2B55F86-9C2A-5A38-9828-22D5623B759F,
         irts:Q110-C513BC89-C7B7-58A5-9DBA-19CCC99160CB ;
+    irtp:P129 irts:Q110-F9318B4E-5873-5762-B20A-2A3FF3B89F5A ;
     irtp:P130 irts:Q110-634593D6-4D43-5DEE-A8E6-7389DBD2D4A6 ;
     irtp:P131 irts:Q110-CF6803C2-0C00-5074-B902-8BA842E400B7 ;
     irtp:P133 irts:Q110-33F2C5EB-4EF8-57CF-A40B-C744684909B8,
@@ -17679,6 +17849,7 @@ irt:Q110
         irt:Q267,
         irt:Q268,
         irt:Q354 ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-7.544691 52.77841)"^^geo:wktLiteral ;
     irtt:P133 irt:Q282,
@@ -17697,7 +17868,7 @@ irt:Q111
     schema:description "Irish round tower in Taghadoe, County Kildare"@en ;
     schema:name "Taghadoe Round Tower"@en ;
     wikibase:identifiers "5"^^xsd:integer ;
-    wikibase:statements "39"^^xsd:integer ;
+    wikibase:statements "40"^^xsd:integer ;
     rdfs:label "Taghadoe Round Tower"@en ;
     skos:prefLabel "Taghadoe Round Tower"@en ;
     irtp:P2 irts:Q111-54D7A05E-58E5-5060-9364-FB558661CCFE ;
@@ -17733,6 +17904,7 @@ irt:Q111
         irts:Q111-28F45C6C-E2B5-5A7B-885D-D8E7FDA4F9A9,
         irts:Q111-49D84BE2-A4CB-5F92-9D35-3146E7A8E0F9,
         irts:Q111-F084F7DB-C672-5CB1-BE7D-75ED2F4C524F ;
+    irtp:P129 irts:Q111-DDC02835-C6CA-5858-93A4-CDE4C8540623 ;
     irtp:P130 irts:Q111-5BF51CC3-EDD9-52FC-877E-65EE2C0B2AB8 ;
     irtp:P131 irts:Q111-A2839291-F8A9-5835-AB1E-D15302B8AB38 ;
     irtp:P134 irts:Q111-58925BE5-3FE6-5175-8A6A-C86BAF1457C1 ;
@@ -17759,6 +17931,7 @@ irt:Q111
     irtt:P125 irt:Q226,
         irt:Q268,
         irt:Q354 ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-6.613237 53.353199)"^^geo:wktLiteral ;
     irtt:P134 irt:Q361 ;
@@ -17841,7 +18014,7 @@ irt:Q113
     schema:description "remains of a round tower in County Galway, Ireland"@en ;
     schema:name "Ardrahan Tower"@en ;
     wikibase:identifiers "5"^^xsd:integer ;
-    wikibase:statements "23"^^xsd:integer ;
+    wikibase:statements "24"^^xsd:integer ;
     rdfs:label "Ardrahan Tower"@en ;
     skos:altLabel "Ardrahan Round Tower"@en ;
     skos:prefLabel "Ardrahan Tower"@en ;
@@ -17863,6 +18036,7 @@ irt:Q113
     irtp:P120 irts:Q113-FAE307C8-8967-534A-BD8C-FEE990DBEAB4 ;
     irtp:P123 irts:Q113-96601FE0-AC53-5A6B-BEEC-5FD36A32D029 ;
     irtp:P124 irts:Q113-8715D163-F65B-5CC8-A772-69FE8E92906E ;
+    irtp:P129 irts:Q113-5F69C1A6-9C5B-5A97-872E-F18F1EB95BA3 ;
     irtp:P130 irts:Q113-A78E322A-BB9C-5437-BAC1-0CE15D46FC97 ;
     irtp:P131 irts:Q113-47177472-7E10-597D-9C7E-B0E2A6CEA77A ;
     irtp:P134 irts:Q113-DA2DF32B-C4B6-58EE-8791-3E3619699380 ;
@@ -17881,6 +18055,7 @@ irt:Q113
     irtt:P120 "IE-G-0055" ;
     irtt:P123 "GA114-001005-" ;
     irtt:P124 "n/a" ;
+    irtt:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-8.8075 53.1575)"^^geo:wktLiteral ;
     irtt:P134 irt:Q367 ;
@@ -17892,7 +18067,7 @@ irt:Q114
     schema:description "round tower in County Roscommon, Ireland"@en ;
     schema:name "Oran Tower"@en ;
     wikibase:identifiers "6"^^xsd:integer ;
-    wikibase:statements "28"^^xsd:integer ;
+    wikibase:statements "29"^^xsd:integer ;
     rdfs:label "Oran Tower"@en ;
     skos:altLabel "Carroweighter round tower"@en,
         "Oran round tower"@en ;
@@ -17921,6 +18096,7 @@ irt:Q114
     irtp:P123 irts:Q114-00F704C6-7D00-5D4C-BA90-07224CD89E29 ;
     irtp:P124 irts:Q114-BEB5BDD6-2702-5229-BAD3-8A2865E9998C ;
     irtp:P125 irts:Q114-9C63590F-DB7D-5A51-9C01-0FD62836741B ;
+    irtp:P129 irts:Q114-AEF866CF-B643-5BAE-992C-0D681FD5D72A ;
     irtp:P130 irts:Q114-46012F56-ECD0-5BE5-A9EA-D81608CA267D ;
     irtp:P131 irts:Q114-6EE45552-4249-59B8-86A9-E07E875AB2B5 ;
     irtp:P134 irts:Q114-03995E21-A873-574E-B0E6-A1B9933DF9BF ;
@@ -17943,6 +18119,7 @@ irt:Q114
     irtt:P123 "RO034-080003-" ;
     irtt:P124 "n/a" ;
     irtt:P125 irt:Q266 ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-8.340278 53.673889)"^^geo:wktLiteral ;
     irtt:P134 irt:Q370 ;
@@ -18027,7 +18204,7 @@ irt:Q116
         "round tower in County Monaghan"@en ;
     schema:name "Inniskeen Glebe Round Tower"@en ;
     wikibase:identifiers "5"^^xsd:integer ;
-    wikibase:statements "34"^^xsd:integer ;
+    wikibase:statements "35"^^xsd:integer ;
     rdfs:label "Inniskeen Glebe Round Tower"@en ;
     skos:altLabel "Inishkeen Round Tower"@en,
         "Iniskeane Round Tower"@en ;
@@ -18057,6 +18234,7 @@ irt:Q116
     irtp:P124 irts:Q116-CED4DF8A-CD64-5963-94C6-74FB1A2083A0 ;
     irtp:P125 irts:Q116-1F808467-CD6E-5707-A143-741664A4BBB6,
         irts:Q116-B4FD0167-8D2F-5024-9AB5-2ECD58CDD49F ;
+    irtp:P129 irts:Q116-C87A8E12-66D0-53C5-9A88-868B389DF746 ;
     irtp:P130 irts:Q116-58671531-A447-5C07-A30E-CA4C08961032 ;
     irtp:P131 irts:Q116-125CFFD2-56A1-5B97-B802-B19683D5549E ;
     irtp:P133 irts:Q116-6FD12112-09B4-5E62-8AA1-AECC84DBC2C6,
@@ -18080,6 +18258,7 @@ irt:Q116
     irtt:P123 "MO029-031002-" ;
     irtt:P124 "208" ;
     irtt:P125 irt:Q226 ;
+    irtt:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-6.578634 54.003714)"^^geo:wktLiteral ;
     irtt:P133 irt:Q249,
@@ -18096,7 +18275,7 @@ irt:Q117
     schema:name "Aghagower Rundturm"@de,
         "Aughagower Round Tower"@en ;
     wikibase:identifiers "7"^^xsd:integer ;
-    wikibase:statements "50"^^xsd:integer ;
+    wikibase:statements "51"^^xsd:integer ;
     rdfs:label "Aghagower Rundturm"@de,
         "Aughagower Round Tower"@en ;
     skos:altLabel "Aghagower Round Tower"@en ;
@@ -18136,6 +18315,7 @@ irt:Q117
     irtp:P125 irts:Q117-6D3E2388-E9EF-50E4-BF3E-2F40D4E94179,
         irts:Q117-905A5A9F-D69F-5B02-B613-A8AB16448757,
         irts:Q117-2811FDA6-BDC3-53CC-8C6E-DE24A7369805 ;
+    irtp:P129 irts:Q117-F4F44DEF-592A-5BF1-A54B-2F2C4B5902A7 ;
     irtp:P130 irts:Q117-F3BF9149-AB7A-5275-AE29-9C9CC1EC7144 ;
     irtp:P131 irts:Q117-215AA013-9EF1-5136-B7C8-9791326A8DF4 ;
     irtp:P133 irts:Q117-1F9217F7-135F-5DC6-AFBD-4669733EF551,
@@ -18170,6 +18350,7 @@ irt:Q117
     irtt:P123 "MA088-063003-" ;
     irtt:P124 "96" ;
     irtt:P125 irt:Q226 ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-9.46491 53.764136)"^^geo:wktLiteral ;
     irtt:P133 irt:Q329,
@@ -18194,7 +18375,7 @@ irt:Q118
     schema:name "Meelick Round Tower"@en,
         "Rundturm von Meelick"@de ;
     wikibase:identifiers "7"^^xsd:integer ;
-    wikibase:statements "46"^^xsd:integer ;
+    wikibase:statements "47"^^xsd:integer ;
     rdfs:label "Meelick Round Tower"@en,
         "Rundturm von Meelick"@de ;
     skos:prefLabel "Meelick Round Tower"@en,
@@ -18233,6 +18414,7 @@ irt:Q118
         irts:Q118-817F5487-6CD1-5B7A-A4AF-FDCB82847F7C,
         irts:Q118-B47F9D55-8A08-5806-9C08-161FC052A4D0,
         irts:Q118-D05C5412-5698-5340-917A-88D86B8F01E0 ;
+    irtp:P129 irts:Q118-2C878E46-3EF7-55A6-BD8F-16CD39363220 ;
     irtp:P130 irts:Q118-CFBEC9FB-2EAE-583F-83DF-D50E61077A38 ;
     irtp:P131 irts:Q118-C5DFD95D-79A3-57B3-902D-7E175ED1262F ;
     irtp:P133 irts:Q118-1ECA2A63-E561-5347-80E5-8207A50F2244 ;
@@ -18262,6 +18444,7 @@ irt:Q118
     irtt:P123 "MA071-028003-" ;
     irtt:P124 "98" ;
     irtt:P125 irt:Q226 ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-9.020115 53.921502)"^^geo:wktLiteral ;
     irtt:P133 irt:Q337 ;
@@ -18279,7 +18462,7 @@ irt:Q119
     schema:description "Round tower in Killala"@en ;
     schema:name "Killala Round Tower"@en ;
     wikibase:identifiers "5"^^xsd:integer ;
-    wikibase:statements "47"^^xsd:integer ;
+    wikibase:statements "48"^^xsd:integer ;
     rdfs:label "Killala Round Tower"@en ;
     skos:altLabel "The Steeple"@en ;
     skos:prefLabel "Killala Round Tower"@en ;
@@ -18316,6 +18499,7 @@ irt:Q119
         irts:Q119-475AA1CA-DAAF-5F82-AAC6-B669E7345DA9,
         irts:Q119-155789EB-C756-50B5-B2E6-EA798B3C1E77,
         irts:Q119-FADE7205-334F-568B-979A-5216A9D2797A ;
+    irtp:P129 irts:Q119-CA1E23B9-5EA0-5701-89B4-932D4E3EF82F ;
     irtp:P130 irts:Q119-7AFC94A2-1B25-5980-83B8-3733CD81757F ;
     irtp:P131 irts:Q119-09EB75B6-E7C7-55D9-BF76-58CB6B3DD236 ;
     irtp:P133 irts:Q119-8A63F557-6DB4-5152-9BEC-9376E2F375E8,
@@ -18351,6 +18535,7 @@ irt:Q119
         irt:Q245,
         irt:Q267,
         irt:Q399 ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q247 ;
     irtt:P131 "Point(-9.220746 54.2130293)"^^geo:wktLiteral ;
     irtt:P133 irt:Q305,
@@ -18371,7 +18556,7 @@ irt:Q120
     schema:description "round tower in County Galway, Ireland"@en ;
     schema:name "Kilbennan Round Tower"@en ;
     wikibase:identifiers "5"^^xsd:integer ;
-    wikibase:statements "34"^^xsd:integer ;
+    wikibase:statements "35"^^xsd:integer ;
     rdfs:label "Kilbennan Round Tower"@en ;
     skos:altLabel "Kilbennen Round Tower"@en,
         "The Round Tower of Kilbannon"@en ;
@@ -18404,6 +18589,7 @@ irt:Q120
     irtp:P124 irts:Q120-EECBFCD0-AAB4-5758-9EA7-A530DB6AD7CC ;
     irtp:P125 irts:Q120-0B0DA7D8-C9BB-5794-B073-668D19413D13,
         irts:Q120-FF721DA4-E5D3-5A9E-9880-BC111F89D03D ;
+    irtp:P129 irts:Q120-8D1F8437-FED7-5F2A-951E-C8FBD77974C4 ;
     irtp:P130 irts:Q120-9D7C0143-8720-5775-B16E-C863E8DB9178 ;
     irtp:P131 irts:Q120-8863DE5D-70CD-5037-B7AF-90568B900F03 ;
     irtp:P133 irts:Q120-24148B90-A0F8-5FAC-8AF3-2A659F78A5CA,
@@ -18426,6 +18612,7 @@ irt:Q120
     irtt:P123 "GA029-017001-" ;
     irtt:P124 "48" ;
     irtt:P125 irt:Q226 ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-8.8924033 53.538725)"^^geo:wktLiteral ;
     irtt:P133 irt:Q329,
@@ -18491,7 +18678,7 @@ irt:Q122
     schema:description "round tower in County Kerry, Ireland"@en ;
     schema:name "Aghadoe Round Tower"@en ;
     wikibase:identifiers "6"^^xsd:integer ;
-    wikibase:statements "30"^^xsd:integer ;
+    wikibase:statements "31"^^xsd:integer ;
     rdfs:label "Aghadoe Round Tower"@en ;
     skos:altLabel "Round Tower"@en ;
     skos:prefLabel "Aghadoe Round Tower"@en ;
@@ -18520,6 +18707,7 @@ irt:Q122
     irtp:P122 irts:Q122-8D87A5E6-6640-52D5-B5ED-6004A6C97BF6 ;
     irtp:P123 irts:Q122-D5D0D982-D8C9-5653-B011-825A360820D7 ;
     irtp:P124 irts:Q122-FE8BCD1F-BCEC-570C-AFD5-530FBAC897EB ;
+    irtp:P129 irts:Q122-DDDA2C34-F102-502A-8B1B-AC9B7C90477B ;
     irtp:P130 irts:Q122-EA5010FF-A859-5465-A0FD-5B40AA88C621 ;
     irtp:P131 irts:Q122-27B44D13-57F7-54A7-9445-B4697A4B4396,
         irts:Q122-A1F96982-A8AB-5667-B05A-37A5215546EB ;
@@ -18541,6 +18729,7 @@ irt:Q122
     irtt:P122 "Aghadoe Round Tower" ;
     irtt:P123 "KE066-016006-" ;
     irtt:P124 "53" ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-9.55 52.066667)"^^geo:wktLiteral,
         "Point(-9.5549166666667 52.076997222222)"^^geo:wktLiteral ;
@@ -18552,7 +18741,7 @@ irt:Q123
     schema:description "round tower in County Waterford, Ireland"@en ;
     schema:name "Ardmore Round Tower"@en ;
     wikibase:identifiers "5"^^xsd:integer ;
-    wikibase:statements "50"^^xsd:integer ;
+    wikibase:statements "52"^^xsd:integer ;
     rdfs:label "Ardmore Round Tower"@en ;
     skos:prefLabel "Ardmore Round Tower"@en ;
     irtp:P2 irts:Q123-1D196ACD-14D3-56D4-94D5-F9E00B581A7D,
@@ -18594,6 +18783,8 @@ irt:Q123
         irts:Q123-63340DD6-ACE2-5DE0-9758-EF8F7854D2D9,
         irts:Q123-B56D238F-AB0A-5921-9BD5-5DFB451DAFCF,
         irts:Q123-DBD5931E-3676-5B41-A6BA-16895E7C2015 ;
+    irtp:P129 irts:Q123-E9CB3E7B-46BE-5C42-9025-682B2F427D89,
+        irts:Q123-E508B87E-ABFB-5F6E-B36A-D36A3F3D3352 ;
     irtp:P130 irts:Q123-8F94FDDF-B112-55FF-A350-87550893A73F ;
     irtp:P131 irts:Q123-A92B3A5D-AE5C-5746-B9BB-D27F21BFB8C1 ;
     irtp:P133 irts:Q123-0C19F6DF-C34A-5BB6-90A6-A22324A6F3EC,
@@ -18629,6 +18820,7 @@ irt:Q123
         irt:Q268,
         irt:Q272,
         irt:Q424 ;
+    irtt:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q247 ;
     irtt:P131 "Point(-7.7261122 51.9485682)"^^geo:wktLiteral ;
     irtt:P133 irt:Q249,
@@ -18646,7 +18838,7 @@ irt:Q124
     schema:description "round tower in County Galway"@en ;
     schema:name "Kilmacduagh Round Tower"@en ;
     wikibase:identifiers "8"^^xsd:integer ;
-    wikibase:statements "47"^^xsd:integer ;
+    wikibase:statements "48"^^xsd:integer ;
     rdfs:label "Kilmacduagh Round Tower"@en ;
     skos:prefLabel "Kilmacduagh Round Tower"@en ;
     irtp:P2 irts:Q124-420292D3-F196-50E0-839E-6BB4CE071B2B,
@@ -18686,6 +18878,7 @@ irt:Q124
         irts:Q124-70CCD07F-ACC3-5061-B038-14A4F9042905,
         irts:Q124-B5841F5A-0FB2-5A4C-BE5E-BF146553377B,
         irts:Q124-D2599B47-EEF8-56D6-8274-2F14ABFE1FD6 ;
+    irtp:P129 irts:Q124-2BDE9D3F-EF6B-57E7-9496-ED4589B5CD22 ;
     irtp:P130 irts:Q124-C63DF1CE-83F4-5AD5-9B01-35968F187B92 ;
     irtp:P131 irts:Q124-FB482182-D259-590F-BF69-07C870B77BCF ;
     irtp:P134 irts:Q124-295BE4B5-E76E-59DB-B8FF-A7188ADD3243 ;
@@ -18718,6 +18911,7 @@ irt:Q124
         irt:Q242,
         irt:Q268,
         irt:Q301 ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q247 ;
     irtt:P131 "Point(-8.888381 53.047781)"^^geo:wktLiteral ;
     irtt:P134 irt:Q367 ;
@@ -18734,7 +18928,7 @@ irt:Q125
     schema:description "round tower and the only remnant of a monastery founded by St Columba/St Colmcille in 512."@en ;
     schema:name "Swords Round Tower"@en ;
     wikibase:identifiers "5"^^xsd:integer ;
-    wikibase:statements "33"^^xsd:integer ;
+    wikibase:statements "35"^^xsd:integer ;
     rdfs:label "Swords Round Tower"@en ;
     skos:prefLabel "Swords Round Tower"@en ;
     irtp:P2 irts:Q125-9BADD968-4B84-53E1-AF1F-70D75A503319 ;
@@ -18766,6 +18960,8 @@ irt:Q125
     irtp:P125 irts:Q125-08FEF2A5-4EBF-5BEF-A42E-B98FB19046E5,
         irts:Q125-615A03D1-2046-531B-A052-931E261C793F,
         irts:Q125-DA877EF7-1C51-5645-B000-29E738B30D18 ;
+    irtp:P129 irts:Q125-6EEB9D27-3E68-5264-B14E-366544963D81,
+        irts:Q125-1774FED3-9694-527A-8607-9FEA0B25C13B ;
     irtp:P130 irts:Q125-83351FD2-5616-5CDE-9502-D32CB290F503 ;
     irtp:P131 irts:Q125-18CD9D44-EE91-53E4-BE0D-CC12A7A0A976 ;
     irtp:P133 irts:Q125-1FC50C83-AD1F-5EA2-80CC-D13A60EBEC62,
@@ -18788,6 +18984,8 @@ irt:Q125
     irtt:P125 irt:Q226,
         irt:Q242,
         irt:Q268 ;
+    irtt:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime,
+        "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-6.2244449 53.4576423)"^^geo:wktLiteral ;
     irtt:P133 irt:Q329,
@@ -18800,7 +18998,7 @@ irt:Q126
     schema:name "Armoy Round Tower"@en,
         "Rundturm von Armoy"@de ;
     wikibase:identifiers "2"^^xsd:integer ;
-    wikibase:statements "26"^^xsd:integer ;
+    wikibase:statements "27"^^xsd:integer ;
     rdfs:label "Armoy Round Tower"@en,
         "Rundturm von Armoy"@de ;
     skos:prefLabel "Armoy Round Tower"@en,
@@ -18827,6 +19025,7 @@ irt:Q126
     irtp:P122 irts:Q126-D85219E3-7407-5C40-A968-8F077F92C373 ;
     irtp:P125 irts:Q126-9BAF3F07-5EFD-5005-A8A5-0E8E4C34739F,
         irts:Q126-75571DE6-BA58-5278-943A-866FA29550B0 ;
+    irtp:P129 irts:Q126-692DD7C1-AC2E-5969-9407-628134D4F82B ;
     irtp:P130 irts:Q126-2A60AA03-9CEC-5C0A-A87B-3DBB7F8199EB ;
     irtp:P131 irts:Q126-31930334-B936-563E-A2B3-4580FFC5846B ;
     irtp:P134 irts:Q126-5A72F79E-D1D2-5B2F-ADDE-0AD3B8D03472 ;
@@ -18846,6 +19045,7 @@ irt:Q126
     irtt:P122 "Armoy Round Tower" ;
     irtt:P125 irt:Q226,
         irt:Q354 ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-6.3107146 55.1347067)"^^geo:wktLiteral ;
     irtt:P134 irt:Q440 ;
@@ -18856,7 +19056,7 @@ irt:Q127
     schema:description "Round tower at the former monastic site of Aghaviller and National Monument of Ireland"@en ;
     schema:name "Aghaviller Round Tower"@en ;
     wikibase:identifiers "4"^^xsd:integer ;
-    wikibase:statements "38"^^xsd:integer ;
+    wikibase:statements "39"^^xsd:integer ;
     rdfs:label "Aghaviller Round Tower"@en ;
     skos:prefLabel "Aghaviller Round Tower"@en ;
     irtp:P2 irts:Q127-04D59D04-7399-569E-8D9D-DB34E1FFD83E,
@@ -18894,6 +19094,7 @@ irt:Q127
         irts:Q127-409B03EB-0417-569F-B65D-EF5D988A2AAD,
         irts:Q127-576E22A7-1B35-5995-B9ED-F4D45BCCBA85,
         irts:Q127-8843A388-973D-591F-AD16-8C8BD10D1B6C ;
+    irtp:P129 irts:Q127-E8627168-570C-591F-B7B8-7059464225B6 ;
     irtp:P130 irts:Q127-0C805C1F-3DBF-560B-9B05-C9BC4AEFAEF1 ;
     irtp:P131 irts:Q127-064B55EB-1DF9-5025-AD0B-8AF5BF792D14 ;
     irtp:P166 irts:Q127-A3FA5D12-919B-51E7-9E14-4F9E6F601C19 ;
@@ -18918,6 +19119,7 @@ irt:Q127
     irtt:P125 irt:Q226,
         irt:Q266,
         irt:Q268 ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-7.269136 52.465225)"^^geo:wktLiteral ;
     irtt:P166 <http://commons.wikimedia.org/wiki/Special:FilePath/Aghaviller%20Round%20Tower.jpg> .
@@ -18927,7 +19129,7 @@ irt:Q128
     schema:description "tower in Glendalough"@en ;
     schema:name "round tower"@en ;
     wikibase:identifiers "5"^^xsd:integer ;
-    wikibase:statements "41"^^xsd:integer ;
+    wikibase:statements "43"^^xsd:integer ;
     rdfs:label "round tower"@en ;
     skos:altLabel "Glendalough I"@en,
         "Glendalough round tower"@en ;
@@ -18964,6 +19166,8 @@ irt:Q128
     irtp:P125 irts:Q128-9EDD692B-965B-5368-9939-9819061624CA,
         irts:Q128-B55B0199-F329-58E9-870E-4CCF59EF3596,
         irts:Q128-B1738D3E-82BB-56AA-83ED-1C7FBC766C0D ;
+    irtp:P129 irts:Q128-0F15F535-4DD7-5973-B22C-E878FFB5709E,
+        irts:Q128-197857BD-6A8C-5BC6-BD9D-DA8BDAF430EA ;
     irtp:P130 irts:Q128-A328BAC0-CC31-55F0-90D1-19A3B7FEEE87 ;
     irtp:P131 irts:Q128-6CDE7E5F-417E-5A04-B7E1-9C6162461858 ;
     irtp:P133 irts:Q128-43F0A118-DEC8-5BAD-9C41-90B10F7876D6,
@@ -18992,6 +19196,8 @@ irt:Q128
     irtt:P125 irt:Q226,
         irt:Q242,
         irt:Q266 ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime,
+        "1200-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q247 ;
     irtt:P131 "Point(-6.3277 53.01094)"^^geo:wktLiteral ;
     irtt:P133 irt:Q321,
@@ -19007,7 +19213,7 @@ irt:Q129
     schema:description "bell tower in Lusk, Co. Dublin"@en ;
     schema:name "Lusk Round Tower"@en ;
     wikibase:identifiers "4"^^xsd:integer ;
-    wikibase:statements "45"^^xsd:integer ;
+    wikibase:statements "46"^^xsd:integer ;
     rdfs:label "Lusk Round Tower"@en ;
     skos:prefLabel "Lusk Round Tower"@en ;
     irtp:P2 irts:Q129-3F8451C4-BC0B-5F4B-8846-16C1FC5B271E,
@@ -19044,6 +19250,7 @@ irt:Q129
     irtp:P125 irts:Q129-0CBEA250-365F-54D6-8164-C2779A0B490D,
         irts:Q129-41D26965-CE2E-5C96-BD97-C27C6EAB3B1C,
         irts:Q129-A1689432-32B5-5108-961F-EE6B49D08CEC ;
+    irtp:P129 irts:Q129-B01E3CA6-96A2-5866-8AB2-BCCEF3803625 ;
     irtp:P130 irts:Q129-A886CB0C-360E-5F29-BAA3-BD27CE9B6CC9 ;
     irtp:P131 irts:Q129-9EC7F97A-FE14-50F1-BC38-25845EAA653E,
         irts:Q129-286B30FF-D2B4-587C-9356-90132C5FFAE5 ;
@@ -19074,6 +19281,7 @@ irt:Q129
     irtt:P124 "157" ;
     irtt:P125 irt:Q226,
         irt:Q272 ;
+    irtt:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-6.1672 53.52616)"^^geo:wktLiteral,
         "Point(-6.16726 53.52612)"^^geo:wktLiteral ;
@@ -19092,7 +19300,7 @@ irt:Q130
     schema:name "Donaghmore Round Tower"@en,
         "Rundturm von Donaghmore"@de ;
     wikibase:identifiers "4"^^xsd:integer ;
-    wikibase:statements "47"^^xsd:integer ;
+    wikibase:statements "48"^^xsd:integer ;
     rdfs:label "Donaghmore Round Tower"@en,
         "Rundturm von Donaghmore"@de ;
     skos:altLabel "Donaghmore Tower"@en ;
@@ -19134,6 +19342,7 @@ irt:Q130
         irts:Q130-C222FD9D-9E7A-5135-9CD5-A1C59DD97FB6,
         irts:Q130-EC32B534-9D51-5BC5-96EF-F5EA06FAE270,
         irts:Q130-F2F0EE7A-0CC3-5EB9-8112-99ABA266760D ;
+    irtp:P129 irts:Q130-191214B9-3124-5EE9-B6AB-A2317E23BD98 ;
     irtp:P130 irts:Q130-03492F5C-675B-5CAD-9E9E-CD7C836978D6 ;
     irtp:P131 irts:Q130-22DCA3FD-A0A8-57B0-A55B-8534DBD6C5AC ;
     irtp:P133 irts:Q130-07A0DB39-2504-5EE4-82ED-9BF876DB8CEC ;
@@ -19161,6 +19370,7 @@ irt:Q130
     irtt:P123 "ME025-015002-" ;
     irtt:P124 "106" ;
     irtt:P125 irt:Q226 ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q247 ;
     irtt:P131 "Point(-6.66245 53.67044)"^^geo:wktLiteral ;
     irtt:P133 irt:Q249 ;
@@ -19178,7 +19388,7 @@ irt:Q131
     schema:description "round tower in Clonmacnoise"@en ;
     schema:name "O'Rourke's Tower"@en ;
     wikibase:identifiers "4"^^xsd:integer ;
-    wikibase:statements "38"^^xsd:integer ;
+    wikibase:statements "40"^^xsd:integer ;
     rdfs:label "O'Rourke's Tower"@en ;
     skos:altLabel "Clonmacnoise I"@en,
         "Clonmacnoise Round Tower"@en ;
@@ -19210,6 +19420,8 @@ irt:Q131
     irtp:P124 irts:Q131-68C15EF5-5101-5C0D-9231-8BD4E6CA4F89 ;
     irtp:P125 irts:Q131-0CC17EE5-836A-5CE7-B9DA-632F5AC0FEFE,
         irts:Q131-638D3D72-34F2-584D-9F5F-4F6259DE4750 ;
+    irtp:P129 irts:Q131-10C3D4AF-1928-51E9-AB01-0FE3E9F6F4D9,
+        irts:Q131-609A644E-D12C-59E7-BDA1-94A8F7E74400 ;
     irtp:P130 irts:Q131-145965CF-2CF2-54B8-AB49-21A8E7B82EF0 ;
     irtp:P131 irts:Q131-B44D7D53-184C-5856-97C7-AF74D4DA5826 ;
     irtp:P133 irts:Q131-D64AB213-5F25-5222-8B96-202307F3687D ;
@@ -19238,6 +19450,7 @@ irt:Q131
     irtt:P124 "81" ;
     irtt:P125 irt:Q226,
         irt:Q266 ;
+    irtt:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-7.98664 53.32647)"^^geo:wktLiteral ;
     irtt:P133 irt:Q305 ;
@@ -19256,7 +19469,7 @@ irt:Q132
     schema:name "Drumlane Round Tower"@en,
         "Rundturm von Drumlane"@de ;
     wikibase:identifiers "6"^^xsd:integer ;
-    wikibase:statements "36"^^xsd:integer ;
+    wikibase:statements "37"^^xsd:integer ;
     rdfs:label "Drumlane Round Tower"@en,
         "Rundturm von Drumlane"@de ;
     skos:prefLabel "Drumlane Round Tower"@en,
@@ -19289,6 +19502,7 @@ irt:Q132
     irtp:P124 irts:Q132-D5AB1248-33DB-57D7-8E2A-A4D93B92DA34 ;
     irtp:P125 irts:Q132-7D330DD6-D2D8-525B-8FAE-812926AAFD1E,
         irts:Q132-9D8BD6B1-A5CA-55F1-92D1-F0915F13A01A ;
+    irtp:P129 irts:Q132-30013BE2-A62A-5AE3-BB3D-84712BFA6C85 ;
     irtp:P130 irts:Q132-09490E3A-F5E3-5E9A-B601-4B8EF0A8FE4A ;
     irtp:P131 irts:Q132-2FAC5487-9D21-553D-859B-3E5570382508 ;
     irtp:P133 irts:Q132-5F80F27D-2BE3-5676-9758-0C9A4686F4FF,
@@ -19324,6 +19538,7 @@ irt:Q132
     irtt:P124 "4" ;
     irtt:P125 irt:Q226,
         irt:Q326 ;
+    irtt:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-7.478924 54.058258)"^^geo:wktLiteral ;
     irtt:P133 irt:Q249,
@@ -19340,7 +19555,7 @@ irt:Q133
     schema:name "Roscrea Round Tower"@en,
         "Rundturm von Roscrea"@de ;
     wikibase:identifiers "6"^^xsd:integer ;
-    wikibase:statements "38"^^xsd:integer ;
+    wikibase:statements "39"^^xsd:integer ;
     rdfs:label "Roscrea Round Tower"@en,
         "Rundturm von Roscrea"@de ;
     skos:prefLabel "Roscrea Round Tower"@en,
@@ -19375,6 +19590,7 @@ irt:Q133
         irts:Q133-70D791EA-855F-5E6B-9999-4271B9CFD89B,
         irts:Q133-531B5CAF-83CF-563E-8926-96A95F9A3C99,
         irts:Q133-E1B7774E-18C5-5DC6-8609-E02B86988127 ;
+    irtp:P129 irts:Q133-6A256407-5404-5CDD-9467-5069ABE91613 ;
     irtp:P130 irts:Q133-F9B88161-CC5B-5807-81F8-6028DC0C643A ;
     irtp:P131 irts:Q133-C32F85DB-64A2-5162-B99E-77A1F3955A1F ;
     irtp:P133 irts:Q133-8ECFC37F-BAAA-558C-9A07-50F50D5888C4,
@@ -19404,6 +19620,7 @@ irt:Q133
         irt:Q268,
         irt:Q326,
         irt:Q399 ;
+    irtt:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-7.79597 52.95575)"^^geo:wktLiteral ;
     irtt:P133 irt:Q321,
@@ -19418,7 +19635,7 @@ irt:Q134
     schema:description "Irish round tower in Antrim, Northern Ireland (HER ANT050:009)"@en ;
     schema:name "Antrim Round Tower"@en ;
     wikibase:identifiers "2"^^xsd:integer ;
-    wikibase:statements "32"^^xsd:integer ;
+    wikibase:statements "33"^^xsd:integer ;
     rdfs:label "Antrim Round Tower"@en ;
     skos:altLabel "The Steeple, Antrim"@en ;
     skos:prefLabel "Antrim Round Tower"@en ;
@@ -19447,6 +19664,7 @@ irt:Q134
     irtp:P125 irts:Q134-AECEF04B-83F4-503F-BF41-F0A24F174F36,
         irts:Q134-C780BAB1-151A-52E2-8B12-E76EE498A020,
         irts:Q134-DC26A00F-6E5D-5EE2-B553-8360D5BA4A1A ;
+    irtp:P129 irts:Q134-81186347-0919-5F37-9FCB-613B50F6FF4E ;
     irtp:P130 irts:Q134-7E1C12E2-0AC2-5582-ABC8-9F9A29AFC386 ;
     irtp:P131 irts:Q134-C7E23BE1-C82A-58E5-9C77-0B112DE565E6 ;
     irtp:P134 irts:Q134-3CC066E2-97EB-5241-AE69-5C48890E5740 ;
@@ -19468,6 +19686,7 @@ irt:Q134
     irtt:P122 "Antrim Round Tower" ;
     irtt:P125 irt:Q226,
         irt:Q242 ;
+    irtt:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q247 ;
     irtt:P131 "Point(-6.208889 54.724056)"^^geo:wktLiteral ;
     irtt:P134 irt:Q440 ;
@@ -19481,7 +19700,7 @@ irt:Q135
     schema:description "round tower in Kildare Town"@en ;
     schema:name "Kildare Round Tower"@en ;
     wikibase:identifiers "5"^^xsd:integer ;
-    wikibase:statements "48"^^xsd:integer ;
+    wikibase:statements "49"^^xsd:integer ;
     rdfs:label "Kildare Round Tower"@en ;
     skos:prefLabel "Kildare Round Tower"@en ;
     irtp:P2 irts:Q135-2E7E579A-71A7-5880-831E-5724A5FA717D ;
@@ -19519,6 +19738,7 @@ irt:Q135
     irtp:P125 irts:Q135-5BE0A7D8-84F6-5899-A80E-4753B03E18E9,
         irts:Q135-6C646392-504B-580E-8ADC-E3B333347AD6,
         irts:Q135-24532F88-FE83-5DC5-B025-61653050C765 ;
+    irtp:P129 irts:Q135-929F0966-7476-5CFD-A03E-84B5363C9E1B ;
     irtp:P130 irts:Q135-75DE94DB-1951-51A2-AF51-8E9396ABA603 ;
     irtp:P131 irts:Q135-217A4968-4292-5519-B9E4-11842015AFB3 ;
     irtp:P133 irts:Q135-2DE28012-E50D-5605-B975-598AB560CF9D,
@@ -19551,6 +19771,7 @@ irt:Q135
     irtt:P124 "n/a" ;
     irtt:P125 irt:Q226,
         irt:Q268 ;
+    irtt:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q247 ;
     irtt:P131 "Point(-6.9122 53.1582)"^^geo:wktLiteral ;
     irtt:P133 irt:Q330,
@@ -19570,7 +19791,7 @@ irt:Q136
     schema:description "round tower in County Limerick, Ireland"@en ;
     schema:name "Ardpatrick Round Tower"@en ;
     wikibase:identifiers "5"^^xsd:integer ;
-    wikibase:statements "31"^^xsd:integer ;
+    wikibase:statements "32"^^xsd:integer ;
     rdfs:label "Ardpatrick Round Tower"@en ;
     skos:altLabel "Ardpatrick round tower"@en,
         "Cluice"@en ;
@@ -19599,6 +19820,7 @@ irt:Q136
     irtp:P122 irts:Q136-0BE136AC-E98B-5BFD-AB4E-841596AF31C9 ;
     irtp:P123 irts:Q136-E4314DF1-5131-5653-844E-04501F86A7FE ;
     irtp:P124 irts:Q136-3018290F-605D-56CD-8748-2A70B038ABFA ;
+    irtp:P129 irts:Q136-96008DA2-40E4-5D1B-B84C-392C264AB667 ;
     irtp:P130 irts:Q136-961BFE90-E98B-5E3D-8243-6BE2B20C8A02 ;
     irtp:P131 irts:Q136-FF6CD38C-C8D6-5DF1-BD95-B5D645716913 ;
     irtp:P133 irts:Q136-783EA4D0-5231-567E-A297-6500C4E3D9BD ;
@@ -19629,6 +19851,7 @@ irt:Q136
     irtt:P122 "Ardpatrick round tower" ;
     irtt:P123 "LI056-002003-" ;
     irtt:P124 "n/a" ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-8.5323 52.33847)"^^geo:wktLiteral ;
     irtt:P133 irt:Q355 ;
@@ -19642,7 +19865,7 @@ irt:Q137
     schema:description "round tower next to St Canice's Cathedral in Kilkenny, Co. Kilkenny"@en ;
     schema:name "Kilkenny Round Tower"@en ;
     wikibase:identifiers "5"^^xsd:integer ;
-    wikibase:statements "45"^^xsd:integer ;
+    wikibase:statements "47"^^xsd:integer ;
     rdfs:label "Kilkenny Round Tower"@en ;
     skos:altLabel "Round Tower, Kilkenny"@en,
         "St Canice's Round Tower"@en,
@@ -19684,6 +19907,8 @@ irt:Q137
         irts:Q137-389F06F5-297A-5607-A8DC-33828995CDCA,
         irts:Q137-628FE172-0945-5212-A0F8-C04C73F1AAEE,
         irts:Q137-85528733-54FE-5671-A116-D2C32FC4E39F ;
+    irtp:P129 irts:Q137-1D1EDD1B-A6D5-598A-9D47-84D1BE1B1DAD,
+        irts:Q137-F4975E88-F9DC-5B96-8BD3-A8E169A6B8D5 ;
     irtp:P130 irts:Q137-26F11742-552C-5E9C-B22F-32280E0BB04E ;
     irtp:P131 irts:Q137-7EBDBF7A-BB89-58ED-A7F1-D9DA0327F4B6 ;
     irtp:P135 irts:Q137-C01C80B4-0B8B-58AF-A519-F8873869720F ;
@@ -19715,6 +19940,7 @@ irt:Q137
         irt:Q354,
         irt:Q504,
         irt:Q505 ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q247 ;
     irtt:P131 "Point(-7.257141 52.656485)"^^geo:wktLiteral ;
     irtt:P135 <https://catalogue.nli.ie/Record/vtls000743276> ;
@@ -19730,7 +19956,7 @@ irt:Q138
     schema:description "round tower at the former monastic site of Kilree, Co. Kilkenny"@en ;
     schema:name "Kilree Round Tower"@en ;
     wikibase:identifiers "5"^^xsd:integer ;
-    wikibase:statements "46"^^xsd:integer ;
+    wikibase:statements "47"^^xsd:integer ;
     rdfs:label "Kilree Round Tower"@en ;
     skos:prefLabel "Kilree Round Tower"@en ;
     irtp:P2 irts:Q138-2D8720C9-A646-56BD-942A-5BE37D7015C4,
@@ -19771,6 +19997,7 @@ irt:Q138
         irts:Q138-6431EA23-A951-5B53-9968-5B0B8635B0BA,
         irts:Q138-73684A47-8A50-5F45-A54D-D69832F54642,
         irts:Q138-BAA641B5-5673-5183-8327-967F1AC40776 ;
+    irtp:P129 irts:Q138-AD58D19C-165A-51F4-A812-9E5AB5732835 ;
     irtp:P130 irts:Q138-88B1591D-7AAD-5E9A-A267-5B665FCBBD82 ;
     irtp:P131 irts:Q138-447BE7D0-11D1-5F16-9F53-3CABE9540155 ;
     irtp:P135 irts:Q138-3458B90F-22E0-5EAB-98D1-1C24AE61CE37,
@@ -19801,6 +20028,7 @@ irt:Q138
         irt:Q268,
         irt:Q514,
         irt:Q515 ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-7.268742 52.51829)"^^geo:wktLiteral ;
     irtt:P135 <https://catalogue.nli.ie/Record/vtls000743279>,
@@ -19815,7 +20043,7 @@ irt:Q139
     schema:description "round tower in County Louth, Ireland"@en ;
     schema:name "Dromiskin Round Tower"@en ;
     wikibase:identifiers "5"^^xsd:integer ;
-    wikibase:statements "44"^^xsd:integer ;
+    wikibase:statements "45"^^xsd:integer ;
     rdfs:label "Dromiskin Round Tower"@en ;
     skos:prefLabel "Dromiskin Round Tower"@en ;
     irtp:P2 irts:Q139-269E5AE9-615A-5BC1-B9BC-B51BB66038F3 ;
@@ -19848,6 +20076,7 @@ irt:Q139
         irts:Q139-9848EAE6-2E34-5830-8DE1-3355E3ABA160,
         irts:Q139-72432826-9C81-56B9-92BA-5019A0EFA215,
         irts:Q139-DCAD68CB-4F3E-5D2F-9C97-1ADF16803E79 ;
+    irtp:P129 irts:Q139-CE83B618-0B54-5671-B9D0-19071D51AA30 ;
     irtp:P130 irts:Q139-F59A59A5-F0AF-5F4A-9DEF-BD6AD57C256B ;
     irtp:P131 irts:Q139-36F02126-031D-579C-AB2C-96595B9009AA ;
     irtp:P133 irts:Q139-89EED78B-E533-52E5-AAF5-4E7BDBAE1B30,
@@ -19879,6 +20108,7 @@ irt:Q139
     irtt:P125 irt:Q226,
         irt:Q242,
         irt:Q268 ;
+    irtt:P129 "0900-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q247 ;
     irtt:P131 "Point(-6.3982 53.922)"^^geo:wktLiteral ;
     irtt:P133 irt:Q321,
@@ -19899,7 +20129,7 @@ irt:Q140
     schema:description "stump of a round tower in Kilcoona, County Galway"@en ;
     schema:name "Kilcoona Round Tower"@en ;
     wikibase:identifiers "5"^^xsd:integer ;
-    wikibase:statements "20"^^xsd:integer ;
+    wikibase:statements "21"^^xsd:integer ;
     rdfs:label "Kilcoona Round Tower"@en ;
     skos:altLabel "Round Tower"@en ;
     skos:prefLabel "Kilcoona Round Tower"@en ;
@@ -19921,6 +20151,7 @@ irt:Q140
     irtp:P120 irts:Q140-4DCE22A8-96D9-5B95-BA7B-B2D7D87FFA9A ;
     irtp:P123 irts:Q140-59BA0FCE-A7E5-5A78-9D50-C6850DBE4917 ;
     irtp:P124 irts:Q140-8F9528F4-AB04-5610-947E-D15823243E17 ;
+    irtp:P129 irts:Q140-9DF99B71-2573-5714-A675-F2E68A9D3ABE ;
     irtp:P130 irts:Q140-AB564F80-86DD-5F27-9CD2-0EDC6E7FA80A ;
     irtp:P131 irts:Q140-AF1CDECD-F6A4-5254-BFAA-AF53984A289D ;
     irtt:P2 irt:Q241 ;
@@ -19935,6 +20166,7 @@ irt:Q140
     irtt:P120 "IE-G-0431" ;
     irtt:P123 "GA056-085003-" ;
     irtt:P124 "n/a" ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-9.0332146 53.4429434)"^^geo:wktLiteral .
 
@@ -19943,7 +20175,7 @@ irt:Q141
     schema:description "ruined round tower at Old Kilcullen monastic site, County Kildare"@en ;
     schema:name "Old Kilcullen Round Tower"@en ;
     wikibase:identifiers "6"^^xsd:integer ;
-    wikibase:statements "35"^^xsd:integer ;
+    wikibase:statements "36"^^xsd:integer ;
     rdfs:label "Old Kilcullen Round Tower"@en ;
     skos:altLabel "Kilcullen Round Tower"@en ;
     skos:prefLabel "Old Kilcullen Round Tower"@en ;
@@ -19976,6 +20208,7 @@ irt:Q141
     irtp:P125 irts:Q141-2EEE4435-5E98-50E5-ABB9-DD9917444617,
         irts:Q141-1245DDB0-C7DE-59D6-BCAA-86685051339B,
         irts:Q141-E1150361-3950-5267-ADD7-36F9DEA38503 ;
+    irtp:P129 irts:Q141-649B050F-128C-5B91-BEC7-06E5A68513CE ;
     irtp:P130 irts:Q141-B1189EFC-A741-5B3C-B5EE-A27D34E4C886 ;
     irtp:P131 irts:Q141-21A0DA3D-F2E9-598A-AC89-678207FDE7B3 ;
     irtp:P133 irts:Q141-338CA8D7-73F3-572B-AACB-7E0D4BB761BE,
@@ -19999,6 +20232,7 @@ irt:Q141
     irtt:P124 "71" ;
     irtt:P125 irt:Q226,
         irt:Q268 ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-6.760897 53.107729)"^^geo:wktLiteral ;
     irtt:P133 irt:Q321,
@@ -20011,7 +20245,7 @@ irt:Q142
     schema:description "round tower at the Rock of Cashel in County Tipperary, Ireland"@en ;
     schema:name "Rock of Cashel Round Tower"@en ;
     wikibase:identifiers "5"^^xsd:integer ;
-    wikibase:statements "37"^^xsd:integer ;
+    wikibase:statements "38"^^xsd:integer ;
     rdfs:label "Rock of Cashel Round Tower"@en ;
     skos:prefLabel "Rock of Cashel Round Tower"@en ;
     irtp:P2 irts:Q142-9A91272D-F89A-579C-9C1D-1740CC4F95DA ;
@@ -20045,6 +20279,7 @@ irt:Q142
         irts:Q142-B1206DA8-6487-5BAE-BF1E-1B89708CA548,
         irts:Q142-C18E1123-FA69-5EAB-A99C-8CDE2F47CCB9,
         irts:Q142-C69A423E-A7F4-5C50-A60A-848D64109DD8 ;
+    irtp:P129 irts:Q142-3705FE3A-6C3D-58C3-AB56-1E91AB5A99AE ;
     irtp:P130 irts:Q142-DE871E65-C208-52CC-8F53-A19DA82FD6E2 ;
     irtp:P131 irts:Q142-EDEC5CF7-A76C-5E1C-9C3E-214A1825097D ;
     irtp:P141 irts:Q142-A9A67506-DEBE-5FE0-8292-6E21EF55989E ;
@@ -20070,6 +20305,7 @@ irt:Q142
     irtt:P125 irt:Q226,
         irt:Q242,
         irt:Q354 ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q247 ;
     irtt:P131 "Point(-7.89038 52.520269)"^^geo:wktLiteral ;
     irtt:P141 "+5.33"^^xsd:decimal ;
@@ -20082,7 +20318,7 @@ irt:Q143
     schema:description "round tower in the early Christian monastic site of Inishcaltra, County Clare"@en ;
     schema:name "Inishcaltra Round Tower"@en ;
     wikibase:identifiers "5"^^xsd:integer ;
-    wikibase:statements "31"^^xsd:integer ;
+    wikibase:statements "32"^^xsd:integer ;
     rdfs:label "Inishcaltra Round Tower"@en ;
     skos:altLabel "Inish Cealtra Round Tower"@en ;
     skos:prefLabel "Inishcaltra Round Tower"@en ;
@@ -20111,6 +20347,7 @@ irt:Q143
     irtp:P124 irts:Q143-429E3B19-FF9A-51FA-AA43-FFBBFB2EDE75 ;
     irtp:P125 irts:Q143-5E738E4A-978B-5C2E-B5D8-8F8C5418B0E9,
         irts:Q143-7F1AF28B-8F12-567E-8410-E9EE9A468421 ;
+    irtp:P129 irts:Q143-274C01AA-8D35-5CE2-8D32-ECD46FD3A238 ;
     irtp:P130 irts:Q143-B02AB6C5-8CBE-55D4-94B0-59AFC7245345 ;
     irtp:P131 irts:Q143-9E202FC3-F81E-5DD5-BC7A-517F82690D9C ;
     irtp:P135 irts:Q143-0FF9A552-26D0-54B4-A577-69094394C1C1 ;
@@ -20132,6 +20369,7 @@ irt:Q143
     irtt:P124 "5" ;
     irtt:P125 irt:Q226,
         irt:Q268 ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-8.448599 52.915421)"^^geo:wktLiteral ;
     irtt:P135 <https://www.duchas.ie/en/cbes/5074644/4879439/5076357> ;
@@ -20144,7 +20382,7 @@ irt:Q144
     schema:description "round tower at Killeshin monastic site, demolished in 1703"@en ;
     schema:name "Killeshin round tower"@en ;
     wikibase:identifiers "4"^^xsd:integer ;
-    wikibase:statements "26"^^xsd:integer ;
+    wikibase:statements "27"^^xsd:integer ;
     rdfs:label "Killeshin round tower"@en ;
     skos:prefLabel "Killeshin round tower"@en ;
     irtp:P2 irts:Q144-1D0E2C00-0CB5-5786-BA3D-D10F2811BA23,
@@ -20172,6 +20410,7 @@ irt:Q144
     irtp:P134 irts:Q144-CAE490DE-5F07-553B-B182-68151D093A71 ;
     irtp:P135 irts:Q144-BD359532-24E0-557D-BCD5-EA4D33446BF9 ;
     irtp:P147 irts:Q144-60504424-7EAD-50B0-AC86-16203E6B2211 ;
+    irtp:P155 irts:Q144-168E6259-89CB-599D-ADD1-2879281292BE ;
     irtp:P156 irts:Q144-563E35A2-9C56-541D-BF5B-FEE6EA4A5B13 ;
     irtt:P2 irt:Q241,
         irt:Q531 ;
@@ -20197,6 +20436,7 @@ irt:Q144
     irtt:P134 irt:Q258 ;
     irtt:P135 <https://askaboutireland.ie/aai-files/assets/ebooks/OSI-Letters/QUEENS%20CO%20VOL%202_14%20F%205.pdf> ;
     irtt:P147 irt:Q532 ;
+    irtt:P155 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P156 "1703-03-08T00:00:00Z"^^xsd:dateTime .
 
 irt:Q145
@@ -20204,7 +20444,7 @@ irt:Q145
     schema:description "round tower at Dysert O'Dea monastic site, County Clare"@en ;
     schema:name "Dysert O'Dea round tower"@en ;
     wikibase:identifiers "5"^^xsd:integer ;
-    wikibase:statements "32"^^xsd:integer ;
+    wikibase:statements "33"^^xsd:integer ;
     rdfs:label "Dysert O'Dea round tower"@en ;
     skos:prefLabel "Dysert O'Dea round tower"@en ;
     irtp:P2 irts:Q145-CB6FE66F-00F7-5F46-9878-94E6566559C5 ;
@@ -20234,6 +20474,7 @@ irt:Q145
     irtp:P124 irts:Q145-7559B3EF-1FDD-555D-BAE6-12C4FD2A47FF ;
     irtp:P125 irts:Q145-3765AF1D-650F-5691-AC2D-6F88B0D95516,
         irts:Q145-C786F888-4DFF-585D-BD32-2B537202D731 ;
+    irtp:P129 irts:Q145-FE9DC1B9-05E0-5E94-BE70-7C69CA9509BA ;
     irtp:P130 irts:Q145-23FFFB0F-53B0-5BB7-A276-3301652F5E3F ;
     irtp:P131 irts:Q145-9983C59C-354F-5BE8-A21D-FE5579D8B042 ;
     irtp:P140 irts:Q145-842D13AC-B31C-5E18-BDEB-8B0521C4F994 ;
@@ -20255,6 +20496,7 @@ irt:Q145
     irtt:P124 "16" ;
     irtt:P125 irt:Q226,
         irt:Q292 ;
+    irtt:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-9.068762 52.909267)"^^geo:wktLiteral ;
     irtt:P140 irt:Q263 ;
@@ -20267,7 +20509,7 @@ irt:Q146
     schema:name "Rundturm von Tullaherin"@de,
         "Tullaherin Round Tower"@en ;
     wikibase:identifiers "6"^^xsd:integer ;
-    wikibase:statements "46"^^xsd:integer ;
+    wikibase:statements "48"^^xsd:integer ;
     rdfs:label "Rundturm von Tullaherin"@de,
         "Tullaherin Round Tower"@en ;
     skos:altLabel "The Steeple, Tullaherin"@en ;
@@ -20311,6 +20553,8 @@ irt:Q146
     irtp:P124 irts:Q146-77DA0ADD-A999-54B8-AA82-185F86331E29 ;
     irtp:P125 irts:Q146-51F51E83-3D6B-5681-916E-DA32A8C1149F,
         irts:Q146-81627192-483A-57B4-A780-CD30C0C3C9C5 ;
+    irtp:P129 irts:Q146-30F6DACC-F1C5-548E-B94C-7E29FAF88056,
+        irts:Q146-F9632663-F516-52B6-B1C5-D30A9C0D65FF ;
     irtp:P130 irts:Q146-E34540EA-239F-5855-BE24-6FF4DE9AEE43 ;
     irtp:P131 irts:Q146-51433ED3-A670-5191-BA46-4164A526045B ;
     irtp:P144 irts:Q146-E15E85C9-E79E-5253-9E1F-C29445DAEE99 ;
@@ -20355,6 +20599,7 @@ irt:Q146
     irtt:P124 "161" ;
     irtt:P125 irt:Q226,
         irt:Q268 ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-7.130125 52.57922)"^^geo:wktLiteral ;
     irtt:P144 <http://commons.wikimedia.org/wiki/Special:FilePath/Tullaherin.2026.05.26%20%285%29.jpg> ;
@@ -20369,7 +20614,7 @@ irt:Q147
     schema:description "round tower at Castledermot monastic site"@en ;
     schema:name "Castledermot round tower"@en ;
     wikibase:identifiers "4"^^xsd:integer ;
-    wikibase:statements "39"^^xsd:integer ;
+    wikibase:statements "40"^^xsd:integer ;
     rdfs:label "Castledermot round tower"@en ;
     skos:prefLabel "Castledermot round tower"@en ;
     irtp:P2 irts:Q147-C4CD43A7-5593-562F-A22C-6A4310DDD9FB ;
@@ -20407,6 +20652,7 @@ irt:Q147
         irts:Q147-CBA71C6C-4630-5A9A-A3B7-5FABD5DF815E,
         irts:Q147-E49AB7B7-B074-5CFB-B16D-2E8F89729F3A,
         irts:Q147-F7CD6190-D4F1-5064-AD34-FC4EA3BED568 ;
+    irtp:P129 irts:Q147-E7C97ED2-DACB-5EED-9FEF-CBB0336B787F ;
     irtp:P130 irts:Q147-C26C4147-07CB-5A34-A0D9-6AA98D11028F ;
     irtp:P131 irts:Q147-A944AFB3-DCAE-5F03-8A8A-025FEB00FEFA ;
     irtp:P134 irts:Q147-167D1023-D69C-5A94-BFFB-E746864590FB ;
@@ -20432,6 +20678,7 @@ irt:Q147
         irt:Q272,
         irt:Q504,
         irt:Q546 ;
+    irtt:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q247 ;
     irtt:P131 "Point(-6.834941 52.910456)"^^geo:wktLiteral ;
     irtt:P134 irt:Q361 ;
@@ -20442,7 +20689,7 @@ irt:Q148
     schema:description "round tower in the early Christian monastic site at Monasterboice, County Louth"@en ;
     schema:name "Monasterboice round tower"@en ;
     wikibase:identifiers "4"^^xsd:integer ;
-    wikibase:statements "40"^^xsd:integer ;
+    wikibase:statements "42"^^xsd:integer ;
     rdfs:label "Monasterboice round tower"@en ;
     skos:prefLabel "Monasterboice round tower"@en ;
     irtp:P2 irts:Q148-7E43F1C9-7200-54E0-8883-399BC4B71E21 ;
@@ -20477,6 +20724,8 @@ irt:Q148
     irtp:P125 irts:Q148-7C141D3F-3990-54AD-9A3C-A1729ED359A1,
         irts:Q148-BE6C0037-D46E-5E09-A2B5-4D96C5101CC9,
         irts:Q148-D8C6D49F-9E62-5461-A70F-F5267B2DDA7A ;
+    irtp:P129 irts:Q148-2D0332C7-A941-57F2-8EEF-D2A8E2E3840B,
+        irts:Q148-DDBA40D0-F4E2-500D-B63E-A0DA44B660DC ;
     irtp:P130 irts:Q148-8665ECFC-FA64-5F11-B143-615FAF4E2271 ;
     irtp:P131 irts:Q148-2D58A0BC-8DD0-53E0-A4B1-7398A676E4B6 ;
     irtp:P133 irts:Q148-114CF24F-8013-509A-9480-A47500130CC5,
@@ -20503,6 +20752,8 @@ irt:Q148
     irtt:P125 irt:Q226,
         irt:Q268,
         irt:Q421 ;
+    irtt:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime,
+        "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-6.418191 53.777879)"^^geo:wktLiteral ;
     irtt:P133 irt:Q321,
@@ -20518,7 +20769,7 @@ irt:Q149
         "Rundturm in der Grafschaft Limerick, Irland"@de ;
     schema:name "Dysert Aengusa Round Tower"@en ;
     wikibase:identifiers "5"^^xsd:integer ;
-    wikibase:statements "31"^^xsd:integer ;
+    wikibase:statements "32"^^xsd:integer ;
     rdfs:label "Dysert Aengusa Round Tower"@en ;
     skos:altLabel "Christie's Steeple"@en,
         "Clogas na desert"@en,
@@ -20549,6 +20800,7 @@ irt:Q149
     irtp:P124 irts:Q149-72DBFAA4-AB9F-5601-B386-7FADE7705853 ;
     irtp:P125 irts:Q149-450B1846-8CAA-5BF1-9D04-AD357D7F52B6,
         irts:Q149-A14390C2-ADF9-5301-B602-CDBB7FEEEBDD ;
+    irtp:P129 irts:Q149-D640D0E3-EA35-52E3-85CA-9F4401048970 ;
     irtp:P130 irts:Q149-4D626BCD-1B25-58C0-9ED6-E7761CD9DDC2 ;
     irtp:P131 irts:Q149-1B98C6AB-A0A7-543E-87C9-0EB9CBF25ACD ;
     irtp:P135 irts:Q149-A3B43E0F-60CD-59CF-BD9F-7890AFC2B868,
@@ -20578,6 +20830,7 @@ irt:Q149
     irtt:P123 "LI030-018004-" ;
     irtt:P124 "83" ;
     irtt:P125 irt:Q226 ;
+    irtt:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-8.744741 52.520956)"^^geo:wktLiteral ;
     irtt:P135 <https://www.logainm.ie/en/1414971>,
@@ -20591,7 +20844,7 @@ irt:Q150
     schema:description "round tower on Scattery Island, Ireland"@en ;
     schema:name "Scattery Island Round Tower"@en ;
     wikibase:identifiers "4"^^xsd:integer ;
-    wikibase:statements "37"^^xsd:integer ;
+    wikibase:statements "38"^^xsd:integer ;
     rdfs:label "Scattery Island Round Tower"@en ;
     skos:altLabel "Clogas Inse Cathaig"@en ;
     skos:prefLabel "Scattery Island Round Tower"@en ;
@@ -20624,6 +20877,7 @@ irt:Q150
         irts:Q150-CE1E2F1F-DD22-522E-95C0-AFF4F5A3F736,
         irts:Q150-E320A335-F92B-5EE3-AAAD-804DA49AABA5,
         irts:Q150-F51DB30A-2D3D-50BD-BA24-A8F74037DD61 ;
+    irtp:P129 irts:Q150-D679701D-AEE3-5386-9DA0-BF1A1C60B35C ;
     irtp:P130 irts:Q150-390E3A6F-97A9-5328-8669-0406F60EEC99 ;
     irtp:P131 irts:Q150-DC6953A1-437A-5F17-B4B2-6DC8AFC5BFC5 ;
     irtp:P133 irts:Q150-4F6140CD-7E97-56FC-98D5-8B2EA794C41D,
@@ -20649,6 +20903,7 @@ irt:Q150
         irt:Q268,
         irt:Q555,
         irt:Q557 ;
+    irtt:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q247 ;
     irtt:P131 "Point(-9.517121 52.614296)"^^geo:wktLiteral ;
     irtt:P133 irt:Q329,
@@ -20663,7 +20918,7 @@ irt:Q151
     schema:description "round tower in Drumcliff, County Clare"@en ;
     schema:name "Drumcliff Round Tower"@en ;
     wikibase:identifiers "5"^^xsd:integer ;
-    wikibase:statements "28"^^xsd:integer ;
+    wikibase:statements "29"^^xsd:integer ;
     rdfs:label "Drumcliff Round Tower"@en ;
     skos:prefLabel "Drumcliff Round Tower"@en ;
     irtp:P2 irts:Q151-AA62CD99-F152-5633-ADA3-5BF27BEC721B ;
@@ -20691,6 +20946,7 @@ irt:Q151
     irtp:P123 irts:Q151-5EE48D93-5217-52F2-BF11-AD9227BD0D72 ;
     irtp:P124 irts:Q151-37E1279F-7532-5812-98AB-25B18433BA8E ;
     irtp:P125 irts:Q151-3F8FEE19-8E56-53CE-8BF6-A0F75F0A6C12 ;
+    irtp:P129 irts:Q151-B2FCEA9A-2655-56E8-AB3B-0897CEFC4D8E ;
     irtp:P130 irts:Q151-4A5293C6-4C8C-54FA-AB8C-A4B789B2517C ;
     irtp:P131 irts:Q151-6FE9AF76-AC8A-5150-9EFD-884FDBAF5506 ;
     irtp:P182 irts:Q151-3F209B46-D443-5087-B055-F4DE98E2B80B ;
@@ -20717,6 +20973,7 @@ irt:Q151
     irtt:P123 "CL033-033003-" ;
     irtt:P124 "204" ;
     irtt:P125 irt:Q226 ;
+    irtt:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-8.997674 52.868082)"^^geo:wktLiteral ;
     irtt:P182 irt:Q153 .
@@ -20726,7 +20983,7 @@ irt:Q152
     schema:description "round tower in Roscam, County Galway"@en ;
     schema:name "Roscam Round Tower"@en ;
     wikibase:identifiers "5"^^xsd:integer ;
-    wikibase:statements "34"^^xsd:integer ;
+    wikibase:statements "35"^^xsd:integer ;
     rdfs:label "Roscam Round Tower"@en ;
     skos:prefLabel "Roscam Round Tower"@en ;
     irtp:P2 irts:Q152-84C5AD86-E7FE-5B7F-A814-55A31906CFB0 ;
@@ -20760,6 +21017,7 @@ irt:Q152
         irts:Q152-99C2FF94-E2C7-563E-853F-0EDD7AFB7975,
         irts:Q152-1337A33D-459D-5889-913B-DBD8948E24AB,
         irts:Q152-8236BFAE-4DB4-5490-8871-C6E8BF5198AB ;
+    irtp:P129 irts:Q152-D9504FA2-CA60-5D07-964A-09C51E72A266 ;
     irtp:P130 irts:Q152-E1011BAC-A84B-5EED-B161-B7DFFC173B83 ;
     irtp:P131 irts:Q152-47D582A4-C8AB-57C0-A5A8-44CF5CBFAB96 ;
     irtp:P144 irts:Q152-B5113EB4-3323-58DA-8722-62F731FA3234 ;
@@ -20782,6 +21040,7 @@ irt:Q152
         irt:Q268,
         irt:Q272,
         irt:Q354 ;
+    irtt:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-8.98498 53.264637)"^^geo:wktLiteral ;
     irtt:P144 <http://commons.wikimedia.org/wiki/Special:FilePath/Roscam%20Irish%20Round%20Tower%2C%20County%20Galway%20Ireland.JPG> .
@@ -20941,7 +21200,7 @@ irt:Q155
     schema:description "ruins of a round tower on Tory Island, County Donegal"@en ;
     schema:name "Tory Island Round Tower"@en ;
     wikibase:identifiers "5"^^xsd:integer ;
-    wikibase:statements "32"^^xsd:integer ;
+    wikibase:statements "33"^^xsd:integer ;
     rdfs:label "Tory Island Round Tower"@en ;
     skos:prefLabel "Tory Island Round Tower"@en ;
     irtp:P2 irts:Q155-C355FD31-91AE-50B9-AAF9-3B988EF9EF2C ;
@@ -20970,6 +21229,7 @@ irt:Q155
     irtp:P124 irts:Q155-9AA372A2-E5F1-5AF9-81FB-B54D5C538D20 ;
     irtp:P125 irts:Q155-22BFEDB1-DB55-5543-B392-8004DAC86C43,
         irts:Q155-89655A80-E8EB-532B-BA0D-B30C41EA254A ;
+    irtp:P129 irts:Q155-3B5BD3B5-8BB0-565B-8466-DBDBB8F76F2A ;
     irtp:P130 irts:Q155-047A25C6-4D38-5A55-A865-C93200EB572C ;
     irtp:P131 irts:Q155-2FF2F07D-5ABB-5F1D-ACC0-A71569E34E72 ;
     irtp:P133 irts:Q155-2A98096D-7D86-5A65-A6A9-10A8F9334E50,
@@ -20993,6 +21253,7 @@ irt:Q155
     irtt:P124 "24" ;
     irtt:P125 irt:Q226,
         irt:Q354 ;
+    irtt:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-8.228582 55.264288)"^^geo:wktLiteral ;
     irtt:P133 irt:Q329,
@@ -21036,7 +21297,7 @@ irt:Q157
     schema:description "stump of a round tower in Killinaboy, County Clare"@en ;
     schema:name "Killinaboy Round Tower"@en ;
     wikibase:identifiers "6"^^xsd:integer ;
-    wikibase:statements "23"^^xsd:integer ;
+    wikibase:statements "24"^^xsd:integer ;
     rdfs:label "Killinaboy Round Tower"@en ;
     skos:altLabel "Kilnaboy Round Tower"@en ;
     skos:prefLabel "Killinaboy Round Tower"@en ;
@@ -21061,6 +21322,7 @@ irt:Q157
     irtp:P120 irts:Q157-3BCA1BE6-C775-5FB9-AB1B-53D353B29B25 ;
     irtp:P123 irts:Q157-D988BE40-AF32-5398-9ED0-11839770F61C ;
     irtp:P124 irts:Q157-13025F1A-CF22-56FC-9896-C0D6541EBD22 ;
+    irtp:P129 irts:Q157-3601D2CC-4E37-50B5-B417-E0C92E7DA5A2 ;
     irtp:P130 irts:Q157-26D3486E-1CCF-5C67-B0D1-3540A56AD1B2 ;
     irtp:P131 irts:Q157-C26C88AA-E68E-56BC-9D9C-44D4914DBCDD ;
     irtt:P2 irt:Q241 ;
@@ -21075,6 +21337,7 @@ irt:Q157
     irtt:P120 "IE-CE-0213" ;
     irtt:P123 "CL017-020003-" ;
     irtt:P124 "n/a" ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-9.085547 52.970467)"^^geo:wktLiteral .
 
@@ -21208,7 +21471,7 @@ irt:Q162
     schema:description "round tower in Carnacavill townland, Maghera, Down, Northern Ireland (HER no. DOW043:085)"@en ;
     schema:name "Maghera Round Tower"@en ;
     wikibase:identifiers "2"^^xsd:integer ;
-    wikibase:statements "30"^^xsd:integer ;
+    wikibase:statements "31"^^xsd:integer ;
     rdfs:label "Maghera Round Tower"@en ;
     skos:prefLabel "Maghera Round Tower"@en ;
     irtp:P2 irts:Q162-1BFA2FD0-823F-52AC-8729-2C4C4ABB36EF ;
@@ -21231,6 +21494,7 @@ irt:Q162
     irtp:P122 irts:Q162-8276105B-3649-5D5C-90F4-C219981CA739 ;
     irtp:P125 irts:Q162-208D4AA7-BE37-5F04-8860-1FD606CD1DCF,
         irts:Q162-B128BDEB-82E8-5D3A-B131-FF20C240E561 ;
+    irtp:P129 irts:Q162-4A18E342-DD2E-5F2A-8B01-FAEC01404F13 ;
     irtp:P130 irts:Q162-ACC2FCE4-F75C-5CF0-B944-D0CECE31449E ;
     irtp:P131 irts:Q162-0D1ED510-E278-5125-8164-FDBF63726965 ;
     irtp:P134 irts:Q162-382F2B56-16D9-50AF-94C1-8A7837536B74 ;
@@ -21255,6 +21519,7 @@ irt:Q162
     irtt:P122 "Maghera Round Tower" ;
     irtt:P125 irt:Q226,
         irt:Q245 ;
+    irtt:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-5.8974325 54.2382388)"^^geo:wktLiteral ;
     irtt:P134 irt:Q295 ;
@@ -21296,7 +21561,7 @@ irt:Q164
     schema:description "round tower on Rams Island, Antrim, Northern Ireland (HER no. ANT058:016)"@en ;
     schema:name "Ram's Island Round Tower"@en ;
     wikibase:identifiers "2"^^xsd:integer ;
-    wikibase:statements "21"^^xsd:integer ;
+    wikibase:statements "22"^^xsd:integer ;
     rdfs:label "Ram's Island Round Tower"@en ;
     skos:altLabel "Rams Island Round Tower"@en ;
     skos:prefLabel "Ram's Island Round Tower"@en ;
@@ -21316,6 +21581,7 @@ irt:Q164
     irtp:P118 irts:Q164-9FD5BF82-4612-5A25-B9D0-49BA62015DB5 ;
     irtp:P122 irts:Q164-16CA6F68-A9C4-5E48-BED4-25AC88A2F11F ;
     irtp:P125 irts:Q164-5FE741CB-2F6A-5EBF-B6B0-1B3EF27E1FF4 ;
+    irtp:P129 irts:Q164-4B86819D-5D0C-58C3-891A-B7EA74698EAC ;
     irtp:P130 irts:Q164-57FFF275-9988-5572-95A7-56926D37E4FE ;
     irtp:P131 irts:Q164-2596F983-B8F1-5818-9CFE-48142748F3FA ;
     irtp:P134 irts:Q164-7F95114B-AC81-53BB-BE69-C41327D34D8D ;
@@ -21332,6 +21598,7 @@ irt:Q164
     irtt:P118 "+12.8"^^xsd:decimal ;
     irtt:P122 "Ram's Island Round Tower" ;
     irtt:P125 irt:Q266 ;
+    irtt:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-6.3054929 54.5852581)"^^geo:wktLiteral ;
     irtt:P134 irt:Q440 ;
@@ -21372,7 +21639,7 @@ irt:Q166
     schema:description "demolished round tower in Tuamgraney, County Clare, Ireland"@en ;
     schema:name "Tuamgraney Round Tower"@en ;
     wikibase:identifiers "3"^^xsd:integer ;
-    wikibase:statements "11"^^xsd:integer ;
+    wikibase:statements "12"^^xsd:integer ;
     rdfs:label "Tuamgraney Round Tower"@en ;
     skos:altLabel "Tomgraney Round Tower"@en ;
     skos:prefLabel "Tuamgraney Round Tower"@en ;
@@ -21383,6 +21650,7 @@ irt:Q166
     irtp:P115 irts:Q166-556FAE2A-A97D-5AAE-955E-D31197B02C19 ;
     irtp:P123 irts:Q166-35092BCF-941F-5EDD-9CF5-3102E17B5011 ;
     irtp:P124 irts:Q166-801DB7A2-AB13-5F1C-A995-A67C34834710 ;
+    irtp:P129 irts:Q166-0F0F1312-275E-5FEE-A5D7-38CC3AA32FC5 ;
     irtp:P130 irts:Q166-59E7F60B-6C1F-59F4-8A76-073FC54B93CC ;
     irtp:P131 irts:Q166-C18FCDFC-EBD5-5AA3-9B00-283B9E3FA38F ;
     irtp:P162 irts:Q166-54FCF1A5-BA49-56F1-936B-35717E12E51F,
@@ -21394,6 +21662,7 @@ irt:Q166
     irtt:P115 irt:Q237 ;
     irtt:P123 "CL028-058005-" ;
     irtt:P124 "n/a" ;
+    irtt:P129 "0964-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q345 ;
     irtt:P131 "Point(-8.539688 52.896554)"^^geo:wktLiteral ;
     irtt:P162 irt:Q589,
@@ -21711,7 +21980,7 @@ irt:Q175
     schema:description "round tower in Rathmichael, County Dublin, Ireland"@en ;
     schema:name "Rathmichael Round Tower"@en ;
     wikibase:identifiers "5"^^xsd:integer ;
-    wikibase:statements "27"^^xsd:integer ;
+    wikibase:statements "28"^^xsd:integer ;
     rdfs:label "Rathmichael Round Tower"@en ;
     skos:prefLabel "Rathmichael Round Tower"@en ;
     irtp:P2 irts:Q175-5ECA02C8-0FFF-580F-B0F1-515C2F1133E2 ;
@@ -21738,6 +22007,7 @@ irt:Q175
     irtp:P122 irts:Q175-CC804850-8BA5-55B2-B01E-8C0AB205DB80 ;
     irtp:P123 irts:Q175-10D4BECC-2296-5880-A549-7B067A41F9D8 ;
     irtp:P124 irts:Q175-DE32C9AE-E2D4-5D8A-8640-0602F3421CD7 ;
+    irtp:P129 irts:Q175-13109362-1865-503D-B3E5-CCCB8E39A376 ;
     irtp:P130 irts:Q175-D26C34DE-3682-5F4A-8F53-D818B1EA52C4 ;
     irtp:P131 irts:Q175-35EEB0FE-BF69-52EC-8C6D-CCA8E5784334 ;
     irtp:P193 irts:Q175-4682E6C5-C0C2-5D84-9C42-FECAEE24CC1F ;
@@ -21758,6 +22028,7 @@ irt:Q175
     irtt:P122 "Rathmichael Round Tower" ;
     irtt:P123 "DU026-050004-" ;
     irtt:P124 "162" ;
+    irtt:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-6.146201 53.23281)"^^geo:wktLiteral ;
     irtt:P193 "SW of the church"@en .
@@ -21767,7 +22038,7 @@ irt:Q176
     schema:description "disputed site of a demolished round tower in the townland of Annaghdown, Galway, Ireland"@en ;
     schema:name "Annaghdown Round Tower"@en ;
     wikibase:identifiers "3"^^xsd:integer ;
-    wikibase:statements "10"^^xsd:integer ;
+    wikibase:statements "11"^^xsd:integer ;
     rdfs:label "Annaghdown Round Tower"@en ;
     skos:altLabel "Eanach Dhúin Round Tower"@en ;
     skos:prefLabel "Annaghdown Round Tower"@en ;
@@ -21779,6 +22050,7 @@ irt:Q176
     irtp:P115 irts:Q176-156E8CA3-D10A-501F-9FDE-8F2C2D0F12C9 ;
     irtp:P123 irts:Q176-FA848840-6FA9-5BCE-8FF5-7A79C1292D9F ;
     irtp:P124 irts:Q176-ED5270E3-2BA5-5E5D-8E5C-2198E0BD3DD7 ;
+    irtp:P129 irts:Q176-84F03041-1641-5BBF-9C05-81C47DBA27B2 ;
     irtp:P130 irts:Q176-E19C4626-6F0E-5B5E-AE12-7F3DDF2BFF0F ;
     irtp:P131 irts:Q176-5A16C867-9DCB-538C-9146-279FCD198BB9 ;
     irtt:P2 irt:Q241 ;
@@ -21789,6 +22061,7 @@ irt:Q176
     irtt:P115 irt:Q237 ;
     irtt:P123 "GA069-001016-" ;
     irtt:P124 "n/a" ;
+    irtt:P129 "1238-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q345 ;
     irtt:P131 "Point(-9.071356 53.387631)"^^geo:wktLiteral .
 
@@ -21855,7 +22128,7 @@ irt:Q179
     schema:description "remains of a round tower in Cill Éinne, County Galway, Ireland"@en ;
     schema:name "Killeany Round Tower"@en ;
     wikibase:identifiers "6"^^xsd:integer ;
-    wikibase:statements "28"^^xsd:integer ;
+    wikibase:statements "29"^^xsd:integer ;
     rdfs:label "Killeany Round Tower"@en ;
     skos:altLabel "Cill Éinne Round Tower"@en,
         "St Eany's Round Tower"@en ;
@@ -21883,6 +22156,7 @@ irt:Q179
     irtp:P123 irts:Q179-E5DA293B-88F5-54D6-8F13-9517556E2FC5 ;
     irtp:P124 irts:Q179-2179D90C-40F8-540B-B377-B73C00848F82 ;
     irtp:P125 irts:Q179-AA0ECBB1-A817-572A-8837-E4F9D5AE4D48 ;
+    irtp:P129 irts:Q179-684AE71E-80BF-525D-8652-2AC516A25EF2 ;
     irtp:P130 irts:Q179-A772F3FD-34F2-54D8-A005-8D8562AC4F3B ;
     irtp:P131 irts:Q179-A8A6D52B-36FC-5843-9B51-2404D912A81B ;
     irtp:P135 irts:Q179-90ED5011-C4A0-571A-BB6C-E61AF47D492C,
@@ -21904,6 +22178,7 @@ irt:Q179
     irtt:P123 "GA119-006005-" ;
     irtt:P124 "43" ;
     irtt:P125 irt:Q272 ;
+    irtt:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-9.6638376 53.1030794)"^^geo:wktLiteral ;
     irtt:P135 <https://www.logainm.ie/en/1398944>,
@@ -22515,7 +22790,7 @@ irt:Q195
     schema:description "base of a round tower at Ferns, County Wexford"@en ;
     schema:name "Ferns Round Tower"@en ;
     wikibase:identifiers "5"^^xsd:integer ;
-    wikibase:statements "40"^^xsd:integer ;
+    wikibase:statements "41"^^xsd:integer ;
     rdfs:label "Ferns Round Tower"@en ;
     skos:prefLabel "Ferns Round Tower"@en ;
     irtp:P2 irts:Q195-488A26D2-5A73-5E85-95EB-A855A1E8E6B5 ;
@@ -22545,6 +22820,7 @@ irt:Q195
         irts:Q195-59B63550-6915-5338-83E3-A7ED3B14AEF5,
         irts:Q195-633A4A6F-D18F-56CE-817F-1354043AE6D5,
         irts:Q195-BA103852-7906-5E1A-9274-8B7F3A0199BE ;
+    irtp:P129 irts:Q195-54C68C7C-F702-5EAB-9240-BED26D33A37E ;
     irtp:P130 irts:Q195-89270F12-397B-5619-99B1-C34CE19ACBFC ;
     irtp:P131 irts:Q195-5F3D0267-58C1-5082-8593-91C1A797A135 ;
     irtp:P135 irts:Q195-4DAD2BD3-A551-5062-BF64-A07BEA83F3AC,
@@ -22577,6 +22853,7 @@ irt:Q195
     irtt:P125 irt:Q226,
         irt:Q268,
         irt:Q644 ;
+    irtt:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-6.4919673 52.589514)"^^geo:wktLiteral ;
     irtt:P135 <https://catalogue.nli.ie/Record/vtls000737345>,
@@ -22805,7 +23082,7 @@ irt:Q203
     schema:description "remains of a round tower with a square base attached to a church ruin in Tamlaght, County Derry, Northern Ireland"@en ;
     schema:name "Tamlaght round tower"@en ;
     wikibase:identifiers "2"^^xsd:integer ;
-    wikibase:statements "12"^^xsd:integer ;
+    wikibase:statements "13"^^xsd:integer ;
     rdfs:label "Tamlaght round tower"@en ;
     skos:prefLabel "Tamlaght round tower"@en ;
     irtp:P2 irts:Q203-B0DB74A1-B0D3-5C9C-B5BD-A22657E03DF8 ;
@@ -22816,6 +23093,7 @@ irt:Q203
         irts:Q203-FDB578A1-5A9E-5784-9529-642C974ED142 ;
     irtp:P115 irts:Q203-E2365180-00B5-53BE-BC28-BF1AE45D57EE ;
     irtp:P118 irts:Q203-87727915-F86D-5E28-B6DE-97F967437933 ;
+    irtp:P129 irts:Q203-B999D993-B642-5F22-AE87-F83A9B450990 ;
     irtp:P130 irts:Q203-3E0318B2-860F-55EF-8C43-5204058D854A ;
     irtp:P131 irts:Q203-97577005-3E02-5A8F-83D5-DACAFA8171F0 ;
     irtp:P134 irts:Q203-F1040014-7C80-5DF9-B928-1DF5FD59600F ;
@@ -22827,6 +23105,7 @@ irt:Q203
     irtt:P103 irt:Q234 ;
     irtt:P115 irt:Q291 ;
     irtt:P118 "+1.5"^^xsd:decimal ;
+    irtt:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-6.5815204 54.8954986)"^^geo:wktLiteral ;
     irtt:P134 irt:Q662 ;
@@ -22948,7 +23227,7 @@ irt:Q207
     schema:description "round tower attached to Temple Finian at Clonmacnoise monastic site"@en ;
     schema:name "Temple Finian Round tower"@en ;
     wikibase:identifiers "4"^^xsd:integer ;
-    wikibase:statements "35"^^xsd:integer ;
+    wikibase:statements "36"^^xsd:integer ;
     rdfs:label "Temple Finian Round tower"@en ;
     skos:altLabel "Temple Finghin Round Tower"@en ;
     skos:prefLabel "Temple Finian Round tower"@en ;
@@ -22978,6 +23257,7 @@ irt:Q207
     irtp:P125 irts:Q207-7C521EDB-35E5-5712-B0E8-7DA6A916220C,
         irts:Q207-42E1ACDE-09E9-5ACE-8C66-12016DCD6976,
         irts:Q207-B7AC4CDA-CC3A-592D-8F7A-52A2F4D7540C ;
+    irtp:P129 irts:Q207-FCB88D28-A674-5B1A-8C7B-9CA258DBCA37 ;
     irtp:P130 irts:Q207-BE308357-2F38-506D-B8E2-C456B9EC6E03 ;
     irtp:P131 irts:Q207-4B9F9D79-70BF-5E3D-B6A5-2D542EB45949 ;
     irtp:P140 irts:Q207-6A259B11-42A5-52FB-BC10-DE47F05759C2 ;
@@ -23004,6 +23284,7 @@ irt:Q207
     irtt:P125 irt:Q226,
         irt:Q242,
         irt:Q268 ;
+    irtt:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q247 ;
     irtt:P131 "Point(-7.9857232 53.3270178)"^^geo:wktLiteral ;
     irtt:P140 irt:Q263 ;
@@ -23019,7 +23300,7 @@ irt:Q208
     schema:description "round tower within St. Kevin's Church in Glendalough"@en ;
     schema:name "St. Kevin's Church Round Tower"@en ;
     wikibase:identifiers "4"^^xsd:integer ;
-    wikibase:statements "24"^^xsd:integer ;
+    wikibase:statements "25"^^xsd:integer ;
     rdfs:label "St. Kevin's Church Round Tower"@en ;
     skos:altLabel "Glendalough II"@en,
         "Saint Kevin's Church Round Tower"@en ;
@@ -23043,6 +23324,7 @@ irt:Q208
     irtp:P122 irts:Q208-27CA4466-FB6F-5B83-BF1F-ADD68D29119C ;
     irtp:P125 irts:Q208-2AA2448B-6EDE-5CD2-A917-6FE99EFC85E2,
         irts:Q208-E2A8E4D4-4CDF-5DE9-8153-C5D5E130DBD7 ;
+    irtp:P129 irts:Q208-4AC77088-1468-5609-8FB4-14033D61763F ;
     irtp:P130 irts:Q208-96366AD3-1F9D-53BC-879C-141A96C0CEFD ;
     irtp:P131 irts:Q208-1A7AFCCB-234E-50D4-8AF7-655E712B15C9 ;
     irtp:P135 irts:Q208-B41955B5-DA02-5D31-AAAB-0DE886083C1D ;
@@ -23062,6 +23344,7 @@ irt:Q208
     irtt:P122 "St. Kevin's Church Round Tower" ;
     irtt:P125 irt:Q242,
         irt:Q268 ;
+    irtt:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q247 ;
     irtt:P131 "Point(-6.3274656 53.0100092)"^^geo:wktLiteral ;
     irtt:P135 <https://catalogue.nli.ie/Record/vtls000051662> ;
@@ -23073,7 +23356,7 @@ irt:Q209
     schema:description "ruins of a round tower attached to Trinity Church in Glendalough, County Wicklow"@en ;
     schema:name "Trinity Church Round Tower"@en ;
     wikibase:identifiers "5"^^xsd:integer ;
-    wikibase:statements "27"^^xsd:integer ;
+    wikibase:statements "28"^^xsd:integer ;
     rdfs:label "Trinity Church Round Tower"@en ;
     skos:prefLabel "Trinity Church Round Tower"@en ;
     irtp:P2 irts:Q209-E9FE9441-9A57-596D-B210-8838901A782A ;
@@ -23094,6 +23377,7 @@ irt:Q209
     irtp:P118 irts:Q209-F1C9BBBF-F39F-51C5-989A-F1AE885BB20D ;
     irtp:P120 irts:Q209-E8D1AF03-27D5-5017-BE76-B60860915A5C ;
     irtp:P124 irts:Q209-01074512-9A21-5597-8468-B5A5B9BF1852 ;
+    irtp:P129 irts:Q209-AA0427D6-D513-558E-B69D-1CFEA5BB2302 ;
     irtp:P130 irts:Q209-55DACF0D-ED91-5A55-B8E4-775BD9B860CE ;
     irtp:P131 irts:Q209-F647FF55-6978-5FF8-8BD0-C72A5FCD1A9A ;
     irtp:P135 irts:Q209-3CC0B64B-6A0A-53F2-8403-0465EAC93667,
@@ -23115,6 +23399,7 @@ irt:Q209
     irtt:P118 "+15"^^xsd:decimal ;
     irtt:P120 "IE-WW-0204" ;
     irtt:P124 "134" ;
+    irtt:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
     irtt:P130 irt:Q293 ;
     irtt:P131 "Point(-6.3202513 53.010515)"^^geo:wktLiteral ;
     irtt:P135 <https://catalogue.nli.ie/Record/vtls000051703>,
@@ -30726,6 +31011,156 @@ irt:Q684
     irtp:P4 irts:Q684-3627441B-019B-5B1B-B54C-7B66BC727867 ;
     irtt:P4 "Q44613" .
 
+irt:Q685
+    a wikibase:Item ;
+    schema:description "Bell tower of a medieval church which is square at the bottom and round at the top giving the impression of an Irish round tower"@en ;
+    schema:name "Killashee Church Tower"@en ;
+    wikibase:identifiers "6"^^xsd:integer ;
+    wikibase:statements "24"^^xsd:integer ;
+    rdfs:label "Killashee Church Tower"@en ;
+    skos:prefLabel "Killashee Church Tower"@en ;
+    irtp:P2 irts:Q685-0E6C65CD-51A2-5D2B-84B3-6C987746C532,
+        irts:Q685-9C1F501B-F1B1-50ED-B9FF-35B9BB1C1A06 ;
+    irtp:P4 irts:Q685-BCF7E4CC-24DB-5E59-A388-CC0451125CF5 ;
+    irtp:P100 irts:Q685-0E62572F-18AC-5551-925A-01A4D3EB139C ;
+    irtp:P102 irts:Q685-72F801C7-4B4B-5544-9DCC-9387E1223FC0,
+        irts:Q685-D37344CE-9E08-5595-A12B-4B4FC89AD456 ;
+    irtp:P103 irts:Q685-1CF1D527-A27E-58F9-AAE2-4035DF9DF04D,
+        irts:Q685-2D374F0D-7F73-5B8E-8695-1019100D438E,
+        irts:Q685-2DA5A932-E380-5F11-BD23-C14E08A56367,
+        irts:Q685-712C8CC5-7053-59F5-9C26-EB9FCB8E76D3,
+        irts:Q685-1722C73D-5B56-588B-A044-03AB90AB45ED,
+        irts:Q685-C5C3C396-4713-5DD7-B2F0-0A2FA31F3C7C ;
+    irtp:P115 irts:Q685-EB7899FB-E1CB-5C59-ABBA-16249AD3A6AA ;
+    irtp:P116 irts:Q685-8F05EB3B-4CB1-50E7-A59C-764DB400B2BC,
+        irts:Q685-DA718B91-EAC3-5C03-BB81-7F13DAD81DF5 ;
+    irtp:P120 irts:Q685-278883BE-BB49-5E7E-A128-7DC899D90AE8 ;
+    irtp:P122 irts:Q685-9EF767B8-931A-5FE2-A901-6923BF61248F ;
+    irtp:P123 irts:Q685-3CC3DD10-4A30-549E-A957-3B0A0859AF87,
+        irts:Q685-18371DE2-AE02-5D1E-8091-DB01F55B28B3 ;
+    irtp:P124 irts:Q685-E4237309-116E-52F1-AEEB-C772D071A59E ;
+    irtp:P130 irts:Q685-83F73BED-B351-536E-9350-336787604427 ;
+    irtp:P131 irts:Q685-F75AF38C-B1CD-572E-BEC5-5D4BB7810BED ;
+    irtp:P134 irts:Q685-1ACB3318-7922-500E-A3BC-FD00632CD9BA ;
+    irtp:P147 irts:Q685-CA9D9A7A-2775-5F81-AE59-ABF1316F131F ;
+    irtt:P2 irt:Q318 ;
+    irtt:P4 "Q30246996" ;
+    irtt:P100 "979327821" ;
+    irtt:P102 irt:Q361,
+        irt:Q686 ;
+    irtt:P103 irt:Q223,
+        irt:Q224,
+        irt:Q227,
+        irt:Q228,
+        irt:Q231,
+        irt:Q687 ;
+    irtt:P115 irt:Q237 ;
+    irtt:P116 <http://commons.wikimedia.org/wiki/Special:FilePath/Killashee%20%28Daniel%20Grose%2C%201792%29.jpg>,
+        <http://commons.wikimedia.org/wiki/Special:FilePath/Killashee%20Round%20Tower.jpg> ;
+    irtt:P120 "IE-KE-0018" ;
+    irtt:P122 "Killashee Church Tower" ;
+    irtt:P123 "KD024-003002-" ;
+    irtt:P124 "n/a" ;
+    irtt:P130 irt:Q293 ;
+    irtt:P131 "Point(-6.672222 53.188889)"^^geo:wktLiteral ;
+    irtt:P134 irt:Q361 ;
+    irtt:P147 irt:Q689 .
+
+irt:Q686
+    a wikibase:Item ;
+    schema:description "townland in Killashee, County Kildare, Ireland"@en ;
+    schema:name "Killashee"@en ;
+    wikibase:identifiers "1"^^xsd:integer ;
+    wikibase:statements "1"^^xsd:integer ;
+    rdfs:label "Killashee"@en ;
+    skos:prefLabel "Killashee"@en ;
+    irtp:P4 irts:Q686-EF2AEB38-EA60-509B-805C-176D5461CCF0 ;
+    irtt:P4 "Q104263864" .
+
+irt:Q687
+    a wikibase:Item ;
+    schema:description "second volume of the book about monuments in Ireland, published by Francis Grose in 1791"@en ;
+    schema:name "Francis Grose: The Antiquities of Ireland, The Second Volume"@en ;
+    wikibase:identifiers "1"^^xsd:integer ;
+    wikibase:statements "1"^^xsd:integer ;
+    rdfs:label "Francis Grose: The Antiquities of Ireland, The Second Volume"@en ;
+    skos:altLabel "The Antiquities of Ireland II"@en ;
+    skos:prefLabel "Francis Grose: The Antiquities of Ireland, The Second Volume"@en ;
+    irtp:P4 irts:Q687-199493A1-98FD-58AB-ABC7-B074E14EC126 ;
+    irtt:P4 "Q141525970" .
+
+irt:Q688
+    a wikibase:Item ;
+    schema:description "Nichterfüllung einer Anforderung"@de,
+        "action or proposition which is inaccurate or incorrect, that could result in failure or deviation from the intended performance or behaviour"@en ;
+    schema:name "Fehler"@de,
+        "error"@en ;
+    wikibase:identifiers "1"^^xsd:integer ;
+    wikibase:statements "1"^^xsd:integer ;
+    rdfs:label "Fehler"@de,
+        "error"@en ;
+    skos:altLabel "Fehlerfall"@de,
+        "Fehlfunktion"@de,
+        "blunder"@en,
+        "goof"@en,
+        "incorrect"@en,
+        "misstep"@en,
+        "mistake"@en,
+        "mistaken"@en,
+        "wrong"@en ;
+    skos:prefLabel "Fehler"@de,
+        "error"@en ;
+    irtp:P4 irts:Q688-8B69D9CC-FB28-5790-804F-B85390ECD2B0 ;
+    irtt:P4 "Q29485" .
+
+irt:Q689
+    a wikibase:Item ;
+    schema:description "Ruine einer Kirche"@de,
+        "ruins of a church"@en ;
+    schema:name "Kirchenruine"@de,
+        "church ruin"@en ;
+    wikibase:identifiers "1"^^xsd:integer ;
+    wikibase:statements "1"^^xsd:integer ;
+    rdfs:label "Kirchenruine"@de,
+        "church ruin"@en ;
+    skos:altLabel "church ruins"@en,
+        "former church"@en,
+        "ruined church"@en,
+        "Ödekyrka"@en ;
+    skos:prefLabel "Kirchenruine"@de,
+        "church ruin"@en ;
+    irtp:P4 irts:Q689-FD31E53D-A9C4-5575-9A81-FA7572118A63 ;
+    irtt:P4 "Q17485079" .
+
+irt:Q690
+    a wikibase:Item ;
+    schema:description "Wikidata reason for deprecation"@en,
+        "Zurückweisungsgrund"@de ;
+    schema:name "fehlerhafter Wert"@de,
+        "incorrect value"@en ;
+    wikibase:identifiers "1"^^xsd:integer ;
+    wikibase:statements "1"^^xsd:integer ;
+    rdfs:label "fehlerhafter Wert"@de,
+        "incorrect value"@en ;
+    skos:altLabel "error in information"@en,
+        "error in value"@en,
+        "fake"@en,
+        "falscher Wert"@de,
+        "false statement"@en,
+        "inaccurate information"@en,
+        "inaccurate statement"@en,
+        "inaccurate value"@en,
+        "incorrect information"@en,
+        "incorrect statement"@en,
+        "inkorrekter Wert"@de,
+        "wrong information"@en,
+        "wrong statement"@en,
+        "wrong value"@en ;
+    skos:prefLabel "fehlerhafter Wert"@de,
+        "incorrect value"@en ;
+    irtp:P4 irts:Q690-5E71E798-8562-553B-884A-E44D397F53AA ;
+    irtt:P4 "Q41755623" .
+
 irt:P1
     a wikibase:Property ;
     schema:description "Diese Klasse ist eine speziellere Form der Wertklasse."@de,
@@ -37087,6 +37522,14 @@ irts:Q100-E83AD1C7-DD3A-5B3F-8CCE-6D183C6F0E9D
     irtpq:P106 "Cloigtheach (Round Tower)" ;
     irtps:P103 irt:Q224 .
 
+irts:Q100-E85B5B00-5491-5A20-BD97-E0E18AC59439
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:beeb7328bef6e2e863996717742dedbd .
+
 irts:Q100-E488027B-588E-5237-902F-38FB9BB82167
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -37321,6 +37764,14 @@ irts:Q101-A1C28864-D64F-5BD4-A55E-BE2F933C35A9
     irtps:P131 "Point(-7.203579 52.960369)"^^geo:wktLiteral ;
     irtpsv:P131 irtv:386492c8f18d3be512451cb6e16dcaf7 .
 
+irts:Q101-A6192FC1-CBB1-503F-943C-589BA9EAC114
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:beeb7328bef6e2e863996717742dedbd .
+
 irts:Q101-B2AF20DE-BE2D-5D2C-A82F-9A8639076EBD
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -37402,6 +37853,15 @@ irts:Q101-E4A7B717-B96B-5E74-945C-2BFE9F191D44
     irtpq:P105 "40, 52, 75",
         "176-178" ;
     irtps:P103 irt:Q234 .
+
+irts:Q101-E7D7EC14-FE5B-5035-AF66-491097AD64D1
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:a023d94c628f27bf224016e245af64e688a1d8be ;
+    irtpq:P119 irt:Q299 ;
+    irtps:P129 "1150-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:37200adf7361aaa08efed26315364086 .
 
 irts:Q101-E338D582-EF0C-5737-8192-6F27F6D29598
     a wikibase:Statement ;
@@ -37608,6 +38068,14 @@ irts:Q102-595D1F62-C583-526A-A9FB-F861AE504280
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     irtps:P130 irt:Q247 .
+
+irts:Q102-808B1026-53E4-594A-8AF6-3E0D8F9AA56E
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
 
 irts:Q102-5300A526-855F-5596-828A-F1C1F0E01822
     a wikibase:BestRank,
@@ -37837,6 +38305,14 @@ irts:Q103-111CA33F-A9AE-5587-A81E-EB6A4C24F4B6
     prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
     irtps:P118 "+10.25"^^xsd:decimal ;
     irtpsv:P118 irtv:072a68ca0b1f603e14f9b6dad20f9a0e .
+
+irts:Q103-233D89E4-7E79-50F3-A90F-09A34D53B3C7
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:69e0268a604bbb2151e8810b85bde4d4 .
 
 irts:Q103-364A0B5A-2DD9-5535-ABA7-B10CE3B6C6EF
     a wikibase:BestRank,
@@ -38176,6 +38652,14 @@ irts:Q104-C30A43FF-5481-5315-9BAC-59D2941C6A7F
     prov:wasDerivedFrom irtref:9682d15d33a099b35adcfea15160270de8b8b36b ;
     irtpq:P119 irt:Q307 ;
     irtps:P154 irt:Q306 .
+
+irts:Q104-D3FBE75A-7B65-56B1-B531-4B6F9BF735E2
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
 
 irts:Q104-D8D397B2-5F11-5B4D-9677-FD67C4C2745C
     a wikibase:BestRank,
@@ -38542,6 +39026,14 @@ irts:Q105-A7F87064-FA9F-5A2C-A035-BE65E0E75284
     irtps:P101 "+5"^^xsd:decimal ;
     irtpsv:P101 irtv:30e603cac620241526fa9f81268ba25c .
 
+irts:Q105-B6C7C233-8807-5BBE-A077-06E857224D46
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:e7cd6bad40b4199847a4889356bbd7eb2061df51 ;
+    irtps:P129 "1004-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:d2ca6fb2c8fa4e2b7287ec4652ee26e2 .
+
 irts:Q105-BC6D59A8-F05F-5910-BD29-E65176AA221F
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -38601,6 +39093,18 @@ irts:Q105-D8445950-770E-55C5-8690-FAB4E1EEA285
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     irtps:P130 irt:Q247 .
+
+irts:Q105-E20BF433-5265-5D13-A067-F263052F73E8
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P160 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpq:P165 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P160 irtv:0f3794db05e0aa4482bd0e77c38183aa ;
+    irtpqv:P165 irtv:69e0268a604bbb2151e8810b85bde4d4 ;
+    irtps:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:69e0268a604bbb2151e8810b85bde4d4 .
 
 irts:Q105-EAC5DD80-2084-5B22-8542-23CB6E52AA62
     a wikibase:Statement ;
@@ -38812,6 +39316,17 @@ irts:Q106-536CA0C4-CCC6-536D-BB97-9008EFAB156F
         irtref:6169c256e5024c09f1b89b905b7e168edafa0cfe ;
     irtps:P133 irt:Q328 .
 
+irts:Q106-621DCF93-F254-54DA-9FB1-C3FF0556C2AA
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:PreferredRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072,
+        irtref:c37a639057f87438d382b3690d3970488ea72b05 ;
+    irtpq:P160 "1076-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P160 irtv:c7fcace39047595decb78028a6e17536 ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
+
 irts:Q106-653D6EDA-4E11-5246-94DE-3932BEB06250
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -38932,6 +39447,14 @@ irts:Q106-B6CB52B7-3DA5-51D7-A687-8F120B13C2CD
     irtps:P131 "Point(-6.880127 53.727307)"^^geo:wktLiteral ;
     irtpsv:P131 irtv:e55fca4103ab3eb10eb177af126e1a4f .
 
+irts:Q106-B08AC8B8-7D82-53BB-8EE6-CC18773705D0
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:661832671bfab51095634a321093bf3164d04396 ;
+    irtpq:P119 irt:Q307 ;
+    irtps:P129 "0800-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:1e193a71dba7ea242614d39e22bebb70 .
+
 irts:Q106-B19B746B-FD34-5D3A-9D0C-66E1533DCE5F
     a wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
@@ -39004,7 +39527,9 @@ irts:Q106-F5406F4E-8ED5-5B1F-A58F-4FE0CA3A120E
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:1d5003578abb68d2f8dffa7664bfa903fba4b298 ;
+    irtpq:P108 "1076-01-01T00:00:00Z"^^xsd:dateTime ;
     irtpq:P145 irt:Q332 ;
+    irtpqv:P108 irtv:c7fcace39047595decb78028a6e17536 ;
     irtps:P150 irt:Q331 .
 
 irts:Q106-FC9583CD-D947-53B0-BE32-B02BD3314001
@@ -39013,6 +39538,15 @@ irts:Q106-FC9583CD-D947-53B0-BE32-B02BD3314001
     irtpq:P105 "307" ;
     irtpq:P109 "72" ;
     irtps:P103 irt:Q227 .
+
+irts:Q106-FCF9B640-E45D-5004-AE99-485B1DD0B158
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:1d5003578abb68d2f8dffa7664bfa903fba4b298 ;
+    irtpq:P150 irt:Q331 ;
+    irtps:P160 "1076-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P160 irtv:c7fcace39047595decb78028a6e17536 .
 
 irts:Q107-0BC21C4B-FC52-5B4A-8D87-41259218D1AF
     a wikibase:BestRank,
@@ -39079,6 +39613,18 @@ irts:Q107-9E37C1BA-3FB8-54E1-9F8E-0D1804440230
     wikibase:rank wikibase:NormalRank ;
     irtpq:P105 "298" ;
     irtps:P103 irt:Q227 .
+
+irts:Q107-38A6D7FF-AB7C-5336-82EB-258F7CF818F6
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P160 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpq:P165 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P160 irtv:0f3794db05e0aa4482bd0e77c38183aa ;
+    irtpqv:P165 irtv:69e0268a604bbb2151e8810b85bde4d4 ;
+    irtps:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:69e0268a604bbb2151e8810b85bde4d4 .
 
 irts:Q107-38CF687D-B89A-567D-B621-A02943B693A8
     a wikibase:BestRank,
@@ -39357,6 +39903,8 @@ irts:Q108-3E3FFD7B-72E1-526C-BA12-1DCFDA046915
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:1d5003578abb68d2f8dffa7664bfa903fba4b298 ;
+    irtpq:P108 "1179-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:adce04183d269138b7664d7bd3cd4e00 ;
     irtps:P150 irt:Q284 .
 
 irts:Q108-5F7FBB61-0362-5BC9-ACFD-DD7A31F5E425
@@ -39594,6 +40142,14 @@ irts:Q108-D7A17A73-A4DF-588B-80D1-ED7799697338
     irtpq:P136 irt:Q323 ;
     irtps:P135 <https://www.logainm.ie/ga/114019> .
 
+irts:Q108-DB712DB9-A34B-5576-A28E-3F4B418AD816
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:beeb7328bef6e2e863996717742dedbd .
+
 irts:Q108-DC89C60A-6F0A-5891-8F7E-4A206A678065
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -39792,6 +40348,8 @@ irts:Q110-6B604C72-1388-5740-BD43-68512387C3CB
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:b4c7c1c7b6b8cdf835c3c27191f53b6a9d2cef60 ;
+    irtpq:P108 "1156-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:e66d8a83fef98c42a4ef3ba487c14d7d ;
     irtps:P150 irt:Q292 .
 
 irts:Q110-6BB2BF71-219C-598E-9A4B-92E3355D0773
@@ -39866,6 +40424,8 @@ irts:Q110-66C1B0A4-96C9-5223-9B95-2B188F2FE0B6
     a wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:398c424e3ec957320f7f855cc63d33ff83ff7c02 ;
+    irtpq:P108 "1156-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:e66d8a83fef98c42a4ef3ba487c14d7d ;
     irtps:P103 irt:Q348 .
 
 irts:Q110-0096FB33-4FE4-5484-8044-B6D81054A0E7
@@ -39947,6 +40507,8 @@ irts:Q110-33231AE8-AFC2-5844-A6AC-1993EC6CFF9D
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:28301d31825a223f670e5591b5925ac6474eec7c ;
+    irtpq:P108 "1247-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:4558228892c15940a6142e55fd186031 ;
     irtps:P150 irt:Q357 .
 
 irts:Q110-88703C60-0B77-5DC8-8A59-E7EA5443EDC3
@@ -39982,7 +40544,9 @@ irts:Q110-9931319F-DF5A-5F8F-AE03-865A28E4D890
     a wikibase:Statement ;
     wikibase:rank wikibase:DeprecatedRank ;
     prov:wasDerivedFrom irtref:ce0e4650dcc98a22ba87b3c7ed9906f80df5c1ae ;
+    irtpq:P108 "0900-01-01T00:00:00Z"^^xsd:dateTime ;
     irtpq:P151 irt:Q358 ;
+    irtpqv:P108 irtv:aff503a2f3dba0a7888d53c3a9f8125f ;
     irtps:P150 irt:Q357 .
 
 irts:Q110-A86C0689-C6B4-5FF9-8953-BCD9EC3F7678
@@ -40100,6 +40664,14 @@ irts:Q110-F66BC60B-6D4F-5700-9B9A-30D401DAD6A1
     wikibase:rank wikibase:NormalRank ;
     irtpq:P105 "35" ;
     irtps:P103 irt:Q349 .
+
+irts:Q110-F9318B4E-5873-5762-B20A-2A3FF3B89F5A
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
 
 irts:Q110-FCCB6776-DCFE-5C56-9FCD-4E1772214105
     a wikibase:Statement ;
@@ -40341,6 +40913,18 @@ irts:Q111-DA72A8C4-3EE7-5352-91D0-B08C357AB141
     irtpq:P106 "Round Tower" ;
     irtpq:P145 irt:Q275 ;
     irtps:P103 irt:Q231 .
+
+irts:Q111-DDC02835-C6CA-5858-93A4-CDE4C8540623
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P160 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpq:P165 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P160 irtv:beeb7328bef6e2e863996717742dedbd ;
+    irtpqv:P165 irtv:0f3794db05e0aa4482bd0e77c38183aa ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
 
 irts:Q111-E2CEA8EE-F7D2-5506-A606-5D55C2ED8A2B
     a wikibase:BestRank,
@@ -40653,6 +41237,18 @@ irts:Q113-3DCFF1BA-2625-52D5-92C2-3565A009830F
     wikibase:rank wikibase:NormalRank ;
     irtps:P102 irt:Q367 .
 
+irts:Q113-5F69C1A6-9C5B-5A97-872E-F18F1EB95BA3
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P160 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpq:P165 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P160 irtv:0f3794db05e0aa4482bd0e77c38183aa ;
+    irtpqv:P165 irtv:69e0268a604bbb2151e8810b85bde4d4 ;
+    irtps:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:69e0268a604bbb2151e8810b85bde4d4 .
+
 irts:Q113-42DA5340-D97A-5C4B-94B9-5889F53DA34C
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -40935,6 +41531,14 @@ irts:Q114-43916422-0265-56CB-A40C-EDD9F462C588
     wikibase:rank wikibase:NormalRank ;
     irtpq:P106 "Round Tower" ;
     irtps:P103 irt:Q224 .
+
+irts:Q114-AEF866CF-B643-5BAE-992C-0D681FD5D72A
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
 
 irts:Q114-BEB5BDD6-2702-5229-BAD3-8A2865E9998C
     a wikibase:BestRank,
@@ -41431,6 +42035,18 @@ irts:Q116-BFB45F02-73F0-58C0-BC83-E9310321F488
     irtpq:P105 "204-205, 207" ;
     irtps:P103 irt:Q234 .
 
+irts:Q116-C87A8E12-66D0-53C5-9A88-868B389DF746
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P160 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpq:P165 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P160 irtv:0f3794db05e0aa4482bd0e77c38183aa ;
+    irtpqv:P165 irtv:69e0268a604bbb2151e8810b85bde4d4 ;
+    irtps:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:69e0268a604bbb2151e8810b85bde4d4 .
+
 irts:Q116-C96BCA08-6EC9-5514-9E65-57CEA2E5C661
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -41818,6 +42434,14 @@ irts:Q117-F3BF9149-AB7A-5275-AE29-9C9CC1EC7144
     wikibase:rank wikibase:NormalRank ;
     irtps:P130 irt:Q293 .
 
+irts:Q117-F4F44DEF-592A-5BF1-A54B-2F2C4B5902A7
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
+
 irts:Q117-F9DC4593-D6FA-5E5A-859E-67109AE806E1
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -41837,6 +42461,10 @@ irts:Q117-F675CF83-DA2C-5347-A3FD-65A06B8F3AEC
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:e65561a35027f8c3e1c2771118e8a0a5ccc188dd ;
+    irtpq:P160 "1014-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpq:P165 "0795-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P160 irtv:9d5aa8d382d540b27a98b9c79897ea73 ;
+    irtpqv:P165 irtv:f96f3b31398ef6cf0413dd00b9dbf96b ;
     irtps:P150 irt:Q386 .
 
 irts:Q117-F045602A-A2DA-5708-B951-2C564B81D52D
@@ -41875,6 +42503,18 @@ irts:Q118-1F10418B-21E5-50F9-891B-15FAD9D352A2
     a wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     irtps:P103 irt:Q232 .
+
+irts:Q118-2C878E46-3EF7-55A6-BD8F-16CD39363220
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P160 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpq:P165 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P160 irtv:beeb7328bef6e2e863996717742dedbd ;
+    irtpqv:P165 irtv:0f3794db05e0aa4482bd0e77c38183aa ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
 
 irts:Q118-2F612A5F-E5A8-51AA-857D-EE59614E1F8D
     a wikibase:BestRank,
@@ -42451,6 +43091,18 @@ irts:Q119-C55BF1AE-51C2-58F2-A832-460227C59D4F
     irtpqv:P108 irtv:d3046ed56d7bfbc3ed3f0e4167285ead ;
     irtps:P135 <https://www.duchas.ie/en/cbeg/431> .
 
+irts:Q119-CA1E23B9-5EA0-5701-89B4-932D4E3EF82F
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P160 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpq:P165 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P160 irtv:beeb7328bef6e2e863996717742dedbd ;
+    irtpqv:P165 irtv:0f3794db05e0aa4482bd0e77c38183aa ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
+
 irts:Q119-D6DECB46-1970-55B0-ACF7-3732BE57C9C1
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -42604,6 +43256,14 @@ irts:Q120-7ECCA042-EEFA-5018-8002-140517FB3734
     wikibase:rank wikibase:PreferredRank ;
     irtpq:P105 "146-147" ;
     irtps:P103 irt:Q234 .
+
+irts:Q120-8D1F8437-FED7-5F2A-951E-C8FBD77974C4
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
 
 irts:Q120-9D7C0143-8720-5775-B16E-C863E8DB9178
     a wikibase:BestRank,
@@ -43113,6 +43773,14 @@ irts:Q122-D5D0D982-D8C9-5653-B011-825A360820D7
     wikibase:rank wikibase:NormalRank ;
     irtps:P123 "KE066-016006-" .
 
+irts:Q122-DDDA2C34-F102-502A-8B1B-AC9B7C90477B
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
+
 irts:Q122-EA5010FF-A859-5465-A0FD-5B40AA88C621
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -43492,6 +44160,25 @@ irts:Q123-DED2E7F6-DC2B-5D47-BAEF-E88A159956A5
     irtpq:P106 "Cloigtheach (Round Tower)" ;
     irtps:P103 irt:Q224 .
 
+irts:Q123-E9CB3E7B-46BE-5C42-9025-682B2F427D89
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:3e990fc88b28d568c216736f6017c0a6acee5a6e ;
+    irtps:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:beeb7328bef6e2e863996717742dedbd .
+
+irts:Q123-E508B87E-ABFB-5F6E-B36A-D36A3F3D3352
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:PreferredRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P160 "1199-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpq:P165 "1150-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P160 irtv:3995472ba78f48fda1399fd21e799c42 ;
+    irtpqv:P165 irtv:37200adf7361aaa08efed26315364086 ;
+    irtps:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:beeb7328bef6e2e863996717742dedbd .
+
 irts:Q123-E5813B45-AF55-53AD-B725-8B73CC25300F
     a wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
@@ -43537,6 +44224,18 @@ irts:Q124-1CDD5124-90B4-56FA-8C43-F0F4251D43DD
     prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
     irtps:P118 "+34.89"^^xsd:decimal ;
     irtpsv:P118 irtv:0a7629f9d51dcdd9b38be7121d7d8657 .
+
+irts:Q124-2BDE9D3F-EF6B-57E7-9496-ED4589B5CD22
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P160 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpq:P165 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P160 irtv:beeb7328bef6e2e863996717742dedbd ;
+    irtpqv:P165 irtv:0f3794db05e0aa4482bd0e77c38183aa ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
 
 irts:Q124-3B5BB038-96F3-5615-A1EE-D06C213A8A9E
     a wikibase:Statement ;
@@ -43889,6 +44588,15 @@ irts:Q125-5FF37D4D-519A-558B-A7D8-1F5749171E8C
     irtpq:P106 "Round Tower" ;
     irtps:P103 irt:Q231 .
 
+irts:Q125-6EEB9D27-3E68-5264-B14E-366544963D81
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:a023d94c628f27bf224016e245af64e688a1d8be ;
+    irtpq:P119 irt:Q618 ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
+
 irts:Q125-08FEF2A5-4EBF-5BEF-A42E-B98FB19046E5
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -43970,6 +44678,14 @@ irts:Q125-659CB8B3-ACDB-5564-8550-52203B9CEA67
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
     irtps:P117 irt:Q436 .
+
+irts:Q125-1774FED3-9694-527A-8607-9FEA0B25C13B
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:69e0268a604bbb2151e8810b85bde4d4 .
 
 irts:Q125-4889E33A-4ACB-5FFB-92B2-AB7DD5648F65
     a wikibase:BestRank,
@@ -44146,6 +44862,14 @@ irts:Q126-81D1FB4C-56E2-5BA6-96B7-719A589DAA0F
     prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
     irtps:P118 "+10.8"^^xsd:decimal ;
     irtpsv:P118 irtv:402c67642652f707627c7c15315385ec .
+
+irts:Q126-692DD7C1-AC2E-5969-9407-628134D4F82B
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
 
 irts:Q126-984C875E-1FF6-58A5-A27C-1C1FF61D7AB8
     a wikibase:BestRank,
@@ -44490,6 +45214,14 @@ irts:Q127-DDD55FC7-83F8-5B9E-A3A3-49ABA2A64412
     prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
     irtps:P117 irt:Q264 .
 
+irts:Q127-E8627168-570C-591F-B7B8-7059464225B6
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
+
 irts:Q127-F919A05B-525E-5199-83AB-B508A050C702
     a wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
@@ -44514,6 +45246,14 @@ irts:Q128-0EA90503-4AA0-508D-9DDD-FD2ADA5FDCF8
     irtpq:P119 irt:Q240 ;
     irtps:P118 "+30"^^xsd:decimal ;
     irtpsv:P118 irtv:cb4b14999c89f77f474f38fcd009ee59 .
+
+irts:Q128-0F15F535-4DD7-5973-B22C-E878FFB5709E
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
 
 irts:Q128-4B308AED-158E-57A0-8B3F-D827E4E34A01
     a wikibase:BestRank,
@@ -44643,6 +45383,15 @@ irts:Q128-89848F3D-4A96-588F-8856-E0DBFE14DA33
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     irtps:P134 irt:Q454 .
+
+irts:Q128-197857BD-6A8C-5BC6-BD9D-DA8BDAF430EA
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:a023d94c628f27bf224016e245af64e688a1d8be ;
+    irtpq:P119 irt:Q618 ;
+    irtps:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:beeb7328bef6e2e863996717742dedbd .
 
 irts:Q128-5572516E-3267-5FE9-9B46-639DF5163C6B
     a wikibase:BestRank,
@@ -45018,6 +45767,18 @@ irts:Q129-A1689432-32B5-5108-961F-EE6B49D08CEC
     irtpq:P125 irt:Q244 ;
     irtps:P125 irt:Q226 .
 
+irts:Q129-B01E3CA6-96A2-5866-8AB2-BCCEF3803625
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P160 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpq:P165 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P160 irtv:0f3794db05e0aa4482bd0e77c38183aa ;
+    irtpqv:P165 irtv:69e0268a604bbb2151e8810b85bde4d4 ;
+    irtps:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:69e0268a604bbb2151e8810b85bde4d4 .
+
 irts:Q129-B4DD3FB8-1235-536B-ACBF-A7D89A736276
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -45307,6 +46068,14 @@ irts:Q130-95258A80-7187-50DD-8710-2FA977197711
     irtpq:P139 irt:Q225 ;
     irtps:P135 <https://catalogue.nli.ie/Record/vtls000743284> .
 
+irts:Q130-191214B9-3124-5EE9-B6AB-A2317E23BD98
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
+
 irts:Q130-677247E8-CEAB-5637-9ACF-FD9F09097F46
     a wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
@@ -45559,6 +46328,17 @@ irts:Q131-10BDAAC1-A9C2-509B-9824-3FB0AF643857
     irtpq:P105 "276" ;
     irtps:P103 irt:Q233 .
 
+irts:Q131-10C3D4AF-1928-51E9-AB01-0FE3E9F6F4D9
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:1d5003578abb68d2f8dffa7664bfa903fba4b298 ;
+    irtpq:P119 irt:Q307 ;
+    irtpq:P160 "0964-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpq:P162 irt:Q465 ;
+    irtpqv:P160 irtv:c0b1bf7e7c256cf80d06664b731d14a6 ;
+    irtps:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:69e0268a604bbb2151e8810b85bde4d4 .
+
 irts:Q131-11CA8E75-C35E-563D-9CB8-308E9BC135C7
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -45586,6 +46366,8 @@ irts:Q131-96FADA49-1DDE-5471-BCFC-F8E51C2E61B6
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:30378bc2fa05728dd36349e514278957b259da18 ;
+    irtpq:P108 "1143-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:f2f73a14e45040e4f9f14c5ac5727322 ;
     irtps:P150 irt:Q471 .
 
 irts:Q131-103E027E-BD74-5B3F-98FB-1ED9390C063E
@@ -45604,6 +46386,8 @@ irts:Q131-468A490B-37ED-5D5B-B5B5-33DF12563A28
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:1d5003578abb68d2f8dffa7664bfa903fba4b298 ;
+    irtpq:P108 "1134-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:40b88f9c1f61d5955b06e3e4e54dcafb ;
     irtps:P150 irt:Q339 .
 
 irts:Q131-487E3DC0-F118-57FC-B81B-23A8EA671064
@@ -45611,6 +46395,17 @@ irts:Q131-487E3DC0-F118-57FC-B81B-23A8EA671064
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     irtps:P116 <http://commons.wikimedia.org/wiki/Special:FilePath/Clonmacnoise%20-%20geograph.org.uk%20-%20585619.jpg> .
+
+irts:Q131-609A644E-D12C-59E7-BDA1-94A8F7E74400
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:PreferredRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P160 "1124-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpq:P162 irt:Q467 ;
+    irtpqv:P160 irtv:2e820af697d326a10434dcd724f80808 ;
+    irtps:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:beeb7328bef6e2e863996717742dedbd .
 
 irts:Q131-638D3D72-34F2-584D-9F5F-4F6259DE4750
     a wikibase:BestRank,
@@ -45695,6 +46490,8 @@ irts:Q131-DA741EA2-6095-55C8-94FE-DDD9378708CF
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P108 "1135-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:9b2ec24a6f2ed3ba7ec98698f27851f4 ;
     irtps:P150 irt:Q339 .
 
 irts:Q131-DD48D48A-0855-55E9-8FF0-2FB32BB4F3E1
@@ -45894,6 +46691,14 @@ irts:Q132-09490E3A-F5E3-5E9A-B601-4B8EF0A8FE4A
     wikibase:rank wikibase:NormalRank ;
     irtps:P130 irt:Q293 .
 
+irts:Q132-30013BE2-A62A-5AE3-BB3D-84712BFA6C85
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:beeb7328bef6e2e863996717742dedbd .
+
 irts:Q132-62363D06-3F2E-5499-8465-6FFD1C82081B
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -46031,6 +46836,16 @@ irts:Q133-3ED9379B-D397-5B43-9BBC-B55D181A913A
     wikibase:rank wikibase:NormalRank ;
     irtps:P103 irt:Q232 .
 
+irts:Q133-6A256407-5404-5CDD-9467-5069ABE91613
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P160 "1135-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P160 irtv:9b2ec24a6f2ed3ba7ec98698f27851f4 ;
+    irtps:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:beeb7328bef6e2e863996717742dedbd .
+
 irts:Q133-6BF02F37-5B72-5532-A582-094E494586AF
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -46088,6 +46903,8 @@ irts:Q133-16DDCE6D-5142-5EE5-B201-A345DF733426
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:a023d94c628f27bf224016e245af64e688a1d8be,
         irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P108 "1135-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:9b2ec24a6f2ed3ba7ec98698f27851f4 ;
     irtps:P150 irt:Q339 .
 
 irts:Q133-22E3E06F-AF14-5B81-8E35-246CE4B65941
@@ -46424,6 +47241,14 @@ irts:Q134-57597F88-FA45-5436-B41B-F7141855BDE3
     irtps:P118 "+93"^^xsd:decimal ;
     irtpsv:P118 irtv:41f1f6e0844e4cf3714fc63d3e9066fd .
 
+irts:Q134-81186347-0919-5F37-9FCB-613B50F6FF4E
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:69e0268a604bbb2151e8810b85bde4d4 .
+
 irts:Q134-A29C5F49-9BBA-5BDF-BFCB-6C283A9EEF1E
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -46647,6 +47472,8 @@ irts:Q135-75DE94DB-1951-51A2-AF51-8E9396ABA603
 irts:Q135-0091EF38-025D-5274-8133-0C610E5AD6C6
     a wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
+    irtpq:P108 "1188-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:864f930f8fc52387e5b98d92ff7003fa ;
     irtps:P103 irt:Q493 .
 
 irts:Q135-217A4968-4292-5519-B9E4-11842015AFB3
@@ -46667,6 +47494,15 @@ irts:Q135-696CA81C-3806-5143-B9F7-5ACAC168FE0E
     wikibase:rank wikibase:NormalRank ;
     irtpq:P105 "110" ;
     irtps:P103 irt:Q261 .
+
+irts:Q135-929F0966-7476-5CFD-A03E-84B5363C9E1B
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:a54bd9cd05a5e45856fc9395565e5b0f06a71067,
+        irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:beeb7328bef6e2e863996717742dedbd .
 
 irts:Q135-950DCDE5-3D69-55B2-A4C4-B63D843785FF
     a wikibase:BestRank,
@@ -46888,6 +47724,8 @@ irts:Q136-0E7957AD-8487-5F85-BCA4-B1B9F48F8C74
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:af0933fbe4bdf89ac8bfb513815097bc6d316e6f ;
+    irtpq:P108 "1114-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:04e5b78ea272ec04f47cbea0fc9ea3b0 ;
     irtps:P150 irt:Q393 .
 
 irts:Q136-1B148125-FAC7-5301-AF48-DE3E34CFEEA8
@@ -46994,6 +47832,18 @@ irts:Q136-63599A8F-504E-5F53-AE8C-2F1D0B447914
         irtref:b9acfdfe66ba1306db48a588717874859775f644 ;
     irtps:P103 irt:Q230 .
 
+irts:Q136-96008DA2-40E4-5D1B-B84C-392C264AB667
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P160 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpq:P165 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P160 irtv:beeb7328bef6e2e863996717742dedbd ;
+    irtpqv:P165 irtv:0f3794db05e0aa4482bd0e77c38183aa ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
+
 irts:Q136-1262026C-7A5F-5D1B-9A99-8339A1980759
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -47099,6 +47949,14 @@ irts:Q137-1C3765F9-63C6-59C1-A657-67A1823FEE13
     irtpqv:P160 irtv:d56b75475d18ccc65e196fc1b15eed3e ;
     irtpqv:P165 irtv:7a6c60fa95ab87ffc914a6bf3bea72c9 ;
     irtps:P103 irt:Q310 .
+
+irts:Q137-1D1EDD1B-A6D5-598A-9D47-84D1BE1B1DAD
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
 
 irts:Q137-3A8CC729-2B23-5443-B672-DD2D420DAC81
     a wikibase:BestRank,
@@ -47399,6 +48257,13 @@ irts:Q137-ECE93035-1D2C-5E3D-A8B6-F4D77C91DF35
     wikibase:rank wikibase:NormalRank ;
     irtps:P115 irt:Q237 .
 
+irts:Q137-F4975E88-F9DC-5B96-8BD3-A8E169A6B8D5
+    a wikibase:Statement ;
+    wikibase:rank wikibase:DeprecatedRank ;
+    prov:wasDerivedFrom irtref:c489e7e55a8b637e551811aa1891d96231971470 ;
+    irtps:P129 "0900-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:aff503a2f3dba0a7888d53c3a9f8125f .
+
 irts:Q138-2D8720C9-A646-56BD-942A-5BE37D7015C4
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -47618,6 +48483,14 @@ irts:Q138-AB82694A-94C2-5632-AE49-34626A166935
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     irtps:P100 "223450165" .
+
+irts:Q138-AD58D19C-165A-51F4-A812-9E5AB5732835
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
 
 irts:Q138-AE1AEB0F-4D97-5C7A-9610-C1829DE4BA73
     a wikibase:BestRank,
@@ -47952,6 +48825,15 @@ irts:Q139-CC8919BC-BCFD-5047-95AB-EF36086B4375
     irtpqv:P156 irtv:05e37b13bdc44af6f23fbcc11a6a9930 ;
     irtps:P150 irt:Q286 .
 
+irts:Q139-CE83B618-0B54-5671-B9D0-19071D51AA30
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:dd57dbe01beb8addc1ac4581a6f4f1fc1a2abedd ;
+    irtpq:P119 irt:Q307 ;
+    irtps:P129 "0900-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:aff503a2f3dba0a7888d53c3a9f8125f .
+
 irts:Q139-D5D66825-EA74-5BA6-9D6A-2F1FE9D7C792
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -48096,6 +48978,18 @@ irts:Q140-8F9528F4-AB04-5610-947E-D15823243E17
     irtpq:P108 "2026-01-01T00:00:00Z"^^xsd:dateTime ;
     irtpqv:P108 irtv:0bc2c797db01b08081bfbfd35f6b737e ;
     irtps:P124 "n/a" .
+
+irts:Q140-9DF99B71-2573-5714-A675-F2E68A9D3ABE
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P160 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpq:P165 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P160 irtv:beeb7328bef6e2e863996717742dedbd ;
+    irtpqv:P165 irtv:0f3794db05e0aa4482bd0e77c38183aa ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
 
 irts:Q140-15A1515D-AC8A-55EF-A737-DCC42C22BD85
     a wikibase:Statement ;
@@ -48268,6 +49162,14 @@ irts:Q141-338CA8D7-73F3-572B-AACB-7E0D4BB761BE
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:4eec8aa3399af0c7cfa2af04b2d28fdb56bfa3f9 ;
     irtps:P133 irt:Q330 .
+
+irts:Q141-649B050F-128C-5B91-BEC7-06E5A68513CE
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
 
 irts:Q141-829D41D1-EC8A-5EF7-A59C-53209D3E758B
     a wikibase:BestRank,
@@ -48524,6 +49426,16 @@ irts:Q142-677FCF36-C50D-56B4-969C-6D276D852944
     irtpq:P105 "288" ;
     irtps:P103 irt:Q222 .
 
+irts:Q142-3705FE3A-6C3D-58C3-AB56-1E91AB5A99AE
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P160 "1127-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P160 irtv:2c704e2fd489405a44cc384df6ed741f ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
+
 irts:Q142-68320B6F-D470-50E5-A014-DCB5BE02B832
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -48778,6 +49690,18 @@ irts:Q143-72E18510-AF18-5819-A055-8059A01608CF
     prov:wasDerivedFrom irtref:3af36a4f57cb3f16bd8a567596e97e776e6d6eea ;
     irtps:P140 irt:Q263 .
 
+irts:Q143-274C01AA-8D35-5CE2-8D32-ECD46FD3A238
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P160 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpq:P165 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P160 irtv:beeb7328bef6e2e863996717742dedbd ;
+    irtpqv:P165 irtv:0f3794db05e0aa4482bd0e77c38183aa ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
+
 irts:Q143-429E3B19-FF9A-51FA-AA43-FFBBFB2EDE75
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -48928,6 +49852,14 @@ irts:Q144-23DAEF51-0959-57BF-B831-DC0526F92CCE
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     irtps:P103 irt:Q232 .
+
+irts:Q144-168E6259-89CB-599D-ADD1-2879281292BE
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    irtpq:P119 irt:Q299 ;
+    irtps:P155 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P155 irtv:beeb7328bef6e2e863996717742dedbd .
 
 irts:Q144-475D4AD9-D7FE-55E1-BF52-C1D89FB03586
     a wikibase:BestRank,
@@ -49283,6 +50215,14 @@ irts:Q145-F6A98F3F-C510-5BC7-93BE-C84F990CC5B5
     irtpq:P106 "(marked as ruin)" ;
     irtps:P103 irt:Q224 .
 
+irts:Q145-FE9DC1B9-05E0-5E94-BE70-7C69CA9509BA
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:beeb7328bef6e2e863996717742dedbd .
+
 irts:Q145-FED9D1EE-7A29-5FF7-A29D-5C788F626CE9
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -49367,6 +50307,14 @@ irts:Q146-23EF6291-416B-5703-B440-A7DE59CE1C0A
     wikibase:rank wikibase:NormalRank ;
     irtps:P166 <http://commons.wikimedia.org/wiki/Special:FilePath/Tullaherin%20Old%20Graveyard%20aerial%20view.jpg> .
 
+irts:Q146-30F6DACC-F1C5-548E-B94C-7E29FAF88056
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:PreferredRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
+
 irts:Q146-49F66ED7-7C80-59EA-83CB-50432B4A7B29
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -49397,6 +50345,8 @@ irts:Q146-53AFE41B-88B0-5898-B00A-8DE375008FF0
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:6c725ec95dedaae2383f40f2a7ff39f6561f33bd,
         irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P108 "1121-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:196f29955d44956ebbfd6912cf963122 ;
     irtps:P150 irt:Q339 .
 
 irts:Q146-54D69FC0-376A-53E5-BA4A-9D324F2A50AB
@@ -49626,6 +50576,13 @@ irts:Q146-F794EE1E-F302-5238-9301-5622EF5AB50B
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     irtps:P102 irt:Q537 .
+
+irts:Q146-F9632663-F516-52B6-B1C5-D30A9C0D65FF
+    a wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:ba74f6f45d73e304e08b79c3247f920281e487e6 ;
+    irtps:P129 "1121-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:196f29955d44956ebbfd6912cf963122 .
 
 irts:Q147-0C9F0BCF-5FA9-574E-8966-0318F18B93F2
     a wikibase:BestRank,
@@ -49875,6 +50832,14 @@ irts:Q147-E0C792A9-FB40-51CB-BCCF-273DEED9FF68
     wikibase:rank wikibase:NormalRank ;
     irtps:P140 irt:Q263 .
 
+irts:Q147-E7C97ED2-DACB-5EED-9FEF-CBB0336B787F
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:69e0268a604bbb2151e8810b85bde4d4 .
+
 irts:Q147-E49AB7B7-B074-5CFB-B16D-2E8F89729F3A
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -49927,6 +50892,18 @@ irts:Q148-2D58A0BC-8DD0-53E0-A4B1-7398A676E4B6
     prov:wasDerivedFrom irtref:1d4767b6bab4acbbc4318524babf208daf6fc886 ;
     irtps:P131 "Point(-6.418191 53.777879)"^^geo:wktLiteral ;
     irtpsv:P131 irtv:21bc39be94709ae93cf892366cf2cc1d .
+
+irts:Q148-2D0332C7-A941-57F2-8EEF-D2A8E2E3840B
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P160 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpq:P165 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P160 irtv:0f3794db05e0aa4482bd0e77c38183aa ;
+    irtpqv:P165 irtv:69e0268a604bbb2151e8810b85bde4d4 ;
+    irtps:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:69e0268a604bbb2151e8810b85bde4d4 .
 
 irts:Q148-4BCA2467-C4E1-5079-9C74-311ABE064FD2
     a wikibase:Statement ;
@@ -49997,6 +50974,8 @@ irts:Q148-24F52C21-2E5B-5AF7-A1CA-D9E78D18D252
         irtref:1d5003578abb68d2f8dffa7664bfa903fba4b298,
         irtref:a023d94c628f27bf224016e245af64e688a1d8be,
         irtref:b4c7c1c7b6b8cdf835c3c27191f53b6a9d2cef60 ;
+    irtpq:P108 "1097-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:48679211173d419c9d533636010d29d9 ;
     irtps:P150 irt:Q284 .
 
 irts:Q148-31C58FD0-86F5-5C73-850E-7DC07DF09EB4
@@ -50011,6 +50990,8 @@ irts:Q148-46CFD9C8-D465-5AA3-80DB-73A64CA9358F
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:1d5003578abb68d2f8dffa7664bfa903fba4b298 ;
+    irtpq:P108 "1097-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:48679211173d419c9d533636010d29d9 ;
     irtps:P145 irt:Q548 .
 
 irts:Q148-64CB5688-E725-5097-8109-D4F83A010396
@@ -50062,6 +51043,8 @@ irts:Q148-9525C918-A940-5DAA-AF1B-0795768C1EBD
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:9b351802eb9774d2b259766dcf41ad0130f077ee ;
     irtpq:P106 "Cloicteach Mainistreach a. Mainistreach buithe" ;
+    irtpq:P108 "1097-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:48679211173d419c9d533636010d29d9 ;
     irtps:P103 irt:Q348 .
 
 irts:Q148-53388205-EEA6-5252-849E-1F3EB3E3EFF6
@@ -50183,6 +51166,15 @@ irts:Q148-DC91403F-FB9F-5DCB-A69A-0291C5522BAE
         irtref:baadfeb946c871e118dec47443081a934a919072 ;
     irtpq:P107 irt:Q226 ;
     irtps:P117 irt:Q264 .
+
+irts:Q148-DDBA40D0-F4E2-500D-B63E-A0DA44B660DC
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:1d4767b6bab4acbbc4318524babf208daf6fc886 ;
+    irtpq:P119 irt:Q618 ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
 
 irts:Q148-E2772C9C-52A0-5655-AA98-236A0FA34708
     a wikibase:BestRank,
@@ -50396,6 +51388,14 @@ irts:Q149-CB15EDE8-4C0D-5EAE-876F-CE3285F76B12
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     irtps:P115 irt:Q237 .
+
+irts:Q149-D640D0E3-EA35-52E3-85CA-9F4401048970
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:beeb7328bef6e2e863996717742dedbd .
 
 irts:Q149-E7E7528F-E9A1-5A6A-BA11-B9AD4A9E2DFC
     a wikibase:BestRank,
@@ -50652,6 +51652,18 @@ irts:Q150-D30E8584-C6CD-5048-863C-C44A9EA45CDF
     irtpq:P106 "Clogaus [!] or Round Tower" ;
     irtps:P103 irt:Q224 .
 
+irts:Q150-D679701D-AEE3-5386-9DA0-BF1A1C60B35C
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P160 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpq:P165 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P160 irtv:0f3794db05e0aa4482bd0e77c38183aa ;
+    irtpqv:P165 irtv:69e0268a604bbb2151e8810b85bde4d4 ;
+    irtps:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:69e0268a604bbb2151e8810b85bde4d4 .
+
 irts:Q150-DC6953A1-437A-5F17-B4B2-6DC8AFC5BFC5
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -50838,6 +51850,18 @@ irts:Q151-AA111584-FD3A-534B-9A50-0B0E702652C8
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:cad7bc83b212779f6d13bc91af937cd3cdc7d757 ;
     irtps:P4 "Q141765239" .
+
+irts:Q151-B2FCEA9A-2655-56E8-AB3B-0897CEFC4D8E
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P160 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpq:P165 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P160 irtv:0f3794db05e0aa4482bd0e77c38183aa ;
+    irtpqv:P165 irtv:69e0268a604bbb2151e8810b85bde4d4 ;
+    irtps:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:69e0268a604bbb2151e8810b85bde4d4 .
 
 irts:Q151-B146C7EF-D6A7-54D6-AA13-EDFAC64E91E4
     a wikibase:BestRank,
@@ -51128,6 +52152,18 @@ irts:Q152-C249BBDC-830F-5583-982E-1D3E77E65CFE
     irtpq:P105 "528" ;
     irtps:P103 irt:Q222 .
 
+irts:Q152-D9504FA2-CA60-5D07-964A-09C51E72A266
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P160 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpq:P165 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P160 irtv:0f3794db05e0aa4482bd0e77c38183aa ;
+    irtpqv:P165 irtv:69e0268a604bbb2151e8810b85bde4d4 ;
+    irtps:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:69e0268a604bbb2151e8810b85bde4d4 .
+
 irts:Q152-E1011BAC-A84B-5EED-B161-B7DFFC173B83
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -51333,6 +52369,8 @@ irts:Q153-C2F2204C-CCEB-58C1-BBB1-6EAC8A8926CB
         irtref:a023d94c628f27bf224016e245af64e688a1d8be,
         irtref:b4c7c1c7b6b8cdf835c3c27191f53b6a9d2cef60,
         irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P108 "1396-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:bbbda7a807d8758c909af0c72bd24102 ;
     irtps:P150 irt:Q339 .
 
 irts:Q153-C28FF84E-0A7E-539E-BAF6-25A00FE235E1
@@ -51737,6 +52775,14 @@ irts:Q155-2FF2F07D-5ABB-5F1D-ACC0-A71569E34E72
     irtps:P131 "Point(-8.228582 55.264288)"^^geo:wktLiteral ;
     irtpsv:P131 irtv:4a41655784ffc57071d7a4674e75e08c .
 
+irts:Q155-3B5BD3B5-8BB0-565B-8466-DBDBB8F76F2A
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:beeb7328bef6e2e863996717742dedbd .
+
 irts:Q155-3C951F40-8992-5BC1-85EB-6D04A68D6F81
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -52072,6 +53118,14 @@ irts:Q157-2551A4F8-D58C-5359-B701-7549C91D43B4
     irtpq:P106 "Cloigtheach Round Tower" ;
     irtps:P103 irt:Q228 .
 
+irts:Q157-3601D2CC-4E37-50B5-B417-E0C92E7DA5A2
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
+
 irts:Q157-13025F1A-CF22-56FC-9896-C0D6541EBD22
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -52301,6 +53355,8 @@ irts:Q160-4B0E1B0F-FE72-561B-B999-CE8EF09457F0
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:d3ce7bbd4851f90f99be878165b52bbc1e091fad ;
+    irtpq:P108 "1020-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:6a46c989ce02e46d75b24ada73c08be0 ;
     irtps:P150 irt:Q284 .
 
 irts:Q160-5AD5CBD6-DAC4-54FC-88C3-66AEFDAD9555
@@ -52308,6 +53364,8 @@ irts:Q160-5AD5CBD6-DAC4-54FC-88C3-66AEFDAD9555
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:d3ce7bbd4851f90f99be878165b52bbc1e091fad ;
+    irtpq:P108 "0996-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:dd75c77101c56473e7fcfe78859ee56c ;
     irtps:P150 irt:Q284 .
 
 irts:Q160-15E34D44-2DEE-5C9F-BB50-ED7ECF0374B3
@@ -52330,6 +53388,8 @@ irts:Q160-555C8D2E-7100-54A2-9BA8-5030577DBB6B
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:d3ce7bbd4851f90f99be878165b52bbc1e091fad ;
     irtpq:P106 "cap" ;
+    irtpq:P156 "1121-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P156 irtv:196f29955d44956ebbfd6912cf963122 ;
     irtps:P125 irt:Q242 .
 
 irts:Q160-9301C2B5-94E2-5992-95AB-529318C97E37
@@ -52369,6 +53429,8 @@ irts:Q160-CFE507CE-DEDD-5A4D-8E98-03F0F0C40C11
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:d3ce7bbd4851f90f99be878165b52bbc1e091fad ;
+    irtpq:P108 "0980-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:fb3f34cb495a0cacacb33edfb642f07c ;
     irtps:P150 irt:Q284 .
 
 irts:Q160-E817E0B3-2732-55AA-AD38-E34C223D81DD
@@ -52455,6 +53517,14 @@ irts:Q162-1BFA2FD0-823F-52AC-8729-2C4C4ABB36EF
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     irtps:P2 irt:Q241 .
+
+irts:Q162-4A18E342-DD2E-5F2A-8B01-FAEC01404F13
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:beeb7328bef6e2e863996717742dedbd .
 
 irts:Q162-5C158C6F-9D4D-5B8C-8CEF-35A91A3E6363
     a wikibase:BestRank,
@@ -52731,6 +53801,14 @@ irts:Q164-3E245EE5-C57F-5E1C-B43D-B2EC01A49417
     wikibase:rank wikibase:NormalRank ;
     irtps:P174 "J0960072100" .
 
+irts:Q164-4B86819D-5D0C-58C3-891A-B7EA74698EAC
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:69e0268a604bbb2151e8810b85bde4d4 .
+
 irts:Q164-5FAA5134-49E4-5E55-998C-099DE3397BE8
     a wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
@@ -52922,6 +54000,16 @@ irts:Q165-EBEE7987-5598-5302-8A70-5AD5FF76325C
     irtpq:P108 "1838-01-01T00:00:00Z"^^xsd:dateTime ;
     irtpqv:P108 irtv:deb9484e7b6c32572f062f3c7891dac4 ;
     irtps:P130 irt:Q345 .
+
+irts:Q166-0F0F1312-275E-5FEE-A5D7-38CC3AA32FC5
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:d3ce7bbd4851f90f99be878165b52bbc1e091fad ;
+    irtpq:P119 irt:Q299 ;
+    irtpq:P151 irt:Q589 ;
+    irtps:P129 "0964-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:c0b1bf7e7c256cf80d06664b731d14a6 .
 
 irts:Q166-54FCF1A5-BA49-56F1-936B-35717E12E51F
     a wikibase:BestRank,
@@ -53231,6 +54319,8 @@ irts:Q169-8C0FB893-F6C5-5669-B577-C31D2BB1BAFE
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:004767bf950938657140989a4d657d18da9e74ca ;
+    irtpq:P165 "0839-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P165 irtv:d8dda334ad07ff71f2ae990a88607d50 ;
     irtps:P2 irt:Q241 .
 
 irts:Q169-37DC44EF-C7B2-506E-AF6B-09E6B81CCD2E
@@ -53903,6 +54993,18 @@ irts:Q175-4682E6C5-C0C2-5D84-9C42-FECAEE24CC1F
     wikibase:rank wikibase:NormalRank ;
     irtps:P193 "SW of the church"@en .
 
+irts:Q175-13109362-1865-503D-B3E5-CCCB8E39A376
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P160 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpq:P165 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P160 irtv:0f3794db05e0aa4482bd0e77c38183aa ;
+    irtpqv:P165 irtv:69e0268a604bbb2151e8810b85bde4d4 ;
+    irtps:P129 "1000-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:69e0268a604bbb2151e8810b85bde4d4 .
+
 irts:Q175-53018342-8EDD-593A-B6EC-78DDC92D8E9D
     a wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
@@ -54002,6 +55104,15 @@ irts:Q176-5A16C867-9DCB-538C-9146-279FCD198BB9
     irtps:P131 "Point(-9.071356 53.387631)"^^geo:wktLiteral ;
     irtpsv:P131 irtv:15a7abaa3a9e0c945c4b83abf242bf26 .
 
+irts:Q176-84F03041-1641-5BBF-9C05-81C47DBA27B2
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:d3ce7bbd4851f90f99be878165b52bbc1e091fad ;
+    irtpq:P119 irt:Q307 ;
+    irtps:P129 "1238-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:d3e258f49abf414c9491077a53e2e767 .
+
 irts:Q176-156E8CA3-D10A-501F-9FDE-8F2C2D0F12C9
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -54032,6 +55143,8 @@ irts:Q176-B6AF4681-5823-57C5-8CFD-559256664755
     a wikibase:BestRank,
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
+    irtpq:P108 "1238-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:d3e258f49abf414c9491077a53e2e767 ;
     irtps:P103 irt:Q608 .
 
 irts:Q176-E19C4626-6F0E-5B5E-AE12-7F3DDF2BFF0F
@@ -54269,6 +55382,18 @@ irts:Q179-460FEA2C-FFD5-5330-A374-D267803B3B68
     wikibase:rank wikibase:NormalRank ;
     irtps:P102 irt:Q611 .
 
+irts:Q179-684AE71E-80BF-525D-8652-2AC516A25EF2
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P160 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpq:P165 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P160 irtv:beeb7328bef6e2e863996717742dedbd ;
+    irtpqv:P165 irtv:0f3794db05e0aa4482bd0e77c38183aa ;
+    irtps:P129 "1100-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:0f3794db05e0aa4482bd0e77c38183aa .
+
 irts:Q179-868A229A-A23F-510F-8B36-C0794CE1AAF3
     a wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
@@ -54420,7 +55545,9 @@ irts:Q180-63CFFA64-895A-57E9-8E29-E2A86628B745
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:38ef4adcf94d941ff5bb52e8056e99ee730e69f1 ;
+    irtpq:P108 "1080-01-01T00:00:00Z"^^xsd:dateTime ;
     irtpq:P151 irt:Q358 ;
+    irtpqv:P108 irtv:4c7c5cbc592bdb07964b9dfdd84b74c4 ;
     irtps:P150 irt:Q284 .
 
 irts:Q180-98DA4105-C62F-5684-AD55-4F8B7390382A
@@ -55181,6 +56308,8 @@ irts:Q187-036E196B-35BE-511B-BE9D-73F5D468CD1D
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:49fdd83da9a20bbf4b0912cb78c602e04560d727,
         irtref:d3ce7bbd4851f90f99be878165b52bbc1e091fad ;
+    irtpq:P108 "1147-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:43b9ff3eacfd0e12f8d21a04582f01ae ;
     irtps:P150 irt:Q339 .
 
 irts:Q187-62BBF972-6D8E-5524-B337-3AB7BB99A9D2
@@ -55328,7 +56457,9 @@ irts:Q188-67DFE790-A11D-528B-A080-F6182A764A23
     prov:wasDerivedFrom irtref:cf44b05fa42cf1897005c08f8ea287f1844f638c,
         irtref:d3ce7bbd4851f90f99be878165b52bbc1e091fad ;
     irtpq:P106 "the Cloigtheach of Telach-aird" ;
+    irtpq:P108 "1171-01-01T00:00:00Z"^^xsd:dateTime ;
     irtpq:P162 irt:Q626 ;
+    irtpqv:P108 irtv:335ea84d2dd42ecd86270b5dfcd420d9 ;
     irtps:P150 irt:Q625 .
 
 irts:Q188-A6DBEC77-479F-5304-84A5-95997761C066
@@ -55947,6 +57078,8 @@ irts:Q194-73D58265-EB28-51C2-B02C-F8F66A54B300
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:b4c7c1c7b6b8cdf835c3c27191f53b6a9d2cef60 ;
     irtpq:P106 "\"cloicteach\" of \"Imleach-Ibhair\"" ;
+    irtpq:P108 "1058-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:e23817f77508e9b77d41e6f975eec0db ;
     irtps:P150 irt:Q625 .
 
 irts:Q194-83D0943C-5122-5705-997C-C70786880EAF
@@ -55994,7 +57127,9 @@ irts:Q194-A5E20DFE-D1B1-5BF9-A647-7F600990A8AF
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:ceba76a80e103c004e17c85171290836cfc8b677,
         irtref:d3ce7bbd4851f90f99be878165b52bbc1e091fad ;
+    irtpq:P108 "1058-01-01T00:00:00Z"^^xsd:dateTime ;
     irtpq:P162 irt:Q637 ;
+    irtpqv:P108 irtv:e23817f77508e9b77d41e6f975eec0db ;
     irtps:P150 irt:Q625 .
 
 irts:Q194-DA26155D-A9D7-5459-AE36-3418C3C20D0E
@@ -56025,6 +57160,8 @@ irts:Q194-F2391094-A42E-5C91-AA73-D3E927115814
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:46213c4c00ce10150a01885df0f672a24653671d ;
+    irtpq:P108 "1058-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:e23817f77508e9b77d41e6f975eec0db ;
     irtps:P103 irt:Q348 .
 
 irts:Q195-2B6723C9-924B-5D60-9B3A-007E849AA2A1
@@ -56114,6 +57251,19 @@ irts:Q195-43C7E35D-2ED3-50A1-A7DF-CBEEA1BD90C1
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     irtps:P147 irt:Q640 .
+
+irts:Q195-54C68C7C-F702-5EAB-9240-BED26D33A37E
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtpq:P160 "1160-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpq:P162 irt:Q642 ;
+    irtpq:P165 "1152-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P160 irtv:33429cb3800728a92ca3744a989442a7 ;
+    irtpqv:P165 irtv:2f50c7840c909649ae805caffb96b9f7 ;
+    irtps:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:beeb7328bef6e2e863996717742dedbd .
 
 irts:Q195-59B63550-6915-5338-83E3-A7ED3B14AEF5
     a wikibase:BestRank,
@@ -56890,6 +58040,14 @@ irts:Q203-B00387C7-CC85-531E-ABBE-88068AB5EAF7
     wikibase:rank wikibase:NormalRank ;
     irtps:P102 irt:Q660 .
 
+irts:Q203-B999D993-B642-5F22-AE87-F83A9B450990
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:beeb7328bef6e2e863996717742dedbd .
+
 irts:Q203-CF33C896-CA19-5CAA-A08E-C0B151A875F0
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -57443,6 +58601,18 @@ irts:Q207-E2115795-3968-58FC-B26F-CFE98DFF03BB
     wikibase:rank wikibase:NormalRank ;
     irtps:P173 irt:Q670 .
 
+irts:Q207-FCB88D28-A674-5B1A-8C7B-9CA258DBCA37
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:777e1f6cd47d1f483eded8b50d34076c4bf8f471 ;
+    irtpq:P160 "1199-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpq:P165 "1150-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P160 irtv:3995472ba78f48fda1399fd21e799c42 ;
+    irtpqv:P165 irtv:37200adf7361aaa08efed26315364086 ;
+    irtps:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:beeb7328bef6e2e863996717742dedbd .
+
 irts:Q208-00B0999A-233A-51C5-9EDA-62F8F6F648E5
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -57469,6 +58639,14 @@ irts:Q208-3DC0CC04-8253-5601-9000-BE621E75A259
     wikibase:rank wikibase:PreferredRank ;
     irtpq:P105 "232-233, 234" ;
     irtps:P103 irt:Q234 .
+
+irts:Q208-4AC77088-1468-5609-8FB4-14033D61763F
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:beeb7328bef6e2e863996717742dedbd .
 
 irts:Q208-4C79852B-E053-58FA-B419-95C94A16FDA1
     a wikibase:BestRank,
@@ -57728,6 +58906,14 @@ irts:Q209-01074512-9A21-5597-8468-B5A5B9BF1852
     prov:wasDerivedFrom irtref:4e6ae6268e7383fa2ea73fa860bceae1b9484db0 ;
     irtps:P124 "134" .
 
+irts:Q209-AA0427D6-D513-558E-B69D-1CFEA5BB2302
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:baadfeb946c871e118dec47443081a934a919072 ;
+    irtps:P129 "1200-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpsv:P129 irtv:beeb7328bef6e2e863996717742dedbd .
+
 irts:Q209-AC7FE384-168E-5CEB-B5F9-E3B3204002D1
     a wikibase:BestRank,
         wikibase:Statement ;
@@ -57952,6 +59138,8 @@ irts:Q212-CD22C143-49BA-5425-988F-1945D1000D6A
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:d3ce7bbd4851f90f99be878165b52bbc1e091fad ;
+    irtpq:P108 "1017-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:5eb1e0a0d16f1cfdb90b70d37989302e ;
     irtps:P150 irt:Q339 .
 
 irts:Q212-E4602BF3-469A-55B7-811D-F7FE152C539E
@@ -58009,7 +59197,9 @@ irts:Q213-87B67404-018F-59B5-A1DF-6907DBA250B0
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:d3ce7bbd4851f90f99be878165b52bbc1e091fad ;
+    irtpq:P108 "1121-01-01T00:00:00Z"^^xsd:dateTime ;
     irtpq:P119 irt:Q307 ;
+    irtpqv:P108 irtv:196f29955d44956ebbfd6912cf963122 ;
     irtps:P150 irt:Q583 .
 
 irts:Q213-B0FAE353-DF6E-513F-9CBA-E87028E58C5C
@@ -58133,6 +59323,8 @@ irts:Q215-43F60ED7-FD1B-56BA-B14E-CB1EBDDB9125
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:eae0a00607997638611188fded58668480d4ef82 ;
+    irtpq:P108 "1182-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:b1d4dbb71ee728e7850e4c647002c871 ;
     irtps:P150 irt:Q471 .
 
 irts:Q215-63D10A32-5297-5759-8538-E5AF6FE9E03C
@@ -58198,6 +59390,8 @@ irts:Q216-1F7D544A-F4FD-5435-AB25-73B412BC0E30
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:d3ce7bbd4851f90f99be878165b52bbc1e091fad ;
+    irtpq:P156 "1039-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P156 irtv:a02d3676d32e981c2d1b1b1d298dabff ;
     irtps:P130 irt:Q345 .
 
 irts:Q216-11E2C98F-B5ED-5226-BFAB-6BE0447D426F
@@ -58205,6 +59399,8 @@ irts:Q216-11E2C98F-B5ED-5226-BFAB-6BE0447D426F
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:bc6a36d633d4dac0488519a21ef7b073e718bf02 ;
+    irtpq:P108 "1039-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:a02d3676d32e981c2d1b1b1d298dabff ;
     irtps:P150 irt:Q471 .
 
 irts:Q216-82A96EEB-B898-5622-8CC0-D4145373FA38
@@ -58214,6 +59410,8 @@ irts:Q216-82A96EEB-B898-5622-8CC0-D4145373FA38
     prov:wasDerivedFrom irtref:55f1ec2f79c1a4c84077a500202d0cb84d9a0251,
         irtref:d3ce7bbd4851f90f99be878165b52bbc1e091fad ;
     irtpq:P106 "steeple of Clonard" ;
+    irtpq:P108 "1039-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:a02d3676d32e981c2d1b1b1d298dabff ;
     irtps:P103 irt:Q680 .
 
 irts:Q216-C79FA7AD-875C-5115-9D52-57EF2367A7C4
@@ -58250,7 +59448,9 @@ irts:Q217-2E298B58-FB39-5C67-A6EB-8BB4D9B8FB3A
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:d3ce7bbd4851f90f99be878165b52bbc1e091fad ;
+    irtpq:P108 "0945-01-01T00:00:00Z"^^xsd:dateTime ;
     irtpq:P119 irt:Q341 ;
+    irtpqv:P108 irtv:1be3559aa92fac29063cb0bf7330e6a6 ;
     irtps:P150 irt:Q284 .
 
 irts:Q217-92CA0203-C8EF-5FC9-B7FB-C68EBA230B86
@@ -58272,7 +59472,9 @@ irts:Q217-72095DD2-5A83-55B6-AD2B-E7C001301C8C
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:d3ce7bbd4851f90f99be878165b52bbc1e091fad ;
+    irtpq:P108 "0948-01-01T00:00:00Z"^^xsd:dateTime ;
     irtpq:P119 irt:Q341 ;
+    irtpqv:P108 irtv:02e05befa0feb4fd3eba17d581f0ffbe ;
     irtps:P150 irt:Q284 .
 
 irts:Q217-78436FD6-9FCC-51D7-94B7-75815837FEC0
@@ -58280,6 +59482,8 @@ irts:Q217-78436FD6-9FCC-51D7-94B7-75815837FEC0
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:d3ce7bbd4851f90f99be878165b52bbc1e091fad ;
+    irtpq:P156 "0948-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P156 irtv:02e05befa0feb4fd3eba17d581f0ffbe ;
     irtps:P125 irt:Q243 .
 
 irts:Q217-705777B5-A36E-5A6D-BB5B-E8884690D660
@@ -58338,6 +59542,8 @@ irts:Q218-55F2C4E4-0B97-56C1-9B5C-99EEF17AEF7C
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:b4c7c1c7b6b8cdf835c3c27191f53b6a9d2cef60 ;
     irtpq:P107 irt:Q684 ;
+    irtpq:P108 "1155-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:b5ac96de1e11af70afa068c483f995c9 ;
     irtps:P150 irt:Q284 .
 
 irts:Q218-0944AD3F-2780-5F99-AE4B-ED74F7C39F9E
@@ -58351,6 +59557,8 @@ irts:Q218-3207B350-7AF6-5DCC-B3D5-9E0F51E09CAF
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:d3ce7bbd4851f90f99be878165b52bbc1e091fad ;
+    irtpq:P108 "1128-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:5abccfd06964fdf11dc6579ed9819bf7 ;
     irtps:P103 irt:Q608 .
 
 irts:Q218-06897016-3AC5-5372-B546-3EFF8951AA59
@@ -58359,6 +59567,8 @@ irts:Q218-06897016-3AC5-5372-B546-3EFF8951AA59
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:b4c7c1c7b6b8cdf835c3c27191f53b6a9d2cef60 ;
     irtpq:P107 irt:Q684 ;
+    irtpq:P108 "1143-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:f2f73a14e45040e4f9f14c5ac5727322 ;
     irtps:P150 irt:Q284 .
 
 irts:Q218-BB3DE1A6-B651-5C00-A244-98B97B22EF43
@@ -58366,6 +59576,8 @@ irts:Q218-BB3DE1A6-B651-5C00-A244-98B97B22EF43
         wikibase:Statement ;
     wikibase:rank wikibase:NormalRank ;
     prov:wasDerivedFrom irtref:74c13b3c7913daa5e45ddc96630b7564c53aae3d ;
+    irtpq:P108 "1128-01-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:5abccfd06964fdf11dc6579ed9819bf7 ;
     irtps:P150 irt:Q284 .
 
 irts:Q218-BE31C038-B47C-5CEC-BF07-229AA218080E
@@ -61732,6 +62944,202 @@ irts:Q684-3627441B-019B-5B1B-B54C-7B66BC727867
     prov:wasDerivedFrom irtref:c75299a9b6c150abc404dbd14a8738c75804962f ;
     irtps:P4 "Q44613" .
 
+irts:Q685-0E6C65CD-51A2-5D2B-84B3-6C987746C532
+    a wikibase:Statement ;
+    wikibase:rank wikibase:DeprecatedRank ;
+    prov:wasDerivedFrom irtref:8981b244aa42f22bc47ddf14546eb2fe80c72782 ;
+    irtpq:P196 irt:Q688 ;
+    irtps:P2 irt:Q241 .
+
+irts:Q685-0E62572F-18AC-5551-925A-01A4D3EB139C
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    irtps:P100 "979327821" .
+
+irts:Q685-1ACB3318-7922-500E-A3BC-FD00632CD9BA
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    irtps:P134 irt:Q361 .
+
+irts:Q685-1CF1D527-A27E-58F9-AAE2-4035DF9DF04D
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    irtpq:P106 "Tower" ;
+    irtps:P103 irt:Q231 .
+
+irts:Q685-2D374F0D-7F73-5B8E-8695-1019100D438E
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    irtpq:P105 "310" ;
+    irtpq:P109 "94" ;
+    irtps:P103 irt:Q227 .
+
+irts:Q685-2DA5A932-E380-5F11-BD23-C14E08A56367
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:d3ce7bbd4851f90f99be878165b52bbc1e091fad ;
+    irtpq:P105 "84" ;
+    irtpq:P138 irt:Q313 ;
+    irtps:P103 irt:Q687 .
+
+irts:Q685-3CC3DD10-4A30-549E-A957-3B0A0859AF87
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    irtps:P123 "KD024-003002-" .
+
+irts:Q685-8F05EB3B-4CB1-50E7-A59C-764DB400B2BC
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    irtps:P116 <http://commons.wikimedia.org/wiki/Special:FilePath/Killashee%20Round%20Tower.jpg> .
+
+irts:Q685-9C1F501B-F1B1-50ED-B9FF-35B9BB1C1A06
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    irtps:P2 irt:Q318 .
+
+irts:Q685-9EF767B8-931A-5FE2-A901-6923BF61248F
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    irtps:P122 "Killashee Church Tower" .
+
+irts:Q685-72F801C7-4B4B-5544-9DCC-9387E1223FC0
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    irtps:P102 irt:Q686 .
+
+irts:Q685-83F73BED-B351-536E-9350-336787604427
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    irtps:P130 irt:Q293 .
+
+irts:Q685-712C8CC5-7053-59F5-9C26-EB9FCB8E76D3
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    irtpq:P106 "Tower" ;
+    irtps:P103 irt:Q224 .
+
+irts:Q685-1722C73D-5B56-588B-A044-03AB90AB45ED
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    irtpq:P106 "Tower" ;
+    irtps:P103 irt:Q223 .
+
+irts:Q685-18371DE2-AE02-5D1E-8091-DB01F55B28B3
+    a wikibase:Statement ;
+    wikibase:rank wikibase:DeprecatedRank ;
+    prov:wasDerivedFrom irtref:959861c0a951b0127f79612144301efbf02dc49f ;
+    irtpq:P196 irt:Q690 ;
+    irtps:P123 "KD024-003----" .
+
+irts:Q685-278883BE-BB49-5E7E-A128-7DC899D90AE8
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    irtps:P120 "IE-KE-0018" .
+
+irts:Q685-BCF7E4CC-24DB-5E59-A388-CC0451125CF5
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:e917150e6ca6d1742361ae333911fa439bd3aad1 ;
+    irtps:P4 "Q30246996" .
+
+irts:Q685-C5C3C396-4713-5DD7-B2F0-0A2FA31F3C7C
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    irtpq:P106 "Tower" ;
+    irtps:P103 irt:Q228 .
+
+irts:Q685-CA9D9A7A-2775-5F81-AE59-ABF1316F131F
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    irtps:P147 irt:Q689 .
+
+irts:Q685-D37344CE-9E08-5595-A12B-4B4FC89AD456
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    irtps:P102 irt:Q361 .
+
+irts:Q685-DA718B91-EAC3-5C03-BB81-7F13DAD81DF5
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    irtpq:P163 "1792 drawing by Daniel Grose"@en ;
+    irtps:P116 <http://commons.wikimedia.org/wiki/Special:FilePath/Killashee%20%28Daniel%20Grose%2C%201792%29.jpg> .
+
+irts:Q685-E4237309-116E-52F1-AEEB-C772D071A59E
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:c9a36c498c8e793e82ef5e2ef3295c809673c2d5 ;
+    irtpq:P108 "2026-10-01T00:00:00Z"^^xsd:dateTime ;
+    irtpqv:P108 irtv:22fe4827f0b183c17f7dd3ded9cdd721 ;
+    irtps:P124 "n/a" .
+
+irts:Q685-EB7899FB-E1CB-5C59-ABBA-16249AD3A6AA
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    irtps:P115 irt:Q237 .
+
+irts:Q685-F75AF38C-B1CD-572E-BEC5-5D4BB7810BED
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    irtps:P131 "Point(-6.672222 53.188889)"^^geo:wktLiteral ;
+    irtpsv:P131 irtv:6ca97b3eedd46d5c777b9d9c80a000b6 .
+
+irts:Q686-EF2AEB38-EA60-509B-805C-176D5461CCF0
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:583b892456a0ce7534c66fa0d26835afef60a6c3 ;
+    irtps:P4 "Q104263864" .
+
+irts:Q687-199493A1-98FD-58AB-ABC7-B074E14EC126
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:860589e94780167d1c0230ed299954e3a2a4ee74 ;
+    irtps:P4 "Q141525970" .
+
+irts:Q688-8B69D9CC-FB28-5790-804F-B85390ECD2B0
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:39f3abe6b4ccbff988e069a2dfca981f76b3eda4 ;
+    irtps:P4 "Q29485" .
+
+irts:Q689-FD31E53D-A9C4-5575-9A81-FA7572118A63
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:5627a50214cb252731a5abb15646d14936806a4c ;
+    irtps:P4 "Q17485079" .
+
+irts:Q690-5E71E798-8562-553B-884A-E44D397F53AA
+    a wikibase:BestRank,
+        wikibase:Statement ;
+    wikibase:rank wikibase:NormalRank ;
+    prov:wasDerivedFrom irtref:75fd3211bfc201dac93e7a02ef561d24d582dd49 ;
+    irtps:P4 "Q41755623" .
+
 irtref:0a61cdd0e6ae5ee3fe45eaf95baeaf5d15e508e7
     a wikibase:Reference ;
     irtpr:P6 <https://www.wikidata.org/wiki/Q609235> .
@@ -63198,6 +64606,10 @@ irtref:39b16d7b1881cd270a665efe04118188c2b2b7ef
     a wikibase:Reference ;
     irtpr:P6 <https://www.wikidata.org/wiki/Q7973> .
 
+irtref:39f3abe6b4ccbff988e069a2dfca981f76b3eda4
+    a wikibase:Reference ;
+    irtpr:P6 <https://www.wikidata.org/wiki/Q29485> .
+
 irtref:040a98f4ea4a3de895153268896ecf19e4d3369a
     a wikibase:Reference ;
     irtpr:P6 <https://www.duchas.ie/en/cbes/4583299/4577599/4586960> .
@@ -63429,6 +64841,10 @@ irtref:75b3ae84d650c522dd36c68dd9880ac1d6975069
 irtref:75c923989984edf113eb084e5a3e49e7f01acbcc
     a wikibase:Reference ;
     irtpr:P6 <https://www.wikidata.org/wiki/Q142082271> .
+
+irtref:75fd3211bfc201dac93e7a02ef561d24d582dd49
+    a wikibase:Reference ;
+    irtpr:P6 <https://www.wikidata.org/wiki/Q41755623> .
 
 irtref:76b7230452f7b345d425a064b0007966b60fac10
     a wikibase:Reference ;
@@ -63896,6 +65312,10 @@ irtref:577b98405ac02746268b1a6951bbeba7c2abb846
     a wikibase:Reference ;
     irtpr:P6 <https://www.wikidata.org/wiki/Q1225329> .
 
+irtref:583b892456a0ce7534c66fa0d26835afef60a6c3
+    a wikibase:Reference ;
+    irtpr:P6 <https://www.wikidata.org/wiki/Q104263864> .
+
 irtref:593db950a93e355d09f297c96dffbce87c234962
     a wikibase:Reference ;
     irtpr:P6 <https://www.wikidata.org/wiki/Q1860> .
@@ -64270,6 +65690,10 @@ irtref:5472ef75128fdba4f96b38fbac5ffad6a5f335bb
     a wikibase:Reference ;
     irtpr:P6 <https://catalogue.nli.ie/Record/vtls000737313> .
 
+irtref:5627a50214cb252731a5abb15646d14936806a4c
+    a wikibase:Reference ;
+    irtpr:P6 <https://www.wikidata.org/wiki/Q17485079> .
+
 irtref:5677b17143f2effb6eb1d6db9e608070f8799a91
     a wikibase:Reference ;
     irtpr:P6 <https://www.wikidata.org/wiki/Q60070514> .
@@ -64371,6 +65795,11 @@ irtref:8931e410ec582d36a34412a334bb932da3c19275
 irtref:8948c64391d22b23124c593878710c0c087e8250
     a wikibase:Reference ;
     irtpr:P6 <https://www.wikidata.org/wiki/Property:P3831> .
+
+irtref:8981b244aa42f22bc47ddf14546eb2fe80c72782
+    a wikibase:Reference ;
+    irtpr:P8 irt:Q232,
+        irt:Q499 .
 
 irtref:9004a3c43868fff1569fccf6f20214b22a10034f
     a wikibase:Reference ;
@@ -64676,6 +66105,10 @@ irtref:743882de65fd3e71a97949eb7208dc58b620ee0b
     a wikibase:Reference ;
     irtpr:P6 <https://www.duchas.ie/en/cbes/5236078/5218235/5240729> .
 
+irtref:860589e94780167d1c0230ed299954e3a2a4ee74
+    a wikibase:Reference ;
+    irtpr:P6 <https://www.wikidata.org/wiki/Q141525970> .
+
 irtref:871344b0c3962d9feac5cb9a51398859d2238ce5
     a wikibase:Reference ;
     irtpr:P6 <https://www.wikidata.org/wiki/Q116166792> .
@@ -64691,6 +66124,13 @@ irtref:927168ac9a96158317fb8aae52b5746e01e9f52d
 irtref:939410f80763894cd0b57efc6cde58a427cae3ab
     a wikibase:Reference ;
     irtpr:P6 <https://www.wikidata.org/wiki/Q168639> .
+
+irtref:959861c0a951b0127f79612144301efbf02dc49f
+    a wikibase:Reference ;
+    irtpr:P7 "2025-09-26T00:00:00Z"^^xsd:dateTime ;
+    irtpr:P132 irt:Q320 ;
+    irtpr:P161 <https://en.wikipedia.org/w/index.php?title=Killashee_Round_Tower&oldid=1277084396> ;
+    irtprv:P7 irtv:1b76b2cae58e7b17ff34717968142dc3 .
 
 irtref:974229af3c7afb13cdc0ec349db412d0af6009b8
     a wikibase:Reference ;
@@ -65349,6 +66789,11 @@ irtref:ba9ae17905d857c13958876d61da2cb52e7e76e3
     irtpr:P8 irt:Q219 ;
     irtprv:P7 irtv:154fb8212b3297df80dc3ee04fcb6010 .
 
+irtref:ba74f6f45d73e304e08b79c3247f920281e487e6
+    a wikibase:Reference ;
+    irtpr:P8 irt:Q539 ;
+    irtpr:P105 "19;20" .
+
 irtref:ba462a86a3f0a4186a03a60041e3f807b27b3ecc
     a wikibase:Reference ;
     irtpr:P6 <https://www.wikidata.org/wiki/Q392371> .
@@ -65553,6 +66998,10 @@ irtref:c8c621e0a473c1c96e8997e0ba49d6fe8681525f
 irtref:c8cd67d11252f7b7be9dc9f00218eb9acaf11829
     a wikibase:Reference ;
     irtpr:P6 <https://www.wikidata.org/wiki/Q55027468> .
+
+irtref:c9a36c498c8e793e82ef5e2ef3295c809673c2d5
+    a wikibase:Reference ;
+    irtpr:P6 <https://www.archaeology.ie/app/uploads/2025/03/monuments-in-state-care-kildare.pdf> .
 
 irtref:c28bbfebf09069f8e8594a16521d1591c169de91
     a wikibase:Reference ;
@@ -66321,6 +67770,13 @@ irtref:e353864a7180acea1dcfdc79e69113a17abe98e3
     irtpr:P132 irt:Q320 ;
     irtpr:P161 <https://en.wikipedia.org/w/index.php?title=Kells_Round_Tower&oldid=926061345> .
 
+irtref:e917150e6ca6d1742361ae333911fa439bd3aad1
+    a wikibase:Reference ;
+    irtpr:P6 <https://www.wikidata.org/wiki/Q30246996> ;
+    irtpr:P7 "2026-11-12T00:00:00Z"^^xsd:dateTime ;
+    irtpr:P8 irt:Q219 ;
+    irtprv:P7 irtv:f8edb2484e8feb770497b1d5e31f44e9 .
+
 irtref:e74563245acd4232c2a54a230188af584fb9a582
     a wikibase:Reference ;
     irtpr:P6 <https://www.wikidata.org/wiki/Property:P6962> .
@@ -66840,6 +68296,13 @@ irtv:0ef291bd4341e1db0bbb497f1e18d7af
     wikibase:quantityAmount "+5.58"^^xsd:decimal ;
     wikibase:quantityUnit irt:Q239 .
 
+irtv:0f3794db05e0aa4482bd0e77c38183aa
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "7"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1100-01-01T00:00:00Z"^^xsd:dateTime .
+
 irtv:0fcaa891e5e94500c686c63fa72a9d72
     a wikibase:QuantityValue ;
     wikibase:quantityAmount "+9"^^xsd:decimal ;
@@ -66881,6 +68344,20 @@ irtv:1af1fa196498379fdd67dbf8a43b0365
     wikibase:timeTimezone "0"^^xsd:integer ;
     wikibase:timeValue "1876-01-01T00:00:00Z"^^xsd:dateTime .
 
+irtv:1b76b2cae58e7b17ff34717968142dc3
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> ;
+    wikibase:timePrecision "11"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "2025-09-26T00:00:00Z"^^xsd:dateTime .
+
+irtv:1be3559aa92fac29063cb0bf7330e6a6
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "0945-01-01T00:00:00Z"^^xsd:dateTime .
+
 irtv:1be37941ae2f4ed780866e0ecfb71d1d
     a wikibase:QuantityValue ;
     wikibase:quantityAmount "+22.5"^^xsd:decimal ;
@@ -66907,6 +68384,13 @@ irtv:1dbc55900bffe19b5022d62e9ec9ca4a
     wikibase:geoLatitude "54.080826"^^xsd:double ;
     wikibase:geoLongitude "-7.573557"^^xsd:double ;
     wikibase:geoPrecision "1e-06"^^xsd:double .
+
+irtv:1e193a71dba7ea242614d39e22bebb70
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "7"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "0800-01-01T00:00:00Z"^^xsd:dateTime .
 
 irtv:1eec6b089909354ce8a9fcab028e363b
     a wikibase:GlobecoordinateValue ;
@@ -66943,6 +68427,13 @@ irtv:2b31af3044cf24b6e7da59f1dd99a8e3
     wikibase:timeTimezone "0"^^xsd:integer ;
     wikibase:timeValue "1749-01-10T00:00:00Z"^^xsd:dateTime .
 
+irtv:2c704e2fd489405a44cc384df6ed741f
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1127-01-01T00:00:00Z"^^xsd:dateTime .
+
 irtv:2d951db17200f521f91bf59ad3d1272b
     a wikibase:GlobecoordinateValue ;
     wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> ;
@@ -66955,12 +68446,26 @@ irtv:2d6325637c06f6eb1a811e9d73796688
     wikibase:quantityAmount "+100.8"^^xsd:decimal ;
     wikibase:quantityUnit irt:Q276 .
 
+irtv:02e05befa0feb4fd3eba17d581f0ffbe
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "0948-01-01T00:00:00Z"^^xsd:dateTime .
+
 irtv:2e90e21181b581291e3fe3a1162eaf81
     a wikibase:TimeValue ;
     wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> ;
     wikibase:timePrecision "9"^^xsd:integer ;
     wikibase:timeTimezone "0"^^xsd:integer ;
     wikibase:timeValue "1827-01-01T00:00:00Z"^^xsd:dateTime .
+
+irtv:2e820af697d326a10434dcd724f80808
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1124-01-01T00:00:00Z"^^xsd:dateTime .
 
 irtv:2ed0247789b32c1e53156e9ca3646780
     a wikibase:QuantityValue ;
@@ -66971,6 +68476,13 @@ irtv:2f0ff522a09a47646fd57cd3afc33a6d
     a wikibase:QuantityValue ;
     wikibase:quantityAmount "+3.28"^^xsd:decimal ;
     wikibase:quantityUnit irt:Q239 .
+
+irtv:2f50c7840c909649ae805caffb96b9f7
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1152-01-01T00:00:00Z"^^xsd:dateTime .
 
 irtv:2fc83114ecf6ffa9216e6ed9c2318919
     a wikibase:TimeValue ;
@@ -67047,6 +68559,13 @@ irtv:4c4dc6c8ae2f8b4846ac2228c623ca43
     wikibase:quantityAmount "+18"^^xsd:decimal ;
     wikibase:quantityUnit irt:Q239 .
 
+irtv:4c7c5cbc592bdb07964b9dfdd84b74c4
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1080-01-01T00:00:00Z"^^xsd:dateTime .
+
 irtv:4c529cdc1e7fbe99465029e103f03408
     a wikibase:TimeValue ;
     wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> ;
@@ -67085,6 +68604,13 @@ irtv:4dd6896c4cdb2c550752ed0d01e7d7a7
     wikibase:timeTimezone "0"^^xsd:integer ;
     wikibase:timeValue "1992-01-01T00:00:00Z"^^xsd:dateTime .
 
+irtv:04e5b78ea272ec04f47cbea0fc9ea3b0
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1114-01-01T00:00:00Z"^^xsd:dateTime .
+
 irtv:4e68cada362a2d797a27d5dd25e67263
     a wikibase:QuantityValue ;
     wikibase:quantityAmount "+75"^^xsd:decimal ;
@@ -67099,6 +68625,13 @@ irtv:0004fefa158a0f7bbb4198c6cd746788
     a wikibase:QuantityValue ;
     wikibase:quantityAmount "+3.56"^^xsd:decimal ;
     wikibase:quantityUnit irt:Q239 .
+
+irtv:5abccfd06964fdf11dc6579ed9819bf7
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1128-01-01T00:00:00Z"^^xsd:dateTime .
 
 irtv:5b3a60f10b38c18f5d04aeb726ad53c9
     a wikibase:TimeValue ;
@@ -67155,12 +68688,26 @@ irtv:05e90186791f86c1dede4dc95a2b27ff
     wikibase:timeTimezone "0"^^xsd:integer ;
     wikibase:timeValue "2026-11-13T00:00:00Z"^^xsd:dateTime .
 
+irtv:5eb1e0a0d16f1cfdb90b70d37989302e
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1017-01-01T00:00:00Z"^^xsd:dateTime .
+
 irtv:5f8b19fe66438c1003fe40bd7dbcfb68
     a wikibase:GlobecoordinateValue ;
     wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> ;
     wikibase:geoLatitude "53.777145"^^xsd:double ;
     wikibase:geoLongitude "-7.89817"^^xsd:double ;
     wikibase:geoPrecision "1e-06"^^xsd:double .
+
+irtv:6a46c989ce02e46d75b24ada73c08be0
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1020-01-01T00:00:00Z"^^xsd:dateTime .
 
 irtv:6a73f3903a6eaa8e1f57e57aa5cac855
     a wikibase:QuantityValue ;
@@ -67185,6 +68732,13 @@ irtv:6c3212bdbfcc427d827e15fcf5fccea9
     wikibase:geoLatitude "53.805067"^^xsd:double ;
     wikibase:geoLongitude "-9.131503"^^xsd:double ;
     wikibase:geoPrecision "0.015211913484283"^^xsd:double .
+
+irtv:6ca97b3eedd46d5c777b9d9c80a000b6
+    a wikibase:GlobecoordinateValue ;
+    wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> ;
+    wikibase:geoLatitude "53.188889"^^xsd:double ;
+    wikibase:geoLongitude "-6.672222"^^xsd:double ;
+    wikibase:geoPrecision "1e-06"^^xsd:double .
 
 irtv:6d6d75cff6179790ec3fd68eaf9cb6aa
     a wikibase:GlobecoordinateValue ;
@@ -67308,6 +68862,13 @@ irtv:8caae48be4504fa28cf4c4eb6991ad6c
     wikibase:timeTimezone "0"^^xsd:integer ;
     wikibase:timeValue "1770-01-01T00:00:00Z"^^xsd:dateTime .
 
+irtv:9b2ec24a6f2ed3ba7ec98698f27851f4
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1135-01-01T00:00:00Z"^^xsd:dateTime .
+
 irtv:9b393b4e9ac41b795176287b7370a2e2
     a wikibase:GlobecoordinateValue ;
     wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> ;
@@ -67340,6 +68901,13 @@ irtv:9bfecc38d53c8691dde20ba5bf904dc6
     a wikibase:QuantityValue ;
     wikibase:quantityAmount "+1"^^xsd:decimal ;
     wikibase:quantityUnit irt:Q239 .
+
+irtv:9d5aa8d382d540b27a98b9c79897ea73
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1014-01-01T00:00:00Z"^^xsd:dateTime .
 
 irtv:9eb0a11f783b50f51f04a9fc2aca89fb
     a wikibase:QuantityValue ;
@@ -67508,6 +69076,13 @@ irtv:40aa3f0637d90b3c3b3a1869273434d6
     wikibase:geoLongitude "-9.55"^^xsd:double ;
     wikibase:geoPrecision "0.014612831476741"^^xsd:double .
 
+irtv:40b88f9c1f61d5955b06e3e4e54dcafb
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1134-01-01T00:00:00Z"^^xsd:dateTime .
+
 irtv:40f82c0518e945348978f23995d3e717
     a wikibase:GlobecoordinateValue ;
     wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> ;
@@ -67524,6 +69099,13 @@ irtv:41f1f6e0844e4cf3714fc63d3e9066fd
     a wikibase:QuantityValue ;
     wikibase:quantityAmount "+93"^^xsd:decimal ;
     wikibase:quantityUnit irt:Q276 .
+
+irtv:43b9ff3eacfd0e12f8d21a04582f01ae
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1147-01-01T00:00:00Z"^^xsd:dateTime .
 
 irtv:46dd9594b43ee9d19f3514bbf6fd9e3e
     a wikibase:TimeValue ;
@@ -67634,6 +69216,13 @@ irtv:68db90d168a0fc1298915bc4b12c8003
     wikibase:geoLatitude "52.910456"^^xsd:double ;
     wikibase:geoLongitude "-6.834941"^^xsd:double ;
     wikibase:geoPrecision "1e-06"^^xsd:double .
+
+irtv:69e0268a604bbb2151e8810b85bde4d4
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "7"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1000-01-01T00:00:00Z"^^xsd:dateTime .
 
 irtv:71a8a4f13394202eb0628789459774eb
     a wikibase:QuantityValue ;
@@ -67829,6 +69418,13 @@ irtv:187a57b7a4159b90f1b51b12225fda5f
     wikibase:quantityAmount "+7"^^xsd:decimal ;
     wikibase:quantityUnit <http://www.wikidata.org/entity/Q199> .
 
+irtv:196f29955d44956ebbfd6912cf963122
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1121-01-01T00:00:00Z"^^xsd:dateTime .
+
 irtv:198ec6234d8de9bc823eb10b9b04c132
     a wikibase:QuantityValue ;
     wikibase:quantityAmount "+2.83"^^xsd:decimal ;
@@ -67847,6 +69443,13 @@ irtv:283c86f080a7fc91a8d0d4f500de396b
     wikibase:geoLatitude "53.015884"^^xsd:double ;
     wikibase:geoLongitude "-9.18067"^^xsd:double ;
     wikibase:geoPrecision "1e-06"^^xsd:double .
+
+irtv:335ea84d2dd42ecd86270b5dfcd420d9
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1171-01-01T00:00:00Z"^^xsd:dateTime .
 
 irtv:375b091dde0c734d120ef0924e3b5498
     a wikibase:QuantityValue ;
@@ -67980,6 +69583,13 @@ irtv:837f588ea8ef5d97897443ddfae3c010
     wikibase:geoLongitude "-5.9601427"^^xsd:double ;
     wikibase:geoPrecision "1e-07"^^xsd:double .
 
+irtv:864f930f8fc52387e5b98d92ff7003fa
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1188-01-01T00:00:00Z"^^xsd:dateTime .
+
 irtv:918d02e9db0c2b5e6bf129e47acdfa45
     a wikibase:QuantityValue ;
     wikibase:quantityAmount "+22.86"^^xsd:decimal ;
@@ -68085,6 +69695,20 @@ irtv:12537c01d4a599bde90ad05aa826195f
     a wikibase:QuantityValue ;
     wikibase:quantityAmount "+5.2"^^xsd:decimal ;
     wikibase:quantityUnit irt:Q239 .
+
+irtv:33429cb3800728a92ca3744a989442a7
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1160-01-01T00:00:00Z"^^xsd:dateTime .
+
+irtv:37200adf7361aaa08efed26315364086
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1150-01-01T00:00:00Z"^^xsd:dateTime .
 
 irtv:51452b25c379836daf2ecd12ab475804
     a wikibase:QuantityValue ;
@@ -68218,6 +69842,13 @@ irtv:3732942cfd8521bf2c65d91b3a8e0870
     wikibase:geoLongitude "-7.076483"^^xsd:double ;
     wikibase:geoPrecision "1e-06"^^xsd:double .
 
+irtv:3995472ba78f48fda1399fd21e799c42
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1199-01-01T00:00:00Z"^^xsd:dateTime .
+
 irtv:12285616ca92de3229ee3ae86e201b75
     a wikibase:QuantityValue ;
     wikibase:quantityAmount "+33"^^xsd:decimal ;
@@ -68249,6 +69880,13 @@ irtv:852653426a88fb4b8b0b3367e71a63a2
     wikibase:timeTimezone "0"^^xsd:integer ;
     wikibase:timeValue "1798-01-01T00:00:00Z"^^xsd:dateTime .
 
+irtv:4558228892c15940a6142e55fd186031
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1247-01-01T00:00:00Z"^^xsd:dateTime .
+
 irtv:05664047533d2ea302487a2f9cc02ca5
     a wikibase:GlobecoordinateValue ;
     wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> ;
@@ -68261,10 +69899,24 @@ irtv:6749234603d579da395cabf7c3f93bfd
     wikibase:quantityAmount "+27"^^xsd:decimal ;
     wikibase:quantityUnit irt:Q239 .
 
+irtv:48679211173d419c9d533636010d29d9
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1097-01-01T00:00:00Z"^^xsd:dateTime .
+
 irtv:a0f3f12f408a6001fdb0f793fb2c9201
     a wikibase:QuantityValue ;
     wikibase:quantityAmount "+14.3"^^xsd:decimal ;
     wikibase:quantityUnit irt:Q239 .
+
+irtv:a02d3676d32e981c2d1b1b1d298dabff
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1039-01-01T00:00:00Z"^^xsd:dateTime .
 
 irtv:a7a75d4a54f217aac2b64b385aca8edc
     a wikibase:TimeValue ;
@@ -68357,6 +70009,13 @@ irtv:ad26607546ba4e32ddae5fae811eed06
     wikibase:quantityAmount "+14"^^xsd:decimal ;
     wikibase:quantityUnit irt:Q239 .
 
+irtv:adce04183d269138b7664d7bd3cd4e00
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1179-01-01T00:00:00Z"^^xsd:dateTime .
+
 irtv:af7372a892e342c2598849a4e0c5c016
     a wikibase:QuantityValue ;
     wikibase:quantityAmount "+65"^^xsd:decimal ;
@@ -68369,12 +70028,26 @@ irtv:af8685ecc7fe8ffd46921a031dabc342
     wikibase:timeTimezone "0"^^xsd:integer ;
     wikibase:timeValue "1642-01-01T00:00:00Z"^^xsd:dateTime .
 
+irtv:aff503a2f3dba0a7888d53c3a9f8125f
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "7"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "0900-01-01T00:00:00Z"^^xsd:dateTime .
+
 irtv:b0a91b64bf534dc45225e8c0a4fad745
     a wikibase:GlobecoordinateValue ;
     wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> ;
     wikibase:geoLatitude "52.732631"^^xsd:double ;
     wikibase:geoLongitude "-7.397844"^^xsd:double ;
     wikibase:geoPrecision "1e-06"^^xsd:double .
+
+irtv:b1d4dbb71ee728e7850e4c647002c871
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1182-01-01T00:00:00Z"^^xsd:dateTime .
 
 irtv:b2a6d85dbe05f407ffc9d047fc8ca3e5
     a wikibase:QuantityValue ;
@@ -68397,6 +70070,13 @@ irtv:b4d72c10bb7676b35d59bc9036382a2c
     a wikibase:QuantityValue ;
     wikibase:quantityAmount "+57"^^xsd:decimal ;
     wikibase:quantityUnit irt:Q276 .
+
+irtv:b5ac96de1e11af70afa068c483f995c9
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1155-01-01T00:00:00Z"^^xsd:dateTime .
 
 irtv:b7ad7143e2f5353098980799930f73f4
     a wikibase:QuantityValue ;
@@ -68465,6 +70145,13 @@ irtv:bba200731e7e544fcfcc7b27efcde6cf
     wikibase:quantityAmount "+34"^^xsd:decimal ;
     wikibase:quantityUnit irt:Q239 .
 
+irtv:bbbda7a807d8758c909af0c72bd24102
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1396-01-01T00:00:00Z"^^xsd:dateTime .
+
 irtv:bbf12597a0ad86f42bab9daa7f883385
     a wikibase:GlobecoordinateValue ;
     wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> ;
@@ -68482,12 +70169,26 @@ irtv:bee737207d8e5a328e7cbffba1fa9c49
     wikibase:quantityAmount "+42"^^xsd:decimal ;
     wikibase:quantityUnit irt:Q276 .
 
+irtv:beeb7328bef6e2e863996717742dedbd
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "7"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1200-01-01T00:00:00Z"^^xsd:dateTime .
+
 irtv:bf53e07fc895df5ced880438e7aa36b3
     a wikibase:GlobecoordinateValue ;
     wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> ;
     wikibase:geoLatitude "54.2130293"^^xsd:double ;
     wikibase:geoLongitude "-9.220746"^^xsd:double ;
     wikibase:geoPrecision "1e-07"^^xsd:double .
+
+irtv:c0b1bf7e7c256cf80d06664b731d14a6
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "0964-01-01T00:00:00Z"^^xsd:dateTime .
 
 irtv:c0bfef90746fa16ccfff0ad3830c9fad
     a wikibase:GlobecoordinateValue ;
@@ -68524,6 +70225,13 @@ irtv:c7a7c2e2dcb26ef14c96a927bb6a56a2
     a wikibase:QuantityValue ;
     wikibase:quantityAmount "+25"^^xsd:decimal ;
     wikibase:quantityUnit irt:Q276 .
+
+irtv:c7fcace39047595decb78028a6e17536
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1076-01-01T00:00:00Z"^^xsd:dateTime .
 
 irtv:c44b6f15dd3b0733b5716c2a59d2cdc5
     a wikibase:QuantityValue ;
@@ -68642,6 +70350,13 @@ irtv:d0c11c113822aecf7014363fcc632fc6
     wikibase:quantityAmount "+26.75"^^xsd:decimal ;
     wikibase:quantityUnit irt:Q239 .
 
+irtv:d2ca6fb2c8fa4e2b7287ec4652ee26e2
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1004-01-01T00:00:00Z"^^xsd:dateTime .
+
 irtv:d2f9009d2b63ef461ec6b09e53b4bc12
     a wikibase:GlobecoordinateValue ;
     wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> ;
@@ -68656,10 +70371,24 @@ irtv:d03c431352bf76fdabdc253400fe2e56
     wikibase:timeTimezone "0"^^xsd:integer ;
     wikibase:timeValue "2026-11-03T00:00:00Z"^^xsd:dateTime .
 
+irtv:d3e258f49abf414c9491077a53e2e767
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1238-01-01T00:00:00Z"^^xsd:dateTime .
+
 irtv:d5f4c966dccec9dc9b8dbb285fc557b6
     a wikibase:QuantityValue ;
     wikibase:quantityAmount "+50"^^xsd:decimal ;
     wikibase:quantityUnit irt:Q276 .
+
+irtv:d8dda334ad07ff71f2ae990a88607d50
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "0839-01-01T00:00:00Z"^^xsd:dateTime .
 
 irtv:d8e10add77ca9d05e329754106014dcc
     a wikibase:GlobecoordinateValue ;
@@ -68773,6 +70502,13 @@ irtv:dd4ad1c7d1adec916e16c1e005e604ab
     wikibase:quantityAmount "+92"^^xsd:decimal ;
     wikibase:quantityUnit irt:Q276 .
 
+irtv:dd75c77101c56473e7fcfe78859ee56c
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "0996-01-01T00:00:00Z"^^xsd:dateTime .
+
 irtv:de13c8fd6e6fec08f88901ad9d4e9409
     a wikibase:GlobecoordinateValue ;
     wikibase:geoGlobe <http://www.wikidata.org/entity/Q2> ;
@@ -68838,6 +70574,13 @@ irtv:e55fca4103ab3eb10eb177af126e1a4f
     wikibase:geoLongitude "-6.880127"^^xsd:double ;
     wikibase:geoPrecision "1e-06"^^xsd:double .
 
+irtv:e66d8a83fef98c42a4ef3ba487c14d7d
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1156-01-01T00:00:00Z"^^xsd:dateTime .
+
 irtv:e89c062d45572c6cf535996c614476f5
     a wikibase:QuantityValue ;
     wikibase:quantityAmount "+30.48"^^xsd:decimal ;
@@ -68866,6 +70609,13 @@ irtv:e1431fe37bea0b4e8a07a612b31633e1
     wikibase:timePrecision "11"^^xsd:integer ;
     wikibase:timeTimezone "0"^^xsd:integer ;
     wikibase:timeValue "2019-11-21T00:00:00Z"^^xsd:dateTime .
+
+irtv:e23817f77508e9b77d41e6f975eec0db
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1058-01-01T00:00:00Z"^^xsd:dateTime .
 
 irtv:e80045ea3859eef53ae03e3ae13b90ec
     a wikibase:GlobecoordinateValue ;
@@ -68944,6 +70694,13 @@ irtv:f0da3d1344d538f12713029c11f8590a
     wikibase:quantityAmount "+5.44"^^xsd:decimal ;
     wikibase:quantityUnit irt:Q239 .
 
+irtv:f2f73a14e45040e4f9f14c5ac5727322
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "1143-01-01T00:00:00Z"^^xsd:dateTime .
+
 irtv:f3d5e002c4b354ebc6ecff1a23a0376b
     a wikibase:QuantityValue ;
     wikibase:quantityAmount "+4.75"^^xsd:decimal ;
@@ -69020,6 +70777,13 @@ irtv:f96a9e0e5293013931ae48a773f2008a
     wikibase:quantityAmount "+20"^^xsd:decimal ;
     wikibase:quantityUnit irt:Q276 .
 
+irtv:f96f3b31398ef6cf0413dd00b9dbf96b
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "0795-01-01T00:00:00Z"^^xsd:dateTime .
+
 irtv:f580642b1431a7fda1882ec03250054a
     a wikibase:TimeValue ;
     wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985727> ;
@@ -69045,6 +70809,13 @@ irtv:f958992163c38f3656f81934d4f562b9
     a wikibase:QuantityValue ;
     wikibase:quantityAmount "+11.6"^^xsd:decimal ;
     wikibase:quantityUnit irt:Q239 .
+
+irtv:fb3f34cb495a0cacacb33edfb642f07c
+    a wikibase:TimeValue ;
+    wikibase:timeCalendarModel <http://www.wikidata.org/entity/Q1985786> ;
+    wikibase:timePrecision "9"^^xsd:integer ;
+    wikibase:timeTimezone "0"^^xsd:integer ;
+    wikibase:timeValue "0980-01-01T00:00:00Z"^^xsd:dateTime .
 
 irtv:fb8c0fafd00cfb276b0b89aae6c3d95e
     a wikibase:QuantityValue ;

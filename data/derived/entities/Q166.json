@@ -168,6 +168,89 @@
         "type": "statement"
       }
     ],
+    "P129": [
+      {
+        "id": "Q166$0F0F1312-275E-5FEE-A5D7-38CC3AA32FC5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0964-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "property": "P129",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P119": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q299",
+                  "numeric-id": 299
+                }
+              },
+              "property": "P119",
+              "snaktype": "value"
+            }
+          ],
+          "P151": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q589",
+                  "numeric-id": 589
+                }
+              },
+              "property": "P151",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P119",
+          "P151"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P8": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q227",
+                      "numeric-id": 227
+                    }
+                  },
+                  "property": "P8",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P8"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
     "P130": [
       {
         "id": "Q166$59E7F60B-6C1F-59F4-8A76-073FC54B93CC",

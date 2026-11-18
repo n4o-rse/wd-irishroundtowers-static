@@ -1476,6 +1476,53 @@
         "type": "statement"
       }
     ],
+    "P129": [
+      {
+        "id": "Q108$DB712DB9-A34B-5576-A28E-3F4B418AD816",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 7,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "property": "P129",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P8": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q234",
+                      "numeric-id": 234
+                    }
+                  },
+                  "property": "P8",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P8"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
     "P130": [
       {
         "id": "Q108$EA9030A9-544A-5015-B67E-8F01A1DBD49A",
@@ -1769,6 +1816,29 @@
           "property": "P150",
           "snaktype": "value"
         },
+        "qualifiers": {
+          "P108": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+                  "precision": 9,
+                  "time": "+1179-00-00T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "property": "P108",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P108"
+        ],
         "rank": "normal",
         "references": [
           {

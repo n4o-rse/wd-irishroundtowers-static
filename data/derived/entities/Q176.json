@@ -44,6 +44,29 @@
           "property": "P103",
           "snaktype": "value"
         },
+        "qualifiers": {
+          "P108": [
+            {
+              "datatype": "time",
+              "datavalue": {
+                "type": "time",
+                "value": {
+                  "after": 0,
+                  "before": 0,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+                  "precision": 9,
+                  "time": "+1238-00-00T00:00:00Z",
+                  "timezone": 0
+                }
+              },
+              "property": "P108",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P108"
+        ],
         "rank": "normal",
         "type": "statement"
       },
@@ -168,6 +191,73 @@
             },
             "snaks-order": [
               "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ],
+    "P129": [
+      {
+        "id": "Q176$84F03041-1641-5BBF-9C05-81C47DBA27B2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1238-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "property": "P129",
+          "snaktype": "value"
+        },
+        "qualifiers": {
+          "P119": [
+            {
+              "datatype": "wikibase-item",
+              "datavalue": {
+                "type": "wikibase-entityid",
+                "value": {
+                  "entity-type": "item",
+                  "id": "Q307",
+                  "numeric-id": 307
+                }
+              },
+              "property": "P119",
+              "snaktype": "value"
+            }
+          ]
+        },
+        "qualifiers-order": [
+          "P119"
+        ],
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P8": [
+                {
+                  "datatype": "wikibase-item",
+                  "datavalue": {
+                    "type": "wikibase-entityid",
+                    "value": {
+                      "entity-type": "item",
+                      "id": "Q227",
+                      "numeric-id": 227
+                    }
+                  },
+                  "property": "P8",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P8"
             ]
           }
         ],

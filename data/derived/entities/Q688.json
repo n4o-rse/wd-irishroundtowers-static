@@ -1,0 +1,105 @@
+{
+  "aliases": {
+    "de": [
+      {
+        "language": "de",
+        "value": "Fehlfunktion"
+      },
+      {
+        "language": "de",
+        "value": "Fehlerfall"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "mistake"
+      },
+      {
+        "language": "en",
+        "value": "incorrect"
+      },
+      {
+        "language": "en",
+        "value": "wrong"
+      },
+      {
+        "language": "en",
+        "value": "mistaken"
+      },
+      {
+        "language": "en",
+        "value": "blunder"
+      },
+      {
+        "language": "en",
+        "value": "misstep"
+      },
+      {
+        "language": "en",
+        "value": "goof"
+      }
+    ]
+  },
+  "claims": {
+    "P4": [
+      {
+        "id": "Q688$8B69D9CC-FB28-5790-804F-B85390ECD2B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q29485"
+          },
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "references": [
+          {
+            "snaks": {
+              "P6": [
+                {
+                  "datatype": "url",
+                  "datavalue": {
+                    "type": "string",
+                    "value": "https://www.wikidata.org/wiki/Q29485"
+                  },
+                  "property": "P6",
+                  "snaktype": "value"
+                }
+              ]
+            },
+            "snaks-order": [
+              "P6"
+            ]
+          }
+        ],
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Nichterfüllung einer Anforderung"
+    },
+    "en": {
+      "language": "en",
+      "value": "action or proposition which is inaccurate or incorrect, that could result in failure or deviation from the intended performance or behaviour"
+    }
+  },
+  "id": "Q688",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Fehler"
+    },
+    "en": {
+      "language": "en",
+      "value": "error"
+    }
+  },
+  "sitelinks": {},
+  "type": "item"
+}
