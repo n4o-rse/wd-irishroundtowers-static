@@ -1,5 +1,5 @@
 # RDF export of Irish Round Towers (static Wikibase), Wikibase data model; base URI https://n4o-rse.github.io/wd-irishroundtowers-static
-# Generated with wikibase-static 0.29.0; data as of 2026-11-18T00:00:00Z
+# Generated with wikibase-static 0.32.0; data as of 2026-11-18T00:00:00Z
 # Licence: CC0 1.0
 # The prefixes irt:, irtt:, irtp: and so on are this site's own and are not Wikidata's wd:, wdt:, p:. Only irt:<ID> opens a page (entity/<ID>, which forwards to <ID>.html); statement, reference, value and property-path IRIs are identifiers and do not resolve.
 
@@ -74424,6 +74424,393 @@ irtt:P3
 
 # CIDOC CRM anchoring (wikibase-static): the classes of this site tied to classes of the CIDOC CRM and its extensions (data/crm.csv) and the DCAT classes of this file (data/dcat-crm.csv),
 # with the superclasses of an extension class up to its first class of the CIDOC CRM, and subclass of / instance of spelled out as rdfs:subClassOf / rdf:type. Not part of the Wikibase data model.
+
+irt:Q100
+    a irt:Q241 .
+
+irt:Q101
+    a irt:Q241 .
+
+irt:Q102
+    a irt:Q241 .
+
+irt:Q103
+    a irt:Q241 .
+
+irt:Q104
+    a irt:Q241 .
+
+irt:Q105
+    a irt:Q241,
+        irt:Q318 .
+
+irt:Q106
+    a irt:Q241 .
+
+irt:Q107
+    a irt:Q241 .
+
+irt:Q108
+    a irt:Q241 .
+
+irt:Q109
+    a irt:Q241 .
+
+irt:Q110
+    a irt:Q241 .
+
+irt:Q111
+    a irt:Q241 .
+
+irt:Q112
+    a irt:Q241 .
+
+irt:Q113
+    a irt:Q241 .
+
+irt:Q114
+    a irt:Q241 .
+
+irt:Q115
+    a irt:Q241 .
+
+irt:Q116
+    a irt:Q241 .
+
+irt:Q117
+    a irt:Q241,
+        irt:Q318 .
+
+irt:Q118
+    a irt:Q241 .
+
+irt:Q119
+    a irt:Q241 .
+
+irt:Q120
+    a irt:Q241 .
+
+irt:Q121
+    a irt:Q241,
+        irt:Q412 .
+
+irt:Q122
+    a irt:Q241,
+        irt:Q318 .
+
+irt:Q123
+    a irt:Q241,
+        irt:Q318 .
+
+irt:Q124
+    a irt:Q241,
+        irt:Q432 .
+
+irt:Q125
+    a irt:Q241 .
+
+irt:Q126
+    a irt:Q241 .
+
+irt:Q127
+    a irt:Q236,
+        irt:Q241,
+        irt:Q318 .
+
+irt:Q128
+    a irt:Q241 .
+
+irt:Q129
+    a irt:Q241,
+        irt:Q318 .
+
+irt:Q130
+    a irt:Q241 .
+
+irt:Q131
+    a irt:Q241 .
+
+irt:Q132
+    a irt:Q241 .
+
+irt:Q133
+    a irt:Q241 .
+
+irt:Q134
+    a irt:Q241 .
+
+irt:Q135
+    a irt:Q241 .
+
+irt:Q136
+    a irt:Q241 .
+
+irt:Q137
+    a irt:Q241 .
+
+irt:Q138
+    a irt:Q236,
+        irt:Q241 .
+
+irt:Q139
+    a irt:Q241 .
+
+irt:Q140
+    a irt:Q241 .
+
+irt:Q141
+    a irt:Q241 .
+
+irt:Q142
+    a irt:Q241 .
+
+irt:Q143
+    a irt:Q241 .
+
+irt:Q144
+    a irt:Q241,
+        irt:Q531 .
+
+irt:Q145
+    a irt:Q241 .
+
+irt:Q146
+    a irt:Q241 .
+
+irt:Q147
+    a irt:Q241 .
+
+irt:Q148
+    a irt:Q241 .
+
+irt:Q149
+    a irt:Q241 .
+
+irt:Q150
+    a irt:Q241 .
+
+irt:Q151
+    a irt:Q241 .
+
+irt:Q152
+    a irt:Q241 .
+
+irt:Q153
+    a irt:Q241 .
+
+irt:Q154
+    a irt:Q241 .
+
+irt:Q155
+    a irt:Q241 .
+
+irt:Q156
+    a irt:Q241 .
+
+irt:Q157
+    a irt:Q241 .
+
+irt:Q158
+    a irt:Q241 .
+
+irt:Q159
+    a irt:Q241 .
+
+irt:Q160
+    a irt:Q241 .
+
+irt:Q161
+    a irt:Q241 .
+
+irt:Q162
+    a irt:Q241 .
+
+irt:Q163
+    a irt:Q241 .
+
+irt:Q164
+    a irt:Q241 .
+
+irt:Q165
+    a irt:Q241 .
+
+irt:Q166
+    a irt:Q241 .
+
+irt:Q167
+    a irt:Q241 .
+
+irt:Q168
+    a irt:Q241 .
+
+irt:Q169
+    a irt:Q241 .
+
+irt:Q170
+    a irt:Q241 .
+
+irt:Q171
+    a irt:Q241 .
+
+irt:Q172
+    a irt:Q241 .
+
+irt:Q173
+    a irt:Q241 .
+
+irt:Q174
+    a irt:Q241 .
+
+irt:Q175
+    a irt:Q241 .
+
+irt:Q176
+    a irt:Q241 .
+
+irt:Q177
+    a irt:Q241 .
+
+irt:Q178
+    a irt:Q241 .
+
+irt:Q179
+    a irt:Q241 .
+
+irt:Q180
+    a irt:Q241 .
+
+irt:Q181
+    a irt:Q241 .
+
+irt:Q182
+    a irt:Q241 .
+
+irt:Q183
+    a irt:Q241 .
+
+irt:Q184
+    a irt:Q241 .
+
+irt:Q185
+    a irt:Q241 .
+
+irt:Q186
+    a irt:Q241 .
+
+irt:Q187
+    a irt:Q241 .
+
+irt:Q188
+    a irt:Q241 .
+
+irt:Q189
+    a irt:Q241 .
+
+irt:Q190
+    a irt:Q241 .
+
+irt:Q191
+    a irt:Q241 .
+
+irt:Q192
+    a irt:Q241 .
+
+irt:Q193
+    a irt:Q241 .
+
+irt:Q194
+    a irt:Q241 .
+
+irt:Q195
+    a irt:Q241 .
+
+irt:Q196
+    a irt:Q241 .
+
+irt:Q197
+    a irt:Q241 .
+
+irt:Q198
+    a irt:Q241 .
+
+irt:Q199
+    a irt:Q241 .
+
+irt:Q200
+    a irt:Q241 .
+
+irt:Q201
+    a irt:Q241 .
+
+irt:Q202
+    a irt:Q241 .
+
+irt:Q203
+    a irt:Q241 .
+
+irt:Q204
+    a irt:Q241 .
+
+irt:Q205
+    a irt:Q241 .
+
+irt:Q206
+    a irt:Q241 .
+
+irt:Q207
+    a irt:Q241 .
+
+irt:Q208
+    a irt:Q241 .
+
+irt:Q209
+    a irt:Q241 .
+
+irt:Q210
+    a irt:Q241 .
+
+irt:Q211
+    a irt:Q241 .
+
+irt:Q212
+    a irt:Q241 .
+
+irt:Q213
+    a irt:Q241 .
+
+irt:Q214
+    a irt:Q241 .
+
+irt:Q215
+    a irt:Q241 .
+
+irt:Q216
+    a irt:Q241 .
+
+irt:Q217
+    a irt:Q241 .
+
+irt:Q218
+    a irt:Q241 .
+
+irt:Q241
+    rdfs:subClassOf crm:E25_Human-Made_Feature .
+
+irt:Q318
+    rdfs:subClassOf crm:E25_Human-Made_Feature .
+
+irt:Q412
+    rdfs:subClassOf crm:E25_Human-Made_Feature .
+
+irt:Q432
+    rdfs:subClassOf crm:E25_Human-Made_Feature .
+
+irt:Q531
+    rdfs:subClassOf crm:E27_Site .
+
+irt:Q685
+    a irt:Q241,
+        irt:Q318 .
 
 crmdig:D1_Digital_Object
     rdfs:subClassOf crm:E73_Information_Object .
